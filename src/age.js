@@ -216,8 +216,8 @@ export function ageFromDescription(text, now = new Date()) {
  * Règles :
  *  - une date de naissance connue l'emporte ;
  *  - sinon l'âge structuré (carte / fiche), sauf s'il vaut 0 ou est absent (non renseigné) ;
- *  - la description complète un âge inconnu ; si elle contredit fortement un âge structuré « chaton »
- *    (formulation forte, ≥ 12 mois), c'est elle qui l'emporte : mieux vaut manquer un chaton qu'annoncer un adulte.
+ *  - la description complète un âge inconnu ; si elle annonce clairement plus que l'âge structuré (formulation
+ *    forte, plus d'un mois d'écart), c'est elle qui l'emporte : mieux vaut manquer un chaton qu'annoncer un adulte.
  *  - l'âge lu dans la description date de sa rédaction : on lui ajoute le temps écoulé depuis `asOf`
  *    (date de mise en ligne / de mise à jour de l'annonce) quand elle est connue.
  * @returns {{age_mois:number|null, age_source:'naissance'|'fiche'|'description'|null, age_conflit:string|null, date_naissance:string|null}}
@@ -237,7 +237,10 @@ export function resolveAge({ birthDate = null, ageText = null, description = nul
     return { age_mois: desc.mois, age_source: 'description', age_conflit: structureConnu && Math.abs(structure - desc.mois) > 6 ? `fiche : ${ageText} · description : ${desc.extrait}` : null, date_naissance: desc.date_naissance };
   }
   if (structureConnu) {
-    if (desc && desc.fiabilite === 'forte' && desc.mois >= 12 && structure < 12) {
+    // Une description est au mieux aussi récente que l'âge affiché : si elle annonce clairement PLUS
+    // (« 4 mois » pour une carte « 2 mois », « il a 6 ans » pour « 2 mois »), la date de naissance saisie
+    // est douteuse et c'est la description qui l'emporte. Si elle annonce moins, c'est qu'elle a vieilli.
+    if (desc && desc.fiabilite === 'forte' && desc.mois > structure + 1) {
       return { age_mois: desc.mois, age_source: 'description', age_conflit: `fiche : ${ageText} · description : ${desc.extrait}`, date_naissance: null };
     }
     return { age_mois: structure, age_source: 'fiche', age_conflit: null, date_naissance: null };

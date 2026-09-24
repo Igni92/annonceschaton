@@ -121,6 +121,17 @@ describe('resolveAge — combinaison des sources', () => {
     assert.ok(r.age_mois >= 72);
     assert.match(r.age_conflit, /2 mois/);
   });
+  test('description plus âgée que la carte (« Chantilly, 4 mois » pour une carte « 2 mois ») → la description l\'emporte (date de naissance douteuse)', () => {
+    const r = resolveAge({ ageText: '2 mois', description: '[Adoption] Chantilly, 4 mois Chantilly, 4 mois, est un adorable chaton.', now: MAINTENANT });
+    assert.equal(r.age_source, 'description');
+    assert.equal(r.age_mois, 4);
+    assert.match(r.age_conflit, /2 mois/);
+  });
+  test('écart d\'un mois au plus : la carte est conservée (« 3 mois » pour une carte « 2 mois »)', () => {
+    const r = resolveAge({ ageText: '2 mois', description: 'Adorable chaton de 3 mois.', now: MAINTENANT });
+    assert.equal(r.age_source, 'fiche');
+    assert.equal(r.age_mois, 2);
+  });
   test('mention faible d\'un adulte (« sa maman de 3 ans ») ne renverse pas un âge structuré de chaton', () => {
     const r = resolveAge({ ageText: '2 mois', description: 'Sa maman de 3 ans reste au refuge.', now: MAINTENANT });
     assert.equal(r.age_mois, 2);
