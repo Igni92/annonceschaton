@@ -13,7 +13,27 @@ Sources interrogées :
 
 Aucune dépendance npm : Node.js ≥ 20 suffit (`fetch` natif).
 
+## Prérequis
+
+Node.js version 20 ou plus. Vérifiez avec `node --version`. Si la commande n'est pas reconnue :
+
+- **Windows** : installez la version LTS depuis [nodejs.org](https://nodejs.org/fr/download) (ou, dans un terminal, `winget install OpenJS.NodeJS.LTS`), puis **fermez et rouvrez** l'invite de commandes.
+- **macOS** : `brew install node` ou l'installeur de nodejs.org.
+- **Linux** : `sudo apt install nodejs` (Debian/Ubuntu) ou l'installeur de nodejs.org.
+
 ## Démarrage rapide
+
+Sous Windows (invite de commandes ou PowerShell) :
+
+```bat
+git clone https://github.com/Igni92/annonceschaton.git
+cd annonceschaton
+copy config.example.json config.json
+node src\index.js --dry-run
+node src\index.js
+```
+
+Sous Linux / macOS :
 
 ```bash
 git clone https://github.com/Igni92/annonceschaton.git
@@ -22,6 +42,8 @@ cp config.example.json config.json   # puis adaptez la zone, l'âge, etc.
 node src/index.js --dry-run          # affiche le rapport sans rien envoyer ni mémoriser
 node src/index.js                    # exécution réelle : rapport + notifications + mémoire des annonces vues
 ```
+
+`--dry-run` affiche le rapport sans rien envoyer ni mémoriser ; sans option, le bot envoie les notifications et mémorise les annonces vues. Éditez ensuite `config.json` (zone, âge, notifications…) avec n'importe quel éditeur de texte.
 
 Exemples sans toucher au fichier de configuration :
 
@@ -78,7 +100,7 @@ Trois façons, au choix :
    ```cron
    0 8 * * * cd /chemin/vers/annonceschaton && /usr/bin/node src/index.js --quiet >> bot.log 2>&1
    ```
-   Sous Windows : Planificateur de tâches → action `node.exe src\index.js --quiet`, dossier de démarrage = le dépôt.
+   Sous Windows : Planificateur de tâches → *Créer une tâche de base* → déclencheur « Tous les jours » à 8 h → action « Démarrer un programme » avec programme `node`, arguments `src\index.js --quiet`, et « Commencer dans » = le dossier du dépôt (ex. `C:\Users\maxym\annonceschaton`).
 
 3. **GitHub Actions** — le workflow `.github/workflows/daily.yml` tourne à 06:00 UTC, envoie les notifications, dépose le rapport en artefact et mémorise `data/state.json` + `reports/latest.*` dans le dépôt. Dans *Settings → Secrets and variables → Actions* :
    - secrets : `DISCORD_WEBHOOK_URL` et/ou `TELEGRAM_BOT_TOKEN` + `TELEGRAM_CHAT_ID` ;
