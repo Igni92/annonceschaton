@@ -81,6 +81,7 @@ Copiez `config.example.json` en `config.json`. Toutes les clés sont facultative
 | `nouveaux_arrivants.tous_ages` | `true` | `false` pour ne signaler que les nouveaux chatons |
 | `inclure_reserves` | `false` | Inclure les animaux marqués « réservé » |
 | `sources.laspa.actif` | `true` | Interroger la SPA |
+| `sources.laspa.categories_age` | `["junior"]` | Catégories demandées à la SPA : `junior` (moins d'un an), `adult`, `senior`. Par défaut seuls les moins d'un an sont téléchargés |
 | `sources.secondechance.actif` | `true` | Interroger Seconde Chance |
 | `sources.secondechance.adoptable_hors_departement` | `false` | Inclure les associations acceptant l'adoption hors département |
 | `sources.secondechance.pages_max` | `10` | Pages de résultats lues au maximum par département et par recherche |
@@ -126,7 +127,7 @@ Trois façons, au choix :
 ## Comment ça marche
 
 1. **Zone** — le centre est résolu (coordonnées, géocodage de la ville, ou chef-lieu du code postal).
-2. **La SPA** — l'API renvoie tous les chats (filtre serveur ≈ 100 km quand le rayon le permet, sinon tout le site) ; on garde ceux dont le refuge est dans la zone ; pour les chats sans âge affiché (tous les moins d'un an, plus quelques adultes), on lit la fiche pour obtenir la date de naissance et la description (mises en cache dans `data/state.json`).
+2. **La SPA** — l'API renvoie les chats « junior » (moins d'un an ; filtre serveur ≈ 100 km quand le rayon le permet, sinon tout le site) ; on garde ceux dont le refuge est dans la zone ; leur âge n'étant pas affiché dans la liste, on lit la fiche pour obtenir la date de naissance, toujours présente pour les juniors (mise en cache dans `data/state.json`).
 3. **Seconde Chance** — pour chaque département de la zone : recherche « Bébé » (0–5 mois ; « Junior » ajouté si `age_max_mois` > 6) sur toutes les pages, puis recherche tous âges page par page en s'arrêtant dès qu'une page ne contient que des annonces déjà vues (les résultats sont triés du plus récent au plus ancien). La fiche est lue pour les chatons potentiels et les annonces jamais vues.
 4. **Âge** — la date de naissance, quand elle existe, fait foi. Sinon l'âge affiché par le site, sauf « 0 mois » sur Seconde Chance, qui signifie « non renseigné ». Dans ce cas la **description** est analysée (« GILMORE 6 ANS », « âgée de 3 mois et demi », « née le 12 juin »…), en tenant compte du temps écoulé depuis la mise en ligne (une description écrite il y a deux mois pour un chaton de 2 mois décrit un chat de 4 mois). Une description qui contredit fortement l'âge affiché (« il a 6 ans » pour une carte « 2 mois ») l'emporte, et le conflit est signalé dans le JSON (`age_conflit`). Un animal dont l'âge reste inconnu n'est jamais compté comme chaton.
 5. **Filtres** — chatons : âge connu `< age_max_mois` ; nouveaux arrivants : mis en ligne depuis `jours` jours et/ou jamais vus par le bot. Les animaux « réservés » sont exclus par défaut.

@@ -505,6 +505,20 @@ describe('fetchLaSpa', () => {
     assert.equal(zone.soumises.find((s) => s.id === 'laspa:244109').distance_km, null, 'refuge sans coordonnées');
   });
 
+  test('ne demande que les « junior » (moins d’un an) par défaut : paramètre age=junior sur chaque page', async () => {
+    const http = fauxHttp();
+    await fetchLaSpa({ http, config: CONFIG, state: emptyState(), zone: fausseZone(), now: NOW });
+    assert.ok(http.recherches.length > 0);
+    for (const u of http.recherches) assert.equal(u.searchParams.get('age'), 'junior');
+  });
+
+  test('sources.laspa.categories_age : catégories transmises à l’API séparées par des virgules', async () => {
+    const http = fauxHttp();
+    const config = { ...CONFIG, sources: { ...CONFIG.sources, laspa: { actif: true, categories_age: ['junior', 'adult', 'senior'] } } };
+    await fetchLaSpa({ http, config, state: emptyState(), zone: fausseZone(), now: NOW });
+    for (const u of http.recherches) assert.equal(u.searchParams.get('age'), 'junior,adult,senior');
+  });
+
   test('latitude/longitude transmises à l’API quand le rayon est ≤ 90 km', async () => {
     for (const rayon_km of [30, 90]) {
       const http = fauxHttp();

@@ -158,10 +158,11 @@ export function applyFiche(listing, fiche, now = new Date()) {
   return listing;
 }
 
-function buildSearchUrl({ page, species = 'chat', latitude = null, longitude = null }) {
+function buildSearchUrl({ page, species = 'chat', latitude = null, longitude = null, ages = [] }) {
   const p = new URLSearchParams({
     api: '1', species, seed: String(SEED), posts_per_page: String(PAGE_SIZE), paged: String(page),
   });
+  if (ages.length) p.set('age', ages.join(','));
   if (latitude != null && longitude != null) {
     p.set('latitude', String(latitude));
     p.set('longitude', String(longitude));
@@ -192,11 +193,13 @@ export async function fetchLaSpa({ http, config, state, zone, now = new Date(), 
   const useServerGeo = zone.mode === 'rayon' && zone.rayon_km <= SERVER_RADIUS_KM && zone.centre;
   const geo = useServerGeo ? { latitude: zone.centre.latitude, longitude: zone.centre.longitude } : {};
 
+  // Catégories d'âge demandées au serveur (défaut : « junior » = moins d'un an ; les adultes ne sont pas téléchargés).
+  const ages = Array.isArray(config.sources?.laspa?.categories_age) ? config.sources.laspa.categories_age : ['junior'];
   const raw = [];
   let page = 1;
   let nbPages = 1;
   do {
-    const json = await http.getJson(buildSearchUrl({ page, ...geo }));
+    const json = await http.getJson(buildSearchUrl({ page, ...geo, ages }));
     stats.pages += 1;
     nbPages = Number(json?.nb_pages ?? 1) || 1;
     stats.total_site = Number(json?.total ?? raw.length) || 0;
@@ -216,10 +219,10 @@ export async function fetchLaSpa({ http, config, state, zone, now = new Date(), 
     if (zone.inZone(l)) listings.push(l);
   }
   stats.dans_zone = listings.length;
-  log(`La SPA : ${raw.length} chats sur le site, ${listings.length} dans la zone.`);
+  log(`La SPA : ${raw.length} chats (${ages.join(', ')}) sur le site, ${listings.length} dans la zone.`);
 
-  // Fiches : pour tous les chats dont l'âge n'est pas affiché. Les « junior » (< 1 an) ont une date de naissance
-  // sur leur fiche ; les « adult » sans âge n'en ont pas, mais leur description peut révéler un chaton.
+  // Fiches : pour les chats dont l'âge n'est pas affiché (tous les « junior », qui ont une date de naissance sur
+  // leur fiche). Si la configuration inclut les adultes, ceux sans date passent par l'analyse de la description.
   const needFiche = listings.filter((l) => l.age_mois == null && l.uid);
   await Promise.all(needFiche.map(async (l) => {
     const cached = getCachedFiche(state, l.id);

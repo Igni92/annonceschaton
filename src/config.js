@@ -15,7 +15,7 @@ export const DEFAULT_CONFIG = Object.freeze({
   nouveaux_arrivants: { jours: 7, critere: 'les_deux', tous_ages: true },
   inclure_reserves: false,
   sources: {
-    laspa: { actif: true },
+    laspa: { actif: true, categories_age: ['junior'] }, // junior = moins d'un an ; adult, senior possibles
     secondechance: { actif: true, adoptable_hors_departement: false, pages_max: 10, fiches_details: true },
   },
   notifications: {
@@ -143,6 +143,12 @@ export function validateConfig(c) {
     errors.push("nouveaux_arrivants.critere doit valoir 'date_publication', 'premiere_vue' ou 'les_deux'");
   }
   if (!c.sources?.laspa?.actif && !c.sources?.secondechance?.actif) errors.push('Au moins une source doit être active (sources.laspa.actif ou sources.secondechance.actif)');
+  if (c.sources?.laspa?.actif) {
+    const cats = c.sources.laspa.categories_age;
+    if (!Array.isArray(cats) || cats.length === 0 || cats.some((v) => !['junior', 'adult', 'senior'].includes(v))) {
+      errors.push("sources.laspa.categories_age doit être une liste non vide parmi 'junior', 'adult', 'senior'");
+    }
+  }
   if (c.sources?.secondechance?.actif) {
     const pm = c.sources.secondechance.pages_max;
     if (!num(pm) || pm < 1) errors.push('sources.secondechance.pages_max doit être un entier ≥ 1');

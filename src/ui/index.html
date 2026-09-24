@@ -118,6 +118,14 @@
     <section class="card">
       <h2>🌐 Sources</h2>
       <div class="check"><input type="checkbox" id="laspa"><label for="laspa" style="margin:0;color:var(--ink)">La SPA (la-spa.fr)</label></div>
+      <div id="laspa-options" style="padding-left:24px">
+        <label>Catégories d'âge demandées à la SPA</label>
+        <div class="radios">
+          <label><input type="checkbox" class="laspa-cat" value="junior"> Junior (moins d'un an)</label>
+          <label><input type="checkbox" class="laspa-cat" value="adult"> Adulte</label>
+          <label><input type="checkbox" class="laspa-cat" value="senior"> Senior</label>
+        </div>
+      </div>
       <div class="check"><input type="checkbox" id="secondechance"><label for="secondechance" style="margin:0;color:var(--ink)">Seconde Chance (secondechance.org)</label></div>
       <div id="sc-options" style="padding-left:24px">
         <div class="check"><input type="checkbox" id="hors_departement"><label for="hors_departement" style="margin:0;color:var(--ink)">Inclure les associations acceptant l'adoption hors département</label></div>
@@ -197,6 +205,7 @@ function checkedDeps() { const visible = new Set([...$('deps').querySelectorAll(
 function updateDepsCount() { $('deps-count').textContent = selectedDeps.length ? `(${selectedDeps.length} sélectionné${selectedDeps.length > 1 ? 's' : ''} : ${selectedDeps.join(', ')})` : '(aucun)'; }
 $('deps-filter').addEventListener('input', () => renderDeps(selectedDeps));
 $('deps-clear').addEventListener('click', (e) => { e.preventDefault(); selectedDeps = []; renderDeps([]); });
+document.querySelectorAll('.laspa-cat').forEach((i) => i.addEventListener('change', () => i.parentElement.classList.toggle('on', i.checked)));
 $('show-secrets').addEventListener('change', (e) => { for (const id of ['discord_url', 'telegram_token']) $(id).type = e.target.checked ? 'text' : 'password'; });
 
 function fill(c) {
@@ -214,6 +223,8 @@ function fill(c) {
   $('tous_ages').checked = c.nouveaux_arrivants.tous_ages !== false;
   $('inclure_reserves').checked = Boolean(c.inclure_reserves);
   $('laspa').checked = Boolean(c.sources.laspa.actif);
+  const cats = new Set(c.sources.laspa.categories_age ?? ['junior']);
+  document.querySelectorAll('.laspa-cat').forEach((i) => { i.checked = cats.has(i.value); i.parentElement.classList.toggle('on', i.checked); });
   $('secondechance').checked = Boolean(c.sources.secondechance.actif);
   $('hors_departement').checked = Boolean(c.sources.secondechance.adoptable_hors_departement);
   $('pages_max').value = c.sources.secondechance.pages_max;
@@ -244,7 +255,7 @@ function collect() {
     nouveaux_arrivants: { jours: num('jours'), critere: $('critere').value, tous_ages: $('tous_ages').checked },
     inclure_reserves: $('inclure_reserves').checked,
     sources: {
-      laspa: { actif: $('laspa').checked },
+      laspa: { actif: $('laspa').checked, categories_age: [...document.querySelectorAll('.laspa-cat:checked')].map((i) => i.value) },
       secondechance: { actif: $('secondechance').checked, adoptable_hors_departement: $('hors_departement').checked, pages_max: num('pages_max') },
     },
     notifications: {

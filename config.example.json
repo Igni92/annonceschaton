@@ -28,7 +28,7 @@
   "inclure_reserves": false,
 
   "sources": {
-    "laspa": { "actif": true },
+    "laspa": { "actif": true, "categories_age": ["junior"] },
     "secondechance": {
       "actif": true,
       "adoptable_hors_departement": false,
