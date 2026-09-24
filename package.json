@@ -15,7 +15,8 @@
     "once": "node src/index.js",
     "loop": "node src/index.js --loop",
     "dry-run": "node src/index.js --dry-run",
-    "test": "node --test"
+    "test": "node --test",
+    "ui": "node src/ui/server.js"
   },
   "license": "MIT"
 }

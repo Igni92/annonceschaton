@@ -54,6 +54,16 @@ node src/index.js --lat 43.6 --lon 1.44 --rayon 25 --sans-secondechance
 node src/index.js --help
 ```
 
+## Interface graphique
+
+Pour choisir ses critères sans éditer de fichier, lancez l'interface locale (elle ouvre votre navigateur sur `http://127.0.0.1:3939/`) :
+
+```bat
+node src\ui\server.js
+```
+
+(ou `npm run ui`). Vous pouvez y régler la zone, l'âge, les nouveaux arrivants, les sources et les notifications, **enregistrer** dans `config.json`, lancer un **aperçu** (rien n'est envoyé ni mémorisé) ou une **exécution réelle**, tester Discord/Telegram, et consulter le rapport avec les photos. L'interface n'est accessible que depuis votre ordinateur. Options : `--port 4000`, `--config autre.json`, `--no-open`.
+
 ## Configuration (`config.json`)
 
 Copiez `config.example.json` en `config.json`. Toutes les clés sont facultatives : une clé absente prend la valeur par défaut de `src/config.js`.

@@ -1,0 +1,369 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Annonces chatons</title>
+<style>
+  :root { --bg:#f6f4ef; --card:#fff; --ink:#23211d; --muted:#6b675f; --line:#e3ded4; --accent:#d9632b; --accent-2:#f3c6ad; --ok:#2f8f5b; --err:#c0392b; --info:#2b6fd9; }
+  * { box-sizing:border-box; }
+  body { margin:0; font:15px/1.45 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; color:var(--ink); background:var(--bg); }
+  header { background:var(--accent); color:#fff; padding:14px 22px; display:flex; align-items:center; gap:14px; }
+  header h1 { margin:0; font-size:20px; font-weight:700; }
+  header small { opacity:.9; }
+  main { display:grid; grid-template-columns: minmax(340px, 520px) 1fr; gap:18px; padding:18px 22px; max-width:1500px; margin:0 auto; }
+  @media (max-width: 900px) { main { grid-template-columns:1fr; } }
+  section.card { background:var(--card); border:1px solid var(--line); border-radius:12px; padding:16px 18px; margin-bottom:14px; }
+  section.card h2 { margin:0 0 10px; font-size:16px; display:flex; align-items:center; gap:8px; }
+  label { display:block; font-size:13px; color:var(--muted); margin:8px 0 3px; }
+  input[type=text], input[type=number], input[type=time], input[type=password], input[type=search], select { width:100%; padding:8px 10px; border:1px solid var(--line); border-radius:8px; font:inherit; background:#fff; }
+  input:focus, select:focus { outline:2px solid var(--accent-2); border-color:var(--accent); }
+  .row { display:grid; grid-template-columns:1fr 1fr; gap:10px; }
+  .row3 { display:grid; grid-template-columns:1fr 1fr 1fr; gap:10px; }
+  .check { display:flex; align-items:center; gap:8px; margin:8px 0; font-size:14px; }
+  .check input { width:16px; height:16px; }
+  .radios { display:flex; gap:6px; flex-wrap:wrap; margin-bottom:6px; }
+  .radios label { margin:0; padding:7px 12px; border:1px solid var(--line); border-radius:999px; cursor:pointer; color:var(--ink); background:#fff; }
+  .radios input { display:none; }
+  .radios label.on { background:var(--accent); color:#fff; border-color:var(--accent); }
+  .hint { font-size:12.5px; color:var(--muted); margin:4px 0 0; }
+  .deps { border:1px solid var(--line); border-radius:8px; max-height:220px; overflow:auto; padding:6px 10px; background:#fff; columns:2; }
+  .deps label { display:block; margin:2px 0; font-size:13px; color:var(--ink); break-inside:avoid; }
+  .deps input { margin-right:6px; }
+  .actions { position:sticky; bottom:0; background:var(--bg); padding:10px 0 4px; display:flex; gap:8px; flex-wrap:wrap; }
+  button { font:inherit; font-weight:600; padding:10px 14px; border-radius:9px; border:1px solid var(--line); background:#fff; cursor:pointer; }
+  button.primary { background:var(--accent); color:#fff; border-color:var(--accent); }
+  button.ok { background:var(--ok); color:#fff; border-color:var(--ok); }
+  button:disabled { opacity:.5; cursor:default; }
+  .msg { padding:10px 12px; border-radius:9px; margin:8px 0; font-size:14px; display:none; white-space:pre-wrap; }
+  .msg.err { display:block; background:#fbe9e7; color:var(--err); border:1px solid #f1c0ba; }
+  .msg.ok { display:block; background:#e6f4ec; color:var(--ok); border:1px solid #bfe3cd; }
+  .msg.info { display:block; background:#e8f0fc; color:var(--info); border:1px solid #c3d6f5; }
+  pre.logs { background:#1f1d1a; color:#e7e2d8; border-radius:10px; padding:12px; font-size:12.5px; max-height:220px; overflow:auto; white-space:pre-wrap; margin:0; }
+  .stats { display:flex; gap:10px; flex-wrap:wrap; margin:10px 0; }
+  .stat { background:var(--card); border:1px solid var(--line); border-radius:10px; padding:10px 14px; min-width:120px; }
+  .stat b { display:block; font-size:22px; }
+  .stat span { font-size:12.5px; color:var(--muted); }
+  .cards { display:grid; grid-template-columns:repeat(auto-fill, minmax(230px, 1fr)); gap:12px; }
+  .pet { background:var(--card); border:1px solid var(--line); border-radius:12px; overflow:hidden; display:flex; flex-direction:column; }
+  .pet img { width:100%; aspect-ratio:1/1; object-fit:cover; background:#eee; }
+  .pet .noimg { width:100%; aspect-ratio:1/1; background:#efe9df; display:flex; align-items:center; justify-content:center; font-size:48px; }
+  .pet .body { padding:10px 12px 12px; display:flex; flex-direction:column; gap:3px; }
+  .pet .name { font-weight:700; font-size:16px; }
+  .pet .meta, .pet .lieu, .pet .date { font-size:13px; color:var(--muted); }
+  .pet .badge { display:inline-block; font-size:11px; padding:2px 7px; border-radius:999px; background:var(--accent-2); color:#7a3312; margin-right:4px; }
+  .pet a { color:var(--accent); font-size:13px; font-weight:600; text-decoration:none; margin-top:4px; }
+  .pet a:hover { text-decoration:underline; }
+  details summary { cursor:pointer; color:var(--muted); font-size:13px; }
+  h3.sec { margin:18px 0 8px; font-size:17px; }
+  .empty { color:var(--muted); font-style:italic; }
+  .spinner { display:inline-block; width:14px; height:14px; border:2px solid #fff; border-right-color:transparent; border-radius:50%; animation:spin .8s linear infinite; vertical-align:-2px; margin-right:6px; }
+  @keyframes spin { to { transform:rotate(360deg); } }
+</style>
+</head>
+<body>
+<header>
+  <span style="font-size:26px">🐾</span>
+  <div><h1>Annonces chatons</h1><small>Chatons à adopter et nouveaux arrivants près de chez vous</small></div>
+</header>
+
+<main>
+  <form id="form" autocomplete="off" onsubmit="return false">
+
+    <section class="card">
+      <h2>📍 Zone</h2>
+      <div class="radios" id="zone-mode">
+        <label><input type="radio" name="zone_mode" value="rayon"> Autour d'un lieu</label>
+        <label><input type="radio" name="zone_mode" value="departements"> Départements</label>
+        <label><input type="radio" name="zone_mode" value="france"> Toute la France</label>
+      </div>
+
+      <div id="zone-rayon">
+        <div class="row">
+          <div><label>Ville</label><input type="text" id="ville" placeholder="ex. Lyon"></div>
+          <div><label>Code postal</label><input type="text" id="code_postal" placeholder="ex. 69001" inputmode="numeric"></div>
+        </div>
+        <div class="row3">
+          <div><label>Rayon (km)</label><input type="number" id="rayon_km" min="1" max="1000" step="1"></div>
+          <div><label>Latitude (facultatif)</label><input type="text" id="latitude" placeholder="45.764"></div>
+          <div><label>Longitude (facultatif)</label><input type="text" id="longitude" placeholder="4.836"></div>
+        </div>
+        <p class="hint">Le centre est déterminé par les coordonnées si elles sont renseignées, sinon par la ville (géocodage), sinon par le chef-lieu du code postal.</p>
+      </div>
+
+      <div id="zone-departements">
+        <label>Départements <span id="deps-count"></span></label>
+        <input type="search" id="deps-filter" placeholder="Filtrer : 69, Rhône…" style="margin-bottom:6px">
+        <div class="deps" id="deps"></div>
+        <p class="hint"><a href="#" id="deps-clear">Tout décocher</a></p>
+      </div>
+    </section>
+
+    <section class="card">
+      <h2>🐱 Critères</h2>
+      <div class="row">
+        <div><label>Âge maximal des chatons (mois)</label><input type="number" id="age_max_mois" min="1" max="36" step="1"></div>
+        <div><label>Nouveaux arrivants : depuis (jours)</label><input type="number" id="jours" min="0" max="365" step="1"></div>
+      </div>
+      <label>Nouveaux arrivants = annonces…</label>
+      <select id="critere">
+        <option value="les_deux">mises en ligne récemment ou jamais vues par le bot</option>
+        <option value="date_publication">mises en ligne récemment (date du site)</option>
+        <option value="premiere_vue">jamais vues par le bot</option>
+      </select>
+      <div class="check"><input type="checkbox" id="tous_ages"><label for="tous_ages" style="margin:0;color:var(--ink)">Signaler les nouveaux arrivants de tous âges (sinon seulement les chatons)</label></div>
+      <div class="check"><input type="checkbox" id="inclure_reserves"><label for="inclure_reserves" style="margin:0;color:var(--ink)">Inclure les animaux déjà réservés</label></div>
+    </section>
+
+    <section class="card">
+      <h2>🌐 Sources</h2>
+      <div class="check"><input type="checkbox" id="laspa"><label for="laspa" style="margin:0;color:var(--ink)">La SPA (la-spa.fr)</label></div>
+      <div class="check"><input type="checkbox" id="secondechance"><label for="secondechance" style="margin:0;color:var(--ink)">Seconde Chance (secondechance.org)</label></div>
+      <div id="sc-options" style="padding-left:24px">
+        <div class="check"><input type="checkbox" id="hors_departement"><label for="hors_departement" style="margin:0;color:var(--ink)">Inclure les associations acceptant l'adoption hors département</label></div>
+        <div class="row">
+          <div><label>Pages lues au maximum par département</label><input type="number" id="pages_max" min="1" max="100" step="1"></div>
+        </div>
+      </div>
+    </section>
+
+    <section class="card">
+      <h2>🔔 Notifications</h2>
+      <div class="check"><input type="checkbox" id="fichier_actif"><label for="fichier_actif" style="margin:0;color:var(--ink)">Enregistrer les rapports dans un dossier</label></div>
+      <div style="padding-left:24px"><label>Dossier</label><input type="text" id="fichier_dossier"></div>
+      <div class="check"><input type="checkbox" id="discord_actif"><label for="discord_actif" style="margin:0;color:var(--ink)">Discord</label></div>
+      <div style="padding-left:24px"><label>URL du webhook</label><input type="password" id="discord_url" placeholder="https://discord.com/api/webhooks/…"></div>
+      <div class="check"><input type="checkbox" id="telegram_actif"><label for="telegram_actif" style="margin:0;color:var(--ink)">Telegram</label></div>
+      <div class="row" style="padding-left:24px">
+        <div><label>Jeton du bot</label><input type="password" id="telegram_token" placeholder="123456:ABC…"></div>
+        <div><label>Chat ID</label><input type="text" id="telegram_chat" placeholder="ex. 123456789"></div>
+      </div>
+      <p class="hint"><label class="check" style="display:inline-flex;margin:6px 0 0"><input type="checkbox" id="show-secrets"> Afficher les secrets</label></p>
+    </section>
+
+    <section class="card">
+      <h2>⏰ Planification (mode <code>--loop</code> et GitHub Actions)</h2>
+      <div class="row">
+        <div><label>Heure d'exécution</label><input type="time" id="heure"></div>
+        <div><label>Fuseau horaire</label><input type="text" id="fuseau" placeholder="Europe/Paris"></div>
+      </div>
+    </section>
+
+    <div id="msg" class="msg"></div>
+    <div class="actions">
+      <button type="button" class="primary" id="btn-save">💾 Enregistrer</button>
+      <button type="button" id="btn-preview">👀 Aperçu (sans envoyer)</button>
+      <button type="button" class="ok" id="btn-run">🚀 Lancer maintenant</button>
+      <button type="button" id="btn-test">🔔 Tester les notifications</button>
+    </div>
+  </form>
+
+  <div id="results">
+    <section class="card">
+      <h2>🖥️ Journal <span id="run-state" style="font-weight:400;color:var(--muted);font-size:13px"></span></h2>
+      <pre class="logs" id="logs">Prêt. Enregistrez vos critères puis lancez un aperçu.</pre>
+    </section>
+    <div id="report"></div>
+  </div>
+</main>
+
+<script>
+const $ = (id) => document.getElementById(id);
+let DEPS = [];
+let logsFrom = 0;
+let pollTimer = null;
+
+function show(kind, text) { const m = $('msg'); m.className = 'msg ' + kind; m.textContent = text; if (kind !== 'err') setTimeout(() => { if (m.textContent === text) m.className = 'msg'; }, 6000); }
+function esc(s) { return String(s ?? '').replace(/[&<>"]/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c])); }
+
+function setZoneMode(mode) {
+  document.querySelectorAll('#zone-mode label').forEach((l) => { const on = l.querySelector('input').value === mode; l.classList.toggle('on', on); l.querySelector('input').checked = on; });
+  $('zone-rayon').style.display = mode === 'rayon' ? '' : 'none';
+  $('zone-departements').style.display = mode === 'departements' ? '' : 'none';
+}
+document.querySelectorAll('#zone-mode input').forEach((i) => i.addEventListener('change', () => setZoneMode(i.value)));
+
+function renderDeps(selected) {
+  const filter = ($('deps-filter').value || '').toLowerCase();
+  const sel = new Set(selected ?? checkedDeps());
+  $('deps').innerHTML = DEPS
+    .filter((d) => !filter || d.code.toLowerCase().includes(filter) || d.nom.toLowerCase().includes(filter))
+    .map((d) => `<label><input type="checkbox" value="${d.code}" ${sel.has(d.code) ? 'checked' : ''}>${d.code} – ${esc(d.nom)}</label>`).join('');
+  $('deps').querySelectorAll('input').forEach((i) => i.addEventListener('change', () => { selectedDeps = checkedDeps(); updateDepsCount(); }));
+  updateDepsCount();
+}
+let selectedDeps = [];
+function checkedDeps() { const visible = new Set([...$('deps').querySelectorAll('input')].map((i) => i.value)); const kept = selectedDeps.filter((c) => !visible.has(c)); return [...kept, ...[...$('deps').querySelectorAll('input:checked')].map((i) => i.value)].sort(); }
+function updateDepsCount() { $('deps-count').textContent = selectedDeps.length ? `(${selectedDeps.length} sélectionné${selectedDeps.length > 1 ? 's' : ''} : ${selectedDeps.join(', ')})` : '(aucun)'; }
+$('deps-filter').addEventListener('input', () => renderDeps(selectedDeps));
+$('deps-clear').addEventListener('click', (e) => { e.preventDefault(); selectedDeps = []; renderDeps([]); });
+$('show-secrets').addEventListener('change', (e) => { for (const id of ['discord_url', 'telegram_token']) $(id).type = e.target.checked ? 'text' : 'password'; });
+
+function fill(c) {
+  setZoneMode(c.zone.mode);
+  $('ville').value = c.zone.centre.ville ?? '';
+  $('code_postal').value = c.zone.centre.code_postal ?? '';
+  $('latitude').value = c.zone.centre.latitude ?? '';
+  $('longitude').value = c.zone.centre.longitude ?? '';
+  $('rayon_km').value = c.zone.rayon_km;
+  selectedDeps = (c.zone.departements ?? []).map(String);
+  renderDeps(selectedDeps);
+  $('age_max_mois').value = c.age_max_mois;
+  $('jours').value = c.nouveaux_arrivants.jours;
+  $('critere').value = c.nouveaux_arrivants.critere;
+  $('tous_ages').checked = c.nouveaux_arrivants.tous_ages !== false;
+  $('inclure_reserves').checked = Boolean(c.inclure_reserves);
+  $('laspa').checked = Boolean(c.sources.laspa.actif);
+  $('secondechance').checked = Boolean(c.sources.secondechance.actif);
+  $('hors_departement').checked = Boolean(c.sources.secondechance.adoptable_hors_departement);
+  $('pages_max').value = c.sources.secondechance.pages_max;
+  $('fichier_actif').checked = Boolean(c.notifications.fichier.actif);
+  $('fichier_dossier').value = c.notifications.fichier.dossier ?? 'reports';
+  $('discord_actif').checked = Boolean(c.notifications.discord.actif);
+  $('discord_url').value = c.notifications.discord.webhook_url ?? '';
+  $('telegram_actif').checked = Boolean(c.notifications.telegram.actif);
+  $('telegram_token').value = c.notifications.telegram.bot_token ?? '';
+  $('telegram_chat').value = c.notifications.telegram.chat_id ?? '';
+  $('heure').value = c.planification.heure;
+  $('fuseau').value = c.planification.fuseau;
+}
+
+const num = (id) => { const v = $(id).value.trim().replace(',', '.'); return v === '' ? null : Number(v); };
+const str = (id) => { const v = $(id).value.trim(); return v === '' ? null : v; };
+
+function collect() {
+  const mode = document.querySelector('#zone-mode input:checked')?.value ?? 'rayon';
+  return {
+    zone: {
+      mode,
+      centre: { ville: str('ville'), code_postal: str('code_postal'), latitude: num('latitude'), longitude: num('longitude') },
+      rayon_km: num('rayon_km'),
+      departements: selectedDeps,
+    },
+    age_max_mois: num('age_max_mois'),
+    nouveaux_arrivants: { jours: num('jours'), critere: $('critere').value, tous_ages: $('tous_ages').checked },
+    inclure_reserves: $('inclure_reserves').checked,
+    sources: {
+      laspa: { actif: $('laspa').checked },
+      secondechance: { actif: $('secondechance').checked, adoptable_hors_departement: $('hors_departement').checked, pages_max: num('pages_max') },
+    },
+    notifications: {
+      fichier: { actif: $('fichier_actif').checked, dossier: str('fichier_dossier') ?? 'reports' },
+      discord: { actif: $('discord_actif').checked, webhook_url: $('discord_url').value.trim() },
+      telegram: { actif: $('telegram_actif').checked, bot_token: $('telegram_token').value.trim(), chat_id: $('telegram_chat').value.trim() },
+    },
+    planification: { heure: $('heure').value || '08:00', fuseau: str('fuseau') ?? 'Europe/Paris' },
+  };
+}
+
+async function api(method, url, body) {
+  const res = await fetch(url, { method, headers: body ? { 'content-type': 'application/json' } : {}, body: body ? JSON.stringify(body) : undefined });
+  const data = await res.json().catch(() => ({}));
+  return { ok: res.ok, status: res.status, data };
+}
+
+async function save() {
+  const { ok, data } = await api('POST', '/api/config', collect());
+  if (!ok) { show('err', 'Configuration invalide :\n• ' + (data.erreurs ?? [data.erreur]).join('\n• ')); return false; }
+  show('ok', 'Configuration enregistrée dans ' + data.fichier);
+  return true;
+}
+
+function setBusy(busy) { for (const id of ['btn-save', 'btn-preview', 'btn-run', 'btn-test']) $(id).disabled = busy; }
+
+async function launch(dryRun) {
+  if (!(await save())) return;
+  const { ok, data } = await api('POST', '/api/run', { dryRun });
+  if (!ok) { show('err', data.erreur ?? 'Impossible de lancer.'); return; }
+  logsFrom = 0; $('logs').textContent = ''; $('report').innerHTML = '';
+  setBusy(true);
+  $('run-state').innerHTML = '<span class="spinner" style="border-color:var(--accent);border-right-color:transparent"></span>en cours…';
+  poll();
+}
+
+async function poll() {
+  clearTimeout(pollTimer);
+  const { data } = await api('GET', `/api/run/status?from=${logsFrom}`);
+  if (data.logs?.length) { $('logs').textContent += (logsFrom ? '\n' : '') + data.logs.join('\n'); logsFrom = data.logs_total; $('logs').scrollTop = $('logs').scrollHeight; }
+  if (data.status === 'running') { pollTimer = setTimeout(poll, 800); return; }
+  setBusy(false);
+  if (data.status === 'error') { $('run-state').textContent = 'échec'; show('err', data.error); return; }
+  if (data.status === 'done' && data.report) { $('run-state').textContent = data.mode === 'apercu' ? 'aperçu terminé' : 'terminé'; renderReport(data.report); }
+}
+
+function ageText(l) {
+  if (l.age_mois == null) return 'âge inconnu';
+  if (l.age_mois < 1) return l.date_naissance ? `${Math.max(1, Math.round(l.age_mois * 30.44 / 7))} sem.` : "moins d'un mois";
+  const m = Math.floor(l.age_mois); if (m < 12) return `${m} mois`;
+  const y = Math.floor(m / 12), r = m % 12; return `${y} an${y > 1 ? 's' : ''}${r ? ` ${r} mois` : ''}`;
+}
+function fmtDate(iso) { if (!iso) return ''; const [y, m, d] = iso.split('-'); return `${d}/${m}/${y}`; }
+function lieuText(l) {
+  const p = []; const L = l.lieu ?? {};
+  if (L.nom) p.push(L.nom);
+  const dep = L.departement_association ?? (L.precision === 'exacte' ? L.departement : null);
+  if (L.ville) p.push(`${L.ville}${dep ? ` (${dep})` : ''}`);
+  if (L.precision === 'departement') { const deps = (L.departements_adoption?.length ? L.departements_adoption : [L.departement]).filter(Boolean); if (deps.length && deps.join(',') !== String(dep ?? '')) p.push(`adoptable dans le ${deps.join(', ')}`); }
+  else if (L.distance_km != null) p.push(`${Math.round(L.distance_km)} km`);
+  return p.join(' · ');
+}
+function petCard(l) {
+  const meta = [ageText(l), l.sexe === 'male' ? '♂ mâle' : l.sexe === 'femelle' ? '♀ femelle' : null, l.race].filter(Boolean).join(' · ');
+  return `<div class="pet">
+    ${l.image ? `<img src="${esc(l.image)}" alt="" loading="lazy" onerror="this.replaceWith(Object.assign(document.createElement('div'),{className:'noimg',textContent:'🐱'}))">` : '<div class="noimg">🐱</div>'}
+    <div class="body">
+      <div class="name">${esc(l.nom || '(sans nom)')} ${l.reserve ? '<span class="badge">réservé</span>' : ''}</div>
+      <div class="meta">${esc(meta)}</div>
+      <div class="lieu">📍 ${esc(lieuText(l))}</div>
+      <div class="date">${l.date_publication ? `🗓 ${fmtDate(l.date_publication)} · ` : ''}${esc(l.source_label ?? l.source)}</div>
+      <a href="${esc(l.url)}" target="_blank" rel="noopener">Voir l'annonce ↗</a>
+    </div>
+  </div>`;
+}
+function renderReport(r) {
+  const chatons = r.chatons ?? [], nouveaux = r.nouveaux_arrivants ?? [];
+  const ids = new Set(chatons.map((l) => l.id));
+  const nouveauxSeuls = nouveaux.filter((l) => !ids.has(l.id));
+  const s = r.stats ?? {};
+  $('report').innerHTML = `
+    <div class="stats">
+      <div class="stat"><b>${chatons.length}</b><span>chaton${chatons.length > 1 ? 's' : ''} de moins de ${esc(r.parametres?.age_max_mois)} mois</span></div>
+      <div class="stat"><b>${nouveauxSeuls.length}</b><span>nouveaux arrivants</span></div>
+      <div class="stat"><b>${s.annonces_zone ?? '–'}</b><span>annonces dans la zone</span></div>
+      <div class="stat"><b>${s.duree_s ?? '–'} s</b><span>${s.requests ?? '–'} requêtes</span></div>
+    </div>
+    ${(r.erreurs ?? []).length ? `<div class="msg info" style="display:block">${(r.erreurs).map(esc).join('<br>')}</div>` : ''}
+    <h3 class="sec">🐾 Chatons (${chatons.length})</h3>
+    ${chatons.length ? `<div class="cards">${chatons.map(petCard).join('')}</div>` : '<p class="empty">Aucun chaton correspondant aujourd\'hui.</p>'}
+    <h3 class="sec">🆕 Nouveaux arrivants (${nouveauxSeuls.length})</h3>
+    ${nouveauxSeuls.length ? `<div class="cards">${nouveauxSeuls.map(petCard).join('')}</div>` : '<p class="empty">Aucun nouvel arrivant.</p>'}
+    <details style="margin-top:14px"><summary>Rapport texte</summary><pre class="logs" style="max-height:400px;margin-top:8px">${esc(r.texte ?? '')}</pre></details>`;
+  $('report').scrollIntoView({ behavior: 'smooth', block: 'start' });
+}
+
+$('btn-save').addEventListener('click', save);
+$('btn-preview').addEventListener('click', () => launch(true));
+$('btn-run').addEventListener('click', () => launch(false));
+$('btn-test').addEventListener('click', async () => {
+  if (!(await save())) return;
+  setBusy(true); show('info', 'Envoi du message de test…');
+  const { ok, data } = await api('POST', '/api/notify-test');
+  setBusy(false);
+  if (!ok) { show('err', data.erreur ?? 'Échec'); return; }
+  const res = data.resultats ?? [];
+  if (!res.length) { show('err', 'Aucun canal actif (activez Discord ou Telegram, puis enregistrez).'); return; }
+  show(data.ok ? 'ok' : 'err', res.map((r) => `${r.canal} : ${r.ok ? 'OK' : 'échec — ' + r.erreur}`).join('\n'));
+});
+
+(async () => {
+  const { ok, data } = await api('GET', '/api/config');
+  if (!ok) { show('err', 'Impossible de charger la configuration.'); return; }
+  DEPS = data.departements;
+  fill(data.config);
+  if (!data.fichier_existe) show('info', `Aucun config.json pour l'instant : les valeurs affichées sont celles par défaut. Cliquez sur « Enregistrer » pour créer ${data.fichier}.`);
+  const latest = await api('GET', '/api/report/latest');
+  if (latest.ok) { $('run-state').textContent = 'dernier rapport enregistré'; renderReport(latest.data); }
+})();
+</script>
+</body>
+</html>

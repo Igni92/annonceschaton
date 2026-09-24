@@ -160,8 +160,8 @@ export function validateConfig(c) {
   return c;
 }
 
-/** Normalisations légères après validation (codes département, chaînes). */
-function normalizeConfig(c) {
+/** Normalisations légères avant validation (codes département, chaînes vides, nombres). */
+export function normalizeConfig(c) {
   if (Array.isArray(c.zone?.departements)) {
     c.zone.departements = c.zone.departements.map((d) => {
       const s = String(d).trim().toUpperCase();
