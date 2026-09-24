@@ -126,11 +126,12 @@ Trois façons, au choix :
 ## Comment ça marche
 
 1. **Zone** — le centre est résolu (coordonnées, géocodage de la ville, ou chef-lieu du code postal).
-2. **La SPA** — l'API renvoie tous les chats (filtre serveur ≈ 100 km quand le rayon le permet, sinon tout le site) ; on garde ceux dont le refuge est dans la zone ; pour les chats « junior » sans âge affiché (tous les moins d'un an), on lit la fiche pour obtenir la date de naissance (mise en cache dans `data/state.json`).
+2. **La SPA** — l'API renvoie tous les chats (filtre serveur ≈ 100 km quand le rayon le permet, sinon tout le site) ; on garde ceux dont le refuge est dans la zone ; pour les chats sans âge affiché (tous les moins d'un an, plus quelques adultes), on lit la fiche pour obtenir la date de naissance et la description (mises en cache dans `data/state.json`).
 3. **Seconde Chance** — pour chaque département de la zone : recherche « Bébé » (0–5 mois ; « Junior » ajouté si `age_max_mois` > 6) sur toutes les pages, puis recherche tous âges page par page en s'arrêtant dès qu'une page ne contient que des annonces déjà vues (les résultats sont triés du plus récent au plus ancien). La fiche est lue pour les chatons potentiels et les annonces jamais vues.
-4. **Filtres** — chatons : âge connu `< age_max_mois` ; nouveaux arrivants : mis en ligne depuis `jours` jours et/ou jamais vus par le bot. Les animaux « réservés » sont exclus par défaut.
-5. **Rapport** — Markdown (fichier/Discord), texte (console), HTML (Telegram), JSON (`reports/*.json` pour vos propres traitements).
-6. **Mémoire** — `data/state.json` retient les annonces vues (détection des nouveautés) et les fiches lues (moins de requêtes le lendemain). Au **premier lancement**, la mémoire est vide : les nouveaux arrivants sont alors déterminés d'après la date de mise en ligne uniquement ; la détection « jamais vu » devient effective dès le deuxième jour.
+4. **Âge** — la date de naissance, quand elle existe, fait foi. Sinon l'âge affiché par le site, sauf « 0 mois » sur Seconde Chance, qui signifie « non renseigné ». Dans ce cas la **description** est analysée (« GILMORE 6 ANS », « âgée de 3 mois et demi », « née le 12 juin »…), en tenant compte du temps écoulé depuis la mise en ligne (une description écrite il y a deux mois pour un chaton de 2 mois décrit un chat de 4 mois). Une description qui contredit fortement l'âge affiché (« il a 6 ans » pour une carte « 2 mois ») l'emporte, et le conflit est signalé dans le JSON (`age_conflit`). Un animal dont l'âge reste inconnu n'est jamais compté comme chaton.
+5. **Filtres** — chatons : âge connu `< age_max_mois` ; nouveaux arrivants : mis en ligne depuis `jours` jours et/ou jamais vus par le bot. Les animaux « réservés » sont exclus par défaut.
+6. **Rapport** — Markdown (fichier/Discord), texte (console), HTML (Telegram), JSON (`reports/*.json` pour vos propres traitements).
+7. **Mémoire** — `data/state.json` retient les annonces vues (détection des nouveautés) et les fiches lues (moins de requêtes le lendemain). Au **premier lancement**, la mémoire est vide : les nouveaux arrivants sont alors déterminés d'après la date de mise en ligne uniquement ; la détection « jamais vu » devient effective dès le deuxième jour.
 
 ### Précision géographique
 

@@ -1,6 +1,6 @@
 // Source la-spa.fr — API JSON publique du site (aucun scraping HTML).
 // Voir docs/SOURCES.md pour le détail des endpoints.
-import { bestAgeInMonths, parseAgeToMonths, parseBirthDate, toIsoDate } from '../age.js';
+import { parseAgeToMonths, parseBirthDate, resolveAge, toIsoDate } from '../age.js';
 import { departementFromPostcode, haversineKm, postcodeFromAddress, toCoord } from '../geo.js';
 import { normalizeSex, stripTags, truncate } from '../text.js';
 import { getCachedFiche, setCachedFiche } from '../state.js';
@@ -88,6 +88,8 @@ export function mapSearchResult(item, establishments, now = new Date()) {
     age_categorie: item.age ?? null,          // junior | adult | senior (classification du site)
     age_texte: ageText,
     age_mois: ageMois,                        // null tant que la fiche n'a pas été lue (chats < 1 an)
+    age_source: ageMois != null ? 'fiche' : null,
+    age_conflit: null,
     date_naissance: null,
     date_publication: dateOnly(item.created_at),
     reserve: RESERVED_RE.test(item.name ?? ''),
@@ -120,9 +122,11 @@ export function parseFiche(json) {
   const birth = parseBirthDate(infos.birthday);
   const map0 = json?.content?.establishment?.map?.[0] ?? null;
   const lat = toCoord(map0?.latitude), lon = toCoord(map0?.longitude);
+  const descriptionComplete = infos.description ? stripTags(infos.description).slice(0, 6000) : '';
   return {
     date_naissance: toIsoDate(birth),
-    description: infos.description ? truncate(stripTags(infos.description), 400) : null,
+    description: descriptionComplete ? truncate(descriptionComplete, 400) : null,
+    description_complete: descriptionComplete || null,
     sexe: normalizeSex(infos.sex),
     race: infos.races?.map((r) => r.name).filter(Boolean).join(', ') || null,
     lieu: {
@@ -137,8 +141,11 @@ export function parseFiche(json) {
 export function applyFiche(listing, fiche, now = new Date()) {
   if (!fiche) return listing;
   const birth = fiche.date_naissance ? parseBirthDate(fiche.date_naissance) : null;
-  listing.date_naissance = fiche.date_naissance ?? listing.date_naissance;
-  listing.age_mois = bestAgeInMonths({ birthDate: birth, ageText: listing.age_texte }, now);
+  const age = resolveAge({ birthDate: birth, ageText: listing.age_texte, description: fiche.description_complete ?? fiche.description, asOf: listing.date_publication, now });
+  listing.date_naissance = age.date_naissance ?? listing.date_naissance ?? null;
+  listing.age_mois = age.age_mois;
+  listing.age_source = age.age_source;
+  listing.age_conflit = age.age_conflit;
   listing.description = listing.description ?? fiche.description ?? null;
   listing.sexe = listing.sexe ?? fiche.sexe ?? null;
   listing.race = listing.race ?? fiche.race ?? null;
@@ -211,9 +218,9 @@ export async function fetchLaSpa({ http, config, state, zone, now = new Date(), 
   stats.dans_zone = listings.length;
   log(`La SPA : ${raw.length} chats sur le site, ${listings.length} dans la zone.`);
 
-  // Fiches : seulement pour les chats dont l'âge est inconnu et classés « junior » (< 1 an) — les seuls
-  // susceptibles d'avoir moins de age_max_mois. (Les adultes « N/A » n'ont pas de date de naissance.)
-  const needFiche = listings.filter((l) => l.age_mois == null && l.age_categorie === 'junior' && l.uid);
+  // Fiches : pour tous les chats dont l'âge n'est pas affiché. Les « junior » (< 1 an) ont une date de naissance
+  // sur leur fiche ; les « adult » sans âge n'en ont pas, mais leur description peut révéler un chaton.
+  const needFiche = listings.filter((l) => l.age_mois == null && l.uid);
   await Promise.all(needFiche.map(async (l) => {
     const cached = getCachedFiche(state, l.id);
     if (cached) {

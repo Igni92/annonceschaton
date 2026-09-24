@@ -3,7 +3,7 @@
 import { readFileSync } from 'node:fs';
 import { fileURLToPath } from 'node:url';
 import path from 'node:path';
-import { bestAgeInMonths, parseAgeToMonths, parseBirthDate, toIsoDate } from '../age.js';
+import { parseAgeToMonths, parseBirthDate, resolveAge, toIsoDate } from '../age.js';
 import { departementFromPostcode, departementsAutour, normalizeDepartement } from '../geo.js';
 import { decodeEntities, normalizeSex, stripTags, truncate } from '../text.js';
 import { getCachedFiche, setCachedFiche } from '../state.js';
@@ -78,9 +78,12 @@ export function parseSearchPage(html) {
     const sexe = normalizeSex(infoM?.[2]);
     const ageTexte = infoM?.[3]?.trim() || null;
     const espece = slug.split('-')[0]; // « chat », « chien », « gerbille »…
+    const ageMois = parseAgeToMonths(ageTexte);
     cards.push({
       id, url, slug: `${slug}-${id}`, nom, association, departement, race, sexe,
-      age_texte: ageTexte, age_mois: parseAgeToMonths(ageTexte), image, espece,
+      age_texte: ageTexte,
+      age_mois: ageMois != null && ageMois > 0 ? ageMois : null, // « 0 mois » = date de naissance non renseignée
+      image, espece,
     });
   }
   return { total, cards };
@@ -100,8 +103,12 @@ export function parseFichePage(html) {
 
   // Description = section « Présentation » jusqu'au bloc « Type : » ou « Date de naissance ».
   let description = null;
+  let descriptionComplete = '';
   const pres = text.match(/Pr[ée]sentation\s*<\/h2>([\s\S]*?)(?:Type\s*:|Date de naissance|<h2)/i);
-  if (pres) description = truncate(stripTags(pres[1]).replace(/\n+/g, ' '), 400) || null;
+  if (pres) {
+    descriptionComplete = stripTags(pres[1]).replace(/\n+/g, ' ').slice(0, 6000);
+    description = truncate(descriptionComplete, 400) || null;
+  }
 
   // Association : lien /refuge/<dept-slug>/<slug>-<id> + adresse dans le JSON-LD.
   const assocUrl = text.match(/href="(https?:\/\/www\.secondechance\.org\/refuge\/[^"/]+\/[^"]+-\d+)"/i)?.[1] ?? null;
@@ -121,6 +128,7 @@ export function parseFichePage(html) {
     pelage: attrs.pelage ?? null,
     taille: attrs.taille ?? null,
     description,
+    description_complete: descriptionComplete || null,
     association: {
       nom: assocName,
       url: assocUrl,
@@ -155,6 +163,8 @@ export function mapCard(card, departementRecherche = null, now = new Date()) {
     age_categorie: null,
     age_texte: card.age_texte,
     age_mois: card.age_mois,
+    age_source: card.age_mois != null ? 'fiche' : null,
+    age_conflit: null,
     date_naissance: null,
     date_publication: null,
     reserve: RESERVED_RE.test(card.nom ?? ''),
@@ -181,8 +191,17 @@ export function mapCard(card, departementRecherche = null, now = new Date()) {
 export function applyFiche(listing, fiche, now = new Date()) {
   if (!fiche) return listing;
   const birth = fiche.date_naissance ? parseBirthDate(fiche.date_naissance) : null;
-  listing.date_naissance = fiche.date_naissance ?? null;
-  listing.age_mois = bestAgeInMonths({ birthDate: birth, ageText: listing.age_texte ?? fiche.age_texte }, now);
+  const age = resolveAge({
+    birthDate: birth,
+    ageText: listing.age_texte ?? fiche.age_texte,
+    description: fiche.description_complete ?? fiche.description,
+    asOf: fiche.date_maj ?? null,
+    now,
+  });
+  listing.date_naissance = age.date_naissance;
+  listing.age_mois = age.age_mois;
+  listing.age_source = age.age_source;
+  listing.age_conflit = age.age_conflit;
   listing.age_texte = listing.age_texte ?? fiche.age_texte ?? null;
   listing.date_publication = fiche.date_maj ?? null; // date de mise à jour de la fiche (approximation)
   listing.description = fiche.description ?? listing.description;

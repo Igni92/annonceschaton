@@ -29,7 +29,9 @@ function lieuLine(l) {
 
 function ageLine(l) {
   const age = formatAge(l.age_mois, { precis: Boolean(l.date_naissance) });
-  return l.date_naissance ? `${age} (né·e le ${fmtDate(l.date_naissance)})` : age;
+  if (l.date_naissance) return `${age} (né·e le ${fmtDate(l.date_naissance)})`;
+  if (l.age_source === 'description') return `${age} (d'après la description)`;
+  return age;
 }
 
 /** Représentation d'une annonce sous forme de champs prêts à afficher. */

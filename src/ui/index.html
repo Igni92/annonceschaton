@@ -293,9 +293,10 @@ async function poll() {
 
 function ageText(l) {
   if (l.age_mois == null) return 'âge inconnu';
-  if (l.age_mois < 1) return l.date_naissance ? `${Math.max(1, Math.round(l.age_mois * 30.44 / 7))} sem.` : "moins d'un mois";
-  const m = Math.floor(l.age_mois); if (m < 12) return `${m} mois`;
-  const y = Math.floor(m / 12), r = m % 12; return `${y} an${y > 1 ? 's' : ''}${r ? ` ${r} mois` : ''}`;
+  let t;
+  if (l.age_mois < 1) t = l.date_naissance ? `${Math.max(1, Math.round(l.age_mois * 30.44 / 7))} sem.` : "moins d'un mois";
+  else { const m = Math.floor(l.age_mois); if (m < 12) t = `${m} mois`; else { const y = Math.floor(m / 12), r = m % 12; t = `${y} an${y > 1 ? 's' : ''}${r ? ` ${r} mois` : ''}`; } }
+  return l.age_source === 'description' ? `${t} (selon la description)` : t;
 }
 function fmtDate(iso) { if (!iso) return ''; const [y, m, d] = iso.split('-'); return `${d}/${m}/${y}`; }
 function lieuText(l) {

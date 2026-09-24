@@ -606,3 +606,28 @@ describe('fetchSecondeChance : fiches détaillées', () => {
     assert.ok(logs.some((m) => m.includes('illisible') && m.includes('HTTP 500')));
   });
 });
+
+describe('faux positif Gilmore (fiche réelle : « 0 mois » affiché, « 6 ANS » dans la description)', async () => {
+  const { readFileSync } = await import('node:fs');
+  const html = readFileSync(new URL('./fixtures/secondechance_fiche_gilmore.html', import.meta.url), 'utf8');
+  test('parseFichePage : âge « 0 mois », pas de date de naissance, description complète conservée', () => {
+    const f = parseFichePage(html);
+    assert.equal(f.age_texte, '0 mois');
+    assert.equal(f.date_naissance, null);
+    assert.match(f.description_complete, /GILMORE 6 ANS/);
+    assert.equal(f.association.departement, '94');
+  });
+  test('applyFiche : 6 ans d\'après la description, donc pas un chaton', () => {
+    const carte = { id: '1516867', url: 'https://www.secondechance.org/animal/chat-sacre-de-birmanie-gilmore-1516867', slug: 'chat-sacre-de-birmanie-gilmore-1516867', nom: 'Gilmore', association: 'Les petits protégés de Jo & Co', departement: '75', race: 'SACRE DE BIRMANIE', sexe: 'male', age_texte: '0 mois', age_mois: null, image: null, espece: 'chat' };
+    const l = applyFiche(mapCard(carte, '75'), parseFichePage(html), new Date(Date.UTC(2026, 8, 24)));
+    assert.equal(l.age_source, 'description');
+    assert.ok(l.age_mois >= 72, String(l.age_mois));
+    assert.equal(l.age_mois < 4, false);
+  });
+  test('parseSearchPage : une carte « 0 mois » donne age_mois = null (âge non renseigné)', () => {
+    const html2 = '<p>1 résultats trouvés</p><a href="https://www.secondechance.org/animal/chat-europeen-x-1"><h3>X</h3><h4>Asso (75)</h4><p class="open-sans text-sm text-gray-dark-sc">EUROPÉEN Mâle - 0 mois</p></a>';
+    const { cards } = parseSearchPage(html2);
+    assert.equal(cards[0].age_texte, '0 mois');
+    assert.equal(cards[0].age_mois, null);
+  });
+});
