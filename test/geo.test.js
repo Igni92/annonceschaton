@@ -72,9 +72,7 @@ describe('haversineKm', () => {
     assert.equal(haversineKm(PARIS, { latitude: NaN, longitude: NaN }), null);
   });
 
-  test('coordonnées null ou vides → null (et non la distance au point 0,0)', {
-    todo: 'bug: Number(null) et Number("") valent 0, donc { latitude: null, longitude: null } est traité comme le point (0°, 0°)',
-  }, () => {
+  test('coordonnées null ou vides → null (et non la distance au point 0,0)', () => {
     assert.equal(haversineKm({ latitude: null, longitude: null }, PARIS), null);
     assert.equal(haversineKm(PARIS, { latitude: '', longitude: '' }), null);
   });
@@ -273,9 +271,7 @@ describe('geocodeAdresse', () => {
     assert.equal(http.appels.length, 0);
   });
 
-  test('coordonnées non numériques dans la réponse → null', {
-    todo: 'bug: seule la présence de geometry.coordinates est vérifiée ; [] ou ["x","y"] donnent latitude/longitude NaN au lieu de null',
-  }, async () => {
+  test('coordonnées non numériques dans la réponse → null', async () => {
     assert.equal(await geocodeAdresse('Paris', fauxHttp({ reponse: { features: [{ geometry: { coordinates: [] } }] } })), null);
     assert.equal(await geocodeAdresse('Paris', fauxHttp({ reponse: { features: [{ geometry: { coordinates: ['x', 'y'] } }] } })), null);
   });
@@ -345,9 +341,7 @@ describe('resolveCentre', () => {
     await assert.rejects(resolveCentre({ ville: 'Nulle-Part' }, http), /Impossible de déterminer le centre/);
   });
 
-  test('coordonnées vides ("") ignorées : repli sur le code postal au lieu du point (0, 0)', {
-    todo: 'bug: Number("") vaut 0 et "" != null, donc latitude/longitude "" sont acceptées comme (0°, 0°) méthode "coordonnees"',
-  }, async () => {
+  test('coordonnées vides ("") ignorées : repli sur le code postal au lieu du point (0, 0)', async () => {
     const c = await resolveCentre({ latitude: '', longitude: '', code_postal: '75011' });
     assert.equal(c.methode, 'departement');
     assert.equal(c.departement, '75');

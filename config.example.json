@@ -12,7 +12,8 @@
       "longitude": null
     },
     "rayon_km": 50,
-    "departements": ["75", "92", "93", "94"]
+    "departements": ["75", "92", "93", "94"],
+    "marge_departement_km": 25
   },
 
   "age_max_mois": 4,

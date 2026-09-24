@@ -20,6 +20,13 @@ export const SC_DEPARTEMENTS = JSON.parse(
   readFileSync(path.join(HERE, '..', '..', 'data', 'secondechance_departements.json'), 'utf8'),
 );
 
+/** Identifiant interne du site pour un code département (la Corse 2A/2B est une seule entrée « 20 »). */
+export function scDepartementId(code) {
+  const c = normalizeDepartement(code) ?? String(code ?? '').toUpperCase();
+  const entry = SC_DEPARTEMENTS[c] ?? ((c === '2A' || c === '2B') ? SC_DEPARTEMENTS['20'] : null);
+  return entry?.id ?? null;
+}
+
 const RESERVED_RE = /r[ée]serv[ée]/i;
 
 /** Construit l'URL de recherche. `departementId` = identifiant interne (voir SC_DEPARTEMENTS). */
@@ -255,7 +262,7 @@ export async function fetchSecondeChance({ http, config, state, zone, now = new 
   }
 
   for (const dep of deps) {
-    const departementId = dep == null ? null : SC_DEPARTEMENTS[dep]?.id ?? null;
+    const departementId = dep == null ? null : scDepartementId(dep);
     if (dep != null && departementId == null) { log(`Seconde Chance : département ${dep} inconnu du site, ignoré.`); continue; }
     // 1) chatons : toutes les pages (jusqu'à pages_max)
     await crawl({ departement: dep, departementId, ageRanges: ranges, stopWhenKnown: false });

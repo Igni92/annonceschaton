@@ -524,9 +524,7 @@ describe('fetchSecondeChance : zone et départements', () => {
     assert.equal(listings.length, 12);
   });
 
-  test('Corse (2A/2B) : interrogée via l\'entrée « 20 - Corse » du site', {
-    todo: 'bug: SC_DEPARTEMENTS n\'a que la clé "20" (id 33) ; les codes 2A/2B de la zone sont ignorés (« inconnu du site »)',
-  }, async () => {
+  test('Corse (2A/2B) : interrogée via l\'entrée « 20 - Corse » du site', async () => {
     assert.equal(SC_DEPARTEMENTS['20']?.id, 33, 'le site propose bien la Corse');
     const config = configSC({ zone: { mode: 'departements', departements: ['2A'] }, sc: { fiches_details: false } });
     const { http, logs } = await lancer({ config, http: fauxHttp({ recherche: () => PAGE_VIDE }) });

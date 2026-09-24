@@ -1,5 +1,5 @@
 // Chargement, fusion et validation de la configuration.
-// Priorité : variables d'environnement > config.json > DEFAULT_CONFIG.
+// Priorité : options de ligne de commande > variables d'environnement > config.json > DEFAULT_CONFIG.
 import { readFileSync, existsSync } from 'node:fs';
 import path from 'node:path';
 
@@ -9,6 +9,7 @@ export const DEFAULT_CONFIG = Object.freeze({
     centre: { ville: 'Paris', code_postal: '75011', latitude: null, longitude: null },
     rayon_km: 50,
     departements: ['75', '92', '93', '94'],
+    marge_departement_km: 25, // tolérance pour les annonces localisées seulement au département
   },
   age_max_mois: 4,
   nouveaux_arrivants: { jours: 7, critere: 'les_deux', tous_ages: true },
@@ -95,6 +96,14 @@ export function applyEnv(config, env = process.env) {
     if (raw == null || raw === '') continue;
     setPath(out, keys, coerceEnv(keys, raw));
   }
+  // Un centre donné par l'environnement remplace entièrement celui du fichier : pas de mélange « 75011 Lyon ».
+  const hasEnv = (k) => env[k] != null && env[k] !== '';
+  if (hasEnv('ANNONCES_VILLE') && !hasEnv('ANNONCES_CODE_POSTAL')) out.zone.centre.code_postal = null;
+  if (hasEnv('ANNONCES_CODE_POSTAL') && !hasEnv('ANNONCES_VILLE')) out.zone.centre.ville = null;
+  if ((hasEnv('ANNONCES_VILLE') || hasEnv('ANNONCES_CODE_POSTAL')) && !hasEnv('ANNONCES_LATITUDE') && !hasEnv('ANNONCES_LONGITUDE')) {
+    out.zone.centre.latitude = null;
+    out.zone.centre.longitude = null;
+  }
   // Active automatiquement les canaux dont les secrets sont fournis par l'environnement.
   if (env.DISCORD_WEBHOOK_URL) out.notifications.discord.actif = true;
   if (env.TELEGRAM_BOT_TOKEN && env.TELEGRAM_CHAT_ID) out.notifications.telegram.actif = true;
@@ -111,10 +120,16 @@ export function validateConfig(c) {
   }
   if (c.zone?.mode === 'rayon') {
     if (!num(c.zone.rayon_km) || c.zone.rayon_km <= 0) errors.push('zone.rayon_km doit être un nombre > 0');
+    if (!num(c.zone.marge_departement_km) || c.zone.marge_departement_km < 0) errors.push('zone.marge_departement_km doit être un nombre ≥ 0');
     const ce = c.zone.centre ?? {};
-    const hasCoords = ce.latitude != null && ce.longitude != null;
-    if (hasCoords && (!num(Number(ce.latitude)) || !num(Number(ce.longitude)))) errors.push('zone.centre.latitude/longitude doivent être des nombres');
+    const given = (v) => v != null && !(typeof v === 'string' && v.trim() === '');
+    const hasCoords = given(ce.latitude) || given(ce.longitude);
+    if (hasCoords && (!given(ce.latitude) || !given(ce.longitude) || !num(Number(ce.latitude)) || !num(Number(ce.longitude)))) {
+      errors.push('zone.centre.latitude/longitude doivent être des nombres, renseignés ensemble');
+    }
     if (!hasCoords && !ce.ville && !ce.code_postal) errors.push('zone.centre : indiquez latitude/longitude, ou ville, ou code_postal');
+    if (num(Number(ce.latitude)) && Math.abs(Number(ce.latitude)) > 90) errors.push('zone.centre.latitude doit être comprise entre -90 et 90');
+    if (num(Number(ce.longitude)) && Math.abs(Number(ce.longitude)) > 180) errors.push('zone.centre.longitude doit être comprise entre -180 et 180');
     if (ce.code_postal != null && !/^\d{5}$/.test(String(ce.code_postal))) errors.push('zone.centre.code_postal doit comporter 5 chiffres');
   }
   if (c.zone?.mode === 'departements') {
@@ -153,9 +168,14 @@ function normalizeConfig(c) {
       return /^\d$/.test(s) ? `0${s}` : s;
     });
   }
-  if (c.zone?.centre?.code_postal != null) c.zone.centre.code_postal = String(c.zone.centre.code_postal);
-  if (c.zone?.centre?.latitude != null) c.zone.centre.latitude = Number(c.zone.centre.latitude);
-  if (c.zone?.centre?.longitude != null) c.zone.centre.longitude = Number(c.zone.centre.longitude);
+  if (c.zone?.centre) {
+    const ce = c.zone.centre;
+    const blank = (v) => v == null || (typeof v === 'string' && v.trim() === '');
+    ce.code_postal = blank(ce.code_postal) ? null : String(ce.code_postal).trim();
+    ce.ville = blank(ce.ville) ? null : String(ce.ville).trim();
+    ce.latitude = blank(ce.latitude) ? null : Number(String(ce.latitude).replace(',', '.'));
+    ce.longitude = blank(ce.longitude) ? null : Number(String(ce.longitude).replace(',', '.'));
+  }
   return c;
 }
 
@@ -181,7 +201,7 @@ export function loadConfig({ file = 'config.json', env = process.env, overrides 
   } else {
     log('Aucun config.json trouvé : utilisation des valeurs par défaut (copiez config.example.json en config.json).');
   }
-  const merged = deepMerge(deepMerge(DEFAULT_CONFIG, fromFile), overrides);
-  const withEnv = applyEnv(merged, env);
-  return validateConfig(normalizeConfig(withEnv));
+  const withEnv = applyEnv(deepMerge(DEFAULT_CONFIG, fromFile), env);
+  const merged = deepMerge(withEnv, overrides); // la ligne de commande l'emporte sur l'environnement
+  return validateConfig(normalizeConfig(merged));
 }

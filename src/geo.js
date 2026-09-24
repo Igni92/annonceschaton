@@ -12,12 +12,23 @@ export const DEPARTEMENTS = JSON.parse(
 
 const EARTH_RADIUS_KM = 6371;
 
+/**
+ * Convertit une coordonnée (nombre ou chaîne) en nombre fini, ou null si absente / vide / invalide.
+ * Évite le piège Number(null) === 0 qui placerait un point à (0°, 0°).
+ */
+export function toCoord(value) {
+  if (value == null) return null;
+  if (typeof value === 'string' && value.trim() === '') return null;
+  const n = typeof value === 'number' ? value : Number(String(value).replace(',', '.'));
+  return Number.isFinite(n) ? n : null;
+}
+
 /** Distance orthodromique (formule de haversine) en kilomètres. */
 export function haversineKm(a, b) {
   if (!a || !b) return null;
-  const lat1 = Number(a.latitude), lon1 = Number(a.longitude);
-  const lat2 = Number(b.latitude), lon2 = Number(b.longitude);
-  if ([lat1, lon1, lat2, lon2].some((v) => !Number.isFinite(v))) return null;
+  const lat1 = toCoord(a.latitude), lon1 = toCoord(a.longitude);
+  const lat2 = toCoord(b.latitude), lon2 = toCoord(b.longitude);
+  if ([lat1, lon1, lat2, lon2].some((v) => v == null || Math.abs(v) > 360)) return null;
   const toRad = (deg) => (deg * Math.PI) / 180;
   const dLat = toRad(lat2 - lat1);
   const dLon = toRad(lon2 - lon1);
@@ -78,12 +89,13 @@ export async function geocodeAdresse(query, http) {
   try {
     const json = await http.getJson(url);
     const f = json?.features?.[0];
-    if (!f?.geometry?.coordinates) return null;
-    const [lon, lat] = f.geometry.coordinates;
+    const coords = Array.isArray(f?.geometry?.coordinates) ? f.geometry.coordinates : null;
+    const lon = toCoord(coords?.[0]), lat = toCoord(coords?.[1]);
+    if (lat == null || lon == null) return null;
     const props = f.properties ?? {};
     return {
-      latitude: Number(lat),
-      longitude: Number(lon),
+      latitude: lat,
+      longitude: lon,
       label: props.label ?? query,
       departement: departementFromPostcode(props.postcode) ?? (props.context ? normalizeDepartement(String(props.context).split(',')[0]) : null),
     };
@@ -100,8 +112,8 @@ export async function geocodeAdresse(query, http) {
  * @returns {Promise<{latitude:number, longitude:number, label:string, departement:string|null, methode:string}>}
  */
 export async function resolveCentre(centre = {}, http = null, log = () => {}) {
-  const lat = Number(centre.latitude), lon = Number(centre.longitude);
-  if (Number.isFinite(lat) && Number.isFinite(lon) && centre.latitude != null && centre.longitude != null) {
+  const lat = toCoord(centre.latitude), lon = toCoord(centre.longitude);
+  if (lat != null && lon != null) {
     return {
       latitude: lat, longitude: lon,
       label: centre.ville || centre.code_postal || `${lat},${lon}`,

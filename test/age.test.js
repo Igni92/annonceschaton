@@ -245,7 +245,6 @@ describe('decodeEntities', () => {
 
   test(
     'ne lève pas d\'exception sur une référence numérique hors Unicode',
-    { todo: 'bug: String.fromCodePoint lève RangeError pour &#x110000; ou &#99999999; (text.js l.16-17)' },
     () => {
       for (const entite of ['&#x110000;', '&#99999999;']) {
         let resultat;
@@ -304,7 +303,6 @@ describe('truncate', () => {
 
   test(
     'ne coupe pas un emoji (paire de substitution) en deux',
-    { todo: 'bug: slice() coupe au milieu d\'une paire UTF-16 → demi-emoji (U+D83D isolé) avant « … » (text.js l.44)' },
     () => {
       const r = truncate('ab😺cd', 4);
       assert.ok(!/[\uD800-\uDBFF](?![\uDC00-\uDFFF])/.test(r), `substitut isolé dans ${JSON.stringify(r)}`);

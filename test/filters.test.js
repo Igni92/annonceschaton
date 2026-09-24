@@ -157,7 +157,6 @@ describe('buildZone — mode rayon (centre en coordonnées)', () => {
 
   test(
     'marge_departement_km absente : défaut documenté de 25 km (README)',
-    { todo: 'bug: src/filters.js:13 prend 40 km par défaut alors que README et src/sources/secondechance.js:200 annoncent 25 km' },
     async () => {
       const zone = await buildZone(configZone({ mode: 'rayon', centre: { ...PARIS, ville: 'Paris' }, rayon_km: 50 }));
       assert.equal(zone.marge_departement_km, 25);
@@ -354,7 +353,6 @@ describe('selectNewcomers', () => {
 
   test(
     'jours = 1 : une annonce mise en ligne la veille (après l\'heure du passage quotidien) est signalée',
-    { todo: 'bug: src/filters.js:78 compare minuit UTC de date_publication à now − N×24 h : avec jours=1 et un passage quotidien, les annonces publiées la veille après l\'heure du passage ne sont jamais signalées par date' },
     () => {
       // Passage du 23/09 à 08:00 (Paris) : l'annonce publiée le 23/09 à 20:00 n'existait pas encore.
       // Passage du 24/09 à 08:00 : elle a 12 h, elle doit apparaître comme « mise en ligne depuis moins d'1 jour ».

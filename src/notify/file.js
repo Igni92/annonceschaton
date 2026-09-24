@@ -1,6 +1,7 @@
 // Notification : écriture des rapports sur disque (Markdown + JSON), avec un « latest » toujours à jour.
 import { mkdirSync, writeFileSync } from 'node:fs';
 import path from 'node:path';
+import { localIsoDate } from '../dates.js';
 
 export async function notifyFile(report, { dossier = 'reports', now = new Date(), fuseau = 'Europe/Paris' } = {}) {
   mkdirSync(dossier, { recursive: true });
@@ -16,7 +17,5 @@ export async function notifyFile(report, { dossier = 'reports', now = new Date()
 
 /** « YYYY-MM-DD » dans le fuseau demandé. */
 export function localDate(now, fuseau = 'Europe/Paris') {
-  const parts = new Intl.DateTimeFormat('fr-CA', { timeZone: fuseau, year: 'numeric', month: '2-digit', day: '2-digit' }).formatToParts(now);
-  const get = (t) => parts.find((p) => p.type === t)?.value;
-  return `${get('year')}-${get('month')}-${get('day')}`;
+  return localIsoDate(now, fuseau);
 }

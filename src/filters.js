@@ -1,8 +1,7 @@
 // Zone géographique et sélection des annonces (chatons / nouveaux arrivants).
 import { departementCentre, departementsAutour, haversineKm, normalizeDepartement, resolveCentre } from './geo.js';
 import { firstSeen } from './state.js';
-
-const MS_PER_DAY = 86_400_000;
+import { addDaysIso, localIsoDate } from './dates.js';
 
 /**
  * Construit l'objet zone utilisé par les sources et les filtres.
@@ -10,7 +9,7 @@ const MS_PER_DAY = 86_400_000;
  */
 export async function buildZone(config, http = null, log = () => {}) {
   const z = config.zone;
-  const marge = Number(z.marge_departement_km ?? 40);
+  const marge = Number(z.marge_departement_km ?? 25);
   let centre = null;
   let label = 'France entière';
   let departements = [];
@@ -66,18 +65,15 @@ export function selectKittens(listings, config) {
 
 /**
  * Nouveaux arrivants selon le critère configuré :
- *  - date_publication : mis en ligne depuis moins de N jours (date fournie par le site)
+ *  - date_publication : mis en ligne depuis N jours au plus, en jours civils (jours = 1 → aujourd'hui et hier)
  *  - premiere_vue     : jamais vu par le bot avant cette exécution (`fresh` = ids nouveaux)
  *  - les_deux         : l'un OU l'autre
  */
 export function selectNewcomers(listings, config, { state, fresh = new Set(), now = new Date() } = {}) {
   const { jours, critere, tous_ages } = config.nouveaux_arrivants;
-  const limit = now.getTime() - Number(jours) * MS_PER_DAY;
-  const recentByDate = (l) => {
-    if (!l.date_publication) return false;
-    const t = Date.parse(`${l.date_publication}T00:00:00Z`);
-    return Number.isFinite(t) && t >= limit;
-  };
+  const fuseau = config.planification?.fuseau ?? 'Europe/Paris';
+  const cutoff = addDaysIso(localIsoDate(now, fuseau), -Number(jours)); // date civile la plus ancienne acceptée
+  const recentByDate = (l) => typeof l.date_publication === 'string' && /^\d{4}-\d{2}-\d{2}$/.test(l.date_publication) && l.date_publication >= cutoff;
   const neverSeen = (l) => fresh.has(l.id) || (state && firstSeen(state, l.id) == null);
   const isNew = (l) => {
     if (critere === 'date_publication') return recentByDate(l);

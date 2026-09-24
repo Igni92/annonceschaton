@@ -234,9 +234,7 @@ describe('createHttp — getJson / getText', () => {
     assert.ok(debuts[1] - debuts[0] >= 55, `écart mesuré : ${debuts[1] - debuts[0]} ms`);
   });
 
-  test('pause de politesse respectée aussi entre requêtes concurrentes', {
-    todo: 'bug: src/http.js:55-57 — lastStart n’est mis à jour qu’après la pause, les requêtes concurrentes attendent le même délai puis partent ensemble',
-  }, async () => {
+  test('pause de politesse respectée aussi entre requêtes concurrentes', async () => {
     const debuts = [];
     const fetchImpl = async () => { debuts.push(Date.now()); return json({}); };
     const http = createHttp({ fetchImpl, delayMs: 60, concurrency: 3, retries: 1 });
@@ -247,9 +245,7 @@ describe('createHttp — getJson / getText', () => {
     assert.ok(ecarts.every((e) => e >= 55), `écarts mesurés entre départs : ${ecarts.join(', ')} ms (attendu ≥ 60)`);
   });
 
-  test('le délai d’attente couvre aussi la lecture du corps de la réponse', {
-    todo: 'bug: src/http.js:79/93 — clearTimeout() s’exécute dès le retour des en-têtes ; res.text() n’est plus protégé et peut bloquer indéfiniment',
-  }, async () => {
+  test('le délai d’attente couvre aussi la lecture du corps de la réponse', async () => {
     // En-têtes reçus, puis corps qui ne finit jamais (seul l’abort du signal peut l’interrompre, comme avec undici).
     const fetchImpl = async (url, { signal }) => ({
       ok: true,
@@ -269,9 +265,7 @@ describe('createHttp — getJson / getText', () => {
     assert.match(issue.message, /Délai dépassé/);
   });
 
-  test('stats.failures compte aussi les échecs HTTP définitifs (404, 5xx épuisés)', {
-    todo: 'bug: src/http.js:77-81 — l’HttpError levée pour un statut non-OK est relancée par le catch avant « stats.failures += 1 »',
-  }, async () => {
+  test('stats.failures compte aussi les échecs HTTP définitifs (404, 5xx épuisés)', async () => {
     const { fetchImpl } = fauxFetch(texte('introuvable', 404));
     const http = client({ fetchImpl });
 
@@ -335,9 +329,7 @@ describe('postJson', () => {
     assert.equal(appels.length, 2);
   });
 
-  test('statut réessayable à la dernière tentative : échoue sans attente inutile', {
-    todo: 'bug: src/http.js:136-139 — la pause (backoff ou retry-after) est faite même après la dernière tentative, juste avant de lever l’erreur',
-  }, async () => {
+  test('statut réessayable à la dernière tentative : échoue sans attente inutile', async () => {
     const { fetchImpl, appels } = fauxFetch(texte('indisponible', 503));
     const debut = Date.now();
 

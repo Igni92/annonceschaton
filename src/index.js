@@ -49,8 +49,8 @@ function parseArgs(argv) {
       case '--quiet': set(['notifications', 'console'], false); break;
       case '--config': out.config = next(); break;
       case '--zone': set(['zone', 'mode'], next()); break;
-      case '--ville': set(['zone', 'centre', 'ville'], next()); set(['zone', 'centre', 'latitude'], null); set(['zone', 'centre', 'longitude'], null); break;
-      case '--code-postal': set(['zone', 'centre', 'code_postal'], next()); set(['zone', 'centre', 'latitude'], null); set(['zone', 'centre', 'longitude'], null); break;
+      case '--ville': set(['zone', 'centre', 'ville'], next()); set(['zone', 'centre', 'latitude'], null); set(['zone', 'centre', 'longitude'], null); if (out.overrides.zone?.centre?.code_postal === undefined) set(['zone', 'centre', 'code_postal'], null); break;
+      case '--code-postal': set(['zone', 'centre', 'code_postal'], next()); set(['zone', 'centre', 'latitude'], null); set(['zone', 'centre', 'longitude'], null); if (out.overrides.zone?.centre?.ville === undefined) set(['zone', 'centre', 'ville'], null); break;
       case '--lat': set(['zone', 'centre', 'latitude'], num(next(), a)); break;
       case '--lon': case '--lng': set(['zone', 'centre', 'longitude'], num(next(), a)); break;
       case '--rayon': set(['zone', 'rayon_km'], num(next(), a)); break;

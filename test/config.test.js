@@ -124,9 +124,7 @@ describe('DEFAULT_CONFIG', () => {
     validateConfig(cfg);
   });
 
-  test('contient zone.marge_departement_km = 25 (valeur par défaut annoncée par le README)', {
-    todo: 'bug: la clé est absente de DEFAULT_CONFIG ; buildZone (src/filters.js:13) retombe alors sur 40 km au lieu des 25 km documentés',
-  }, () => {
+  test('contient zone.marge_departement_km = 25 (valeur par défaut annoncée par le README)', () => {
     assert.equal(DEFAULT_CONFIG.zone.marge_departement_km, 25);
   });
 });
@@ -193,6 +191,7 @@ describe('applyEnv', () => {
     assert.deepEqual(Object.keys(env).sort(), Object.keys(ENV_OVERRIDES).sort());
     const cfg = applyEnv(config(), env);
     assert.deepEqual(cfg.zone, {
+      marge_departement_km: 25,
       mode: 'departements',
       centre: { ville: 'Lyon', code_postal: '69001', latitude: 45.76, longitude: 4.83 },
       rayon_km: 30,
@@ -217,9 +216,7 @@ describe('applyEnv', () => {
     assert.equal(JSON.stringify(DEFAULT_CONFIG), avant);
   });
 
-  test('ANNONCES_VILLE seule ne conserve pas le code postal hérité d\'une autre ville', {
-    todo: 'bug: ANNONCES_VILLE=Lyon garde code_postal "75011" → géocodage de « 75011 Lyon » puis repli sur Paris (75) en cas d\'échec',
-  }, () => {
+  test('ANNONCES_VILLE seule ne conserve pas le code postal hérité d\'une autre ville', () => {
     const cfg = applyEnv(config(), { ANNONCES_VILLE: 'Lyon' });
     assert.equal(cfg.zone.centre.ville, 'Lyon');
     assert.notEqual(cfg.zone.centre.code_postal, '75011');
@@ -421,17 +418,13 @@ describe('loadConfig', () => {
     assert.equal(JSON.stringify(DEFAULT_CONFIG), avant);
   });
 
-  test('une option de ligne de commande l\'emporte sur la variable d\'environnement correspondante', {
-    todo: 'bug: applyEnv est appliqué après les overrides, donc ANNONCES_RAYON_KM=12 écrase --rayon 30 (et de même --ville, --departements, --age-max, --jours, --zone)',
-  }, () => {
+  test('une option de ligne de commande l\'emporte sur la variable d\'environnement correspondante', () => {
     const fichier = ecrireConfig('cli-vs-env.json', {});
     const cfg = loadConfig({ file: fichier, env: { ANNONCES_RAYON_KM: '12' }, overrides: { zone: { rayon_km: 30 } } });
     assert.equal(cfg.zone.rayon_km, 30);
   });
 
-  test('latitude/longitude vides ("") dans config.json traitées comme absentes, et non comme le point (0°, 0°)', {
-    todo: 'bug: normalizeConfig convertit "" en Number("") = 0, validateConfig accepte alors le centre (0, 0) au lieu d\'utiliser ville / code postal',
-  }, () => {
+  test('latitude/longitude vides ("") dans config.json traitées comme absentes, et non comme le point (0°, 0°)', () => {
     const fichier = ecrireConfig('coords-vides.json', { zone: { centre: { ville: 'Paris', code_postal: '75011', latitude: '', longitude: '' } } });
     const cfg = loadConfig({ file: fichier, env: {} });
     assert.equal(cfg.zone.centre.latitude, null);

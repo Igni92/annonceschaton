@@ -12,9 +12,10 @@ const NAMED_ENTITIES = {
 /** Décode les entités HTML nommées, décimales et hexadécimales. */
 export function decodeEntities(str) {
   if (str == null) return '';
+  const codePoint = (m, n) => (Number.isInteger(n) && n >= 0 && n <= 0x10ffff ? String.fromCodePoint(n) : m);
   return String(str)
-    .replace(/&#x([0-9a-f]+);/gi, (_, hex) => String.fromCodePoint(parseInt(hex, 16)))
-    .replace(/&#(\d+);/g, (_, dec) => String.fromCodePoint(Number(dec)))
+    .replace(/&#x([0-9a-f]+);/gi, (m, hex) => codePoint(m, parseInt(hex, 16)))
+    .replace(/&#(\d+);/g, (m, dec) => codePoint(m, Number(dec)))
     .replace(/&([a-zA-Z]+);/g, (m, name) => (name in NAMED_ENTITIES ? NAMED_ENTITIES[name] : m));
 }
 
@@ -41,7 +42,9 @@ export function truncate(str, max = 280) {
   if (str == null) return '';
   const s = String(str).trim();
   if (s.length <= max) return s;
-  return `${s.slice(0, max - 1).trimEnd()}…`;
+  // Découpe par points de code pour ne jamais couper un emoji (paire de substitution UTF-16).
+  const chars = Array.from(s);
+  return `${chars.slice(0, Math.max(0, max - 1)).join('').trimEnd()}…`;
 }
 
 /** Compare deux chaînes sans tenir compte de la casse ni des accents. */

@@ -628,9 +628,7 @@ suite('notifyAll()', () => {
     assert.equal(sortie.length, 1);
   });
 
-  test('les erreurs journalisées ne divulguent ni le jeton Telegram ni l\'URL secrète du webhook Discord', {
-    todo: 'bug: postJson (src/http.js:134) met l\'URL complète (jeton du bot / jeton du webhook) dans le message d\'erreur, journalisé par notifyAll (src/notify/index.js:19)',
-  }, async () => {
+  test('les erreurs journalisées ne divulguent ni le jeton Telegram ni l\'URL secrète du webhook Discord', async () => {
     const { fetchImpl } = fauxFetch((url) => (url.startsWith('https://discord.com/')
       ? new Response('{"message": "Unknown Webhook"}', { status: 404 })
       : new Response(JSON.stringify({ ok: false, error_code: 401, description: 'Unauthorized' }), { status: 401 })));

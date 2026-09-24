@@ -1,7 +1,7 @@
 // Source la-spa.fr — API JSON publique du site (aucun scraping HTML).
 // Voir docs/SOURCES.md pour le détail des endpoints.
 import { bestAgeInMonths, parseAgeToMonths, parseBirthDate, toIsoDate } from '../age.js';
-import { departementFromPostcode, haversineKm, postcodeFromAddress } from '../geo.js';
+import { departementFromPostcode, haversineKm, postcodeFromAddress, toCoord } from '../geo.js';
 import { normalizeSex, stripTags, truncate } from '../text.js';
 import { getCachedFiche, setCachedFiche } from '../state.js';
 
@@ -36,7 +36,7 @@ export function mapEstablishments(json) {
     const slug = slugFromUrl(it.url);
     if (!slug) continue;
     const code_postal = postcodeFromAddress(it.address);
-    const lat = Number(it.latitude), lon = Number(it.longitude);
+    const lat = toCoord(it.latitude), lon = toCoord(it.longitude);
     map.set(slug, {
       id: String(it.ID ?? ''),
       slug,
@@ -46,8 +46,8 @@ export function mapEstablishments(json) {
       ville: cityFromAddress(it.address),
       code_postal,
       departement: departementFromPostcode(code_postal),
-      latitude: Number.isFinite(lat) ? lat : null,
-      longitude: Number.isFinite(lon) ? lon : null,
+      latitude: lat != null && lon != null ? lat : null,
+      longitude: lat != null && lon != null ? lon : null,
       url: it.url ? `${LASPA_SITE}${it.url}` : null,
       email: it.email ?? null,
       telephone: it.phone ?? null,
@@ -119,15 +119,15 @@ export function parseFiche(json) {
   const infos = json?.content?.infos ?? {};
   const birth = parseBirthDate(infos.birthday);
   const map0 = json?.content?.establishment?.map?.[0] ?? null;
-  const lat = Number(map0?.latitude), lon = Number(map0?.longitude);
+  const lat = toCoord(map0?.latitude), lon = toCoord(map0?.longitude);
   return {
     date_naissance: toIsoDate(birth),
     description: infos.description ? truncate(stripTags(infos.description), 400) : null,
     sexe: normalizeSex(infos.sex),
     race: infos.races?.map((r) => r.name).filter(Boolean).join(', ') || null,
     lieu: {
-      latitude: Number.isFinite(lat) ? lat : null,
-      longitude: Number.isFinite(lon) ? lon : null,
+      latitude: lat != null && lon != null ? lat : null,
+      longitude: lat != null && lon != null ? lon : null,
       adresse: map0?.address ? stripTags(map0.address).replace(/\n/g, ', ') : null,
     },
   };

@@ -186,9 +186,7 @@ describe('mapEstablishments', () => {
     assert.equal(mapEstablishments({}).size, 0);
   });
 
-  test('coordonnées absentes (null ou "") → null, pas (0, 0)', {
-    todo: 'bug: Number(null) et Number("") valent 0 → le refuge est placé en (0, 0) avec une position « exacte »',
-  }, () => {
+  test('coordonnées absentes (null ou "") → null, pas (0, 0)', () => {
     const map = mapEstablishments({
       items: [{ ID: 9, name: 'Refuge X', url: '/etablissement/x/', address: 'rue<br>75011 Paris', latitude: null, longitude: '' }],
     });
@@ -323,9 +321,7 @@ describe('parseFiche', () => {
     assert.equal(parseFiche(null).date_naissance, null);
   });
 
-  test('map[0] avec latitude/longitude null → null, pas (0, 0)', {
-    todo: 'bug: Number(null) vaut 0 dans parseFiche → coordonnées (0, 0) appliquées ensuite comme « exactes »',
-  }, () => {
+  test('map[0] avec latitude/longitude null → null, pas (0, 0)', () => {
     const f = clone(FICHE);
     f.content.establishment.map[0].latitude = null;
     f.content.establishment.map[0].longitude = null;
