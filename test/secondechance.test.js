@@ -79,7 +79,8 @@ const SWEETY = parseSearchPage(pageAvecCartes(carteHtml({
 
 /** Configuration complète (valeurs par défaut + surcharges). */
 function configSC({ zone = { mode: 'departements', departements: ['75'] }, age_max_mois = 4, sc = {}, nouveaux = {} } = {}) {
-  return deepMerge(DEFAULT_CONFIG, { zone, age_max_mois, sources: { secondechance: sc }, nouveaux_arrivants: nouveaux });
+  // tous_ages: true par défaut dans ces tests pour exercer aussi la recherche « tous âges » (nouveaux arrivants)
+  return deepMerge(DEFAULT_CONFIG, { zone, age_max_mois, sources: { secondechance: sc }, nouveaux_arrivants: { tous_ages: true, ...nouveaux } });
 }
 
 /**

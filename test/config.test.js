@@ -100,7 +100,7 @@ describe('DEFAULT_CONFIG', () => {
     assert.equal(c.zone.rayon_km, 50);
     assert.deepEqual(c.zone.departements, ['75', '92', '93', '94']);
     assert.equal(c.age_max_mois, 4);
-    assert.deepEqual(c.nouveaux_arrivants, { jours: 7, critere: 'les_deux', tous_ages: true });
+    assert.deepEqual(c.nouveaux_arrivants, { jours: 7, critere: 'les_deux', tous_ages: false });
     assert.equal(c.inclure_reserves, false);
     assert.equal(c.sources.laspa.actif, true);
     assert.deepEqual(c.sources.secondechance, { actif: true, adoptable_hors_departement: false, pages_max: 10, fiches_details: true });

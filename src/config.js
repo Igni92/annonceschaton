@@ -12,7 +12,7 @@ export const DEFAULT_CONFIG = Object.freeze({
     marge_departement_km: 25, // tolérance pour les annonces localisées seulement au département
   },
   age_max_mois: 4,
-  nouveaux_arrivants: { jours: 7, critere: 'les_deux', tous_ages: true },
+  nouveaux_arrivants: { jours: 7, critere: 'les_deux', tous_ages: false }, // tous_ages: true pour signaler aussi les adultes
   inclure_reserves: false,
   portees: { actif: true, taille_min: 2, tolerance_jours: 3, seulement: false }, // regroupement des frères et sœurs
   sources: {

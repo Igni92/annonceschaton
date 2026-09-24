@@ -217,60 +217,63 @@ suite('buildReport() — rapport Markdown / texte / HTML / JSON', () => {
     assert.equal(rapport({ now: TARD_LE_SOIR }).titre, 'Annonces chatons — vendredi 25 septembre 2026');
   });
 
-  test('sections et comptes : un chaton aussi nouvel arrivant n\'est compté qu\'une fois dans « nouveaux »', () => {
+  test('par défaut (tous_ages = false) : pas de section adultes, badge 🆕 sur les nouveaux chatons et note', () => {
+    const chaton1 = annonceSpa();
+    const chaton2 = annonceSc({ id: 'secondechance:2', nom: 'Mimi', age_mois: 3 });
+    const adulte = annonceSpa({ id: 'laspa:2002', nom: 'Otawa', age_mois: 24, date_naissance: '2024-09-03' });
+    const r = rapport({ kittens: [chaton1, chaton2], newcomers: [chaton1, adulte] });
+
+    assert.deepEqual(r.compte, { chatons: 2, portees: 0, nouveaux_chatons: 1, nouveaux: 1 });
+    assert.match(r.markdown, /^## 🐾 Chatons de moins de 4 mois \(2\)$/m);
+    assert.doesNotMatch(r.markdown, /## 🆕/);
+    assert.doesNotMatch(r.markdown, /Otawa/, 'un adulte nouvellement arrivé n\'est pas signalé');
+    assert.match(r.markdown, /^- 🆕 \*\*\[Ella\]/m);
+    assert.match(r.markdown, /^- \*\*\[Mimi\]/m, 'pas de badge sur un chaton déjà connu');
+    assert.ok(r.markdown.includes('_🆕 = 1 nouveau chaton (mis en ligne depuis 7 jours ou jamais vus)._'));
+    assert.match(r.text, /^• 🆕 Ella — /m);
+    assert.match(r.html, /^• 🆕 <a href=/m);
+    // Le JSON ne garde que les nouveaux chatons.
+    assert.deepEqual(r.json.nouveaux_arrivants.map((l) => l.nom), ['Ella']);
+    assert.equal(r.json.chatons.length, 2);
+  });
+
+  test('tous_ages = true : section « Nouveaux arrivants d\'autres âges », un chaton nouveau n\'y figure pas deux fois', () => {
     const chaton1 = annonceSpa();
     const chaton2 = annonceSc({ id: 'secondechance:2', nom: 'Mimi', age_mois: 3 });
     const adulte = annonceSpa({ id: 'laspa:2002', nom: 'Gros Minet', age_mois: 48, date_naissance: null });
     const adulte2 = annonceSc({ id: 'secondechance:3', nom: 'Félix', age_mois: 30, date_naissance: null });
-    const r = rapport({ kittens: [chaton1, chaton2], newcomers: [chaton1, adulte, adulte2] });
+    const config = configRapport({ nouveaux_arrivants: { tous_ages: true } });
+    const r = rapport({ kittens: [chaton1, chaton2], newcomers: [chaton1, adulte, adulte2], config });
 
-    assert.deepEqual(r.compte, { chatons: 2, portees: 0, nouveaux: 2 });
-    assert.match(r.markdown, /^## 🐾 Chatons de moins de 4 mois \(2\)$/m);
-    assert.match(r.markdown, /^## 🆕 Nouveaux arrivants \(mis en ligne depuis 7 jours ou jamais vus\) \(2\)$/m);
-    assert.match(r.text, /^🐾 CHATONS DE MOINS DE 4 MOIS \(2\)$/m);
-    assert.match(r.html, /^<b>🆕 Nouveaux arrivants \(mis en ligne depuis 7 jours ou jamais vus\) \(2\)<\/b>$/m);
-
-    // Ella (chaton ET nouvelle) n'apparaît qu'une fois ; les adultes sont dans la 2e section.
+    assert.deepEqual(r.compte, { chatons: 2, portees: 0, nouveaux_chatons: 1, nouveaux: 2 });
+    assert.match(r.markdown, /^## 🆕 Nouveaux arrivants d'autres âges \(mis en ligne depuis 7 jours ou jamais vus\) \(2\)$/m);
+    assert.match(r.html, /^<b>🆕 Nouveaux arrivants d'autres âges \(mis en ligne depuis 7 jours ou jamais vus\) \(2\)<\/b>$/m);
     assert.equal(r.markdown.match(/\*\*\[Ella\]/g).length, 1);
     const [avant, apres] = r.markdown.split('## 🆕');
+    assert.match(avant, /🆕 \*\*\[Ella\]/);
     assert.match(avant, /\[Mimi\]/);
     assert.match(apres, /\[Gros Minet\]/);
     assert.match(apres, /\[Félix\]/);
-    // Le JSON garde la liste complète des nouveaux arrivants.
     assert.equal(r.json.nouveaux_arrivants.length, 3);
-    assert.equal(r.json.chatons.length, 2);
-  });
-
-  test('note « aussi des nouveaux arrivants » dans les trois formats, seulement si un chaton est aussi nouveau', () => {
-    const chaton = annonceSpa();
-    const tigrou = annonceSc({ id: 'secondechance:9', nom: 'Tigrou' });
-    const r = rapport({ kittens: [chaton], newcomers: [chaton, tigrou] });
-    const note = '1 chaton(s) ci-dessus sont aussi des nouveaux arrivants.';
-    assert.ok(r.markdown.includes(`_${note}_`));
-    assert.ok(r.text.includes(`  ${note}`));
-    assert.ok(r.html.includes(`<i>${note}</i>`));
-
-    const sansRecoupement = rapport({ kittens: [chaton], newcomers: [tigrou] });
-    for (const format of [sansRecoupement.markdown, sansRecoupement.text, sansRecoupement.html]) {
-      assert.doesNotMatch(format, /aussi des nouveaux arrivants/);
-    }
   });
 
   test('sections vides : messages dédiés et comptes à zéro', () => {
     const r = rapport();
-    assert.deepEqual(r.compte, { chatons: 0, portees: 0, nouveaux: 0 });
+    assert.deepEqual(r.compte, { chatons: 0, portees: 0, nouveaux_chatons: 0, nouveaux: 0 });
     assert.match(r.markdown, /## 🐾 Chatons de moins de 4 mois \(0\)\n\n_Aucun chaton correspondant aujourd'hui\._/);
-    assert.match(r.markdown, /\(0\)\n\n_Aucun nouvel arrivant\._/);
+    assert.doesNotMatch(r.markdown, /🆕 = /, 'pas de note sans chaton');
     assert.ok(r.text.includes("  Aucun chaton correspondant aujourd'hui."));
     assert.ok(r.html.includes("<i>Aucun chaton correspondant aujourd'hui.</i>"));
+    const avecAdultes = rapport({ config: configRapport({ nouveaux_arrivants: { tous_ages: true } }) });
+    assert.match(avecAdultes.markdown, /\(0\)\n\n_Aucun nouvel arrivant\._/);
   });
 
   test('libellé du critère « nouveaux arrivants » selon la configuration', () => {
-    const parDate = rapport({ config: configRapport({ age_max_mois: 6, nouveaux_arrivants: { critere: 'date_publication', jours: 1 } }) });
-    assert.match(parDate.markdown, /## 🐾 Chatons de moins de 6 mois \(0\)/);
-    assert.match(parDate.markdown, /## 🆕 Nouveaux arrivants \(mis en ligne depuis 1 jour\) \(0\)/);
-    const jamaisVus = rapport({ config: configRapport({ nouveaux_arrivants: { critere: 'premiere_vue' } }) });
-    assert.match(jamaisVus.markdown, /## 🆕 Nouveaux arrivants \(jamais vus par le bot\) \(0\)/);
+    const parDate = rapport({ kittens: [annonceSpa()], config: configRapport({ age_max_mois: 6, nouveaux_arrivants: { critere: 'date_publication', jours: 1 } }) });
+    assert.match(parDate.markdown, /## 🐾 Chatons de moins de 6 mois \(1\)/);
+    assert.ok(parDate.markdown.includes('_🆕 = 0 nouveau chaton (mis en ligne depuis 1 jour)._'));
+    const jamaisVus = rapport({ config: configRapport({ nouveaux_arrivants: { critere: 'premiere_vue', tous_ages: true } }) });
+    assert.match(jamaisVus.markdown, /## 🆕 Nouveaux arrivants d'autres âges \(jamais vus par le bot\) \(0\)/);
   });
 
   test('section « Avertissements » présente seulement s\'il y a des erreurs', () => {

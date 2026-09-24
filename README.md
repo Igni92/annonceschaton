@@ -78,7 +78,7 @@ Copiez `config.example.json` en `config.json`. Toutes les clés sont facultative
 | `age_max_mois` | `4` | Un chaton est retenu si son âge est **strictement inférieur** à cette valeur |
 | `nouveaux_arrivants.jours` | `7` | Fenêtre « mis en ligne depuis N jours » |
 | `nouveaux_arrivants.critere` | `"les_deux"` | `date_publication`, `premiere_vue` (jamais vu par le bot) ou `les_deux` |
-| `nouveaux_arrivants.tous_ages` | `true` | `false` pour ne signaler que les nouveaux chatons |
+| `nouveaux_arrivants.tous_ages` | `false` | `false` : seuls les nouveaux **chatons** sont signalés (badge « nouveau » dans la liste). `true` : les nouveaux arrivants de tous âges ont leur propre section |
 | `inclure_reserves` | `false` | Inclure les animaux marqués « réservé » |
 | `portees.actif` | `true` | Regrouper les chatons d'une même portée (frères et sœurs) |
 | `portees.taille_min` | `2` | Nombre minimal de chatons pour former une portée |

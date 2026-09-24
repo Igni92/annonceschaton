@@ -19,10 +19,10 @@
   "age_max_mois": 4,
 
   "nouveaux_arrivants": {
-    "//": "critere : 'date_publication' (mis en ligne depuis moins de N jours), 'premiere_vue' (jamais vu par le bot) ou 'les_deux'.",
+    "//": "critere : 'date_publication' (mis en ligne depuis moins de N jours), 'premiere_vue' (jamais vu par le bot) ou 'les_deux'. tous_ages : false = seuls les nouveaux chatons sont signalés (badge « nouveau ») ; true = les nouveaux arrivants de tous âges ont leur propre section.",
     "jours": 7,
     "critere": "les_deux",
-    "tous_ages": true
+    "tous_ages": false
   },
 
   "inclure_reserves": false,

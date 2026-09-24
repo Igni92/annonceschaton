@@ -38,6 +38,7 @@ function ageLine(l) {
 export function describe(l) {
   return {
     nom: l.nom || '(sans nom)',
+    nouveau: Boolean(l.nouveau),
     source: l.source_label ?? l.source,
     age: ageLine(l),
     sexe: SEX_LABEL[l.sexe] ?? null,
@@ -81,7 +82,7 @@ function kittenBlocks(kittens, portees) {
 function itemMarkdown(l) {
   const d = describe(l);
   const meta = [d.age, d.sexe, d.race, d.reserve].filter(Boolean).join(' · ');
-  const lines = [`- **[${d.nom}](${d.url})** — ${meta}`];
+  const lines = [`- ${d.nouveau ? '🆕 ' : ''}**[${d.nom}](${d.url})** — ${meta}`];
   if (d.lieu) lines.push(`  📍 ${d.lieu}`);
   if (d.publication) lines.push(`  🗓 ${d.publication} · ${d.source}`); else lines.push(`  🏷 ${d.source}`);
   return lines.join('\n');
@@ -90,7 +91,7 @@ function itemMarkdown(l) {
 function itemText(l) {
   const d = describe(l);
   const meta = [d.age, d.sexe, d.race, d.reserve].filter(Boolean).join(' · ');
-  const lines = [`• ${d.nom} — ${meta}`];
+  const lines = [`• ${d.nouveau ? '🆕 ' : ''}${d.nom} — ${meta}`];
   if (d.lieu) lines.push(`    📍 ${d.lieu}`);
   lines.push(`    ${[d.publication, d.source].filter(Boolean).join(' · ')}`);
   lines.push(`    ${d.url}`);
@@ -100,7 +101,7 @@ function itemText(l) {
 function itemHtml(l) {
   const d = describe(l);
   const meta = [d.age, d.sexe, d.race, d.reserve].filter(Boolean).map(esc).join(' · ');
-  const lines = [`• <a href="${esc(d.url)}"><b>${esc(d.nom)}</b></a> — ${meta}`];
+  const lines = [`• ${d.nouveau ? '🆕 ' : ''}<a href="${esc(d.url)}"><b>${esc(d.nom)}</b></a> — ${meta}`];
   if (d.lieu) lines.push(`   📍 ${esc(d.lieu)}`);
   lines.push(`   ${esc([d.publication, d.source].filter(Boolean).join(' · '))}`);
   return lines.join('\n');
@@ -125,14 +126,21 @@ export function buildReport({ kittens, newcomers, portees = [], config, zone, no
     ? `mis en ligne depuis ${na.jours} jour${na.jours > 1 ? 's' : ''}`
     : na.critere === 'premiere_vue' ? 'jamais vus par le bot' : `mis en ligne depuis ${na.jours} jour${na.jours > 1 ? 's' : ''} ou jamais vus`;
   const kittenIds = new Set(kittens.map((l) => l.id));
+  const newIds = new Set(newcomers.map((l) => l.id));
+  for (const l of kittens) l.nouveau = newIds.has(l.id);
+  const nouveauxChatons = kittens.filter((l) => l.nouveau).length;
   const newcomersOnly = newcomers.filter((l) => !kittenIds.has(l.id));
+  const tousAges = na.tous_ages === true;
 
   const { blocks, seuls } = kittenBlocks(kittens, portees);
-  const kittenTitle = na && config.portees?.seulement ? `Portées de chatons de moins de ${maxAge} mois` : `Chatons de moins de ${maxAge} mois`;
+  const kittenTitle = `${config.portees?.seulement ? 'Portées de chatons' : 'Chatons'} de moins de ${maxAge} mois`;
   const sections = [
-    { emoji: '🐾', titre: kittenTitle, items: kittens, vide: 'Aucun chaton correspondant aujourd\'hui.', blocks, seuls },
-    { emoji: '🆕', titre: `Nouveaux arrivants (${critereLabel})`, items: newcomersOnly, vide: 'Aucun nouvel arrivant.', note: kittens.length && newcomers.length !== newcomersOnly.length ? `${newcomers.length - newcomersOnly.length} chaton(s) ci-dessus sont aussi des nouveaux arrivants.` : null },
+    { emoji: '🐾', titre: kittenTitle, items: kittens, vide: 'Aucun chaton correspondant aujourd\'hui.', blocks, seuls,
+      note: kittens.length ? `🆕 = ${nouveauxChatons} nouveau${nouveauxChatons > 1 ? 'x' : ''} chaton${nouveauxChatons > 1 ? 's' : ''} (${critereLabel}).` : null },
   ];
+  if (tousAges) {
+    sections.push({ emoji: '🆕', titre: `Nouveaux arrivants d'autres âges (${critereLabel})`, items: newcomersOnly, vide: 'Aucun nouvel arrivant.' });
+  }
 
   const sourcesLabel = Object.entries(config.sources).filter(([, v]) => v?.actif).map(([k]) => (k === 'laspa' ? 'La SPA' : 'Seconde Chance')).join(' + ');
   const footer = [`Zone : ${zone.label}`, `Sources : ${sourcesLabel}`];
@@ -185,11 +193,11 @@ export function buildReport({ kittens, newcomers, portees = [], config, zone, no
     parametres: { age_max_mois: maxAge, nouveaux_arrivants: na, inclure_reserves: config.inclure_reserves },
     chatons: kittens.map(stripInternal),
     portees,
-    nouveaux_arrivants: newcomers.map(stripInternal),
+    nouveaux_arrivants: (tousAges ? newcomers : newcomers.filter((l) => kittenIds.has(l.id))).map(stripInternal),
     stats, erreurs: errors,
   };
 
-  return { titre, markdown, text, html, json, compte: { chatons: kittens.length, portees: portees.length, nouveaux: newcomersOnly.length } };
+  return { titre, markdown, text, html, json, compte: { chatons: kittens.length, portees: portees.length, nouveaux_chatons: nouveauxChatons, nouveaux: tousAges ? newcomersOnly.length : nouveauxChatons } };
 }
 
 function stripInternal(l) {

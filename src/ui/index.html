@@ -52,6 +52,7 @@
   .pet .name { font-weight:700; font-size:16px; }
   .pet .meta, .pet .lieu, .pet .date { font-size:13px; color:var(--muted); }
   .pet .badge { display:inline-block; font-size:11px; padding:2px 7px; border-radius:999px; background:var(--accent-2); color:#7a3312; margin-right:4px; }
+  .pet .badge.new { background:#dff3e6; color:#1f6b42; }
   .pet a { color:var(--accent); font-size:13px; font-weight:600; text-decoration:none; margin-top:4px; }
   .pet a:hover { text-decoration:underline; }
   details summary { cursor:pointer; color:var(--muted); font-size:13px; }
@@ -340,7 +341,7 @@ function petCard(l) {
   return `<div class="pet">
     ${l.image ? `<img src="${esc(l.image)}" alt="" loading="lazy" onerror="this.replaceWith(Object.assign(document.createElement('div'),{className:'noimg',textContent:'🐱'}))">` : '<div class="noimg">🐱</div>'}
     <div class="body">
-      <div class="name">${esc(l.nom || '(sans nom)')} ${l.reserve ? '<span class="badge">réservé</span>' : ''}</div>
+      <div class="name">${esc(l.nom || '(sans nom)')} ${l.nouveau ? '<span class="badge new">nouveau</span>' : ''}${l.reserve ? '<span class="badge">réservé</span>' : ''}</div>
       <div class="meta">${esc(meta)}</div>
       <div class="lieu">📍 ${esc(lieuText(l))}</div>
       <div class="date">${l.date_publication ? `🗓 ${fmtDate(l.date_publication)} · ` : ''}${esc(l.source_label ?? l.source)}</div>
@@ -373,20 +374,26 @@ function renderKittens(chatons, portees) {
 function renderReport(r) {
   const chatons = r.chatons ?? [], nouveaux = r.nouveaux_arrivants ?? [];
   const ids = new Set(chatons.map((l) => l.id));
+  const newIds = new Set(nouveaux.map((l) => l.id));
+  for (const l of chatons) l.nouveau = newIds.has(l.id);
+  const nouveauxChatons = chatons.filter((l) => l.nouveau).length;
+  const tousAges = r.parametres?.nouveaux_arrivants?.tous_ages === true;
   const nouveauxSeuls = nouveaux.filter((l) => !ids.has(l.id));
   const s = r.stats ?? {};
   $('report').innerHTML = `
     <div class="stats">
       <div class="stat"><b>${chatons.length}</b><span>chaton${chatons.length > 1 ? 's' : ''} de moins de ${esc(r.parametres?.age_max_mois)} mois</span></div>
-      <div class="stat"><b>${nouveauxSeuls.length}</b><span>nouveaux arrivants</span></div>
+      <div class="stat"><b>${nouveauxChatons}</b><span>nouveau${nouveauxChatons > 1 ? 'x' : ''} chaton${nouveauxChatons > 1 ? 's' : ''}</span></div>
+      ${tousAges ? `<div class="stat"><b>${nouveauxSeuls.length}</b><span>nouveaux arrivants d'autres âges</span></div>` : ''}
+      <div class="stat"><b>${(r.portees ?? []).length}</b><span>portée${(r.portees ?? []).length > 1 ? 's' : ''}</span></div>
       <div class="stat"><b>${s.annonces_zone ?? '–'}</b><span>annonces dans la zone</span></div>
       <div class="stat"><b>${s.duree_s ?? '–'} s</b><span>${s.requests ?? '–'} requêtes</span></div>
     </div>
     ${(r.erreurs ?? []).length ? `<div class="msg info" style="display:block">${(r.erreurs).map(esc).join('<br>')}</div>` : ''}
-    <h3 class="sec">🐾 Chatons (${chatons.length})${(r.portees ?? []).length ? ` · ${r.portees.length} portée${r.portees.length > 1 ? 's' : ''}` : ''}</h3>
+    <h3 class="sec">🐾 Chatons (${chatons.length})${(r.portees ?? []).length ? ` · ${r.portees.length} portée${r.portees.length > 1 ? 's' : ''}` : ''} · 🆕 ${nouveauxChatons} nouveau${nouveauxChatons > 1 ? 'x' : ''}</h3>
     ${chatons.length ? renderKittens(chatons, r.portees ?? []) : '<p class="empty">Aucun chaton correspondant aujourd\'hui.</p>'}
-    <h3 class="sec">🆕 Nouveaux arrivants (${nouveauxSeuls.length})</h3>
-    ${nouveauxSeuls.length ? `<div class="cards">${nouveauxSeuls.map(petCard).join('')}</div>` : '<p class="empty">Aucun nouvel arrivant.</p>'}
+    ${tousAges ? `<h3 class="sec">🆕 Nouveaux arrivants d'autres âges (${nouveauxSeuls.length})</h3>
+    ${nouveauxSeuls.length ? `<div class="cards">${nouveauxSeuls.map(petCard).join('')}</div>` : '<p class="empty">Aucun nouvel arrivant.</p>'}` : ''}
     <details style="margin-top:14px"><summary>Rapport texte</summary><pre class="logs" style="max-height:400px;margin-top:8px">${esc(r.texte ?? '')}</pre></details>`;
   $('report').scrollIntoView({ behavior: 'smooth', block: 'start' });
 }
