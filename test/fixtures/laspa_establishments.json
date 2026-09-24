@@ -1,0 +1,70 @@
+{
+  "items": [
+    {
+      "ID": "7289",
+      "name": "Club Jeunes d'Orgeval",
+      "address": "1 Route Royale<br>78630 Orgeval",
+      "latitude": "48.90466416893593",
+      "longitude": "1.9370745433045211",
+      "url": "/etablissement/club-jeunes-dorgeval/",
+      "filter": {
+        "name": "Clubs jeunes"
+      }
+    },
+    {
+      "ID": "7297",
+      "name": "Club Jeunes de Saint-Pierre-du-Mont",
+      "address": "Lieu-dit \"Candille\", Route départementale 390<br>40280 Saint-Pierre Du Mont",
+      "latitude": "43.855507893254114",
+      "longitude": "-0.544799746368973",
+      "url": "/etablissement/club-jeunes-de-saint-pierre-du-mont/",
+      "filter": {
+        "name": "Clubs jeunes"
+      }
+    },
+    {
+      "ID": "7373",
+      "name": "La SPA - Refuge de Saint-Pierre-du-Mont – Mont-de-Marsan",
+      "address": "3288 Route de Haut Mauco<br>40280 Saint-Pierre-Du-Mont",
+      "latitude": "43.856085",
+      "longitude": "-0.544466",
+      "url": "/etablissement/refuge-spa-de-saint-pierre-du-mont-mont-de-marsan/",
+      "filter": {
+        "name": "Refuges"
+      }
+    },
+    {
+      "ID": "7389",
+      "name": "La SPA - Refuge de Marennes – Lyon",
+      "address": "660 Chemin de Chantemerle<br>69970 Marennes",
+      "latitude": "45.613324",
+      "longitude": "4.904908",
+      "url": "/etablissement/refuge-spa-de-marennes-lyon/",
+      "filter": {
+        "name": "Refuges"
+      }
+    },
+    {
+      "ID": "7395",
+      "name": "La SPA - Refuge d'Orgeval",
+      "address": "1 Route Royale<br>78630 Orgeval",
+      "latitude": "48.904123",
+      "longitude": "1.937452",
+      "url": "/etablissement/refuge-spa-dorgeval/",
+      "filter": {
+        "name": "Refuges"
+      }
+    },
+    {
+      "ID": "7403",
+      "name": "La SPA - Refuge de Gennevilliers – Grammont",
+      "address": "121 Av. Marcel Paul 117 119<br>92230 Gennevilliers",
+      "latitude": "48.944706567958",
+      "longitude": "2.3035848619018",
+      "url": "/etablissement/refuge-spa-de-gennevilliers-grammont/",
+      "filter": {
+        "name": "Refuges"
+      }
+    }
+  ]
+}

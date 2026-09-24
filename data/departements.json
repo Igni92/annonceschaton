@@ -1,0 +1,608 @@
+{
+  "01": {
+    "nom": "Ain",
+    "prefecture": "Bourg-en-Bresse",
+    "latitude": 46.205,
+    "longitude": 5.225
+  },
+  "02": {
+    "nom": "Aisne",
+    "prefecture": "Laon",
+    "latitude": 49.564,
+    "longitude": 3.62
+  },
+  "03": {
+    "nom": "Allier",
+    "prefecture": "Moulins",
+    "latitude": 46.566,
+    "longitude": 3.333
+  },
+  "04": {
+    "nom": "Alpes-de-Haute-Provence",
+    "prefecture": "Digne-les-Bains",
+    "latitude": 44.092,
+    "longitude": 6.236
+  },
+  "05": {
+    "nom": "Hautes-Alpes",
+    "prefecture": "Gap",
+    "latitude": 44.559,
+    "longitude": 6.079
+  },
+  "06": {
+    "nom": "Alpes-Maritimes",
+    "prefecture": "Nice",
+    "latitude": 43.71,
+    "longitude": 7.262
+  },
+  "07": {
+    "nom": "Ardèche",
+    "prefecture": "Privas",
+    "latitude": 44.735,
+    "longitude": 4.599
+  },
+  "08": {
+    "nom": "Ardennes",
+    "prefecture": "Charleville-Mézières",
+    "latitude": 49.774,
+    "longitude": 4.72
+  },
+  "09": {
+    "nom": "Ariège",
+    "prefecture": "Foix",
+    "latitude": 42.965,
+    "longitude": 1.605
+  },
+  "10": {
+    "nom": "Aube",
+    "prefecture": "Troyes",
+    "latitude": 48.297,
+    "longitude": 4.074
+  },
+  "11": {
+    "nom": "Aude",
+    "prefecture": "Carcassonne",
+    "latitude": 43.213,
+    "longitude": 2.351
+  },
+  "12": {
+    "nom": "Aveyron",
+    "prefecture": "Rodez",
+    "latitude": 44.35,
+    "longitude": 2.575
+  },
+  "13": {
+    "nom": "Bouches-du-Rhône",
+    "prefecture": "Marseille",
+    "latitude": 43.296,
+    "longitude": 5.37
+  },
+  "14": {
+    "nom": "Calvados",
+    "prefecture": "Caen",
+    "latitude": 49.183,
+    "longitude": -0.37
+  },
+  "15": {
+    "nom": "Cantal",
+    "prefecture": "Aurillac",
+    "latitude": 44.926,
+    "longitude": 2.444
+  },
+  "16": {
+    "nom": "Charente",
+    "prefecture": "Angoulême",
+    "latitude": 45.649,
+    "longitude": 0.156
+  },
+  "17": {
+    "nom": "Charente-Maritime",
+    "prefecture": "La Rochelle",
+    "latitude": 46.16,
+    "longitude": -1.152
+  },
+  "18": {
+    "nom": "Cher",
+    "prefecture": "Bourges",
+    "latitude": 47.081,
+    "longitude": 2.399
+  },
+  "19": {
+    "nom": "Corrèze",
+    "prefecture": "Tulle",
+    "latitude": 45.267,
+    "longitude": 1.772
+  },
+  "2A": {
+    "nom": "Corse-du-Sud",
+    "prefecture": "Ajaccio",
+    "latitude": 41.919,
+    "longitude": 8.739
+  },
+  "2B": {
+    "nom": "Haute-Corse",
+    "prefecture": "Bastia",
+    "latitude": 42.697,
+    "longitude": 9.45
+  },
+  "21": {
+    "nom": "Côte-d'Or",
+    "prefecture": "Dijon",
+    "latitude": 47.322,
+    "longitude": 5.041
+  },
+  "22": {
+    "nom": "Côtes-d'Armor",
+    "prefecture": "Saint-Brieuc",
+    "latitude": 48.514,
+    "longitude": -2.765
+  },
+  "23": {
+    "nom": "Creuse",
+    "prefecture": "Guéret",
+    "latitude": 46.171,
+    "longitude": 1.871
+  },
+  "24": {
+    "nom": "Dordogne",
+    "prefecture": "Périgueux",
+    "latitude": 45.184,
+    "longitude": 0.721
+  },
+  "25": {
+    "nom": "Doubs",
+    "prefecture": "Besançon",
+    "latitude": 47.238,
+    "longitude": 6.024
+  },
+  "26": {
+    "nom": "Drôme",
+    "prefecture": "Valence",
+    "latitude": 44.933,
+    "longitude": 4.892
+  },
+  "27": {
+    "nom": "Eure",
+    "prefecture": "Évreux",
+    "latitude": 49.024,
+    "longitude": 1.151
+  },
+  "28": {
+    "nom": "Eure-et-Loir",
+    "prefecture": "Chartres",
+    "latitude": 48.443,
+    "longitude": 1.489
+  },
+  "29": {
+    "nom": "Finistère",
+    "prefecture": "Quimper",
+    "latitude": 47.996,
+    "longitude": -4.097
+  },
+  "30": {
+    "nom": "Gard",
+    "prefecture": "Nîmes",
+    "latitude": 43.837,
+    "longitude": 4.36
+  },
+  "31": {
+    "nom": "Haute-Garonne",
+    "prefecture": "Toulouse",
+    "latitude": 43.604,
+    "longitude": 1.444
+  },
+  "32": {
+    "nom": "Gers",
+    "prefecture": "Auch",
+    "latitude": 43.646,
+    "longitude": 0.586
+  },
+  "33": {
+    "nom": "Gironde",
+    "prefecture": "Bordeaux",
+    "latitude": 44.838,
+    "longitude": -0.579
+  },
+  "34": {
+    "nom": "Hérault",
+    "prefecture": "Montpellier",
+    "latitude": 43.611,
+    "longitude": 3.877
+  },
+  "35": {
+    "nom": "Ille-et-Vilaine",
+    "prefecture": "Rennes",
+    "latitude": 48.117,
+    "longitude": -1.678
+  },
+  "36": {
+    "nom": "Indre",
+    "prefecture": "Châteauroux",
+    "latitude": 46.811,
+    "longitude": 1.691
+  },
+  "37": {
+    "nom": "Indre-et-Loire",
+    "prefecture": "Tours",
+    "latitude": 47.394,
+    "longitude": 0.685
+  },
+  "38": {
+    "nom": "Isère",
+    "prefecture": "Grenoble",
+    "latitude": 45.188,
+    "longitude": 5.725
+  },
+  "39": {
+    "nom": "Jura",
+    "prefecture": "Lons-le-Saunier",
+    "latitude": 46.675,
+    "longitude": 5.555
+  },
+  "40": {
+    "nom": "Landes",
+    "prefecture": "Mont-de-Marsan",
+    "latitude": 43.89,
+    "longitude": -0.5
+  },
+  "41": {
+    "nom": "Loir-et-Cher",
+    "prefecture": "Blois",
+    "latitude": 47.586,
+    "longitude": 1.336
+  },
+  "42": {
+    "nom": "Loire",
+    "prefecture": "Saint-Étienne",
+    "latitude": 45.44,
+    "longitude": 4.387
+  },
+  "43": {
+    "nom": "Haute-Loire",
+    "prefecture": "Le Puy-en-Velay",
+    "latitude": 45.043,
+    "longitude": 3.885
+  },
+  "44": {
+    "nom": "Loire-Atlantique",
+    "prefecture": "Nantes",
+    "latitude": 47.218,
+    "longitude": -1.554
+  },
+  "45": {
+    "nom": "Loiret",
+    "prefecture": "Orléans",
+    "latitude": 47.902,
+    "longitude": 1.909
+  },
+  "46": {
+    "nom": "Lot",
+    "prefecture": "Cahors",
+    "latitude": 44.449,
+    "longitude": 1.436
+  },
+  "47": {
+    "nom": "Lot-et-Garonne",
+    "prefecture": "Agen",
+    "latitude": 44.203,
+    "longitude": 0.616
+  },
+  "48": {
+    "nom": "Lozère",
+    "prefecture": "Mende",
+    "latitude": 44.518,
+    "longitude": 3.5
+  },
+  "49": {
+    "nom": "Maine-et-Loire",
+    "prefecture": "Angers",
+    "latitude": 47.478,
+    "longitude": -0.563
+  },
+  "50": {
+    "nom": "Manche",
+    "prefecture": "Saint-Lô",
+    "latitude": 49.116,
+    "longitude": -1.09
+  },
+  "51": {
+    "nom": "Marne",
+    "prefecture": "Châlons-en-Champagne",
+    "latitude": 48.957,
+    "longitude": 4.365
+  },
+  "52": {
+    "nom": "Haute-Marne",
+    "prefecture": "Chaumont",
+    "latitude": 48.111,
+    "longitude": 5.139
+  },
+  "53": {
+    "nom": "Mayenne",
+    "prefecture": "Laval",
+    "latitude": 48.071,
+    "longitude": -0.77
+  },
+  "54": {
+    "nom": "Meurthe-et-Moselle",
+    "prefecture": "Nancy",
+    "latitude": 48.692,
+    "longitude": 6.184
+  },
+  "55": {
+    "nom": "Meuse",
+    "prefecture": "Bar-le-Duc",
+    "latitude": 48.773,
+    "longitude": 5.161
+  },
+  "56": {
+    "nom": "Morbihan",
+    "prefecture": "Vannes",
+    "latitude": 47.658,
+    "longitude": -2.76
+  },
+  "57": {
+    "nom": "Moselle",
+    "prefecture": "Metz",
+    "latitude": 49.12,
+    "longitude": 6.177
+  },
+  "58": {
+    "nom": "Nièvre",
+    "prefecture": "Nevers",
+    "latitude": 46.99,
+    "longitude": 3.159
+  },
+  "59": {
+    "nom": "Nord",
+    "prefecture": "Lille",
+    "latitude": 50.63,
+    "longitude": 3.058
+  },
+  "60": {
+    "nom": "Oise",
+    "prefecture": "Beauvais",
+    "latitude": 49.43,
+    "longitude": 2.081
+  },
+  "61": {
+    "nom": "Orne",
+    "prefecture": "Alençon",
+    "latitude": 48.432,
+    "longitude": 0.092
+  },
+  "62": {
+    "nom": "Pas-de-Calais",
+    "prefecture": "Arras",
+    "latitude": 50.291,
+    "longitude": 2.777
+  },
+  "63": {
+    "nom": "Puy-de-Dôme",
+    "prefecture": "Clermont-Ferrand",
+    "latitude": 45.777,
+    "longitude": 3.087
+  },
+  "64": {
+    "nom": "Pyrénées-Atlantiques",
+    "prefecture": "Pau",
+    "latitude": 43.295,
+    "longitude": -0.371
+  },
+  "65": {
+    "nom": "Hautes-Pyrénées",
+    "prefecture": "Tarbes",
+    "latitude": 43.233,
+    "longitude": 0.078
+  },
+  "66": {
+    "nom": "Pyrénées-Orientales",
+    "prefecture": "Perpignan",
+    "latitude": 42.699,
+    "longitude": 2.895
+  },
+  "67": {
+    "nom": "Bas-Rhin",
+    "prefecture": "Strasbourg",
+    "latitude": 48.573,
+    "longitude": 7.752
+  },
+  "68": {
+    "nom": "Haut-Rhin",
+    "prefecture": "Colmar",
+    "latitude": 48.079,
+    "longitude": 7.358
+  },
+  "69": {
+    "nom": "Rhône",
+    "prefecture": "Lyon",
+    "latitude": 45.764,
+    "longitude": 4.836
+  },
+  "70": {
+    "nom": "Haute-Saône",
+    "prefecture": "Vesoul",
+    "latitude": 47.62,
+    "longitude": 6.155
+  },
+  "71": {
+    "nom": "Saône-et-Loire",
+    "prefecture": "Mâcon",
+    "latitude": 46.307,
+    "longitude": 4.829
+  },
+  "72": {
+    "nom": "Sarthe",
+    "prefecture": "Le Mans",
+    "latitude": 48.006,
+    "longitude": 0.2
+  },
+  "73": {
+    "nom": "Savoie",
+    "prefecture": "Chambéry",
+    "latitude": 45.564,
+    "longitude": 5.918
+  },
+  "74": {
+    "nom": "Haute-Savoie",
+    "prefecture": "Annecy",
+    "latitude": 45.899,
+    "longitude": 6.129
+  },
+  "75": {
+    "nom": "Paris",
+    "prefecture": "Paris",
+    "latitude": 48.857,
+    "longitude": 2.352
+  },
+  "76": {
+    "nom": "Seine-Maritime",
+    "prefecture": "Rouen",
+    "latitude": 49.443,
+    "longitude": 1.099
+  },
+  "77": {
+    "nom": "Seine-et-Marne",
+    "prefecture": "Melun",
+    "latitude": 48.54,
+    "longitude": 2.66
+  },
+  "78": {
+    "nom": "Yvelines",
+    "prefecture": "Versailles",
+    "latitude": 48.805,
+    "longitude": 2.135
+  },
+  "79": {
+    "nom": "Deux-Sèvres",
+    "prefecture": "Niort",
+    "latitude": 46.323,
+    "longitude": -0.465
+  },
+  "80": {
+    "nom": "Somme",
+    "prefecture": "Amiens",
+    "latitude": 49.895,
+    "longitude": 2.302
+  },
+  "81": {
+    "nom": "Tarn",
+    "prefecture": "Albi",
+    "latitude": 43.929,
+    "longitude": 2.148
+  },
+  "82": {
+    "nom": "Tarn-et-Garonne",
+    "prefecture": "Montauban",
+    "latitude": 44.018,
+    "longitude": 1.355
+  },
+  "83": {
+    "nom": "Var",
+    "prefecture": "Toulon",
+    "latitude": 43.124,
+    "longitude": 5.928
+  },
+  "84": {
+    "nom": "Vaucluse",
+    "prefecture": "Avignon",
+    "latitude": 43.949,
+    "longitude": 4.806
+  },
+  "85": {
+    "nom": "Vendée",
+    "prefecture": "La Roche-sur-Yon",
+    "latitude": 46.671,
+    "longitude": -1.427
+  },
+  "86": {
+    "nom": "Vienne",
+    "prefecture": "Poitiers",
+    "latitude": 46.58,
+    "longitude": 0.34
+  },
+  "87": {
+    "nom": "Haute-Vienne",
+    "prefecture": "Limoges",
+    "latitude": 45.834,
+    "longitude": 1.262
+  },
+  "88": {
+    "nom": "Vosges",
+    "prefecture": "Épinal",
+    "latitude": 48.172,
+    "longitude": 6.449
+  },
+  "89": {
+    "nom": "Yonne",
+    "prefecture": "Auxerre",
+    "latitude": 47.798,
+    "longitude": 3.567
+  },
+  "90": {
+    "nom": "Territoire de Belfort",
+    "prefecture": "Belfort",
+    "latitude": 47.64,
+    "longitude": 6.863
+  },
+  "91": {
+    "nom": "Essonne",
+    "prefecture": "Évry-Courcouronnes",
+    "latitude": 48.633,
+    "longitude": 2.441
+  },
+  "92": {
+    "nom": "Hauts-de-Seine",
+    "prefecture": "Nanterre",
+    "latitude": 48.892,
+    "longitude": 2.207
+  },
+  "93": {
+    "nom": "Seine-Saint-Denis",
+    "prefecture": "Bobigny",
+    "latitude": 48.91,
+    "longitude": 2.44
+  },
+  "94": {
+    "nom": "Val-de-Marne",
+    "prefecture": "Créteil",
+    "latitude": 48.79,
+    "longitude": 2.455
+  },
+  "95": {
+    "nom": "Val-d'Oise",
+    "prefecture": "Pontoise",
+    "latitude": 49.05,
+    "longitude": 2.1
+  },
+  "971": {
+    "nom": "Guadeloupe",
+    "prefecture": "Basse-Terre",
+    "latitude": 16.0,
+    "longitude": -61.725
+  },
+  "972": {
+    "nom": "Martinique",
+    "prefecture": "Fort-de-France",
+    "latitude": 14.616,
+    "longitude": -61.059
+  },
+  "973": {
+    "nom": "Guyane",
+    "prefecture": "Cayenne",
+    "latitude": 4.937,
+    "longitude": -52.326
+  },
+  "974": {
+    "nom": "La Réunion",
+    "prefecture": "Saint-Denis",
+    "latitude": -20.879,
+    "longitude": 55.448
+  },
+  "976": {
+    "nom": "Mayotte",
+    "prefecture": "Mamoudzou",
+    "latitude": -12.781,
+    "longitude": 45.228
+  }
+}

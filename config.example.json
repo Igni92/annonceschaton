@@ -1,0 +1,63 @@
+{
+  "//": "Copiez ce fichier en config.json et adaptez les valeurs. Toutes les clés sont optionnelles : les valeurs absentes prennent celles de src/config.js (DEFAULT_CONFIG).",
+
+  "zone": {
+    "//": "mode : 'rayon' (autour d'un point), 'departements' (liste de départements) ou 'france' (aucun filtre géographique).",
+    "mode": "rayon",
+    "centre": {
+      "//": "Renseignez latitude/longitude OU code_postal (centre = préfecture du département) OU ville (géocodage api-adresse.data.gouv.fr, repli sur le code postal).",
+      "ville": "Paris",
+      "code_postal": "75011",
+      "latitude": null,
+      "longitude": null
+    },
+    "rayon_km": 50,
+    "departements": ["75", "92", "93", "94"]
+  },
+
+  "age_max_mois": 4,
+
+  "nouveaux_arrivants": {
+    "//": "critere : 'date_publication' (mis en ligne depuis moins de N jours), 'premiere_vue' (jamais vu par le bot) ou 'les_deux'.",
+    "jours": 7,
+    "critere": "les_deux",
+    "tous_ages": true
+  },
+
+  "inclure_reserves": false,
+
+  "sources": {
+    "laspa": { "actif": true },
+    "secondechance": {
+      "actif": true,
+      "adoptable_hors_departement": false,
+      "pages_max": 10,
+      "fiches_details": true
+    }
+  },
+
+  "notifications": {
+    "console": true,
+    "fichier": { "actif": true, "dossier": "reports" },
+    "discord": { "actif": false, "webhook_url": "" },
+    "telegram": { "actif": false, "bot_token": "", "chat_id": "" }
+  },
+
+  "planification": {
+    "heure": "08:00",
+    "fuseau": "Europe/Paris"
+  },
+
+  "http": {
+    "user_agent": "annonceschaton-bot/1.0 (+https://github.com/Igni92/annonceschaton)",
+    "timeout_ms": 30000,
+    "tentatives": 3,
+    "concurrence": 4,
+    "delai_ms": 250
+  },
+
+  "etat": {
+    "fichier": "data/state.json",
+    "retention_jours": 90
+  }
+}

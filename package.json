@@ -1,0 +1,21 @@
+{
+  "name": "annonceschaton",
+  "version": "1.0.0",
+  "description": "Bot quotidien qui récupère les chatons de moins de 4 mois et les nouveaux arrivants à l'adoption dans une zone donnée (la-spa.fr, secondechance.org).",
+  "type": "module",
+  "private": true,
+  "engines": {
+    "node": ">=20"
+  },
+  "bin": {
+    "annonceschaton": "src/index.js"
+  },
+  "scripts": {
+    "start": "node src/index.js",
+    "once": "node src/index.js",
+    "loop": "node src/index.js --loop",
+    "dry-run": "node src/index.js --dry-run",
+    "test": "node --test test/"
+  },
+  "license": "MIT"
+}

@@ -1,0 +1,123 @@
+# annonceschaton 🐾
+
+Petit bot qui récupère **chaque jour** les annonces d'adoption de **chatons de moins de 4 mois** et les **nouveaux arrivants** dans une **zone géographique** de votre choix, puis vous envoie un rapport (console, fichier, Discord ou Telegram).
+
+Toutes les variables (zone, âge maximal, fenêtre « nouveaux arrivants », sources, notifications, heure d'exécution…) sont modifiables dans `config.json`, par variables d'environnement ou en ligne de commande.
+
+Sources interrogées :
+
+| Source | Méthode | Ce qu'on en tire |
+| --- | --- | --- |
+| [la-spa.fr](https://www.la-spa.fr/adoption/) | **fetch** de l'API JSON publique du site (aucun scraping HTML) | tous les chats des refuges SPA, date de mise en ligne, date de naissance exacte (via la fiche), coordonnées GPS du refuge |
+| [secondechance.org](https://www.secondechance.org/animal/adopter-un-chat) | **scraping léger** des pages HTML (recherche par département) | chats des associations, âge, département où l'animal est adoptable, date de naissance et association (via la fiche) |
+
+Aucune dépendance npm : Node.js ≥ 20 suffit (`fetch` natif).
+
+## Démarrage rapide
+
+```bash
+git clone https://github.com/Igni92/annonceschaton.git
+cd annonceschaton
+cp config.example.json config.json   # puis adaptez la zone, l'âge, etc.
+node src/index.js --dry-run          # affiche le rapport sans rien envoyer ni mémoriser
+node src/index.js                    # exécution réelle : rapport + notifications + mémoire des annonces vues
+```
+
+Exemples sans toucher au fichier de configuration :
+
+```bash
+node src/index.js --ville Lyon --rayon 30 --age-max 6
+node src/index.js --zone departements --departements 69,01,38 --jours 3
+node src/index.js --lat 43.6 --lon 1.44 --rayon 25 --sans-secondechance
+node src/index.js --help
+```
+
+## Configuration (`config.json`)
+
+Copiez `config.example.json` en `config.json`. Toutes les clés sont facultatives : une clé absente prend la valeur par défaut de `src/config.js`.
+
+| Clé | Défaut | Rôle |
+| --- | --- | --- |
+| `zone.mode` | `"rayon"` | `rayon` (autour d'un point), `departements` (liste) ou `france` (aucun filtre) |
+| `zone.centre.ville` / `code_postal` / `latitude` / `longitude` | Paris 75011 | Centre du rayon. Coordonnées > ville (géocodage [api-adresse.data.gouv.fr](https://adresse.data.gouv.fr/api-doc/adresse)) > code postal (chef-lieu du département) |
+| `zone.rayon_km` | `50` | Rayon en km (mode `rayon`) |
+| `zone.departements` | `["75","92","93","94"]` | Codes département (mode `departements`), ex. `"2A"`, `"974"` |
+| `zone.marge_departement_km` | `25` | Tolérance pour les annonces localisées seulement au département (voir « Précision géographique ») |
+| `age_max_mois` | `4` | Un chaton est retenu si son âge est **strictement inférieur** à cette valeur |
+| `nouveaux_arrivants.jours` | `7` | Fenêtre « mis en ligne depuis N jours » |
+| `nouveaux_arrivants.critere` | `"les_deux"` | `date_publication`, `premiere_vue` (jamais vu par le bot) ou `les_deux` |
+| `nouveaux_arrivants.tous_ages` | `true` | `false` pour ne signaler que les nouveaux chatons |
+| `inclure_reserves` | `false` | Inclure les animaux marqués « réservé » |
+| `sources.laspa.actif` | `true` | Interroger la SPA |
+| `sources.secondechance.actif` | `true` | Interroger Seconde Chance |
+| `sources.secondechance.adoptable_hors_departement` | `false` | Inclure les associations acceptant l'adoption hors département |
+| `sources.secondechance.pages_max` | `10` | Pages de résultats lues au maximum par département et par recherche |
+| `sources.secondechance.fiches_details` | `true` | Lire la fiche des chatons potentiels (date de naissance, association) |
+| `sources.secondechance.departements` | — | Force la liste des départements interrogés (sinon déduite de la zone) |
+| `notifications.console` | `true` | Rapport texte sur la sortie standard |
+| `notifications.fichier` | actif, dossier `reports/` | `reports/AAAA-MM-JJ.md` + `.json` et `reports/latest.*` |
+| `notifications.discord` | inactif | Webhook Discord (`webhook_url`) |
+| `notifications.telegram` | inactif | Bot Telegram (`bot_token`, `chat_id`) |
+| `planification.heure` / `fuseau` | `"08:00"` / `"Europe/Paris"` | Heure d'exécution du mode `--loop` |
+| `http.*` | UA, 30 s, 3 tentatives, 4 requêtes simultanées, 250 ms | Politesse réseau |
+| `etat.fichier` / `retention_jours` | `data/state.json` / `90` | Mémoire des annonces vues et cache des fiches |
+
+Variables d'environnement (prioritaires sur `config.json`, voir `.env.example`) : `DISCORD_WEBHOOK_URL`, `TELEGRAM_BOT_TOKEN`, `TELEGRAM_CHAT_ID` (activent le canal automatiquement), `ANNONCES_ZONE_MODE`, `ANNONCES_VILLE`, `ANNONCES_CODE_POSTAL`, `ANNONCES_LATITUDE`, `ANNONCES_LONGITUDE`, `ANNONCES_RAYON_KM`, `ANNONCES_DEPARTEMENTS`, `ANNONCES_AGE_MAX_MOIS`, `ANNONCES_NOUVEAUX_JOURS`, `ANNONCES_STATE_FILE`, `ANNONCES_REPORTS_DIR`.
+
+## Exécution quotidienne
+
+Trois façons, au choix :
+
+1. **Boucle interne** — le processus reste lancé et s'exécute chaque jour à `planification.heure` :
+   ```bash
+   node src/index.js --loop
+   ```
+   (à mettre dans un service systemd, `pm2`, ou une fenêtre `screen`/`tmux`).
+
+2. **cron** (Linux/macOS) — tous les jours à 8 h :
+   ```cron
+   0 8 * * * cd /chemin/vers/annonceschaton && /usr/bin/node src/index.js --quiet >> bot.log 2>&1
+   ```
+   Sous Windows : Planificateur de tâches → action `node.exe src\index.js --quiet`, dossier de démarrage = le dépôt.
+
+3. **GitHub Actions** — le workflow `.github/workflows/daily.yml` tourne à 06:00 UTC, envoie les notifications, dépose le rapport en artefact et mémorise `data/state.json` + `reports/latest.*` dans le dépôt. Dans *Settings → Secrets and variables → Actions* :
+   - secrets : `DISCORD_WEBHOOK_URL` et/ou `TELEGRAM_BOT_TOKEN` + `TELEGRAM_CHAT_ID` ;
+   - variables (facultatives) : `ANNONCES_VILLE`, `ANNONCES_CODE_POSTAL`, `ANNONCES_RAYON_KM`, `ANNONCES_ZONE_MODE`, `ANNONCES_DEPARTEMENTS`, `ANNONCES_AGE_MAX_MOIS`, `ANNONCES_NOUVEAUX_JOURS`.
+   Vous pouvez aussi committer un `config.json` (il est ignoré par git par défaut : retirez-le de `.gitignore` si besoin).
+
+## Notifications
+
+- **Discord** : créez un webhook sur le salon voulu (*Paramètres du salon → Intégrations → Webhooks*) et renseignez `notifications.discord.webhook_url` ou `DISCORD_WEBHOOK_URL`.
+- **Telegram** : créez un bot avec [@BotFather](https://t.me/BotFather), envoyez-lui un message, puis récupérez votre `chat_id` (par exemple via `https://api.telegram.org/bot<TOKEN>/getUpdates`). Renseignez `bot_token` et `chat_id`.
+- Les messages trop longs sont découpés automatiquement (2000 caractères Discord, 4096 Telegram).
+
+## Comment ça marche
+
+1. **Zone** — le centre est résolu (coordonnées, géocodage de la ville, ou chef-lieu du code postal).
+2. **La SPA** — l'API renvoie tous les chats (filtre serveur ≈ 100 km quand le rayon le permet, sinon tout le site) ; on garde ceux dont le refuge est dans la zone ; pour les chats « junior » sans âge affiché (tous les moins d'un an), on lit la fiche pour obtenir la date de naissance (mise en cache dans `data/state.json`).
+3. **Seconde Chance** — pour chaque département de la zone : recherche « Bébé » (0–5 mois ; « Junior » ajouté si `age_max_mois` > 6) sur toutes les pages, puis recherche tous âges page par page en s'arrêtant dès qu'une page ne contient que des annonces déjà vues (les résultats sont triés du plus récent au plus ancien). La fiche est lue pour les chatons potentiels et les annonces jamais vues.
+4. **Filtres** — chatons : âge connu `< age_max_mois` ; nouveaux arrivants : mis en ligne depuis `jours` jours et/ou jamais vus par le bot. Les animaux « réservés » sont exclus par défaut.
+5. **Rapport** — Markdown (fichier/Discord), texte (console), HTML (Telegram), JSON (`reports/*.json` pour vos propres traitements).
+6. **Mémoire** — `data/state.json` retient les annonces vues (détection des nouveautés) et les fiches lues (moins de requêtes le lendemain). Au **premier lancement**, la mémoire est vide : les nouveaux arrivants sont alors déterminés d'après la date de mise en ligne uniquement ; la détection « jamais vu » devient effective dès le deuxième jour.
+
+### Précision géographique
+
+- La SPA fournit les coordonnées GPS de chaque refuge : la distance affichée est exacte.
+- Seconde Chance n'indique que le **département où l'animal est adoptable** (l'association peut avoir son siège ailleurs). En mode `rayon`, on interroge les départements dont le chef-lieu est à moins de `rayon_km + marge_departement_km` du centre ; le rapport affiche « adoptable dans le NN » quand ce département diffère de celui de l'association.
+
+## Tests
+
+```bash
+npm test
+```
+
+Les tests s'appuient sur des copies de pages/réponses réelles dans `test/fixtures/` : aucun accès réseau n'est nécessaire.
+
+## Limites connues
+
+- Les sites peuvent changer de structure : `docs/SOURCES.md` décrit précisément ce que le code attend, pour faciliter la mise à jour.
+- Un même animal peut apparaître deux fois quand un refuge SPA publie aussi sur Seconde Chance.
+- Sur Seconde Chance, la « date de mise en ligne » est en réalité la date de dernière mise à jour de la fiche.
+- Le géocodage en ligne (api-adresse.data.gouv.fr) est facultatif : en cas d'échec, le bot se replie sur le chef-lieu du code postal.
+
+Merci de garder des réglages raisonnables (`http.concurrence`, `http.delai_ms`) : ces sites sont gérés par des associations.
