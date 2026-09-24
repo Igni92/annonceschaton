@@ -56,6 +56,9 @@
   .pet a:hover { text-decoration:underline; }
   details summary { cursor:pointer; color:var(--muted); font-size:13px; }
   h3.sec { margin:18px 0 8px; font-size:17px; }
+  .litter { border:2px solid var(--accent-2); border-radius:14px; padding:10px; margin-bottom:12px; background:#fff8f3; }
+  .litter-title { font-weight:700; margin:0 0 8px; font-size:14.5px; }
+  .litter-hint { margin-left:6px; color:var(--muted); cursor:help; font-weight:400; }
   .empty { color:var(--muted); font-style:italic; }
   .spinner { display:inline-block; width:14px; height:14px; border:2px solid #fff; border-right-color:transparent; border-radius:50%; animation:spin .8s linear infinite; vertical-align:-2px; margin-right:6px; }
   @keyframes spin { to { transform:rotate(360deg); } }
@@ -113,6 +116,14 @@
       </select>
       <div class="check"><input type="checkbox" id="tous_ages"><label for="tous_ages" style="margin:0;color:var(--ink)">Signaler les nouveaux arrivants de tous âges (sinon seulement les chatons)</label></div>
       <div class="check"><input type="checkbox" id="inclure_reserves"><label for="inclure_reserves" style="margin:0;color:var(--ink)">Inclure les animaux déjà réservés</label></div>
+      <div class="check"><input type="checkbox" id="portees_actif"><label for="portees_actif" style="margin:0;color:var(--ink)">Regrouper les frères et sœurs d'une même portée</label></div>
+      <div id="portees-options" style="padding-left:24px">
+        <div class="check"><input type="checkbox" id="portees_seulement"><label for="portees_seulement" style="margin:0;color:var(--ink)">N'afficher que les portées (masquer les chatons seuls)</label></div>
+        <div class="row">
+          <div><label>Chatons minimum par portée</label><input type="number" id="portees_taille_min" min="2" max="12" step="1"></div>
+          <div><label>Tolérance entre dates de naissance (jours)</label><input type="number" id="portees_tolerance" min="0" max="30" step="1"></div>
+        </div>
+      </div>
     </section>
 
     <section class="card">
@@ -222,6 +233,10 @@ function fill(c) {
   $('critere').value = c.nouveaux_arrivants.critere;
   $('tous_ages').checked = c.nouveaux_arrivants.tous_ages !== false;
   $('inclure_reserves').checked = Boolean(c.inclure_reserves);
+  $('portees_actif').checked = c.portees?.actif !== false;
+  $('portees_seulement').checked = Boolean(c.portees?.seulement);
+  $('portees_taille_min').value = c.portees?.taille_min ?? 2;
+  $('portees_tolerance').value = c.portees?.tolerance_jours ?? 3;
   $('laspa').checked = Boolean(c.sources.laspa.actif);
   const cats = new Set(c.sources.laspa.categories_age ?? ['junior']);
   document.querySelectorAll('.laspa-cat').forEach((i) => { i.checked = cats.has(i.value); i.parentElement.classList.toggle('on', i.checked); });
@@ -254,6 +269,7 @@ function collect() {
     age_max_mois: num('age_max_mois'),
     nouveaux_arrivants: { jours: num('jours'), critere: $('critere').value, tous_ages: $('tous_ages').checked },
     inclure_reserves: $('inclure_reserves').checked,
+    portees: { actif: $('portees_actif').checked, seulement: $('portees_seulement').checked, taille_min: num('portees_taille_min') ?? 2, tolerance_jours: num('portees_tolerance') ?? 3 },
     sources: {
       laspa: { actif: $('laspa').checked, categories_age: [...document.querySelectorAll('.laspa-cat:checked')].map((i) => i.value) },
       secondechance: { actif: $('secondechance').checked, adoptable_hors_departement: $('hors_departement').checked, pages_max: num('pages_max') },
@@ -332,6 +348,28 @@ function petCard(l) {
     </div>
   </div>`;
 }
+function fmtAgeMois(m) { if (m == null) return ''; const w = Math.floor(m); return w < 12 ? `${w} mois` : `${Math.floor(w / 12)} an${w >= 24 ? 's' : ''}`; }
+function porteeTitle(p) {
+  const parts = [`Portée de ${p.taille} chaton${p.taille > 1 ? 's' : ''}${p.disponibles !== p.taille ? ` (${p.disponibles} disponible${p.disponibles > 1 ? 's' : ''})` : ''}`];
+  if (p.lieu?.nom) parts.push(p.lieu.nom);
+  if (p.date_naissance) parts.push(`né·e·s le ${fmtDate(p.date_naissance)}`); else if (p.age_mois != null) parts.push(fmtAgeMois(p.age_mois));
+  if (p.confiance === 'probable') parts.push('portée probable');
+  return parts.join(' · ');
+}
+function renderKittens(chatons, portees) {
+  const byId = new Map(chatons.map((l) => [l.id, l]));
+  const placed = new Set();
+  let html = '';
+  for (const p of portees) {
+    const membres = p.membres.map((id) => byId.get(id)).filter(Boolean);
+    if (!membres.length) continue;
+    membres.forEach((l) => placed.add(l.id));
+    html += `<div class="litter"><div class="litter-title">👨‍👩‍👧‍👦 ${esc(porteeTitle(p))}<span class="litter-hint" title="${esc((p.indices ?? []).join(' · '))}">ⓘ</span></div><div class="cards">${membres.map(petCard).join('')}</div></div>`;
+  }
+  const seuls = chatons.filter((l) => !placed.has(l.id));
+  if (seuls.length) html += `${portees.length ? `<div class="litter-title" style="margin-top:14px">Chatons seuls (${seuls.length})</div>` : ''}<div class="cards">${seuls.map(petCard).join('')}</div>`;
+  return html;
+}
 function renderReport(r) {
   const chatons = r.chatons ?? [], nouveaux = r.nouveaux_arrivants ?? [];
   const ids = new Set(chatons.map((l) => l.id));
@@ -345,8 +383,8 @@ function renderReport(r) {
       <div class="stat"><b>${s.duree_s ?? '–'} s</b><span>${s.requests ?? '–'} requêtes</span></div>
     </div>
     ${(r.erreurs ?? []).length ? `<div class="msg info" style="display:block">${(r.erreurs).map(esc).join('<br>')}</div>` : ''}
-    <h3 class="sec">🐾 Chatons (${chatons.length})</h3>
-    ${chatons.length ? `<div class="cards">${chatons.map(petCard).join('')}</div>` : '<p class="empty">Aucun chaton correspondant aujourd\'hui.</p>'}
+    <h3 class="sec">🐾 Chatons (${chatons.length})${(r.portees ?? []).length ? ` · ${r.portees.length} portée${r.portees.length > 1 ? 's' : ''}` : ''}</h3>
+    ${chatons.length ? renderKittens(chatons, r.portees ?? []) : '<p class="empty">Aucun chaton correspondant aujourd\'hui.</p>'}
     <h3 class="sec">🆕 Nouveaux arrivants (${nouveauxSeuls.length})</h3>
     ${nouveauxSeuls.length ? `<div class="cards">${nouveauxSeuls.map(petCard).join('')}</div>` : '<p class="empty">Aucun nouvel arrivant.</p>'}
     <details style="margin-top:14px"><summary>Rapport texte</summary><pre class="logs" style="max-height:400px;margin-top:8px">${esc(r.texte ?? '')}</pre></details>`;

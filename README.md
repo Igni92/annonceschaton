@@ -80,6 +80,10 @@ Copiez `config.example.json` en `config.json`. Toutes les clés sont facultative
 | `nouveaux_arrivants.critere` | `"les_deux"` | `date_publication`, `premiere_vue` (jamais vu par le bot) ou `les_deux` |
 | `nouveaux_arrivants.tous_ages` | `true` | `false` pour ne signaler que les nouveaux chatons |
 | `inclure_reserves` | `false` | Inclure les animaux marqués « réservé » |
+| `portees.actif` | `true` | Regrouper les chatons d'une même portée (frères et sœurs) |
+| `portees.taille_min` | `2` | Nombre minimal de chatons pour former une portée |
+| `portees.tolerance_jours` | `3` | Écart maximal entre dates de naissance d'une même portée |
+| `portees.seulement` | `false` | `true` pour ne signaler que les portées (masque les chatons seuls) |
 | `sources.laspa.actif` | `true` | Interroger la SPA |
 | `sources.laspa.categories_age` | `["junior"]` | Catégories demandées à la SPA : `junior` (moins d'un an), `adult`, `senior`. Par défaut seuls les moins d'un an sont téléchargés |
 | `sources.secondechance.actif` | `true` | Interroger Seconde Chance |
@@ -131,8 +135,9 @@ Trois façons, au choix :
 3. **Seconde Chance** — pour chaque département de la zone : recherche « Bébé » (0–5 mois ; « Junior » ajouté si `age_max_mois` > 6) sur toutes les pages, puis recherche tous âges page par page en s'arrêtant dès qu'une page ne contient que des annonces déjà vues (les résultats sont triés du plus récent au plus ancien). La fiche est lue pour les chatons potentiels et les annonces jamais vues.
 4. **Âge** — la date de naissance, quand elle existe, fait foi. Sinon l'âge affiché par le site, sauf « 0 mois » sur Seconde Chance, qui signifie « non renseigné ». Dans ce cas la **description** est analysée (« GILMORE 6 ANS », « âgée de 3 mois et demi », « née le 12 juin »…), en tenant compte du temps écoulé depuis la mise en ligne (une description écrite il y a deux mois pour un chaton de 2 mois décrit un chat de 4 mois). Une description qui contredit fortement l'âge affiché (« il a 6 ans » pour une carte « 2 mois ») l'emporte, et le conflit est signalé dans le JSON (`age_conflit`). Un animal dont l'âge reste inconnu n'est jamais compté comme chaton.
 5. **Filtres** — chatons : âge connu `< age_max_mois` ; nouveaux arrivants : mis en ligne depuis `jours` jours et/ou jamais vus par le bot. Les animaux « réservés » sont exclus par défaut.
-6. **Rapport** — Markdown (fichier/Discord), texte (console), HTML (Telegram), JSON (`reports/*.json` pour vos propres traitements).
-7. **Mémoire** — `data/state.json` retient les annonces vues (détection des nouveautés) et les fiches lues (moins de requêtes le lendemain). Au **premier lancement**, la mémoire est vide : les nouveaux arrivants sont alors déterminés d'après la date de mise en ligne uniquement ; la détection « jamais vu » devient effective dès le deuxième jour.
+6. **Portées** — pour adopter des frères et sœurs, les chatons sont regroupés par portée d'après plusieurs indices : même refuge ou association et même date de naissance (à `tolerance_jours` près, indice fort) ; nom d'un autre chaton cité dans la description (« sa sœur Mia », indice fort) ; annonce à plusieurs noms (« Dean et Gareth ») ; même âge affiché et même date de mise en ligne sans date de naissance (« portée probable »). Le rapport affiche chaque portée avec sa taille, le nombre encore disponible et les indices retenus (`portees` dans le JSON).
+7. **Rapport** — Markdown (fichier/Discord), texte (console), HTML (Telegram), JSON (`reports/*.json` pour vos propres traitements).
+8. **Mémoire** — `data/state.json` retient les annonces vues (détection des nouveautés) et les fiches lues (moins de requêtes le lendemain). Au **premier lancement**, la mémoire est vide : les nouveaux arrivants sont alors déterminés d'après la date de mise en ligne uniquement ; la détection « jamais vu » devient effective dès le deuxième jour.
 
 ### Précision géographique
 

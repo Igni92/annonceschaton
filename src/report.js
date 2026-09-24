@@ -52,6 +52,32 @@ export function describe(l) {
 
 const esc = (s) => String(s ?? '').replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
 
+/** Titre d'une portée : « Portée de 3 chatons (2 disponibles) · Refuge X · nés le 15/06/2026 · probable ». */
+function porteeTitle(p) {
+  const parts = [`Portée de ${p.taille} chaton${p.taille > 1 ? 's' : ''}`];
+  if (p.disponibles !== p.taille) parts[0] += ` (${p.disponibles} disponible${p.disponibles > 1 ? 's' : ''})`;
+  if (p.lieu?.nom) parts.push(p.lieu.nom);
+  if (p.date_naissance) parts.push(`né·e·s le ${fmtDate(p.date_naissance)}`);
+  else if (p.age_mois != null) parts.push(formatAge(p.age_mois));
+  if (p.confiance === 'probable') parts.push('portée probable');
+  return parts.join(' · ');
+}
+
+/** Découpe les chatons en blocs : une entrée par portée (membres) puis les chatons seuls. */
+function kittenBlocks(kittens, portees) {
+  const byId = new Map(kittens.map((l) => [l.id, l]));
+  const placed = new Set();
+  const blocks = [];
+  for (const p of portees) {
+    const membres = p.membres.map((id) => byId.get(id)).filter(Boolean);
+    if (!membres.length) continue;
+    membres.forEach((l) => placed.add(l.id));
+    blocks.push({ portee: p, membres });
+  }
+  const seuls = kittens.filter((l) => !placed.has(l.id));
+  return { blocks, seuls };
+}
+
 function itemMarkdown(l) {
   const d = describe(l);
   const meta = [d.age, d.sexe, d.race, d.reserve].filter(Boolean).join(' · ');
@@ -90,7 +116,7 @@ function itemHtml(l) {
  * @param {object} [args.stats]
  * @param {string[]} [args.errors]
  */
-export function buildReport({ kittens, newcomers, config, zone, now = new Date(), stats = {}, errors = [] }) {
+export function buildReport({ kittens, newcomers, portees = [], config, zone, now = new Date(), stats = {}, errors = [] }) {
   const dateStr = now.toLocaleDateString('fr-FR', { weekday: 'long', day: 'numeric', month: 'long', year: 'numeric', timeZone: config.planification?.fuseau ?? 'Europe/Paris' });
   const titre = `Annonces chatons — ${dateStr}`;
   const maxAge = config.age_max_mois;
@@ -101,8 +127,10 @@ export function buildReport({ kittens, newcomers, config, zone, now = new Date()
   const kittenIds = new Set(kittens.map((l) => l.id));
   const newcomersOnly = newcomers.filter((l) => !kittenIds.has(l.id));
 
+  const { blocks, seuls } = kittenBlocks(kittens, portees);
+  const kittenTitle = na && config.portees?.seulement ? `Portées de chatons de moins de ${maxAge} mois` : `Chatons de moins de ${maxAge} mois`;
   const sections = [
-    { emoji: '🐾', titre: `Chatons de moins de ${maxAge} mois`, items: kittens, vide: 'Aucun chaton correspondant aujourd\'hui.' },
+    { emoji: '🐾', titre: kittenTitle, items: kittens, vide: 'Aucun chaton correspondant aujourd\'hui.', blocks, seuls },
     { emoji: '🆕', titre: `Nouveaux arrivants (${critereLabel})`, items: newcomersOnly, vide: 'Aucun nouvel arrivant.', note: kittens.length && newcomers.length !== newcomersOnly.length ? `${newcomers.length - newcomersOnly.length} chaton(s) ci-dessus sont aussi des nouveaux arrivants.` : null },
   ];
 
@@ -110,11 +138,19 @@ export function buildReport({ kittens, newcomers, config, zone, now = new Date()
   const footer = [`Zone : ${zone.label}`, `Sources : ${sourcesLabel}`];
   if (stats.requests != null) footer.push(`${stats.requests} requêtes HTTP`);
 
+  const renderItems = (s, item, header, singlesHeader) => {
+    if (!s.items.length) return [];
+    if (!s.blocks) return s.items.map(item);
+    const out = [];
+    for (const b of s.blocks) out.push(header(b.portee), ...b.membres.map(item), '');
+    if (s.seuls.length) out.push(...(s.blocks.length ? [singlesHeader(s.seuls.length), ''] : []), ...s.seuls.map(item));
+    return out;
+  };
   const markdown = [
     `# ${titre}`, '',
     ...sections.flatMap((s) => [
       `## ${s.emoji} ${s.titre} (${s.items.length})`, '',
-      ...(s.items.length ? s.items.map(itemMarkdown) : [`_${s.vide}_`]),
+      ...(s.items.length ? renderItems(s, itemMarkdown, (p) => `### 👨‍👩‍👧‍👦 ${porteeTitle(p)}`, (n) => `### Chatons seuls (${n})`) : [`_${s.vide}_`]),
       ...(s.note ? ['', `_${s.note}_`] : []), '',
     ]),
     ...(errors.length ? ['## ⚠️ Avertissements', '', ...errors.map((e) => `- ${e}`), ''] : []),
@@ -125,7 +161,7 @@ export function buildReport({ kittens, newcomers, config, zone, now = new Date()
     titre, '='.repeat(titre.length), '',
     ...sections.flatMap((s) => [
       `${s.emoji} ${s.titre.toUpperCase()} (${s.items.length})`, '',
-      ...(s.items.length ? s.items.map(itemText) : [`  ${s.vide}`]),
+      ...(s.items.length ? renderItems(s, itemText, (p) => `▶ ${porteeTitle(p)}`, (n) => `▶ Chatons seuls (${n})`) : [`  ${s.vide}`]),
       ...(s.note ? ['', `  ${s.note}`] : []), '',
     ]),
     ...(errors.length ? ['⚠️ AVERTISSEMENTS', ...errors.map((e) => `  - ${e}`), ''] : []),
@@ -136,7 +172,7 @@ export function buildReport({ kittens, newcomers, config, zone, now = new Date()
     `<b>${esc(titre)}</b>`, '',
     ...sections.flatMap((s) => [
       `<b>${s.emoji} ${esc(s.titre)} (${s.items.length})</b>`, '',
-      ...(s.items.length ? s.items.map(itemHtml) : [`<i>${esc(s.vide)}</i>`]),
+      ...(s.items.length ? renderItems(s, itemHtml, (p) => `<u>👨‍👩‍👧‍👦 ${esc(porteeTitle(p))}</u>`, (n) => `<u>Chatons seuls (${n})</u>`) : [`<i>${esc(s.vide)}</i>`]),
       ...(s.note ? ['', `<i>${esc(s.note)}</i>`] : []), '',
     ]),
     ...(errors.length ? ['<b>⚠️ Avertissements</b>', ...errors.map((e) => `- ${esc(e)}`), ''] : []),
@@ -148,11 +184,12 @@ export function buildReport({ kittens, newcomers, config, zone, now = new Date()
     zone: { mode: zone.mode, label: zone.label, centre: zone.centre ? { latitude: zone.centre.latitude, longitude: zone.centre.longitude } : null, rayon_km: zone.rayon_km, departements: zone.departements },
     parametres: { age_max_mois: maxAge, nouveaux_arrivants: na, inclure_reserves: config.inclure_reserves },
     chatons: kittens.map(stripInternal),
+    portees,
     nouveaux_arrivants: newcomers.map(stripInternal),
     stats, erreurs: errors,
   };
 
-  return { titre, markdown, text, html, json, compte: { chatons: kittens.length, nouveaux: newcomersOnly.length } };
+  return { titre, markdown, text, html, json, compte: { chatons: kittens.length, portees: portees.length, nouveaux: newcomersOnly.length } };
 }
 
 function stripInternal(l) {

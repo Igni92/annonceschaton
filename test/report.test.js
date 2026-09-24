@@ -224,7 +224,7 @@ suite('buildReport() — rapport Markdown / texte / HTML / JSON', () => {
     const adulte2 = annonceSc({ id: 'secondechance:3', nom: 'Félix', age_mois: 30, date_naissance: null });
     const r = rapport({ kittens: [chaton1, chaton2], newcomers: [chaton1, adulte, adulte2] });
 
-    assert.deepEqual(r.compte, { chatons: 2, nouveaux: 2 });
+    assert.deepEqual(r.compte, { chatons: 2, portees: 0, nouveaux: 2 });
     assert.match(r.markdown, /^## 🐾 Chatons de moins de 4 mois \(2\)$/m);
     assert.match(r.markdown, /^## 🆕 Nouveaux arrivants \(mis en ligne depuis 7 jours ou jamais vus\) \(2\)$/m);
     assert.match(r.text, /^🐾 CHATONS DE MOINS DE 4 MOIS \(2\)$/m);
@@ -258,7 +258,7 @@ suite('buildReport() — rapport Markdown / texte / HTML / JSON', () => {
 
   test('sections vides : messages dédiés et comptes à zéro', () => {
     const r = rapport();
-    assert.deepEqual(r.compte, { chatons: 0, nouveaux: 0 });
+    assert.deepEqual(r.compte, { chatons: 0, portees: 0, nouveaux: 0 });
     assert.match(r.markdown, /## 🐾 Chatons de moins de 4 mois \(0\)\n\n_Aucun chaton correspondant aujourd'hui\._/);
     assert.match(r.markdown, /\(0\)\n\n_Aucun nouvel arrivant\._/);
     assert.ok(r.text.includes("  Aucun chaton correspondant aujourd'hui."));

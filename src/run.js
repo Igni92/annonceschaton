@@ -3,6 +3,7 @@ import { createHttp } from './http.js';
 import { loadState, saveState, markSeen, pruneState } from './state.js';
 import { buildZone, selectKittens, selectNewcomers, dedupe } from './filters.js';
 import { buildReport } from './report.js';
+import { annotateLitters } from './portees.js';
 import { notifyAll } from './notify/index.js';
 import { fetchLaSpa } from './sources/laspa.js';
 import { fetchSecondeChance } from './sources/secondechance.js';
@@ -67,7 +68,13 @@ export async function runOnce(config, { now = new Date(), dryRun = false, log = 
     errors.push("Première exécution : la mémoire du bot est vide, les nouveaux arrivants sont déterminés d'après la date de mise en ligne uniquement (détection « jamais vus » active dès la prochaine exécution).");
   }
 
-  const kittens = selectKittens(listings, config);
+  let kittens = selectKittens(listings, config);
+  let portees = [];
+  if (config.portees?.actif !== false) {
+    portees = annotateLitters(kittens, { taille_min: config.portees?.taille_min ?? 2, tolerance_jours: config.portees?.tolerance_jours ?? 3 });
+    if (config.portees?.seulement) kittens = kittens.filter((l) => l.portee);
+    if (portees.length) log(`Portées détectées : ${portees.length} (${portees.map((p) => p.noms.join(' + ')).join(' ; ')}).`);
+  }
   const newcomers = selectNewcomers(listings, effectiveConfig, { state: stateForRun, fresh, now });
 
   stats.requests = http.stats.requests;
@@ -75,7 +82,7 @@ export async function runOnce(config, { now = new Date(), dryRun = false, log = 
   stats.duree_s = Math.round((Date.now() - started) / 100) / 10;
   stats.annonces_zone = listings.length;
 
-  const report = buildReport({ kittens, newcomers, config: effectiveConfig, zone, now, stats, errors });
+  const report = buildReport({ kittens, newcomers, portees, config: effectiveConfig, zone, now, stats, errors });
   await notifyAll(report, config, { now, dryRun, log, fetchImpl });
 
   if (!dryRun) {
@@ -85,5 +92,5 @@ export async function runOnce(config, { now = new Date(), dryRun = false, log = 
     saveState(config.etat.fichier, stateForRun);
   }
   log(`Terminé en ${stats.duree_s} s — ${kittens.length} chaton(s), ${report.compte.nouveaux} nouvel(aux) arrivant(s), ${stats.requests} requêtes.`);
-  return { report, kittens, newcomers, listings, stats, errors };
+  return { report, kittens, newcomers, portees, listings, stats, errors };
 }

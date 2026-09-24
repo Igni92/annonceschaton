@@ -14,6 +14,7 @@ export const DEFAULT_CONFIG = Object.freeze({
   age_max_mois: 4,
   nouveaux_arrivants: { jours: 7, critere: 'les_deux', tous_ages: true },
   inclure_reserves: false,
+  portees: { actif: true, taille_min: 2, tolerance_jours: 3, seulement: false }, // regroupement des frères et sœurs
   sources: {
     laspa: { actif: true, categories_age: ['junior'] }, // junior = moins d'un an ; adult, senior possibles
     secondechance: { actif: true, adoptable_hors_departement: false, pages_max: 10, fiches_details: true },
@@ -141,6 +142,10 @@ export function validateConfig(c) {
   if (!num(c.nouveaux_arrivants?.jours) || c.nouveaux_arrivants.jours < 0) errors.push('nouveaux_arrivants.jours doit être un nombre ≥ 0');
   if (!['date_publication', 'premiere_vue', 'les_deux'].includes(c.nouveaux_arrivants?.critere)) {
     errors.push("nouveaux_arrivants.critere doit valoir 'date_publication', 'premiere_vue' ou 'les_deux'");
+  }
+  if (c.portees?.actif) {
+    if (!num(c.portees.taille_min) || c.portees.taille_min < 2) errors.push('portees.taille_min doit être un entier ≥ 2');
+    if (!num(c.portees.tolerance_jours) || c.portees.tolerance_jours < 0) errors.push('portees.tolerance_jours doit être un nombre ≥ 0');
   }
   if (!c.sources?.laspa?.actif && !c.sources?.secondechance?.actif) errors.push('Au moins une source doit être active (sources.laspa.actif ou sources.secondechance.actif)');
   if (c.sources?.laspa?.actif) {

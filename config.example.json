@@ -27,6 +27,14 @@
 
   "inclure_reserves": false,
 
+  "portees": {
+    "//": "Regroupe les chatons d'une même portée (frères et sœurs). seulement = true pour ne signaler que les portées d'au moins taille_min chatons.",
+    "actif": true,
+    "taille_min": 2,
+    "tolerance_jours": 3,
+    "seulement": false
+  },
+
   "sources": {
     "laspa": { "actif": true, "categories_age": ["junior"] },
     "secondechance": {
