@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-25T10:50:04.448Z",
+  "date": "2026-09-26T10:30:56.801Z",
   "zone": {
     "mode": "rayon",
     "label": "50 km autour de Paris 11e Arrondissement",
@@ -14,7 +14,7 @@
     "age_max_mois": 4,
     "nouveaux_arrivants": {
       "jours": 7,
-      "critere": "date_publication",
+      "critere": "les_deux",
       "tous_ages": false
     },
     "inclure_reserves": false
@@ -34,7 +34,7 @@
       "sexe": "male",
       "age_categorie": "junior",
       "age_texte": null,
-      "age_mois": 3.3659610799300324,
+      "age_mois": 3.3983788885086317,
       "age_source": "naissance",
       "age_conflit": null,
       "date_naissance": "2026-06-15",
@@ -83,7 +83,7 @@
       "sexe": "femelle",
       "age_categorie": "junior",
       "age_texte": null,
-      "age_mois": 3.3659610799300324,
+      "age_mois": 3.3983788885086317,
       "age_source": "naissance",
       "age_conflit": null,
       "date_naissance": "2026-06-15",
@@ -132,7 +132,7 @@
       "sexe": "male",
       "age_categorie": "junior",
       "age_texte": null,
-      "age_mois": 3.3659610799300324,
+      "age_mois": 3.3983788885086317,
       "age_source": "naissance",
       "age_conflit": null,
       "date_naissance": "2026-06-15",
@@ -168,6 +168,250 @@
       "nouveau": true
     },
     {
+      "id": "laspa:244867",
+      "source": "laspa",
+      "source_label": "La SPA",
+      "source_id": "244867",
+      "uid": "animal-mona-2",
+      "nom": "MONA",
+      "url": "https://www.la-spa.fr/animal/mona-2/",
+      "image": "https://www.la-spa.fr/app/app/uploads/animals/244867/mona-244867-6ab76894463c1.jpg",
+      "espece": "chat",
+      "race": "Europeen",
+      "sexe": "femelle",
+      "age_categorie": "junior",
+      "age_texte": null,
+      "age_mois": 3.858337820746825,
+      "age_source": "naissance",
+      "age_conflit": null,
+      "date_naissance": "2026-06-01",
+      "date_publication": "2026-09-26",
+      "reserve": false,
+      "sos": false,
+      "fad": false,
+      "lieu": {
+        "nom": "La SPA - Refuge de Gennevilliers – Grammont",
+        "slug": "refuge-spa-de-gennevilliers-grammont",
+        "ville": "Gennevilliers",
+        "code_postal": "92230",
+        "departement": "92",
+        "latitude": 48.944706567958,
+        "longitude": 2.3035848619018,
+        "precision": "exacte",
+        "distance_km": 11.004464438564007,
+        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-gennevilliers-grammont/"
+      },
+      "description": "Mona revient de famille relais.\nMona est une minette timide qui recherche des adoptants doux et patients qui lui laisseront le temps d'évoluer à son rythme.\nElle devra vivre en appartement sans sortie extérieure et sans jeunes enfants. La présence d'un premier chat vacciné, identifié et stérilisé est obligatoire pour son bon développement.\nVenez vite la rencontrer!",
+      "fiche_lue": true,
+      "portee": {
+        "id": "portee-2",
+        "taille": 2,
+        "disponibles": 2,
+        "confiance": "forte",
+        "indices": [
+          "même date de naissance"
+        ]
+      },
+      "nouveau": true
+    },
+    {
+      "id": "laspa:244868",
+      "source": "laspa",
+      "source_label": "La SPA",
+      "source_id": "244868",
+      "uid": "animal-calypso",
+      "nom": "CALYPSO",
+      "url": "https://www.la-spa.fr/animal/calypso/",
+      "image": "https://www.la-spa.fr/app/app/uploads/animals/244868/calypso-244868-6ab769d3d61a4.jpg",
+      "espece": "chat",
+      "race": "Europeen",
+      "sexe": "male",
+      "age_categorie": "junior",
+      "age_texte": null,
+      "age_mois": 3.858337820746825,
+      "age_source": "naissance",
+      "age_conflit": null,
+      "date_naissance": "2026-06-01",
+      "date_publication": "2026-09-26",
+      "reserve": false,
+      "sos": false,
+      "fad": false,
+      "lieu": {
+        "nom": "La SPA - Refuge de Gennevilliers – Grammont",
+        "slug": "refuge-spa-de-gennevilliers-grammont",
+        "ville": "Gennevilliers",
+        "code_postal": "92230",
+        "departement": "92",
+        "latitude": 48.944706567958,
+        "longitude": 2.3035848619018,
+        "precision": "exacte",
+        "distance_km": 11.004464438564007,
+        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-gennevilliers-grammont/"
+      },
+      "description": "Calypso revient de famille relais.\nCalypso est un chaton craintif qui recherche des adoptants doux et patients qui lui laisseront le temps d'évoluer à son rythme.\nLa présence d'un premier chat vacciné, identifié et stérilisé est obligatoire pour son bon développement.\nIl devra vivre en appartement sans sortie extérieure et sans jeunes enfants.\nVenez vite le rencontrer!",
+      "fiche_lue": true,
+      "portee": {
+        "id": "portee-2",
+        "taille": 2,
+        "disponibles": 2,
+        "confiance": "forte",
+        "indices": [
+          "même date de naissance"
+        ]
+      },
+      "nouveau": true
+    },
+    {
+      "id": "laspa:244682",
+      "source": "laspa",
+      "source_label": "La SPA",
+      "source_id": "244682",
+      "uid": "animal-pab29102",
+      "nom": "PAB29102 Lockhart",
+      "url": "https://www.la-spa.fr/animal/pab29102/",
+      "image": "https://www.la-spa.fr/app/app/uploads/animals/244682/pab29102-lockhart-244682-6ab6953c84ad1.jpg",
+      "espece": "chat",
+      "race": "Europeen",
+      "sexe": "male",
+      "age_categorie": "junior",
+      "age_texte": null,
+      "age_mois": 2.248481557913149,
+      "age_source": "naissance",
+      "age_conflit": null,
+      "date_naissance": "2026-07-20",
+      "date_publication": "2026-09-25",
+      "reserve": false,
+      "sos": false,
+      "fad": false,
+      "lieu": {
+        "nom": "La SPA - Refuge de Plaisir",
+        "slug": "refuge-spa-de-plaisir",
+        "ville": "Plaisir",
+        "code_postal": "78370",
+        "departement": "78",
+        "latitude": 48.799745,
+        "longitude": 1.931481,
+        "precision": "exacte",
+        "distance_km": 33.64370864577482,
+        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-plaisir/"
+      },
+      "description": "Lockhart est un vrai petit pot de colle, il adore jouer avec ses frères et nous, attention il met pas mal les griffes, grimpe beaucoup sur les jambes et a une tendance très prononcée pour les pieds. Il se laisse manipuler. Il aime la compagnie et a un très bon caractère.\nLockhart n'est pas visible au refuge, merci de contacter directement sa famille d'accueil à l'adresse suivante : bailly.hermanc…",
+      "fiche_lue": true,
+      "portee": {
+        "id": "portee-3",
+        "taille": 3,
+        "disponibles": 3,
+        "confiance": "forte",
+        "indices": [
+          "même date de naissance",
+          "fratrie mentionnée",
+          "même portée publiée sur La SPA et Seconde Chance",
+          "même âge et même date de mise en ligne"
+        ]
+      },
+      "nouveau": true
+    },
+    {
+      "id": "laspa:244690",
+      "source": "laspa",
+      "source_label": "La SPA",
+      "source_id": "244690",
+      "uid": "animal-pab29103-minus",
+      "nom": "PAB29103 Minus",
+      "url": "https://www.la-spa.fr/animal/pab29103-minus/",
+      "image": "https://www.la-spa.fr/app/app/uploads/animals/244690/pab29103-minus-244690-6ab69516daec7.jpg",
+      "espece": "chat",
+      "race": "Europeen",
+      "sexe": "male",
+      "age_categorie": "junior",
+      "age_texte": null,
+      "age_mois": 2.248481557913149,
+      "age_source": "naissance",
+      "age_conflit": null,
+      "date_naissance": "2026-07-20",
+      "date_publication": "2026-09-25",
+      "reserve": false,
+      "sos": false,
+      "fad": false,
+      "lieu": {
+        "nom": "La SPA - Refuge de Plaisir",
+        "slug": "refuge-spa-de-plaisir",
+        "ville": "Plaisir",
+        "code_postal": "78370",
+        "departement": "78",
+        "latitude": 48.799745,
+        "longitude": 1.931481,
+        "precision": "exacte",
+        "distance_km": 33.64370864577482,
+        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-plaisir/"
+      },
+      "description": "Minus est très posé, il se laisse manipuler il est très joueur avec ses frères et nous très sociable avec un bon caractère. Il a une tendance à monter sur les épaules et s'agripper à la tête. Mais c'est un petite boule d'amour.\nMinus n'est pas visible au refuge, pour plus de renseignement, merci de contacter sa famille d'accueil à l'adresse suivante : bailly.hermance91@gmail.com",
+      "fiche_lue": true,
+      "portee": {
+        "id": "portee-3",
+        "taille": 3,
+        "disponibles": 3,
+        "confiance": "forte",
+        "indices": [
+          "même date de naissance",
+          "fratrie mentionnée",
+          "même portée publiée sur La SPA et Seconde Chance",
+          "même âge et même date de mise en ligne"
+        ]
+      },
+      "nouveau": true
+    },
+    {
+      "id": "laspa:244681",
+      "source": "laspa",
+      "source_label": "La SPA",
+      "source_id": "244681",
+      "uid": "animal-pab29101",
+      "nom": "PAB29101 Billy",
+      "url": "https://www.la-spa.fr/animal/pab29101/",
+      "image": "https://www.la-spa.fr/app/app/uploads/animals/244681/pab29101-billy-244681-6ab6949a83782.jpg",
+      "espece": "chat",
+      "race": "Europeen",
+      "sexe": "male",
+      "age_categorie": "junior",
+      "age_texte": null,
+      "age_mois": 2.248481557913149,
+      "age_source": "naissance",
+      "age_conflit": null,
+      "date_naissance": "2026-07-20",
+      "date_publication": "2026-09-25",
+      "reserve": false,
+      "sos": true,
+      "fad": false,
+      "lieu": {
+        "nom": "La SPA - Refuge de Plaisir",
+        "slug": "refuge-spa-de-plaisir",
+        "ville": "Plaisir",
+        "code_postal": "78370",
+        "departement": "78",
+        "latitude": 48.799745,
+        "longitude": 1.931481,
+        "precision": "exacte",
+        "distance_km": 33.64370864577482,
+        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-plaisir/"
+      },
+      "description": "Billy est le plus timide des 4. Il n'aime pas trop les caresses mais adore se mettre sur nos genoux. Il reste quand même très sociable et très joueurs avec ces frères et avec nous. Il a un bout de patte en moins mais ce débrouille très bien. Il a eu quelques soucis avec sa patte. La vétérinaire a ponctionner sa patte et nous a dit qu'il y aurait potentiellement une amputation à faire si Billy se…",
+      "fiche_lue": true,
+      "portee": {
+        "id": "portee-3",
+        "taille": 3,
+        "disponibles": 3,
+        "confiance": "forte",
+        "indices": [
+          "même date de naissance",
+          "fratrie mentionnée",
+          "même portée publiée sur La SPA et Seconde Chance",
+          "même âge et même date de mise en ligne"
+        ]
+      },
+      "nouveau": true
+    },
+    {
       "id": "laspa:239807",
       "source": "laspa",
       "source_label": "La SPA",
@@ -181,7 +425,7 @@
       "sexe": "male",
       "age_categorie": "junior",
       "age_texte": null,
-      "age_mois": 3.6616489649402992,
+      "age_mois": 3.6940667735188986,
       "age_source": "naissance",
       "age_conflit": null,
       "date_naissance": "2026-06-06",
@@ -204,7 +448,7 @@
       "description": "BLOOM comme ses frères (Keijo, Inook, Pixel), a été nourri,, sevré par sa maman, une toute jeune chatte trouvée gestante, il est devenu un adorable chaton, attachant, sociable. Curieux, tonique, il adore grimper sur le séchoir à linge, courir après les balles mais surtout jouer à la bagarre avec ses frères, faire des courses-poursuites puis séances de léchage et grandes siestes les uns contre les…",
       "fiche_lue": true,
       "portee": {
-        "id": "portee-2",
+        "id": "portee-4",
         "taille": 3,
         "disponibles": 3,
         "confiance": "forte",
@@ -243,7 +487,7 @@
       "sexe": "male",
       "age_categorie": "junior",
       "age_texte": null,
-      "age_mois": 3.6616489649402992,
+      "age_mois": 3.6940667735188986,
       "age_source": "naissance",
       "age_conflit": null,
       "date_naissance": "2026-06-06",
@@ -266,7 +510,7 @@
       "description": "INOOK, PAB 29241\nINOOK comme ses frères (Keijo, Bloom, Pixel), a été nourri,, sevré par sa maman, une toute jeune chatte trouvée gestante, il est devenu un adorable chaton, attachant, sociable. Curieux, tonique, il adore grimper sur le séchoir à linge, courir après les balles mais surtout jouer à la bagarre avec ses frères, faire des courses-poursuites puis séances de léchage et grandes siestes l…",
       "fiche_lue": true,
       "portee": {
-        "id": "portee-2",
+        "id": "portee-4",
         "taille": 3,
         "disponibles": 3,
         "confiance": "forte",
@@ -305,7 +549,7 @@
       "sexe": "male",
       "age_categorie": "junior",
       "age_texte": null,
-      "age_mois": 3.6616489649402992,
+      "age_mois": 3.6940667735188986,
       "age_source": "naissance",
       "age_conflit": null,
       "date_naissance": "2026-06-06",
@@ -328,7 +572,7 @@
       "description": "KEIJO comme ses frères (Bloom, Inook, Pixel), a été nourri, sevré par sa maman, une toute jeune chatte trouvée gestante, il est devenu un adorable chaton, attachant, sociable. Curieux, tonique, il adore grimper sur le séchoir à linge, courir après les balles mais surtout jouer à la bagarre avec ses frères, faire des courses-poursuites puis séances de léchage et grandes siestes les uns contre les…",
       "fiche_lue": true,
       "portee": {
-        "id": "portee-2",
+        "id": "portee-4",
         "taille": 3,
         "disponibles": 3,
         "confiance": "forte",
@@ -367,7 +611,7 @@
       "sexe": "femelle",
       "age_categorie": "junior",
       "age_texte": null,
-      "age_mois": 3.03741898547418,
+      "age_mois": 3.0698367940527795,
       "age_source": "naissance",
       "age_conflit": null,
       "date_naissance": "2026-06-25",
@@ -406,7 +650,7 @@
       "sexe": "male",
       "age_categorie": "junior",
       "age_texte": null,
-      "age_mois": 3.891628431059396,
+      "age_mois": 3.924046239637995,
       "age_source": "naissance",
       "age_conflit": null,
       "date_naissance": "2026-05-30",
@@ -470,12 +714,112 @@
       "description": "💞 TSUKI & CAFFEINE — DEUX C&OElig;URS À ADOPTER ENSEMBLE 💞 Tsuki et sa petite Caffeine reviennent de loin… vraiment très loin. Tsuki a déjà connu plusieurs portées et la douleur de perdre ses bébés. Elle en a perdu un premier, puis un deuxième le jour de l’éclipse. Quant à Caffeine, à quelques heures près, elle ne serait probablement plus là aujourd’hui. Lorsqu’elle a été mise en sécurité, cette…",
       "fiche_lue": true,
       "portee": {
-        "id": "portee-3",
+        "id": "portee-5",
         "taille": 2,
         "disponibles": 2,
         "confiance": "forte",
         "indices": [
           "annonce groupée : Tsuki, caféine"
+        ]
+      },
+      "nouveau": false
+    },
+    {
+      "id": "secondechance:1520116",
+      "source": "secondechance",
+      "source_label": "Seconde Chance",
+      "source_id": "1520116",
+      "uid": "chat-europeen-bleiz-et-gurvan-1520116",
+      "nom": "Bleiz et gurvan",
+      "url": "https://www.secondechance.org/animal/chat-europeen-bleiz-et-gurvan-1520116",
+      "image": "https://www.secondechance.org/uploads/anim/6ab785cad558d327795486.jpeg",
+      "espece": "chat",
+      "race": "EUROPÉEN",
+      "sexe": "male",
+      "age_categorie": null,
+      "age_texte": "1 mois",
+      "age_mois": 1,
+      "age_source": "fiche",
+      "age_conflit": null,
+      "date_naissance": null,
+      "date_publication": "2026-09-26",
+      "reserve": false,
+      "lieu": {
+        "nom": "Les petits protégés de Jo & Co",
+        "slug": null,
+        "ville": "LE KREMLIN BICETRE",
+        "code_postal": "94270",
+        "departement": "95",
+        "departement_association": "94",
+        "departements_adoption": [
+          "95"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "precision": "departement",
+        "distance_km": null,
+        "url": "https://www.secondechance.org/refuge/val-de-marne/les-petits-proteges-de-jo-co-2136"
+      },
+      "description": "Adoptable dans toute la France Hello hello Ce soir on vous présente 5 chatons à ADOPTER DANS 2 SEMAINES À LEUR 2 MOIS ( vers le 5 octobre) AVEC UN CHAT DÉJÀ PRÉSENT CHEZ VOUS BLEIZ 1 MOIS ET DEMI Le petit foufou de la bande : avis aux amateurs d'action et de câlins : je suis le parfait combo ! Moi, c’est Bleiz, un petit explorateur infatigable. Ce que je préfère dans la vie ? Partir à la découver…",
+      "fiche_lue": true,
+      "portee": {
+        "id": "portee-6",
+        "taille": 5,
+        "disponibles": 5,
+        "confiance": "probable",
+        "indices": [
+          "même âge et même date de mise en ligne",
+          "fratrie mentionnée"
+        ]
+      },
+      "nouveau": true
+    },
+    {
+      "id": "secondechance:1520115",
+      "source": "secondechance",
+      "source_label": "Seconde Chance",
+      "source_id": "1520115",
+      "uid": "chat-europeen-erell-ildut-et-sterenn-1520115",
+      "nom": "Erell, ildut et ster...",
+      "url": "https://www.secondechance.org/animal/chat-europeen-erell-ildut-et-sterenn-1520115",
+      "image": "https://www.secondechance.org/uploads/anim/6ab784a5e9ecd697503589.jpeg",
+      "espece": "chat",
+      "race": "EUROPÉEN",
+      "sexe": "femelle",
+      "age_categorie": null,
+      "age_texte": "1 mois",
+      "age_mois": 1,
+      "age_source": "fiche",
+      "age_conflit": null,
+      "date_naissance": null,
+      "date_publication": "2026-09-26",
+      "reserve": false,
+      "lieu": {
+        "nom": "Les petits protégés de Jo & Co",
+        "slug": null,
+        "ville": "LE KREMLIN BICETRE",
+        "code_postal": "94270",
+        "departement": "95",
+        "departement_association": "94",
+        "departements_adoption": [
+          "95"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "precision": "departement",
+        "distance_km": null,
+        "url": "https://www.secondechance.org/refuge/val-de-marne/les-petits-proteges-de-jo-co-2136"
+      },
+      "description": "Adoptable dans toute la France Hello hello Ce soir on vous présente 5 chatons à ADOPTER DANS 2 SEMAINES À LEUR 2 MOIS ( vers le 5 octobre) AVEC UN CHAT DÉJÀ PRÉSENT CHEZ VOUS ILDUT 1 MOIS ET DEMI La plus petite mais la plus expressive : ne vous fiez pas à ma taille miniature : je suis la plus petite de la portée, mais c’est moi qui donne le ton ! Véritable \"Drama Queen\", j'adore taquiner mes frèr…",
+      "fiche_lue": true,
+      "portee": {
+        "id": "portee-6",
+        "taille": 5,
+        "disponibles": 5,
+        "confiance": "probable",
+        "indices": [
+          "même âge et même date de mise en ligne",
+          "fratrie mentionnée"
         ]
       },
       "nouveau": true
@@ -494,7 +838,7 @@
       "sexe": "femelle",
       "age_categorie": null,
       "age_texte": "1 mois",
-      "age_mois": 1.5261253509772605,
+      "age_mois": 1.5585431595558599,
       "age_source": "description",
       "age_conflit": null,
       "date_naissance": "2026-08-10",
@@ -642,7 +986,7 @@
       "description": "Rita chatonne identifiée vaccinée deparasitée vermifugée cherche sa famille Contact Nathalie par SMS : 06-78-59-53-86 Retour à la recherche",
       "fiche_lue": true,
       "portee": {
-        "id": "portee-4",
+        "id": "portee-7",
         "taille": 3,
         "disponibles": 3,
         "confiance": "probable",
@@ -691,7 +1035,7 @@
       "description": "Emma chatonne identifiée vaccinée deparasitée vermifugée cherche sa famille Contact par SMS Nathalie : 06-78-59-53-86 Retour à la recherche",
       "fiche_lue": true,
       "portee": {
-        "id": "portee-4",
+        "id": "portee-7",
         "taille": 3,
         "disponibles": 3,
         "confiance": "probable",
@@ -740,7 +1084,7 @@
       "description": "Max chaton vacciné identifié deparasité vermifugé cherche sa famille Contact Nathalie par sms : 06-78-59-53-86 Retour à la recherche",
       "fiche_lue": true,
       "portee": {
-        "id": "portee-4",
+        "id": "portee-7",
         "taille": 3,
         "disponibles": 3,
         "confiance": "probable",
@@ -830,7 +1174,7 @@
       "description": "Adoptable dans toute la France Belette un magnifique chaton cendré Avec son magnifique pelage noir et cendré, Belette ne passe pas inaperçu !. C’est un petit chaton intelligent qui aime établir le contact avec les humains. Il vous regarde dans les yeux, vient chercher votre présence pour jouer, mais aussi pour simplement se poser près de vous. Sociable, il s’entend bien avec les autres chatons co…",
       "fiche_lue": true,
       "portee": {
-        "id": "portee-5",
+        "id": "portee-8",
         "taille": 5,
         "disponibles": 5,
         "confiance": "forte",
@@ -882,7 +1226,7 @@
       "description": "Adoptable dans toute la France Berny un petit coeur à prendre Avec son joli pelage noir à poils mi-longs, Berny est un petit bout tout en douceur âgé de 2,5 mois. Beaucoup plus calme que ses frères, il apprécie les ambiances paisibles et les moments tranquilles. Sociable avec les autres chatons comme avec les chats adultes, il saura trouver sa place dans un foyer où il pourra évoluer sereinement.…",
       "fiche_lue": true,
       "portee": {
-        "id": "portee-5",
+        "id": "portee-8",
         "taille": 5,
         "disponibles": 5,
         "confiance": "forte",
@@ -934,7 +1278,7 @@
       "description": "Adoptable dans toute la France Agée de 2,5 mois, Bichette à une belle robe noire smoke et est une adorable minette de petit gabarit qui ne manque pas de charme ! Lorsqu’elle rencontre de nouvelles personnes, elle se montre assez timide. Elle aura besoin de temps, de patience et de douceur pour prendre confiance et révéler pleinement sa personnalité. Mais derrière cette petite réserve se cache une…",
       "fiche_lue": true,
       "portee": {
-        "id": "portee-5",
+        "id": "portee-8",
         "taille": 5,
         "disponibles": 5,
         "confiance": "forte",
@@ -986,7 +1330,7 @@
       "description": "Adoptable dans toute la France Agé de 2,5 mois Kawa , est un adorable chaton tigré roux en double adoption avec sa soeur Kawa, jolie écaille de tortue. Ils ont été élevé par leur maman. Un peu timides au premier abord, ils ont besoin d’un petit temps d’adaptation pour prendre leurs marques. Mais une fois en confiance, ils dévoilent toute leur personnalité… et surtout, leur incroyable amour pour l…",
       "fiche_lue": true,
       "portee": {
-        "id": "portee-5",
+        "id": "portee-8",
         "taille": 5,
         "disponibles": 5,
         "confiance": "forte",
@@ -1041,6 +1385,203 @@
       "nouveau": true
     },
     {
+      "id": "secondechance:1519983",
+      "source": "secondechance",
+      "source_label": "Seconde Chance",
+      "source_id": "1519983",
+      "uid": "chat-europeen-grisou-c-1519983",
+      "nom": "Grisou c",
+      "url": "https://www.secondechance.org/animal/chat-europeen-grisou-c-1519983",
+      "image": "https://www.secondechance.org/uploads/anim/580dd06dc9427e1bf6b04c65d0b0d607.jpg",
+      "espece": "chat",
+      "race": "EUROPÉEN",
+      "sexe": "femelle",
+      "age_categorie": null,
+      "age_texte": "2 mois",
+      "age_mois": 2,
+      "age_source": "fiche",
+      "age_conflit": null,
+      "date_naissance": null,
+      "date_publication": "2026-09-26",
+      "reserve": false,
+      "lieu": {
+        "nom": "Refuge SPA de Vaux le Pénil",
+        "slug": null,
+        "ville": "Vaux le Penil",
+        "code_postal": "77000",
+        "departement": "77",
+        "departement_association": "77",
+        "departements_adoption": [
+          "77"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "precision": "departement",
+        "distance_km": null,
+        "url": "https://www.secondechance.org/refuge/seine-et-marne/refuge-spa-de-vaux-le-penil-45"
+      },
+      "description": "Retour à la recherche",
+      "fiche_lue": true,
+      "portee": null,
+      "nouveau": true
+    },
+    {
+      "id": "secondechance:1519944",
+      "source": "secondechance",
+      "source_label": "Seconde Chance",
+      "source_id": "1519944",
+      "uid": "chat-europeen-pab29101-billy-1519944",
+      "nom": "Pab29101 billy",
+      "url": "https://www.secondechance.org/animal/chat-europeen-pab29101-billy-1519944",
+      "image": "https://www.secondechance.org/uploads/anim/3bcef89a3a43e7a31f74ff319793d7e3.png",
+      "espece": "chat",
+      "race": "EUROPÉEN",
+      "sexe": "male",
+      "age_categorie": null,
+      "age_texte": "2 mois",
+      "age_mois": 2,
+      "age_source": "fiche",
+      "age_conflit": null,
+      "date_naissance": null,
+      "date_publication": "2026-09-26",
+      "reserve": false,
+      "lieu": {
+        "nom": "Refuge SPA de Plaisir",
+        "slug": null,
+        "ville": "Plaisir",
+        "code_postal": "78370",
+        "departement": "78",
+        "departement_association": "78",
+        "departements_adoption": [
+          "78"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "precision": "departement",
+        "distance_km": null,
+        "url": "https://www.secondechance.org/refuge/yvelines/refuge-spa-de-plaisir-47"
+      },
+      "description": "Billy est le plus timide des 4. Il n'aime pas trop les caresses mais adore se mettre sur nos genoux. Il reste quand même très sociable et très joueurs avec ces frères et avec nous. Il a un bout de patte en moins mais ce débrouille très bien. Il a eu quelques soucis avec sa patte. La vétérinaire a ponctionner sa patte et nous a dit qu'il y aurait potentiellement une amputation à faire si Billy se…",
+      "fiche_lue": true,
+      "portee": {
+        "id": "portee-3",
+        "taille": 3,
+        "disponibles": 3,
+        "confiance": "forte",
+        "indices": [
+          "même date de naissance",
+          "fratrie mentionnée",
+          "même portée publiée sur La SPA et Seconde Chance",
+          "même âge et même date de mise en ligne"
+        ]
+      },
+      "nouveau": true
+    },
+    {
+      "id": "secondechance:1519943",
+      "source": "secondechance",
+      "source_label": "Seconde Chance",
+      "source_id": "1519943",
+      "uid": "chat-europeen-pab29102-lockhart-1519943",
+      "nom": "Pab29102 lockhart",
+      "url": "https://www.secondechance.org/animal/chat-europeen-pab29102-lockhart-1519943",
+      "image": "https://www.secondechance.org/uploads/anim/6c2621dc8a1798aa8f081fea0fec45d8.png",
+      "espece": "chat",
+      "race": "EUROPÉEN",
+      "sexe": "male",
+      "age_categorie": null,
+      "age_texte": "2 mois",
+      "age_mois": 2,
+      "age_source": "fiche",
+      "age_conflit": null,
+      "date_naissance": null,
+      "date_publication": "2026-09-26",
+      "reserve": false,
+      "lieu": {
+        "nom": "Refuge SPA de Plaisir",
+        "slug": null,
+        "ville": "Plaisir",
+        "code_postal": "78370",
+        "departement": "78",
+        "departement_association": "78",
+        "departements_adoption": [
+          "78"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "precision": "departement",
+        "distance_km": null,
+        "url": "https://www.secondechance.org/refuge/yvelines/refuge-spa-de-plaisir-47"
+      },
+      "description": "Lockhart est un vrai petit pot de colle, il adore jouer avec ses frères et nous, attention il met pas mal les griffes, grimpe beaucoup sur les jambes et a une tendance très prononcée pour les pieds. Il se laisse manipuler. Il aime la compagnie et a un très bon caractère. Lockhart n'est pas visible au refuge, merci de contacter directement sa famille d'accueil à l'adresse suivante : bailly.hermanc…",
+      "fiche_lue": true,
+      "portee": {
+        "id": "portee-3",
+        "taille": 3,
+        "disponibles": 3,
+        "confiance": "forte",
+        "indices": [
+          "même date de naissance",
+          "fratrie mentionnée",
+          "même portée publiée sur La SPA et Seconde Chance",
+          "même âge et même date de mise en ligne"
+        ]
+      },
+      "nouveau": true
+    },
+    {
+      "id": "secondechance:1519942",
+      "source": "secondechance",
+      "source_label": "Seconde Chance",
+      "source_id": "1519942",
+      "uid": "chat-europeen-pab29103-minus-1519942",
+      "nom": "Pab29103 minus",
+      "url": "https://www.secondechance.org/animal/chat-europeen-pab29103-minus-1519942",
+      "image": "https://www.secondechance.org/uploads/anim/91a0c8cf99932698161760a0bb359bf9.png",
+      "espece": "chat",
+      "race": "EUROPÉEN",
+      "sexe": "male",
+      "age_categorie": null,
+      "age_texte": "2 mois",
+      "age_mois": 2,
+      "age_source": "fiche",
+      "age_conflit": null,
+      "date_naissance": null,
+      "date_publication": "2026-09-26",
+      "reserve": false,
+      "lieu": {
+        "nom": "Refuge SPA de Plaisir",
+        "slug": null,
+        "ville": "Plaisir",
+        "code_postal": "78370",
+        "departement": "78",
+        "departement_association": "78",
+        "departements_adoption": [
+          "78"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "precision": "departement",
+        "distance_km": null,
+        "url": "https://www.secondechance.org/refuge/yvelines/refuge-spa-de-plaisir-47"
+      },
+      "description": "Minus est très posé, il se laisse manipuler il est très joueur avec ses frères et nous très sociable avec un bon caractère. Il a une tendance à monter sur les épaules et s'agripper à la tête. Mais c'est un petite boule d'amour. Minus n'est pas visible au refuge, pour plus de renseignement, merci de contacter sa famille d'accueil à l'adresse suivante : bailly.hermance91@gmail.com Retour à la reche…",
+      "fiche_lue": true,
+      "portee": {
+        "id": "portee-3",
+        "taille": 3,
+        "disponibles": 3,
+        "confiance": "forte",
+        "indices": [
+          "même date de naissance",
+          "fratrie mentionnée",
+          "même portée publiée sur La SPA et Seconde Chance",
+          "même âge et même date de mise en ligne"
+        ]
+      },
+      "nouveau": true
+    },
+    {
       "id": "secondechance:1519198",
       "source": "secondechance",
       "source_label": "Seconde Chance",
@@ -1079,7 +1620,7 @@
       "description": "Adoptable dans toute la France Brookie et Kawa un duo plein de vie, de douceur et de complicité &Acirc;gés de 2 mois et demi, Brookie est à l'adoption avec son frère Kawa (tigé roux). Ces deux adorables chatons, frère et sœur, ont grandi auprès de leur maman. Aujourd’hui, ils sont prêts à trouver un foyer aimant qui leur ouvrira les portes de sa maison et de son cœur, à condition de rester ensemb…",
       "fiche_lue": true,
       "portee": {
-        "id": "portee-5",
+        "id": "portee-8",
         "taille": 5,
         "disponibles": 5,
         "confiance": "forte",
@@ -1090,47 +1631,6 @@
           "« Kawa » cité·e dans la description"
         ]
       },
-      "nouveau": true
-    },
-    {
-      "id": "secondechance:1518134",
-      "source": "secondechance",
-      "source_label": "Seconde Chance",
-      "source_id": "1518134",
-      "uid": "chat-europeen-chocominette-1518134",
-      "nom": "Chocominette",
-      "url": "https://www.secondechance.org/animal/chat-europeen-chocominette-1518134",
-      "image": "https://www.secondechance.org/uploads/anim/6aafed7fccb9b976457028.jpg",
-      "espece": "chat",
-      "race": "EUROPÉEN",
-      "sexe": "femelle",
-      "age_categorie": null,
-      "age_texte": "2 mois",
-      "age_mois": 2,
-      "age_source": "fiche",
-      "age_conflit": null,
-      "date_naissance": null,
-      "date_publication": "2026-09-20",
-      "reserve": false,
-      "lieu": {
-        "nom": "Family Wanted",
-        "slug": null,
-        "ville": "Marcq",
-        "code_postal": "78770",
-        "departement": "78",
-        "departement_association": "78",
-        "departements_adoption": [
-          "78"
-        ],
-        "latitude": null,
-        "longitude": null,
-        "precision": "departement",
-        "distance_km": null,
-        "url": "https://www.secondechance.org/refuge/yvelines/family-wanted-3121"
-      },
-      "description": "Attention, petit gabarit… mais énergie XXL !!! Chocominette est une adorable chatonne au dynamisme hors pair ! Une petite tornade sur pattes qui court, saute, joue, explore… et recommence ! Son histoire aurait pourtant pu très mal finir. Chocominette nous a été confiée par une clinique vétérinaire où elle avait été déposée alors qu’elle était malade. Elle souffrait du typhus, une maladie particul…",
-      "fiche_lue": true,
-      "portee": null,
       "nouveau": true
     },
     {
@@ -1253,64 +1753,7 @@
       },
       "description": "Adoptable dans toute la France 🤍🤎 Kim, 2 mois, une petite merveille qui a toute la vie à découvrir 🤎🤍 Kim est une adorable chatonne européenne blanche et tigrée de 2 mois . Du haut de ses quelques semaines, elle a encore tout à découvrir de la vie … et cherche les humains qui auront envie de partager toutes ces premières fois avec elle. 🐾 Jouer, explorer, grimper, apprendre, faire quelques bêtise…",
       "fiche_lue": true,
-      "portee": {
-        "id": "portee-6",
-        "taille": 2,
-        "disponibles": 2,
-        "confiance": "probable",
-        "indices": [
-          "même âge et même date de mise en ligne"
-        ]
-      },
-      "nouveau": true
-    },
-    {
-      "id": "secondechance:1519083",
-      "source": "secondechance",
-      "source_label": "Seconde Chance",
-      "source_id": "1519083",
-      "uid": "chat-europeen-malibu-1519083",
-      "nom": "Malibu",
-      "url": "https://www.secondechance.org/animal/chat-europeen-malibu-1519083",
-      "image": "https://www.secondechance.org/uploads/anim/6ab3d5beab709631442504.jpg",
-      "espece": "chat",
-      "race": "EUROPÉEN",
-      "sexe": "femelle",
-      "age_categorie": null,
-      "age_texte": "2 mois",
-      "age_mois": 2,
-      "age_source": "fiche",
-      "age_conflit": null,
-      "date_naissance": null,
-      "date_publication": "2026-09-23",
-      "reserve": false,
-      "lieu": {
-        "nom": "Brigade de Protection Animale",
-        "slug": null,
-        "ville": "Paris",
-        "code_postal": "75008",
-        "departement": "92",
-        "departement_association": "75",
-        "departements_adoption": [
-          "92"
-        ],
-        "latitude": null,
-        "longitude": null,
-        "precision": "departement",
-        "distance_km": null,
-        "url": "https://www.secondechance.org/refuge/aude/brigade-de-protection-animale-2759"
-      },
-      "description": "Adoptable dans toute la France 🩶 Malibu, 2 mois, une petite merveille grise qui a toute la vie à découvrir 🩶 Malibu est une magnifique chatonne européenne grise de 2 mois . Du haut de ses quelques semaines, elle a encore absolument tout à découvrir de la vie … et cherche les humains qui auront envie de vivre toutes ces premières fois à ses côtés. 🐾 Jouer, explorer chaque nouveau recoin, apprendre…",
-      "fiche_lue": true,
-      "portee": {
-        "id": "portee-6",
-        "taille": 2,
-        "disponibles": 2,
-        "confiance": "probable",
-        "indices": [
-          "même âge et même date de mise en ligne"
-        ]
-      },
+      "portee": null,
       "nouveau": true
     },
     {
@@ -1434,7 +1877,7 @@
       "description": "🐾 À l'adoption - Espion, l'aventurier 🐾 😸 Espion a été trappé avec ses frères et soeurs ainsi que sa maman dans le jardin d'un hôpital. Après un mois passé en famille d'accueil pour être sociabilisé, il est prêt pour son adoption ! 😼 Très curieux, Espion cherche l’interaction avec tous les membres de la famille. Véritable aventurier, il passe beaucoup de temps à observer et explorer son environne…",
       "fiche_lue": true,
       "portee": {
-        "id": "portee-7",
+        "id": "portee-9",
         "taille": 2,
         "disponibles": 2,
         "confiance": "probable",
@@ -1484,7 +1927,7 @@
       "description": "🐾 À l'adoption - Zola, le timide 🐾 😸 Zola a été trappé avec ses frères et soeurs ainsi que sa maman dans le jardin d'un hôpital. Après un mois passé en famille d'accueil pour être sociabilisé, il est prêt pour son adoption ! 😻 Zola est encore craintif, mais il fait quotidiennement des progrès. S'il peut lui arriver de crachotter, il accepte les caresses en douceur. Il lui faudra une famille patie…",
       "fiche_lue": true,
       "portee": {
-        "id": "portee-7",
+        "id": "portee-9",
         "taille": 2,
         "disponibles": 2,
         "confiance": "probable",
@@ -1632,7 +2075,7 @@
       "sexe": "male",
       "age_categorie": null,
       "age_texte": "2 mois",
-      "age_mois": 2.28177216822572,
+      "age_mois": 2.3141899768043195,
       "age_source": "description",
       "age_conflit": null,
       "date_naissance": "2026-07-18",
@@ -1673,7 +2116,7 @@
       "sexe": "male",
       "age_categorie": null,
       "age_texte": "1 mois",
-      "age_mois": 2.380334796562476,
+      "age_mois": 2.4127526051410753,
       "age_source": "description",
       "age_conflit": null,
       "date_naissance": "2026-07-15",
@@ -1714,7 +2157,7 @@
       "sexe": "male",
       "age_categorie": null,
       "age_texte": "2 mois",
-      "age_mois": 2.544605843790402,
+      "age_mois": 2.577023652369001,
       "age_source": "description",
       "age_conflit": null,
       "date_naissance": "2026-07-10",
@@ -1739,7 +2182,7 @@
       "description": "Adoptable dans toute la France 😻À L’adoption : Pile & Face Deux petits cœurs à la recherche de leur famille ❤️ Pile et Face sont frère et sœur et sont arrivés récemment à l’association, en provenance de Canny-sur-Thérain, une commune où nous avons déjà pris en charge de nombreux loulous. Ils viennent tout juste d’être séparés de leur maman, une chatte sauvage qui a été stérilisée et qui sera relâ…",
       "fiche_lue": true,
       "portee": {
-        "id": "portee-8",
+        "id": "portee-10",
         "taille": 2,
         "disponibles": 2,
         "confiance": "forte",
@@ -1768,7 +2211,7 @@
       "sexe": "femelle",
       "age_categorie": null,
       "age_texte": "2 mois",
-      "age_mois": 2.544605843790402,
+      "age_mois": 2.577023652369001,
       "age_source": "description",
       "age_conflit": null,
       "date_naissance": "2026-07-10",
@@ -1793,7 +2236,7 @@
       "description": "Adoptable dans toute la France 😻À L’adoption : Pile Pile et son frère, Face (adopté), sont arrivés récemment à l’association, en provenance de Canny-sur-Thérain, une commune où nous avons déjà pris en charge de nombreux loulous. Ils viennent tout juste d’être séparés de leur maman, une chatte sauvage qui a été stérilisée et qui sera relâchée sur son site de vie. Eux, en revanche, ont encore toute…",
       "fiche_lue": true,
       "portee": {
-        "id": "portee-8",
+        "id": "portee-10",
         "taille": 2,
         "disponibles": 2,
         "confiance": "forte",
@@ -1822,7 +2265,7 @@
       "sexe": "male",
       "age_categorie": null,
       "age_texte": "2 mois",
-      "age_mois": 2.544605843790402,
+      "age_mois": 2.577023652369001,
       "age_source": "description",
       "age_conflit": null,
       "date_naissance": "2026-07-10",
@@ -1863,7 +2306,7 @@
       "sexe": "male",
       "age_categorie": null,
       "age_texte": "2 mois",
-      "age_mois": 2.938856357137425,
+      "age_mois": 2.9712741657160238,
       "age_source": "description",
       "age_conflit": null,
       "date_naissance": "2026-06-28",
@@ -1929,7 +2372,7 @@
       "description": "ADOPTABLE UNIQUEMENT DANS L'OISE, LIMITROPHE 95 ET LIMITROPHE 77 Pour son adoption, il vous faudra présenter svp une pièce d'identité et un justificatif de domicile. Merci. Un chèque de caution vous sera également demandé pour la stérilisation obligatoire à 6 mois maxi. Identifiée. Crevette et une adorable chatonne qui a malheureusement été prise en charge avec un gros coryza qui a été soigné. El…",
       "fiche_lue": true,
       "portee": {
-        "id": "portee-9",
+        "id": "portee-11",
         "taille": 4,
         "disponibles": 4,
         "confiance": "probable",
@@ -1978,7 +2421,7 @@
       "description": "ADOPTABLE UNIQUEMENT DANS L'OISE, LIMITROPHE 95 ET LIMITROPHE 77 Contact de préférence par SMS svp 06 87 29 37 69 ou 07 49 57 98 49 Pour son adoption, il vous faudra présenter svp une pièce d'identité et un justificatif de domicile. Un chèque de caution vous sera également demandé pour la stérilisation obligatoire à 6 mois maxi. Identifiée, primo vaccinée, déparasitée. Tainy est timide quand elle…",
       "fiche_lue": true,
       "portee": {
-        "id": "portee-9",
+        "id": "portee-11",
         "taille": 4,
         "disponibles": 4,
         "confiance": "probable",
@@ -2027,7 +2470,7 @@
       "description": "ADOPTABLE UNIQUEMENT DANS L'OISE, LIMITROPHE 95 ET LIMITROPHE 77 Pour son adoption, il vous faudra svp, présenter une pièce d'identité et un justificatif de domicile. Un chèque de caution vous sera également demandé pour sa stérilisation obligatoire à 6 mois maxi. Merci. Identifiée, vermifugée. Bonny est une chatonne pleine de vie, cascadeuse invétérée, joueuse, elle adore aussi les câlins. Ok ch…",
       "fiche_lue": true,
       "portee": {
-        "id": "portee-9",
+        "id": "portee-11",
         "taille": 4,
         "disponibles": 4,
         "confiance": "probable",
@@ -2076,7 +2519,7 @@
       "description": "ADOPTABLE UNIQUEMENT DANS L'OISE, LIMITROPHE 95 ET LIMITROPHE 77 Pour son adoption, il vous faudra svp, présenter une pièce d'identité et un justificatif de domicile. Un chèque de caution vous sera également demandé pour sa stérilisation obligatoire à 6 mois maxi. Merci. Identifié, vermifugé. Ne vous fiez pas à son air grognon sur la photo car Onyx est un adorable chaton câlin, calme et doux. Ok…",
       "fiche_lue": true,
       "portee": {
-        "id": "portee-9",
+        "id": "portee-11",
         "taille": 4,
         "disponibles": 4,
         "confiance": "probable",
@@ -2125,7 +2568,7 @@
       "description": "ADOPTABLE UNIQUEMENT DANS L'OISE, LIMITROPHE 95 ET LIMITROPHE 77 Contact de préférence par SMS svp. Pour son adoption, il vous faudra présenter svp, une pièce d'identité et un justificatif de domicile. Un chèque de caution vous sera également demandé pour la stérilisation obligatoire à 6 mois maxi. Identifiée. Maki est une chatonne joueuse mais un tout-petit peu craintive. Elle aura besoin d'un p…",
       "fiche_lue": true,
       "portee": {
-        "id": "portee-10",
+        "id": "portee-12",
         "taille": 2,
         "disponibles": 2,
         "confiance": "probable",
@@ -2174,7 +2617,7 @@
       "description": "ADOPTABLE UNIQUEMENT DANS L'OISE, LIMITROPHE 95 ET LIMITROPHE 77 Contact de préférence par SMS svp. Pour son adoption, il vous faudra présenter svp, une pièce d'identité et un justificatif de domicile. Un chèque de caution vous sera également demandé pour la stérilisation obligatoire à 6 mois maxi. Identifié. Yuki est un chaton joueur mais un tout-petit peu craintif. Il aura besoin d'un peu de te…",
       "fiche_lue": true,
       "portee": {
-        "id": "portee-10",
+        "id": "portee-12",
         "taille": 2,
         "disponibles": 2,
         "confiance": "probable",
@@ -2264,7 +2707,7 @@
       "description": "Jeune chatonne trouvée avec sa maman et son frère. Nous privilégierons une adoption double (avec sa soeur) ou une famille qui a déjà un chat ou un chaton. Adoption en maison (dans une impasse ou éloignée des grands routes) ou en appartement avec balcon sécurisé par un filet et au moins une fenêtre entièrement protégée. Nos chatons sont identifiés, déparasités et testés Fiv/Felv avant l'adoption.…",
       "fiche_lue": true,
       "portee": {
-        "id": "portee-11",
+        "id": "portee-13",
         "taille": 2,
         "disponibles": 2,
         "confiance": "probable",
@@ -2314,7 +2757,7 @@
       "description": "Jeune chaton trouvé avec sa maman et sa soeur. Nous privilégierons une adoption double (avec sa soeur) ou une famille qui a déjà un chat ou un chaton. Adoption en maison (dans une impasse ou éloignée des grands routes) ou en appartement avec balcon sécurisé par un filet et au moins une fenêtre entièrement protégée. Nos chatons sont identifiés, déparasités et testés Fiv/Felv avant l'adoption. Ils…",
       "fiche_lue": true,
       "portee": {
-        "id": "portee-11",
+        "id": "portee-13",
         "taille": 2,
         "disponibles": 2,
         "confiance": "probable",
@@ -2405,7 +2848,7 @@
       "description": "Adoptable dans toute la France Hello hello, Aujourd'hui on vous présente 2 sœurs À ADOPTER ENSEMBLE OU SEULE SI UN CHAT DÉJÀ CHEZ VOUS RANINE 3 MOIS RANINE est une petite curieuse : elle adore explorer, jouer et faire ses 10 000 pas par jour. Elle est adorable et cherche autant le contact des autres chats que des humains. Elle se met à ronronner dès qu'on s'approche d'elle. MAYSSA 3 MOIS MAYSSA e…",
       "fiche_lue": true,
       "portee": {
-        "id": "portee-12",
+        "id": "portee-14",
         "taille": 2,
         "disponibles": 2,
         "confiance": "forte",
@@ -2455,7 +2898,7 @@
       "description": "Adoptable dans toute la France Hello hello, Ce soir on vous présente toute une petite famille adoptable AU 15 SEPTEMBRE AUX 3 MOIS DES CHATONS AFIN DE RESPECTER LEUR BON SEVRAGE. LES CHATONS SONT À ADOPTER EN DUO OU SEUL SI DÉJÀ UN CHAT CHEZ VOUS. LA MAMAN PEUT &Ecirc;TRE ADOPTÉE SEULE. VOIR SEPAREMENT LES FICHES DE LA MAMAN BADIANE ET DES FRERES ET SOEURS KUSMI, DUMBO ET GALANGA. YONDUA 2 MOIS E…",
       "fiche_lue": true,
       "portee": {
-        "id": "portee-13",
+        "id": "portee-15",
         "taille": 5,
         "disponibles": 5,
         "confiance": "forte",
@@ -2509,7 +2952,7 @@
       "description": "Adoptable dans toute la France Hello hello, Ce soir on vous présente toute une petite famille adoptable AU 15 SEPTEMBRE AUX 3 MOIS DES CHATONS AFIN DE RESPECTER LEUR BON SEVRAGE. LES CHATONS SONT À ADOPTER EN DUO OU SEUL SI DÉJÀ UN CHAT CHEZ VOUS. LA MAMAN PEUT &Ecirc;TRE ADOPTÉE SEULE. FICHE DE BADIANE LA MAMAN , YONDUA ET GALANGA LES CHATONS A CONSULTER SEPAREMENT KUSMI 2 MOIS ET DEMI Tête brûl…",
       "fiche_lue": true,
       "portee": {
-        "id": "portee-13",
+        "id": "portee-15",
         "taille": 5,
         "disponibles": 5,
         "confiance": "forte",
@@ -2604,7 +3047,7 @@
       "description": "À ADOPTER EN DUO AVEC UBE/TCHOUTCHOU/BARBAPAPA OU SEUL SI DÉJÀ UN CHAT CHEZ VOUS TCHOUTCHOU 2 MOIS ET DEMI Tchoutchou est un grand joueur : il pourrait bondir pendant des heures après un plumeau, une peluche ou un bout de papier. Très fusionnel avec son frère et sa soeur, il prend soin d'eux et leur fait la toilette, même au beau milieu d'une partie de jeu ! Curieux et toujours en mouvement, il a…",
       "fiche_lue": true,
       "portee": {
-        "id": "portee-14",
+        "id": "portee-16",
         "taille": 3,
         "disponibles": 3,
         "confiance": "forte",
@@ -2658,7 +3101,7 @@
       "description": "À ADOPTER EN DUO AVEC CHIRICO/HOCKNEY/LIPSKA/KOONS/KEILOWA OU SEUL AVEC DÉJÀ UN CHAT CHEZ VOUS HOCKNEY 2 MOIS Un artiste qui se cherche encore, reconnaissable à son dessin : Monsieur a oublié de se maquiller un œil ! Hockney est un chaton curieux, toujours prêt lorsqu’il s’agit de jouer et de faire la bagarre ! Il n’en apprécie pas moins les caresses ; bien au contraire, il a le ronron facile. Vi…",
       "fiche_lue": true,
       "portee": {
-        "id": "portee-14",
+        "id": "portee-16",
         "taille": 3,
         "disponibles": 3,
         "confiance": "forte",
@@ -2712,7 +3155,7 @@
       "description": "À ADOPTER EN DUO AVEC CHIRICO/HOCKNEY/LIPSKA/KOONS/KEILOWA OU SEUL AVEC DÉJÀ UN CHAT CHEZ VOUS CHIRICO 2 MOIS C’est le bout-en-train de la bande ! Chirico est toujours dans vos pattes, à surveiller ce que vous faites et à vouloir attirer l’attention. Gare aux robes et autres jupes : Monsieur adore jouer avec ! C’est un petit chenapan très attachant. Avec ses yeux bien dessinés, il est reconnaissa…",
       "fiche_lue": true,
       "portee": {
-        "id": "portee-14",
+        "id": "portee-16",
         "taille": 3,
         "disponibles": 3,
         "confiance": "forte",
@@ -2848,7 +3291,7 @@
       "description": "🐾 A l'adoption ➡️ Marlow 🐾 Marlow est un adorable petit mâle 🥰 Joueur, curieux et plein d’entrain, il est également câlin, doux et affectueux. Il apprécie la compagnie de ses congénères et les accepte volontiers. ❤️ Un petit compagnon plein de vie qui n’attend plus qu’une famille aimante pour commencer une belle histoire ! 🏡🐾 🏠 Marlow est visible sur lieusaint ❌️UNE ADOPTION DOIT &Ecirc;TRE UN AC…",
       "fiche_lue": true,
       "portee": {
-        "id": "portee-15",
+        "id": "portee-17",
         "taille": 3,
         "disponibles": 3,
         "confiance": "probable",
@@ -2897,7 +3340,7 @@
       "description": "🐾 A l'adoption ➡️ Maohi adorable petit minet 🐾 Une petite boule de vie, joueur, curieux et plein d’entrain ! 🥰 Il est également câlin, doux et un brin coquin, toujours prêt à partir à la découverte de son petit monde. Un joli minet plein de charme qui saura faire fondre les cœurs. ❤️🐱 🏠 Maohi est visible sur lieusaint ❌️UNE ADOPTION DOIT &Ecirc;TRE UN ACTE RÉFLÉCHI ET VOUS ENGAGE SUR DES ANNÉES ❌…",
       "fiche_lue": true,
       "portee": {
-        "id": "portee-15",
+        "id": "portee-17",
         "taille": 3,
         "disponibles": 3,
         "confiance": "probable",
@@ -2946,7 +3389,7 @@
       "description": "🌸A l'adoption ➡️ Minotte 🌸 Minotte est une adorable petite femelle 🐾 Joueuse, curieuse et pleine de vie, elle aime découvrir son environnement et partager de jolis moments avec les humains. Très câline et douce, elle apprécie particulièrement les moments de tendresse. ❤️ ❌️UNE ADOPTION DOIT &Ecirc;TRE UN ACTE RÉFLÉCHI ET VOUS ENGAGE SUR DES ANNÉES ❌️ ➡️Pour toute demande d'adoption www.pachats77.…",
       "fiche_lue": true,
       "portee": {
-        "id": "portee-15",
+        "id": "portee-17",
         "taille": 3,
         "disponibles": 3,
         "confiance": "probable",
@@ -2995,7 +3438,7 @@
       "description": "• Sera stérilisée • Identifiée par puce électronique • Vaccinée Typhus/Coryza • Testée FIV/FeLV négatif • Déparasitée puces/tiques/vers • Certificat vétérinaire de bonne santé Retour à la recherche",
       "fiche_lue": true,
       "portee": {
-        "id": "portee-16",
+        "id": "portee-18",
         "taille": 4,
         "disponibles": 4,
         "confiance": "probable",
@@ -3044,7 +3487,7 @@
       "description": "• Sera castré • Identifié par puce électronique • Vacciné Typhus/Coryza • Testé FIV/FeLV négatif • Déparasité puces/tiques/vers • Certificat vétérinaire de bonne santé Retour à la recherche",
       "fiche_lue": true,
       "portee": {
-        "id": "portee-16",
+        "id": "portee-18",
         "taille": 4,
         "disponibles": 4,
         "confiance": "probable",
@@ -3093,7 +3536,7 @@
       "description": "• Sera Stérilisée • Identifiée par puce électronique • Vaccinée Typhus/Coryza • Testée FIV/FeLV négatif • Déparasitée puces/tiques/vers • Certificat vétérinaire de bonne santé Retour à la recherche",
       "fiche_lue": true,
       "portee": {
-        "id": "portee-16",
+        "id": "portee-18",
         "taille": 4,
         "disponibles": 4,
         "confiance": "probable",
@@ -3142,7 +3585,7 @@
       "description": "• Sera castré • Identifié par puce électronique • Vacciné Typhus/Coryza • Testé FIV/FeLV négatif • Déparasité puces/tiques/vers • Certificat vétérinaire de bonne santé Retour à la recherche",
       "fiche_lue": true,
       "portee": {
-        "id": "portee-16",
+        "id": "portee-18",
         "taille": 4,
         "disponibles": 4,
         "confiance": "probable",
@@ -3191,7 +3634,7 @@
       "description": "À l’adoption 💫 Falgus est un chaton d’environ 3 mois. Il a été pris en charge avec son frère Makus. Ils sont arrivés à l’association début août, après n’avoir connu que la rue. Leur socialisation est longue et bien qu’ils progressent chaque jour, il faudra encore du temps et de la patience pour qu’ils s’ouvrent totalement à l’humain. Falgus est plus craintif que son frère et a besoin de vraiment…",
       "fiche_lue": true,
       "portee": {
-        "id": "portee-17",
+        "id": "portee-19",
         "taille": 2,
         "disponibles": 2,
         "confiance": "forte",
@@ -3245,7 +3688,7 @@
       "description": "À l’adoption 💫 Makus est un chaton d’environ 3 mois. Il a été pris en charge avec son frère Falgus. Ils sont arrivés à l’association début août, après n’avoir connu que la rue. Leur socialisation est longue et bien qu’ils progressent chaque jour, il faudra encore du temps et de la patience pour qu’ils s’ouvrent totalement à l’humain. Makus est un chaton très joueur qui apprécie les caresses et le…",
       "fiche_lue": true,
       "portee": {
-        "id": "portee-17",
+        "id": "portee-19",
         "taille": 2,
         "disponibles": 2,
         "confiance": "forte",
@@ -3382,6 +3825,47 @@
       "fiche_lue": true,
       "portee": null,
       "nouveau": false
+    },
+    {
+      "id": "secondechance:1519939",
+      "source": "secondechance",
+      "source_label": "Seconde Chance",
+      "source_id": "1519939",
+      "uid": "chat-europeen-belly-pab28866-1519939",
+      "nom": "Belly pab28866",
+      "url": "https://www.secondechance.org/animal/chat-europeen-belly-pab28866-1519939",
+      "image": "https://www.secondechance.org/uploads/anim/fd1da329e2c23c769de6886ddcecfc89.jpg",
+      "espece": "chat",
+      "race": "EUROPÉEN",
+      "sexe": "femelle",
+      "age_categorie": null,
+      "age_texte": "3 mois",
+      "age_mois": 3,
+      "age_source": "fiche",
+      "age_conflit": null,
+      "date_naissance": null,
+      "date_publication": "2026-09-26",
+      "reserve": false,
+      "lieu": {
+        "nom": "Refuge SPA de Plaisir",
+        "slug": null,
+        "ville": "Plaisir",
+        "code_postal": "78370",
+        "departement": "78",
+        "departement_association": "78",
+        "departements_adoption": [
+          "78"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "precision": "departement",
+        "distance_km": null,
+        "url": "https://www.secondechance.org/refuge/yvelines/refuge-spa-de-plaisir-47"
+      },
+      "description": "Belly est une jolie chatte tigrée de 3 mois. Elevée au biberon avec ses frères et soeurs, elle est sociable et très proche des humains. Vive, curieuse et joueuse, elle sait aussi se montrer très câline et adore venir s’installer sur les genoux pour une petite sieste. Belly ne connait pas encore les enfants, ni les chiens. Habituée depuis toute petite à vivre entourée de ses frères et sœurs et de…",
+      "fiche_lue": true,
+      "portee": null,
+      "nouveau": true
     },
     {
       "id": "secondechance:1519066",
@@ -3545,7 +4029,7 @@
       "description": "Adoptable dans toute la France Honey et Lucky cherchent chacun leur famille pour la vie Nous vous présentons deux adorables petits chatons mâle âgés d’environ 3 mois. Ils pourront être adoptés ensemble ou séparément. Ils sont câlins, sociables, joueurs et très proches de l’humain. Toujours partants pour une séance de jeu ou quelques caresses, ils sont de petits compagnons adorables et attachants.…",
       "fiche_lue": true,
       "portee": {
-        "id": "portee-18",
+        "id": "portee-20",
         "taille": 2,
         "disponibles": 2,
         "confiance": "forte",
@@ -3555,47 +4039,6 @@
         ]
       },
       "nouveau": true
-    },
-    {
-      "id": "secondechance:1516597",
-      "source": "secondechance",
-      "source_label": "Seconde Chance",
-      "source_id": "1516597",
-      "uid": "chat-europeen-rhapsodie-1516597",
-      "nom": "Rhapsodie",
-      "url": "https://www.secondechance.org/animal/chat-europeen-rhapsodie-1516597",
-      "image": "https://www.secondechance.org/uploads/anim/6aa960bf92fe4601693421.jpg",
-      "espece": "chat",
-      "race": "EUROPÉEN",
-      "sexe": "femelle",
-      "age_categorie": null,
-      "age_texte": "3 mois",
-      "age_mois": 3,
-      "age_source": "fiche",
-      "age_conflit": null,
-      "date_naissance": null,
-      "date_publication": "2026-09-15",
-      "reserve": false,
-      "lieu": {
-        "nom": "Family Wanted",
-        "slug": null,
-        "ville": "Marcq",
-        "code_postal": "78770",
-        "departement": "78",
-        "departement_association": "78",
-        "departements_adoption": [
-          "78"
-        ],
-        "latitude": null,
-        "longitude": null,
-        "precision": "departement",
-        "distance_km": null,
-        "url": "https://www.secondechance.org/refuge/yvelines/family-wanted-3121"
-      },
-      "description": "Rhapsodie fait partie d'une colonie de chats qui vivent à la campagne et qui ont besoin de soins. Cette petite minette est devenue bien jolie après avoir reçu les traitements indispensables à sa remise en état, et une alimentation adaptée à son âge. Elle est prête à découvrir la vie auprès d'une famille aimante et attentionnée. Rhapsodie est douce et câline. Un petit temps d'adaptation sera sans…",
-      "fiche_lue": true,
-      "portee": null,
-      "nouveau": false
     },
     {
       "id": "secondechance:1515790",
@@ -3636,7 +4079,7 @@
       "description": "BLOOM comme ses frères (Keijo, Inook, Pixel), a été nourri,, sevré par sa maman, une toute jeune chatte trouvée gestante, il est devenu un adorable chaton, attachant, sociable. Curieux, tonique, il adore grimper sur le séchoir à linge, courir après les balles mais surtout jouer à la bagarre avec ses frères, faire des courses-poursuites puis séances de léchage et grandes siestes les uns contre les…",
       "fiche_lue": true,
       "portee": {
-        "id": "portee-2",
+        "id": "portee-4",
         "taille": 3,
         "disponibles": 3,
         "confiance": "forte",
@@ -3700,7 +4143,7 @@
       "description": "KEIJO comme ses frères (Bloom, Inook, Pixel), a été nourri, sevré par sa maman, une toute jeune chatte trouvée gestante, il est devenu un adorable chaton, attachant, sociable. Curieux, tonique, il adore grimper sur le séchoir à linge, courir après les balles mais surtout jouer à la bagarre avec ses frères, faire des courses-poursuites puis séances de léchage et grandes siestes les uns contre les…",
       "fiche_lue": true,
       "portee": {
-        "id": "portee-2",
+        "id": "portee-4",
         "taille": 3,
         "disponibles": 3,
         "confiance": "forte",
@@ -3764,7 +4207,7 @@
       "description": "INOOK, PAB 29241 INOOK comme ses frères (Keijo, Bloom, Pixel), a été nourri,, sevré par sa maman, une toute jeune chatte trouvée gestante, il est devenu un adorable chaton, attachant, sociable. Curieux, tonique, il adore grimper sur le séchoir à linge, courir après les balles mais surtout jouer à la bagarre avec ses frères, faire des courses-poursuites puis séances de léchage et grandes siestes l…",
       "fiche_lue": true,
       "portee": {
-        "id": "portee-2",
+        "id": "portee-4",
         "taille": 3,
         "disponibles": 3,
         "confiance": "forte",
@@ -3828,9 +4271,9 @@
       "description": "▶️ À l’adoption : BAO, un petit cœur doux et tranquille 🐱❤️ Bao est un chaton de 3 mois au tempérament calme, doux et attachant . Il apprécie particulièrement les environnements douillets et les petits coins confortables où il peut se reposer tranquillement. Il a gardé de petits rituels de chaton qui le rendent particulièrement attendrissant : il adore pétrir et téter lorsqu’il est bien installé.…",
       "fiche_lue": true,
       "portee": {
-        "id": "portee-19",
-        "taille": 3,
-        "disponibles": 3,
+        "id": "portee-21",
+        "taille": 2,
+        "disponibles": 2,
         "confiance": "probable",
         "indices": [
           "même âge et même date de mise en ligne"
@@ -3880,55 +4323,6 @@
       "nouveau": false
     },
     {
-      "id": "secondechance:1515422",
-      "source": "secondechance",
-      "source_label": "Seconde Chance",
-      "source_id": "1515422",
-      "uid": "chat-europeen-batman-1515422",
-      "nom": "Batman",
-      "url": "https://www.secondechance.org/animal/chat-europeen-batman-1515422",
-      "image": "https://www.secondechance.org/uploads/anim/6aa4702325328954786695.jpeg",
-      "espece": "chat",
-      "race": "EUROPÉEN",
-      "sexe": "male",
-      "age_categorie": null,
-      "age_texte": "3 mois",
-      "age_mois": 3,
-      "age_source": "fiche",
-      "age_conflit": null,
-      "date_naissance": null,
-      "date_publication": "2026-09-11",
-      "reserve": false,
-      "lieu": {
-        "nom": "MarlyChats sans Toit",
-        "slug": null,
-        "ville": "Marly le Roi",
-        "code_postal": "78160",
-        "departement": "78",
-        "departement_association": "78",
-        "departements_adoption": [
-          "78"
-        ],
-        "latitude": null,
-        "longitude": null,
-        "precision": "departement",
-        "distance_km": null,
-        "url": "https://www.secondechance.org/refuge/yvelines/marlychats-sans-toit-3643"
-      },
-      "description": "▶️ À l’adoption : BATMAN, un petit cœur tout en douceur 🐱❤️ Batman est un chaton de 3 mois au tempérament calme et affectueux . Très proche de l’humain, il apprécie particulièrement les moments de ronronnement blotti à vos côtés et recherche volontiers votre affection. 🥰 Les câlins et les moments de tendresse sont clairement parmi ses activités préférées ! Mais Batman est aussi un petit curieux !…",
-      "fiche_lue": true,
-      "portee": {
-        "id": "portee-19",
-        "taille": 3,
-        "disponibles": 3,
-        "confiance": "probable",
-        "indices": [
-          "même âge et même date de mise en ligne"
-        ]
-      },
-      "nouveau": false
-    },
-    {
       "id": "secondechance:1515420",
       "source": "secondechance",
       "source_label": "Seconde Chance",
@@ -3967,9 +4361,9 @@
       "description": "▶️ À l’adoption : BALOU, un petit aventurier plein de vie 🐱❤️ Balou est un chaton de 3 mois plein de vitalité, audacieux, curieux et aventurier . Rien ne semble l’arrêter ! Il adore explorer son environnement et partir à la découverte de tout ce qui l’entoure. Mais derrière ce petit explorateur se cache aussi un grand amateur de tendresse et de moments douillets . 🥰 Il apprécie particulièrement l…",
       "fiche_lue": true,
       "portee": {
-        "id": "portee-19",
-        "taille": 3,
-        "disponibles": 3,
+        "id": "portee-21",
+        "taille": 2,
+        "disponibles": 2,
         "confiance": "probable",
         "indices": [
           "même âge et même date de mise en ligne"
@@ -4221,7 +4615,7 @@
       "description": "KOBY – À L’ADOPTION CORBEIL-ESSONNES 91 Koby est un adorable petit chaton âgé approximativement de 2 mois à 2 mois et demi. Il a été récupéré avec sa maman, Anaya, et ses frères et sœurs. Depuis son arrivée, Koby a eu la chance d’être choyé et entouré d’amour par sa famille d’accueil, avec sa maman. Cette présence bienveillante lui a permis de devenir un petit chaton très proche de l’humain. Koby…",
       "fiche_lue": true,
       "portee": {
-        "id": "portee-20",
+        "id": "portee-22",
         "taille": 2,
         "disponibles": 2,
         "confiance": "probable",
@@ -4271,7 +4665,7 @@
       "description": "CORBEIL-ESSONNES 91 ​𝐀̀ 𝐋’𝐀𝐃𝐎𝐏𝐓𝐈𝐎𝐍 ​DOMINO est né approximativement en mai/juin 2026 ​DOMINO est un petit chaton plein de vie, toujours prêt à partir à la découverte de son environnement. ​ Derrière ce petit aventurier se cache un véritable amateur de câlins qui ne demande qu'à s'épanouir dans une famille pour la vie. ​ Véritable petit baroudeur, il adore explorer, vadrouiller et découvrir de nou…",
       "fiche_lue": true,
       "portee": {
-        "id": "portee-20",
+        "id": "portee-22",
         "taille": 2,
         "disponibles": 2,
         "confiance": "probable",
@@ -4518,6 +4912,104 @@
       "nouveau": false
     },
     {
+      "id": "secondechance:1520128",
+      "source": "secondechance",
+      "source_label": "Seconde Chance",
+      "source_id": "1520128",
+      "uid": "chat-europeen-odin-1520128",
+      "nom": "Odin",
+      "url": "https://www.secondechance.org/animal/chat-europeen-odin-1520128",
+      "image": "https://www.secondechance.org/uploads/anim/6ab78dda8da8e510397953.png",
+      "espece": "chat",
+      "race": "EUROPÉEN",
+      "sexe": "male",
+      "age_categorie": null,
+      "age_texte": "3 mois",
+      "age_mois": 3,
+      "age_source": "fiche",
+      "age_conflit": null,
+      "date_naissance": null,
+      "date_publication": "2026-09-26",
+      "reserve": false,
+      "lieu": {
+        "nom": "REFUGE ASCLAF (Association de Sauvegarde des Chats Libres et Abandonnés de Fresnes)",
+        "slug": null,
+        "ville": "Fresnes",
+        "code_postal": "94260",
+        "departement": "94",
+        "departement_association": "94",
+        "departements_adoption": [
+          "94"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "precision": "departement",
+        "distance_km": null,
+        "url": "https://www.secondechance.org/refuge/val-de-marne/refuge-asclaf-association-de-sauvegarde-des-chats-libres-et-abandonnes-de-fresnes-488"
+      },
+      "description": "Adoptable dans toute la France Important : Un chaton n’est pas un jouet à l’aspect mignon dont on se lasse une fois l’âge adulte atteint. C’est un être vivant, sensible, qui demande de l’attention, de la présence, et une véritable implication sur le long terme. Quel que soit le caractère qu’il révèle en grandissant, l’adoption doit rester un engagement pour toute sa vie. Et malgré leurs bouilles…",
+      "fiche_lue": true,
+      "portee": {
+        "id": "portee-23",
+        "taille": 2,
+        "disponibles": 2,
+        "confiance": "probable",
+        "indices": [
+          "même âge et même date de mise en ligne"
+        ]
+      },
+      "nouveau": true
+    },
+    {
+      "id": "secondechance:1520121",
+      "source": "secondechance",
+      "source_label": "Seconde Chance",
+      "source_id": "1520121",
+      "uid": "chat-europeen-balto-1520121",
+      "nom": "Balto",
+      "url": "https://www.secondechance.org/animal/chat-europeen-balto-1520121",
+      "image": "https://www.secondechance.org/uploads/anim/6ab78a7909c50416570761.jpeg",
+      "espece": "chat",
+      "race": "EUROPÉEN",
+      "sexe": "male",
+      "age_categorie": null,
+      "age_texte": "3 mois",
+      "age_mois": 3,
+      "age_source": "fiche",
+      "age_conflit": null,
+      "date_naissance": null,
+      "date_publication": "2026-09-26",
+      "reserve": false,
+      "lieu": {
+        "nom": "REFUGE ASCLAF (Association de Sauvegarde des Chats Libres et Abandonnés de Fresnes)",
+        "slug": null,
+        "ville": "Fresnes",
+        "code_postal": "94260",
+        "departement": "94",
+        "departement_association": "94",
+        "departements_adoption": [
+          "94"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "precision": "departement",
+        "distance_km": null,
+        "url": "https://www.secondechance.org/refuge/val-de-marne/refuge-asclaf-association-de-sauvegarde-des-chats-libres-et-abandonnes-de-fresnes-488"
+      },
+      "description": "Adoptable dans toute la France Important : Un chaton n’est pas un jouet à l’aspect mignon dont on se lasse une fois l’âge adulte atteint. C’est un être vivant, sensible, qui demande de l’attention, de la présence, et une véritable implication sur le long terme. Quel que soit le caractère qu’il révèle en grandissant, l’adoption doit rester un engagement pour toute sa vie. Et malgré leurs bouilles…",
+      "fiche_lue": true,
+      "portee": {
+        "id": "portee-23",
+        "taille": 2,
+        "disponibles": 2,
+        "confiance": "probable",
+        "indices": [
+          "même âge et même date de mise en ligne"
+        ]
+      },
+      "nouveau": true
+    },
+    {
       "id": "secondechance:1518835",
       "source": "secondechance",
       "source_label": "Seconde Chance",
@@ -4556,7 +5048,7 @@
       "description": "Adoptable dans toute la France Cette annonce est supprimée puis remise en ligne chaque semaine. N’hésitez pas à vérifier dans la liste de nos pensionnaires à l’adoption si vous ne la retrouvez pas. Poids : NC Stérilisée/castré : Vacciné(e) : X Identifié(e) : X Lieu de vie actuel : Lille (59) HISTOIRE : Bella a été sauvée par Claire. Elle se trouve en accueil à Lille (59) CARACTÈRE : Bella est cra…",
       "fiche_lue": true,
       "portee": {
-        "id": "portee-21",
+        "id": "portee-24",
         "taille": 3,
         "disponibles": 3,
         "confiance": "forte",
@@ -4610,7 +5102,7 @@
       "description": "Adoptable dans toute la France Cette annonce est supprimée puis remise en ligne chaque semaine. N’hésitez pas à vérifier dans la liste de nos pensionnaires à l’adoption si vous ne la retrouvez pas. Poids : NC Stérilisée/castré : Vacciné(e) : X Identifié(e) : X Lieu de vie actuel : Lille (59) HISTOIRE : Caramel et sa soeur Chouchoute ont été sauvés par Claire. Adoption avec son frère. Il se trouve…",
       "fiche_lue": true,
       "portee": {
-        "id": "portee-21",
+        "id": "portee-24",
         "taille": 3,
         "disponibles": 3,
         "confiance": "forte",
@@ -4664,7 +5156,7 @@
       "description": "Adoptable dans toute la France Cette annonce est supprimée puis remise en ligne chaque semaine. N’hésitez pas à vérifier dans la liste de nos pensionnaires à l’adoption si vous ne la retrouvez pas. Poids : NC Stérilisée/castré : Vacciné(e) : X Identifié(e) : X Lieu de vie actuel : Lille (59) HISTOIRE : Caramel et sa soeur Chouchoute ont été sauvés par Claire. Adoption avec sa soeur. Il se trouve…",
       "fiche_lue": true,
       "portee": {
-        "id": "portee-21",
+        "id": "portee-24",
         "taille": 3,
         "disponibles": 3,
         "confiance": "forte",
@@ -4718,7 +5210,7 @@
       "description": "Retour à la recherche",
       "fiche_lue": true,
       "portee": {
-        "id": "portee-22",
+        "id": "portee-25",
         "taille": 2,
         "disponibles": 2,
         "confiance": "probable",
@@ -4726,7 +5218,7 @@
           "même âge et même date de mise en ligne"
         ]
       },
-      "nouveau": true
+      "nouveau": false
     },
     {
       "id": "secondechance:1517660",
@@ -4767,7 +5259,7 @@
       "description": "Retour à la recherche",
       "fiche_lue": true,
       "portee": {
-        "id": "portee-22",
+        "id": "portee-25",
         "taille": 2,
         "disponibles": 2,
         "confiance": "probable",
@@ -4775,7 +5267,7 @@
           "même âge et même date de mise en ligne"
         ]
       },
-      "nouveau": true
+      "nouveau": false
     },
     {
       "id": "secondechance:1510844",
@@ -4816,7 +5308,7 @@
       "description": "Adoptable dans toute la France Mâle noir et blanc OK chiens OK chats OK enfants respectueux Vermifugé, déparasité, identifié, vacciné, stérilisation obligatoire à ses 6 mois En famille d’accueil dans le 94 Frais d’adoption de 230€ Découvrez Piano, un adorable chaton blanc et noir avec une adorable tache noire sur son museau qui fais tout son charme et le rend unique ! Issu d'une colonie de chats…",
       "fiche_lue": true,
       "portee": {
-        "id": "portee-23",
+        "id": "portee-26",
         "taille": 2,
         "disponibles": 2,
         "confiance": "probable",
@@ -4865,7 +5357,7 @@
       "description": "Adoptable dans toute la France Mâle blanc tacheté noir OK chiens OK chats OK enfants respectueux Vermifugé, déparasité, identifié, vacciné, stérilisation obligatoire à ses 6 mois En famille d’accueil dans le 94 Frais d’adoption de 230€ Découvrez Nuage, un adorable chaton blanc avec des tâches noires, au regard hypnotisant faisant tout son charme et le rendant unique ! Issu d'une colonie de chats…",
       "fiche_lue": true,
       "portee": {
-        "id": "portee-23",
+        "id": "portee-26",
         "taille": 2,
         "disponibles": 2,
         "confiance": "probable",
@@ -4914,7 +5406,7 @@
       "description": "Adoptable dans toute la France Très gentille chatounette née à la ferme, calme et joueuse. Elle pourra s'adapter aussi bien en appartement qu'en maison. Ne connait pas les enfants en bas-âge (à éviter sauf si l'enfant vit déja avec des les chats). Belle à aussi 1 soeur et 1 frère si vous en voulez plusieurs ( une tricolore et un roux et blanc, photos sur demande) Placement par association : propo…",
       "fiche_lue": true,
       "portee": {
-        "id": "portee-24",
+        "id": "portee-27",
         "taille": 3,
         "disponibles": 3,
         "confiance": "probable",
@@ -4964,7 +5456,7 @@
       "description": "Adoptable dans toute la France Très gentille chatounette née à la ferme, calme et joueuse. Elle pourra s'adapter aussi bien en appartement qu'en maison. Ne connait pas les enfants en bas-âge (à éviter sauf si l'enfant vit déja avec des les chats). Bulle à aussi 1 soeur et 1 frère si vous en voulez plusieurs ( une noire et blanche et un roux et blanc, photos sur demande) Placement par association…",
       "fiche_lue": true,
       "portee": {
-        "id": "portee-24",
+        "id": "portee-27",
         "taille": 3,
         "disponibles": 3,
         "confiance": "probable",
@@ -5014,7 +5506,7 @@
       "description": "Adoptable dans toute la France Très gentil chaton né à la ferme, calme et joueur. Il pourra s'adapter aussi bien en appartement qu'en maison. Ne connait pas les enfants en bas-âge (à éviter sauf si l'enfant vit déja avec des les chats). Biscuit à aussi 2 soeurs si vous en voulez plusieurs (1 tricolore et une noire et blanche, photos sur demande) Placement par association : proposé Identifié, verm…",
       "fiche_lue": true,
       "portee": {
-        "id": "portee-24",
+        "id": "portee-27",
         "taille": 3,
         "disponibles": 3,
         "confiance": "probable",
@@ -5162,7 +5654,7 @@
       "sexe": "male",
       "age_categorie": null,
       "age_texte": "2 mois",
-      "age_mois": 3.040499067609704,
+      "age_mois": 3.0729168761883034,
       "age_source": "description",
       "age_conflit": "fiche : 2 mois · description : NOS CHATS GUINNESS 2 MOIS ET DEMI Guinness est un chaton pl",
       "date_naissance": null,
@@ -5203,7 +5695,7 @@
       "sexe": "male",
       "age_categorie": null,
       "age_texte": "2 mois",
-      "age_mois": 3.080540135371511,
+      "age_mois": 3.1129579439501103,
       "age_source": "description",
       "age_conflit": "fiche : 2 mois · description : us les deux âgés de 3 mois. Ils sont inséparables et très at",
       "date_naissance": null,
@@ -5228,7 +5720,7 @@
       "description": "Adoptable dans toute la France 🐾 Baloo & Bianca cherchent leur famille pour la vie ! 🐾 Baloo est un petit mâle et Bianca une petite femelle, tous les deux âgés de 3 mois. Ils sont inséparables et très attachés l’un à l’autre. ❤️ Très à l’aise rapidement et pas vraiment timides, ils sont câlins, joueurs et adorables. 🏡 Ils devront être adoptés ensemble, afin de ne pas être séparés. Ils sont pucés…",
       "fiche_lue": true,
       "portee": {
-        "id": "portee-25",
+        "id": "portee-28",
         "taille": 3,
         "disponibles": 3,
         "confiance": "forte",
@@ -5255,7 +5747,7 @@
       "sexe": "femelle",
       "age_categorie": null,
       "age_texte": "2 mois",
-      "age_mois": 3.113394344817096,
+      "age_mois": 3.1458121533956955,
       "age_source": "description",
       "age_conflit": "fiche : 2 mois · description : chatonne femelle de 3 mois, au joli pelage blanc et roux. El",
       "date_naissance": null,
@@ -5296,7 +5788,7 @@
       "sexe": "male",
       "age_categorie": null,
       "age_texte": "0 mois",
-      "age_mois": 3.1462485542626815,
+      "age_mois": 3.178666362841281,
       "age_source": "description",
       "age_conflit": null,
       "date_naissance": null,
@@ -5321,7 +5813,7 @@
       "description": "Bee & Bop, bientôt 3 mois, cherchent leur famille. Et si possible… la même. Recueillis dans la rue cet été, ils sont très probablement frères. Depuis, ils grandissent ensemble et ne se quittent pas. Bee, c’est une vraie petite machine à ronrons Câlin, joueur et curieux de tout, il veut toujours savoir ce qui se passe autour de lui… et fonce généralement le premier ! Bop, lui, est plus réservé. C’…",
       "fiche_lue": true,
       "portee": {
-        "id": "portee-26",
+        "id": "portee-29",
         "taille": 3,
         "disponibles": 3,
         "confiance": "forte",
@@ -5348,7 +5840,7 @@
       "sexe": "male",
       "age_categorie": null,
       "age_texte": "0 mois",
-      "age_mois": 3.1462485542626815,
+      "age_mois": 3.178666362841281,
       "age_source": "description",
       "age_conflit": null,
       "date_naissance": null,
@@ -5373,7 +5865,7 @@
       "description": "Bluetooth, 3 mois, cherche sa famille. Sauvé de la rue une semaine après Bee et Bop, il est très probablement leur frère. Bluetooth est le plus solitaire des trois. Un peu réservé au premier contact, il a besoin de temps pour accorder sa confiance. Mais une fois qu’il se sent en sécurité, il apprécie vraiment les caresses… et surtout, il commence maintenant à venir les chercher de lui-même. C’est…",
       "fiche_lue": true,
       "portee": {
-        "id": "portee-26",
+        "id": "portee-29",
         "taille": 3,
         "disponibles": 3,
         "confiance": "forte",
@@ -5400,7 +5892,7 @@
       "sexe": "femelle",
       "age_categorie": null,
       "age_texte": "3 mois",
-      "age_mois": 3.1688358232565212,
+      "age_mois": 3.20125363183512,
       "age_source": "description",
       "age_conflit": null,
       "date_naissance": "2026-06-21",
@@ -5425,7 +5917,7 @@
       "description": "Adoptable dans toute la France 🩷 A RÉSERVER 💙 ✨ PINK (femelle) ✨ Adoption possible à Orly ou au refuge situé à Champigny-la-Futelaye (27) 🏡 🟣Sauvée de l'errance en Guadeloupe, née le 21 juin 2026. 🐾 Ok chats 🐈 🐾 Ok jeunes enfants 👶🏽 🐾 Ok Chiens 🐶 🐾 Ok appartement ou maison🏡 ⛑️ vermifugée, identifiée, vaccinée et certificat de bonne santé. Stérilisation obligatoire. Pour toute demande d'adoption o…",
       "fiche_lue": true,
       "portee": {
-        "id": "portee-27",
+        "id": "portee-30",
         "taille": 2,
         "disponibles": 2,
         "confiance": "forte",
@@ -5449,7 +5941,7 @@
       "sexe": "male",
       "age_categorie": null,
       "age_texte": "3 mois",
-      "age_mois": 3.1688358232565212,
+      "age_mois": 3.20125363183512,
       "age_source": "description",
       "age_conflit": null,
       "date_naissance": "2026-06-21",
@@ -5474,7 +5966,7 @@
       "description": "Adoptable dans toute la France 🩷 A RÉSERVER 💙 ✨ GREEN (mâle) ✨ Adoption possible à Orly ou au refuge situé à Champigny-la-Futelaye (27) 🏡 🟣Sauvé de l'errance en Guadeloupe, née le 21 juin 2026. 🐾 Ok chats 🐈 🐾 Ok jeunes enfants 👶🏽 🐾 Ok Chiens 🐶 🐾 Ok appartement ou maison🏡 ⛑️ vermifugée, identifiée, vaccinée et certificat de bonne santé. Stérilisation obligatoire. Pour toute demande d'adoption ou d…",
       "fiche_lue": true,
       "portee": {
-        "id": "portee-27",
+        "id": "portee-30",
         "taille": 2,
         "disponibles": 2,
         "confiance": "forte",
@@ -5498,7 +5990,7 @@
       "sexe": "male",
       "age_categorie": null,
       "age_texte": "2 mois",
-      "age_mois": 3.1791027637082667,
+      "age_mois": 3.211520572286866,
       "age_source": "description",
       "age_conflit": "fiche : 2 mois · description : x petits chatons de 3 mois 🐱🤍 Si vous souhaitez les adopté",
       "date_naissance": null,
@@ -5523,7 +6015,7 @@
       "description": "Adoptable dans toute la France 🚨 FAMILLE D’ACCUEIL RECHERCHÉE EN URGENCE 🐾 Nous recherchons en urgence une famille d’accueil pour ces deux petits chatons de 3 mois 🐱🤍 Si vous souhaitez les adoptés vous pourrez également le faire ! Ils ont besoin d’un foyer temporaire, chaleureux et sécurisant, le temps de pouvoir leur trouver leur famille pour la vie. 📍 Paris 20e 🏠 Vous avez une place chez vous e…",
       "fiche_lue": true,
       "portee": {
-        "id": "portee-25",
+        "id": "portee-28",
         "taille": 3,
         "disponibles": 3,
         "confiance": "forte",
@@ -5550,7 +6042,7 @@
       "sexe": "male",
       "age_categorie": null,
       "age_texte": "3 mois",
-      "age_mois": 3.300252661038862,
+      "age_mois": 3.332670469617461,
       "age_source": "description",
       "age_conflit": null,
       "date_naissance": "2026-06-17",
@@ -5575,7 +6067,7 @@
       "description": "Adoptable dans toute la France Mâle blanc et tigré Né le 17/06/2026 OK chiens OK chats OK enfants respectueux Vermifugé, déparasité, identifié, vacciné, stérilisation obligatoire à ses 6 mois En famille d’accueil à Paris Frais d’adoption de 230€ Découvrez Truffo, un adorable chaton qui n'attend que sa famille pour la vie. Issu d'une colonie de chats errants, il est timide et a besoin d'être socia…",
       "fiche_lue": true,
       "portee": {
-        "id": "portee-28",
+        "id": "portee-31",
         "taille": 2,
         "disponibles": 2,
         "confiance": "forte",
@@ -5599,7 +6091,7 @@
       "sexe": "male",
       "age_categorie": null,
       "age_texte": "3 mois",
-      "age_mois": 3.300252661038862,
+      "age_mois": 3.332670469617461,
       "age_source": "description",
       "age_conflit": null,
       "date_naissance": "2026-06-17",
@@ -5624,7 +6116,7 @@
       "description": "Adoptable dans toute la France Mâle noir et blanc Né le 17/06/2026 OK chiens OK chats OK enfants respectueux Vermifugé, déparasité, identifié, vacciné, stérilisation obligatoire à ses 6 mois En famille d’accueil à Paris Frais d’adoption de 230€ Découvrez Bigoti, un adorable chaton blanc avec de drôles de taches noires autour de l'œil droit, sur le crâne et le museau, ce qui fais tout son charme e…",
       "fiche_lue": true,
       "portee": {
-        "id": "portee-28",
+        "id": "portee-31",
         "taille": 2,
         "disponibles": 2,
         "confiance": "forte",
@@ -5635,34 +6127,34 @@
       "nouveau": false
     },
     {
-      "id": "secondechance:1517632",
+      "id": "secondechance:1519914",
       "source": "secondechance",
       "source_label": "Seconde Chance",
-      "source_id": "1517632",
-      "uid": "chat-europeen-tigroot-chaton-male-creole-1517632",
-      "nom": "Tigroot, chaton mâle...",
-      "url": "https://www.secondechance.org/animal/chat-europeen-tigroot-chaton-male-creole-1517632",
-      "image": "https://www.secondechance.org/uploads/anim/6aad7fe185c19974810107.jpeg",
+      "source_id": "1519914",
+      "uid": "chat-europeen-tigroot-1519914",
+      "nom": "Tigroot",
+      "url": "https://www.secondechance.org/animal/chat-europeen-tigroot-1519914",
+      "image": "https://www.secondechance.org/uploads/anim/6ab6cdd708f3e731564771.jpeg",
       "espece": "chat",
       "race": "EUROPÉEN",
       "sexe": "male",
       "age_categorie": null,
       "age_texte": "3 mois",
-      "age_mois": 3.3988152893756176,
+      "age_mois": 3.431233097954217,
       "age_source": "description",
       "age_conflit": null,
       "date_naissance": "2026-06-14",
-      "date_publication": "2026-09-18",
+      "date_publication": "2026-09-25",
       "reserve": false,
       "lieu": {
         "nom": "Zang",
         "slug": null,
         "ville": "Saint Claude",
         "code_postal": "97120",
-        "departement": "60",
+        "departement": "91",
         "departement_association": "971",
         "departements_adoption": [
-          "60"
+          "91"
         ],
         "latitude": null,
         "longitude": null,
@@ -5672,15 +6164,7 @@
       },
       "description": "Adoptable dans toute la France TIGROOT, chaton mâle créole Né le 14 juin 2026, identifié (n° 250268782287201) Soins 🚑 : primo-vacciné, déparasité, vermifugé Poids estimé à l’âge adulte : 4-5 Kg 🌎 : Actuellement en famille d’accueil en Guadeloupe Une adorable boîte à ronrons qui n’attend que vous ! Découvrez-moi ! https://www.association-zang.com/profil-chat/tigroot Mon caractère, mes ententes : J…",
       "fiche_lue": true,
-      "portee": {
-        "id": "portee-29",
-        "taille": 2,
-        "disponibles": 2,
-        "confiance": "forte",
-        "indices": [
-          "annonce groupée : Tigroot, chaton mâle"
-        ]
-      },
+      "portee": null,
       "nouveau": true
     },
     {
@@ -5697,7 +6181,7 @@
       "sexe": "femelle",
       "age_categorie": null,
       "age_texte": "3 mois",
-      "age_mois": 3.5302321271579586,
+      "age_mois": 3.5626499357365575,
       "age_source": "description",
       "age_conflit": null,
       "date_naissance": "2026-06-10",
@@ -5738,7 +6222,7 @@
       "sexe": "femelle",
       "age_categorie": null,
       "age_texte": "3 mois",
-      "age_mois": 3.563086336603544,
+      "age_mois": 3.595504145182143,
       "age_source": "description",
       "age_conflit": null,
       "date_naissance": "2026-06-09",
@@ -5779,7 +6263,7 @@
       "sexe": "femelle",
       "age_categorie": null,
       "age_texte": "3 mois",
-      "age_mois": 3.563086336603544,
+      "age_mois": 3.595504145182143,
       "age_source": "description",
       "age_conflit": null,
       "date_naissance": "2026-06-09",
@@ -5820,7 +6304,7 @@
       "sexe": "femelle",
       "age_categorie": null,
       "age_texte": "3 mois",
-      "age_mois": 3.6287947554947144,
+      "age_mois": 3.6612125640733133,
       "age_source": "description",
       "age_conflit": null,
       "date_naissance": "2026-06-07",
@@ -5861,7 +6345,7 @@
       "sexe": "male",
       "age_categorie": null,
       "age_texte": "3 mois",
-      "age_mois": 3.8259200121682255,
+      "age_mois": 3.858337820746825,
       "age_source": "description",
       "age_conflit": null,
       "date_naissance": "2026-06-01",
@@ -5889,6 +6373,60 @@
       "nouveau": false
     },
     {
+      "id": "secondechance:1519890",
+      "source": "secondechance",
+      "source_label": "Seconde Chance",
+      "source_id": "1519890",
+      "uid": "chat-europeen-bulle-d-eau-1519890",
+      "nom": "Bulle d'eau",
+      "url": "https://www.secondechance.org/animal/chat-europeen-bulle-d-eau-1519890",
+      "image": "https://www.secondechance.org/uploads/anim/6ab6bb6299d79837840555.jpeg",
+      "espece": "chat",
+      "race": "EUROPÉEN",
+      "sexe": "femelle",
+      "age_categorie": null,
+      "age_texte": "3 mois",
+      "age_mois": 3.858337820746825,
+      "age_source": "description",
+      "age_conflit": null,
+      "date_naissance": "2026-06-01",
+      "date_publication": "2026-09-25",
+      "reserve": false,
+      "lieu": {
+        "nom": "L'échappée belle",
+        "slug": null,
+        "ville": "OZOIR LA FERRIERE",
+        "code_postal": "77330",
+        "departement": "77",
+        "departement_association": "77",
+        "departements_adoption": [
+          "77"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "precision": "departement",
+        "distance_km": null,
+        "url": "https://www.secondechance.org/refuge/seine-et-marne/l-echappee-belle-1978"
+      },
+      "description": "BULLE D'EAU , née le 01/06/2026, est une petite chatonne écaille de tortue. Elle est plutôt calme, et aime bien observer avant de participer à la séance de jeu. L'heure de la pâté reste un moment important de la journée! BULLE D'EAU est visible à Pontault Combault. Pour la rencontrer, contactez le 06 89 37 54 33. Retour à la recherche",
+      "fiche_lue": true,
+      "portee": {
+        "id": "portee-32",
+        "taille": 4,
+        "disponibles": 4,
+        "confiance": "forte",
+        "indices": [
+          "même date de naissance",
+          "fratrie mentionnée",
+          "« Bretzel » cité·e dans la description",
+          "cité·e dans la description de « Bretzel »",
+          "cité·e dans la description de « Brune »",
+          "« Brune » cité·e dans la description"
+        ]
+      },
+      "nouveau": true
+    },
+    {
       "id": "secondechance:1518792",
       "source": "secondechance",
       "source_label": "Seconde Chance",
@@ -5902,7 +6440,7 @@
       "sexe": "male",
       "age_categorie": null,
       "age_texte": "3 mois",
-      "age_mois": 3.8259200121682255,
+      "age_mois": 3.858337820746825,
       "age_source": "description",
       "age_conflit": null,
       "date_naissance": "2026-06-01",
@@ -5927,7 +6465,7 @@
       "description": "BINGO , né le 01/06/2026, est un très beau chaton roux au regard tout doux. Comme ses frères et sœurs, c'est un chaton calme qui observe avant de se lancer dans le jeu. Ce n'est pas un gros gourmand, et il aime prendre son temps pour finir sa pâté... BINGO est visible à Pontault Combault. Pour le rencontrer, contactez le 06 89 37 54 33. Retour à la recherche",
       "fiche_lue": true,
       "portee": {
-        "id": "portee-30",
+        "id": "portee-32",
         "taille": 4,
         "disponibles": 4,
         "confiance": "forte",
@@ -5956,7 +6494,7 @@
       "sexe": "femelle",
       "age_categorie": null,
       "age_texte": "3 mois",
-      "age_mois": 3.8259200121682255,
+      "age_mois": 3.858337820746825,
       "age_source": "description",
       "age_conflit": null,
       "date_naissance": "2026-06-01",
@@ -5981,7 +6519,7 @@
       "description": "BRUNE , née le 01/06/2026, est la fille de BERYL et la soeur de BRETZEL , trouvés un soir de fin Juin à Ozoir. Les petits avaient à peine un mois! C'est une minette bien dans ses patounes et très curieuse. Elle adore jouer avec son frère, ou bien seule. Sa priorité: être en mouvement, que ce soit pour jouer, gambader, courir, ou se faire câliner! Elle est demandeuse d'attention et de câlins, et l…",
       "fiche_lue": true,
       "portee": {
-        "id": "portee-30",
+        "id": "portee-32",
         "taille": 4,
         "disponibles": 4,
         "confiance": "forte",
@@ -5994,7 +6532,7 @@
           "« Brune » cité·e dans la description"
         ]
       },
-      "nouveau": true
+      "nouveau": false
     },
     {
       "id": "secondechance:1517633",
@@ -6010,7 +6548,7 @@
       "sexe": "male",
       "age_categorie": null,
       "age_texte": "3 mois",
-      "age_mois": 3.8259200121682255,
+      "age_mois": 3.858337820746825,
       "age_source": "description",
       "age_conflit": null,
       "date_naissance": "2026-06-01",
@@ -6035,61 +6573,7 @@
       "description": "BRETZEL , né le 01/06/2026, est le fils de BERYL , et le frère de BRUNE , trouvés un soir de fin Juin à Ozoir. Les petits avaient à peine un mois! C'est un chaton un peu timidou de prime abord. Comme sa maman, il lui faut un petit peu de temps pour se sentir à l'aise, apprécier et réclamer des caresses en faisant fonctionner sa boite à ronrons. Il aime jouer avec sa soeur, auprès de qui il court…",
       "fiche_lue": true,
       "portee": {
-        "id": "portee-30",
-        "taille": 4,
-        "disponibles": 4,
-        "confiance": "forte",
-        "indices": [
-          "même date de naissance",
-          "fratrie mentionnée",
-          "« Bretzel » cité·e dans la description",
-          "cité·e dans la description de « Bretzel »",
-          "cité·e dans la description de « Brune »",
-          "« Brune » cité·e dans la description"
-        ]
-      },
-      "nouveau": true
-    },
-    {
-      "id": "secondechance:1516793",
-      "source": "secondechance",
-      "source_label": "Seconde Chance",
-      "source_id": "1516793",
-      "uid": "chat-europeen-bulle-d-eau-1516793",
-      "nom": "Bulle d'eau",
-      "url": "https://www.secondechance.org/animal/chat-europeen-bulle-d-eau-1516793",
-      "image": "https://www.secondechance.org/uploads/anim/6aaa25fff3c71027751316.jpeg",
-      "espece": "chat",
-      "race": "EUROPÉEN",
-      "sexe": "femelle",
-      "age_categorie": null,
-      "age_texte": "3 mois",
-      "age_mois": 3.8259200121682255,
-      "age_source": "description",
-      "age_conflit": null,
-      "date_naissance": "2026-06-01",
-      "date_publication": "2026-09-16",
-      "reserve": false,
-      "lieu": {
-        "nom": "L'échappée belle",
-        "slug": null,
-        "ville": "OZOIR LA FERRIERE",
-        "code_postal": "77330",
-        "departement": "77",
-        "departement_association": "77",
-        "departements_adoption": [
-          "77"
-        ],
-        "latitude": null,
-        "longitude": null,
-        "precision": "departement",
-        "distance_km": null,
-        "url": "https://www.secondechance.org/refuge/seine-et-marne/l-echappee-belle-1978"
-      },
-      "description": "BULLE D'EAU , née le 01/06/2026, est une petite chatonne écaille de tortue. Elle est plutôt calme, et aime bien observer avant de participer à la séance de jeu. L'heure de la pâté reste un moment important de la journée! BULLE D'EAU est visible à Pontault Combault. Pour la rencontrer, contactez le 06 89 37 54 33. Retour à la recherche",
-      "fiche_lue": true,
-      "portee": {
-        "id": "portee-30",
+        "id": "portee-32",
         "taille": 4,
         "disponibles": 4,
         "confiance": "forte",
@@ -6118,7 +6602,7 @@
       "sexe": "femelle",
       "age_categorie": null,
       "age_texte": "3 mois",
-      "age_mois": 3.8259200121682255,
+      "age_mois": 3.858337820746825,
       "age_source": "description",
       "age_conflit": null,
       "date_naissance": "2026-06-01",
@@ -6159,7 +6643,7 @@
       "sexe": "male",
       "age_categorie": null,
       "age_texte": "3 mois",
-      "age_mois": 3.8259200121682255,
+      "age_mois": 3.858337820746825,
       "age_source": "description",
       "age_conflit": null,
       "date_naissance": "2026-06-01",
@@ -6200,7 +6684,7 @@
       "sexe": "male",
       "age_categorie": null,
       "age_texte": "3 mois",
-      "age_mois": 3.858774221613811,
+      "age_mois": 3.8911920301924097,
       "age_source": "description",
       "age_conflit": null,
       "date_naissance": "2026-05-31",
@@ -6225,7 +6709,7 @@
       "description": "Adoptable dans toute la France Né le 31/05/2026 Bombay recherche le contact humain. Il attend souvent qu'on le rejoigne dans la pièce, vient se frotter, renifler et miauler pour interagir. Son histoire : leur maman a été trouvée à saint Denis, errante et prête à accoucher, nous l’avons pris en charge alors qu’elle venait de mettre bas de 4 petits chatons. Côté santé : Identifiée Primo-vaccinée St…",
       "fiche_lue": true,
       "portee": {
-        "id": "portee-31",
+        "id": "portee-33",
         "taille": 2,
         "disponibles": 2,
         "confiance": "forte",
@@ -6249,7 +6733,7 @@
       "sexe": "femelle",
       "age_categorie": null,
       "age_texte": "3 mois",
-      "age_mois": 3.858774221613811,
+      "age_mois": 3.8911920301924097,
       "age_source": "description",
       "age_conflit": null,
       "date_naissance": "2026-05-31",
@@ -6274,7 +6758,7 @@
       "description": "Adoptable dans toute la France Née le 31/05/2026 Bogota aime particulièrement se placer en hauteur. Elle est assez indépendante et joue volontiers de son côté. Son histoire : leur maman a été trouvée à saint Denis, errante et prête à accoucher, nous l’avons pris en charge alors qu’elle venait de mettre bas de 4 petits chatons. Côté santé : Identifiée Primo-vaccinée Stérilisation à prévoir",
       "fiche_lue": true,
       "portee": {
-        "id": "portee-31",
+        "id": "portee-33",
         "taille": 2,
         "disponibles": 2,
         "confiance": "forte",
@@ -6298,7 +6782,7 @@
       "sexe": "femelle",
       "age_categorie": null,
       "age_texte": "3 mois",
-      "age_mois": 3.891628431059396,
+      "age_mois": 3.924046239637995,
       "age_source": "description",
       "age_conflit": null,
       "date_naissance": "2026-05-30",
@@ -6323,7 +6807,7 @@
       "description": "Aminous Libres propose à l'adoption les chattes AVA et BAYA. AVA, jeune et belle chatte noire et blanche de 18 mois, amoureuse des caresses et de la tranquillité, recherche un foyer aimant et calme. BAYA, jolie petite chatonne noire née le 30 mai 2026, très affectueuse, joueuse et dynamique, recherche son foyer pour la vie. Elle est pour le moment en FA (famille d'accueil) à Torcy (77200) avec sa…",
       "fiche_lue": true,
       "portee": {
-        "id": "portee-32",
+        "id": "portee-34",
         "taille": 2,
         "disponibles": 2,
         "confiance": "forte",
@@ -6336,7 +6820,42 @@
   ],
   "portees": [
     {
-      "id": "portee-5",
+      "id": "portee-6",
+      "source": "secondechance",
+      "source_label": "Seconde Chance",
+      "lieu": {
+        "nom": "Les petits protégés de Jo & Co",
+        "ville": "LE KREMLIN BICETRE",
+        "departement": "95",
+        "url": "https://www.secondechance.org/refuge/val-de-marne/les-petits-proteges-de-jo-co-2136"
+      },
+      "date_naissance": null,
+      "age_mois": 1,
+      "taille": 5,
+      "annonces": 2,
+      "disponibles": 5,
+      "confiance": "probable",
+      "indices": [
+        "même âge et même date de mise en ligne",
+        "fratrie mentionnée"
+      ],
+      "membres": [
+        "secondechance:1520115",
+        "secondechance:1520116"
+      ],
+      "noms": [
+        "Bleiz",
+        "Erell",
+        "gurvan",
+        "ildut",
+        "ster"
+      ],
+      "sources": [
+        "Seconde Chance"
+      ]
+    },
+    {
+      "id": "portee-8",
       "source": "secondechance",
       "source_label": "Seconde Chance",
       "lieu": {
@@ -6376,7 +6895,7 @@
       ]
     },
     {
-      "id": "portee-13",
+      "id": "portee-15",
       "source": "secondechance",
       "source_label": "Seconde Chance",
       "lieu": {
@@ -6415,7 +6934,7 @@
       ]
     },
     {
-      "id": "portee-9",
+      "id": "portee-11",
       "source": "secondechance",
       "source_label": "Seconde Chance",
       "lieu": {
@@ -6450,7 +6969,7 @@
       ]
     },
     {
-      "id": "portee-16",
+      "id": "portee-18",
       "source": "secondechance",
       "source_label": "Seconde Chance",
       "lieu": {
@@ -6485,7 +7004,7 @@
       ]
     },
     {
-      "id": "portee-30",
+      "id": "portee-32",
       "source": "secondechance",
       "source_label": "Seconde Chance",
       "lieu": {
@@ -6495,7 +7014,7 @@
         "url": "https://www.secondechance.org/refuge/seine-et-marne/l-echappee-belle-1978"
       },
       "date_naissance": "2026-06-01",
-      "age_mois": 3.8259200121682255,
+      "age_mois": 3.858337820746825,
       "taille": 4,
       "annonces": 4,
       "disponibles": 4,
@@ -6509,10 +7028,10 @@
         "« Brune » cité·e dans la description"
       ],
       "membres": [
-        "secondechance:1516793",
         "secondechance:1517633",
         "secondechance:1517640",
-        "secondechance:1518792"
+        "secondechance:1518792",
+        "secondechance:1519890"
       ],
       "noms": [
         "Bingo",
@@ -6525,7 +7044,47 @@
       ]
     },
     {
-      "id": "portee-4",
+      "id": "portee-3",
+      "source": "laspa",
+      "source_label": "La SPA",
+      "lieu": {
+        "nom": "La SPA - Refuge de Plaisir",
+        "ville": "Plaisir",
+        "departement": "78",
+        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-plaisir/"
+      },
+      "date_naissance": "2026-07-20",
+      "age_mois": 2,
+      "taille": 3,
+      "annonces": 6,
+      "disponibles": 3,
+      "confiance": "forte",
+      "indices": [
+        "même date de naissance",
+        "fratrie mentionnée",
+        "même portée publiée sur La SPA et Seconde Chance",
+        "même âge et même date de mise en ligne"
+      ],
+      "membres": [
+        "laspa:244681",
+        "laspa:244682",
+        "laspa:244690",
+        "secondechance:1519942",
+        "secondechance:1519943",
+        "secondechance:1519944"
+      ],
+      "noms": [
+        "Billy",
+        "Lockhart",
+        "Minus"
+      ],
+      "sources": [
+        "La SPA",
+        "Seconde Chance"
+      ]
+    },
+    {
+      "id": "portee-7",
       "source": "secondechance",
       "source_label": "Seconde Chance",
       "lieu": {
@@ -6597,7 +7156,7 @@
       ]
     },
     {
-      "id": "portee-2",
+      "id": "portee-4",
       "source": "laspa",
       "source_label": "La SPA",
       "lieu": {
@@ -6649,7 +7208,7 @@
       ]
     },
     {
-      "id": "portee-14",
+      "id": "portee-16",
       "source": "secondechance",
       "source_label": "Seconde Chance",
       "lieu": {
@@ -6687,7 +7246,7 @@
       ]
     },
     {
-      "id": "portee-15",
+      "id": "portee-17",
       "source": "secondechance",
       "source_label": "Seconde Chance",
       "lieu": {
@@ -6720,40 +7279,7 @@
       ]
     },
     {
-      "id": "portee-19",
-      "source": "secondechance",
-      "source_label": "Seconde Chance",
-      "lieu": {
-        "nom": "MarlyChats sans Toit",
-        "ville": "Marly le Roi",
-        "departement": "78",
-        "url": "https://www.secondechance.org/refuge/yvelines/marlychats-sans-toit-3643"
-      },
-      "date_naissance": null,
-      "age_mois": 3,
-      "taille": 3,
-      "annonces": 3,
-      "disponibles": 3,
-      "confiance": "probable",
-      "indices": [
-        "même âge et même date de mise en ligne"
-      ],
-      "membres": [
-        "secondechance:1515420",
-        "secondechance:1515422",
-        "secondechance:1515425"
-      ],
-      "noms": [
-        "Balou",
-        "Bao",
-        "Batman"
-      ],
-      "sources": [
-        "Seconde Chance"
-      ]
-    },
-    {
-      "id": "portee-21",
+      "id": "portee-24",
       "source": "secondechance",
       "source_label": "Seconde Chance",
       "lieu": {
@@ -6791,7 +7317,7 @@
       ]
     },
     {
-      "id": "portee-24",
+      "id": "portee-27",
       "source": "secondechance",
       "source_label": "Seconde Chance",
       "lieu": {
@@ -6825,7 +7351,7 @@
       ]
     },
     {
-      "id": "portee-25",
+      "id": "portee-28",
       "source": "secondechance",
       "source_label": "Seconde Chance",
       "lieu": {
@@ -6835,7 +7361,7 @@
         "url": "https://www.secondechance.org/refuge/paris/sopranimaux-3525"
       },
       "date_naissance": null,
-      "age_mois": 3.080540135371511,
+      "age_mois": 3.1129579439501103,
       "taille": 3,
       "annonces": 2,
       "disponibles": 3,
@@ -6860,7 +7386,7 @@
       ]
     },
     {
-      "id": "portee-26",
+      "id": "portee-29",
       "source": "secondechance",
       "source_label": "Seconde Chance",
       "lieu": {
@@ -6870,7 +7396,7 @@
         "url": "https://www.secondechance.org/refuge/seine-et-marne/les-slf-sans-litiere-fixe-4107"
       },
       "date_naissance": null,
-      "age_mois": 3.1462485542626815,
+      "age_mois": 3.178666362841281,
       "taille": 3,
       "annonces": 2,
       "disponibles": 3,
@@ -6895,7 +7421,7 @@
       ]
     },
     {
-      "id": "portee-3",
+      "id": "portee-5",
       "source": "secondechance",
       "source_label": "Seconde Chance",
       "lieu": {
@@ -6925,38 +7451,7 @@
       ]
     },
     {
-      "id": "portee-6",
-      "source": "secondechance",
-      "source_label": "Seconde Chance",
-      "lieu": {
-        "nom": "Brigade de Protection Animale",
-        "ville": "Paris",
-        "departement": "92",
-        "url": "https://www.secondechance.org/refuge/aude/brigade-de-protection-animale-2759"
-      },
-      "date_naissance": null,
-      "age_mois": 2,
-      "taille": 2,
-      "annonces": 2,
-      "disponibles": 2,
-      "confiance": "probable",
-      "indices": [
-        "même âge et même date de mise en ligne"
-      ],
-      "membres": [
-        "secondechance:1519083",
-        "secondechance:1519084"
-      ],
-      "noms": [
-        "Kim",
-        "Malibu"
-      ],
-      "sources": [
-        "Seconde Chance"
-      ]
-    },
-    {
-      "id": "portee-7",
+      "id": "portee-9",
       "source": "secondechance",
       "source_label": "Seconde Chance",
       "lieu": {
@@ -6988,7 +7483,7 @@
       ]
     },
     {
-      "id": "portee-8",
+      "id": "portee-10",
       "source": "secondechance",
       "source_label": "Seconde Chance",
       "lieu": {
@@ -6998,7 +7493,7 @@
         "url": "https://www.secondechance.org/refuge/oise/association-alpha-ma-3552"
       },
       "date_naissance": "2026-07-10",
-      "age_mois": 2.544605843790402,
+      "age_mois": 2.577023652369001,
       "taille": 2,
       "annonces": 2,
       "disponibles": 2,
@@ -7024,7 +7519,7 @@
       ]
     },
     {
-      "id": "portee-10",
+      "id": "portee-12",
       "source": "secondechance",
       "source_label": "Seconde Chance",
       "lieu": {
@@ -7055,7 +7550,7 @@
       ]
     },
     {
-      "id": "portee-11",
+      "id": "portee-13",
       "source": "secondechance",
       "source_label": "Seconde Chance",
       "lieu": {
@@ -7087,7 +7582,7 @@
       ]
     },
     {
-      "id": "portee-12",
+      "id": "portee-14",
       "source": "secondechance",
       "source_label": "Seconde Chance",
       "lieu": {
@@ -7118,7 +7613,7 @@
       ]
     },
     {
-      "id": "portee-17",
+      "id": "portee-19",
       "source": "secondechance",
       "source_label": "Seconde Chance",
       "lieu": {
@@ -7154,7 +7649,7 @@
       ]
     },
     {
-      "id": "portee-18",
+      "id": "portee-20",
       "source": "secondechance",
       "source_label": "Seconde Chance",
       "lieu": {
@@ -7185,7 +7680,38 @@
       ]
     },
     {
-      "id": "portee-20",
+      "id": "portee-21",
+      "source": "secondechance",
+      "source_label": "Seconde Chance",
+      "lieu": {
+        "nom": "MarlyChats sans Toit",
+        "ville": "Marly le Roi",
+        "departement": "78",
+        "url": "https://www.secondechance.org/refuge/yvelines/marlychats-sans-toit-3643"
+      },
+      "date_naissance": null,
+      "age_mois": 3,
+      "taille": 2,
+      "annonces": 2,
+      "disponibles": 2,
+      "confiance": "probable",
+      "indices": [
+        "même âge et même date de mise en ligne"
+      ],
+      "membres": [
+        "secondechance:1515420",
+        "secondechance:1515425"
+      ],
+      "noms": [
+        "Balou",
+        "Bao"
+      ],
+      "sources": [
+        "Seconde Chance"
+      ]
+    },
+    {
+      "id": "portee-22",
       "source": "secondechance",
       "source_label": "Seconde Chance",
       "lieu": {
@@ -7217,7 +7743,38 @@
       ]
     },
     {
-      "id": "portee-22",
+      "id": "portee-23",
+      "source": "secondechance",
+      "source_label": "Seconde Chance",
+      "lieu": {
+        "nom": "REFUGE ASCLAF (Association de Sauvegarde des Chats Libres et Abandonnés de Fresnes)",
+        "ville": "Fresnes",
+        "departement": "94",
+        "url": "https://www.secondechance.org/refuge/val-de-marne/refuge-asclaf-association-de-sauvegarde-des-chats-libres-et-abandonnes-de-fresnes-488"
+      },
+      "date_naissance": null,
+      "age_mois": 3,
+      "taille": 2,
+      "annonces": 2,
+      "disponibles": 2,
+      "confiance": "probable",
+      "indices": [
+        "même âge et même date de mise en ligne"
+      ],
+      "membres": [
+        "secondechance:1520121",
+        "secondechance:1520128"
+      ],
+      "noms": [
+        "Balto",
+        "Odin"
+      ],
+      "sources": [
+        "Seconde Chance"
+      ]
+    },
+    {
+      "id": "portee-25",
       "source": "secondechance",
       "source_label": "Seconde Chance",
       "lieu": {
@@ -7248,7 +7805,7 @@
       ]
     },
     {
-      "id": "portee-23",
+      "id": "portee-26",
       "source": "secondechance",
       "source_label": "Seconde Chance",
       "lieu": {
@@ -7279,7 +7836,7 @@
       ]
     },
     {
-      "id": "portee-27",
+      "id": "portee-30",
       "source": "secondechance",
       "source_label": "Seconde Chance",
       "lieu": {
@@ -7289,7 +7846,7 @@
         "url": "https://www.secondechance.org/refuge/eure/4-pattes-en-danger-3118"
       },
       "date_naissance": "2026-06-21",
-      "age_mois": 3.1688358232565212,
+      "age_mois": 3.20125363183512,
       "taille": 2,
       "annonces": 2,
       "disponibles": 2,
@@ -7310,7 +7867,7 @@
       ]
     },
     {
-      "id": "portee-28",
+      "id": "portee-31",
       "source": "secondechance",
       "source_label": "Seconde Chance",
       "lieu": {
@@ -7320,7 +7877,7 @@
         "url": "https://www.secondechance.org/refuge/loiret/hop-hop-hop-on-adopte-2786"
       },
       "date_naissance": "2026-06-17",
-      "age_mois": 3.300252661038862,
+      "age_mois": 3.332670469617461,
       "taille": 2,
       "annonces": 2,
       "disponibles": 2,
@@ -7341,37 +7898,38 @@
       ]
     },
     {
-      "id": "portee-29",
-      "source": "secondechance",
-      "source_label": "Seconde Chance",
+      "id": "portee-2",
+      "source": "laspa",
+      "source_label": "La SPA",
       "lieu": {
-        "nom": "Zang",
-        "ville": "Saint Claude",
-        "departement": "60",
-        "url": "https://www.secondechance.org/refuge/guadeloupe/zang-3817"
+        "nom": "La SPA - Refuge de Gennevilliers – Grammont",
+        "ville": "Gennevilliers",
+        "departement": "92",
+        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-gennevilliers-grammont/"
       },
-      "date_naissance": "2026-06-14",
-      "age_mois": 3.3988152893756176,
+      "date_naissance": "2026-06-01",
+      "age_mois": 3.858337820746825,
       "taille": 2,
-      "annonces": 1,
+      "annonces": 2,
       "disponibles": 2,
       "confiance": "forte",
       "indices": [
-        "annonce groupée : Tigroot, chaton mâle"
+        "même date de naissance"
       ],
       "membres": [
-        "secondechance:1517632"
+        "laspa:244867",
+        "laspa:244868"
       ],
       "noms": [
-        "chaton mâle",
-        "Tigroot"
+        "CALYPSO",
+        "MONA"
       ],
       "sources": [
-        "Seconde Chance"
+        "La SPA"
       ]
     },
     {
-      "id": "portee-31",
+      "id": "portee-33",
       "source": "secondechance",
       "source_label": "Seconde Chance",
       "lieu": {
@@ -7381,7 +7939,7 @@
         "url": "https://www.secondechance.org/refuge/hauts-de-seine/truffes-sans-toit-2618"
       },
       "date_naissance": "2026-05-31",
-      "age_mois": 3.858774221613811,
+      "age_mois": 3.8911920301924097,
       "taille": 2,
       "annonces": 2,
       "disponibles": 2,
@@ -7402,7 +7960,7 @@
       ]
     },
     {
-      "id": "portee-32",
+      "id": "portee-34",
       "source": "secondechance",
       "source_label": "Seconde Chance",
       "lieu": {
@@ -7412,7 +7970,7 @@
         "url": "https://www.secondechance.org/refuge/seine-et-marne/aminous-libres-2495"
       },
       "date_naissance": "2026-05-30",
-      "age_mois": 3.891628431059396,
+      "age_mois": 3.924046239637995,
       "taille": 2,
       "annonces": 1,
       "disponibles": 2,
@@ -7433,6 +7991,686 @@
     }
   ],
   "nouveaux_arrivants": [
+    {
+      "id": "laspa:244867",
+      "source": "laspa",
+      "source_label": "La SPA",
+      "source_id": "244867",
+      "uid": "animal-mona-2",
+      "nom": "MONA",
+      "url": "https://www.la-spa.fr/animal/mona-2/",
+      "image": "https://www.la-spa.fr/app/app/uploads/animals/244867/mona-244867-6ab76894463c1.jpg",
+      "espece": "chat",
+      "race": "Europeen",
+      "sexe": "femelle",
+      "age_categorie": "junior",
+      "age_texte": null,
+      "age_mois": 3.858337820746825,
+      "age_source": "naissance",
+      "age_conflit": null,
+      "date_naissance": "2026-06-01",
+      "date_publication": "2026-09-26",
+      "reserve": false,
+      "sos": false,
+      "fad": false,
+      "lieu": {
+        "nom": "La SPA - Refuge de Gennevilliers – Grammont",
+        "slug": "refuge-spa-de-gennevilliers-grammont",
+        "ville": "Gennevilliers",
+        "code_postal": "92230",
+        "departement": "92",
+        "latitude": 48.944706567958,
+        "longitude": 2.3035848619018,
+        "precision": "exacte",
+        "distance_km": 11.004464438564007,
+        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-gennevilliers-grammont/"
+      },
+      "description": "Mona revient de famille relais.\nMona est une minette timide qui recherche des adoptants doux et patients qui lui laisseront le temps d'évoluer à son rythme.\nElle devra vivre en appartement sans sortie extérieure et sans jeunes enfants. La présence d'un premier chat vacciné, identifié et stérilisé est obligatoire pour son bon développement.\nVenez vite la rencontrer!",
+      "fiche_lue": true,
+      "portee": {
+        "id": "portee-2",
+        "taille": 2,
+        "disponibles": 2,
+        "confiance": "forte",
+        "indices": [
+          "même date de naissance"
+        ]
+      },
+      "nouveau": true
+    },
+    {
+      "id": "laspa:244868",
+      "source": "laspa",
+      "source_label": "La SPA",
+      "source_id": "244868",
+      "uid": "animal-calypso",
+      "nom": "CALYPSO",
+      "url": "https://www.la-spa.fr/animal/calypso/",
+      "image": "https://www.la-spa.fr/app/app/uploads/animals/244868/calypso-244868-6ab769d3d61a4.jpg",
+      "espece": "chat",
+      "race": "Europeen",
+      "sexe": "male",
+      "age_categorie": "junior",
+      "age_texte": null,
+      "age_mois": 3.858337820746825,
+      "age_source": "naissance",
+      "age_conflit": null,
+      "date_naissance": "2026-06-01",
+      "date_publication": "2026-09-26",
+      "reserve": false,
+      "sos": false,
+      "fad": false,
+      "lieu": {
+        "nom": "La SPA - Refuge de Gennevilliers – Grammont",
+        "slug": "refuge-spa-de-gennevilliers-grammont",
+        "ville": "Gennevilliers",
+        "code_postal": "92230",
+        "departement": "92",
+        "latitude": 48.944706567958,
+        "longitude": 2.3035848619018,
+        "precision": "exacte",
+        "distance_km": 11.004464438564007,
+        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-gennevilliers-grammont/"
+      },
+      "description": "Calypso revient de famille relais.\nCalypso est un chaton craintif qui recherche des adoptants doux et patients qui lui laisseront le temps d'évoluer à son rythme.\nLa présence d'un premier chat vacciné, identifié et stérilisé est obligatoire pour son bon développement.\nIl devra vivre en appartement sans sortie extérieure et sans jeunes enfants.\nVenez vite le rencontrer!",
+      "fiche_lue": true,
+      "portee": {
+        "id": "portee-2",
+        "taille": 2,
+        "disponibles": 2,
+        "confiance": "forte",
+        "indices": [
+          "même date de naissance"
+        ]
+      },
+      "nouveau": true
+    },
+    {
+      "id": "secondechance:1520116",
+      "source": "secondechance",
+      "source_label": "Seconde Chance",
+      "source_id": "1520116",
+      "uid": "chat-europeen-bleiz-et-gurvan-1520116",
+      "nom": "Bleiz et gurvan",
+      "url": "https://www.secondechance.org/animal/chat-europeen-bleiz-et-gurvan-1520116",
+      "image": "https://www.secondechance.org/uploads/anim/6ab785cad558d327795486.jpeg",
+      "espece": "chat",
+      "race": "EUROPÉEN",
+      "sexe": "male",
+      "age_categorie": null,
+      "age_texte": "1 mois",
+      "age_mois": 1,
+      "age_source": "fiche",
+      "age_conflit": null,
+      "date_naissance": null,
+      "date_publication": "2026-09-26",
+      "reserve": false,
+      "lieu": {
+        "nom": "Les petits protégés de Jo & Co",
+        "slug": null,
+        "ville": "LE KREMLIN BICETRE",
+        "code_postal": "94270",
+        "departement": "95",
+        "departement_association": "94",
+        "departements_adoption": [
+          "95"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "precision": "departement",
+        "distance_km": null,
+        "url": "https://www.secondechance.org/refuge/val-de-marne/les-petits-proteges-de-jo-co-2136"
+      },
+      "description": "Adoptable dans toute la France Hello hello Ce soir on vous présente 5 chatons à ADOPTER DANS 2 SEMAINES À LEUR 2 MOIS ( vers le 5 octobre) AVEC UN CHAT DÉJÀ PRÉSENT CHEZ VOUS BLEIZ 1 MOIS ET DEMI Le petit foufou de la bande : avis aux amateurs d'action et de câlins : je suis le parfait combo ! Moi, c’est Bleiz, un petit explorateur infatigable. Ce que je préfère dans la vie ? Partir à la découver…",
+      "fiche_lue": true,
+      "portee": {
+        "id": "portee-6",
+        "taille": 5,
+        "disponibles": 5,
+        "confiance": "probable",
+        "indices": [
+          "même âge et même date de mise en ligne",
+          "fratrie mentionnée"
+        ]
+      },
+      "nouveau": true
+    },
+    {
+      "id": "secondechance:1520115",
+      "source": "secondechance",
+      "source_label": "Seconde Chance",
+      "source_id": "1520115",
+      "uid": "chat-europeen-erell-ildut-et-sterenn-1520115",
+      "nom": "Erell, ildut et ster...",
+      "url": "https://www.secondechance.org/animal/chat-europeen-erell-ildut-et-sterenn-1520115",
+      "image": "https://www.secondechance.org/uploads/anim/6ab784a5e9ecd697503589.jpeg",
+      "espece": "chat",
+      "race": "EUROPÉEN",
+      "sexe": "femelle",
+      "age_categorie": null,
+      "age_texte": "1 mois",
+      "age_mois": 1,
+      "age_source": "fiche",
+      "age_conflit": null,
+      "date_naissance": null,
+      "date_publication": "2026-09-26",
+      "reserve": false,
+      "lieu": {
+        "nom": "Les petits protégés de Jo & Co",
+        "slug": null,
+        "ville": "LE KREMLIN BICETRE",
+        "code_postal": "94270",
+        "departement": "95",
+        "departement_association": "94",
+        "departements_adoption": [
+          "95"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "precision": "departement",
+        "distance_km": null,
+        "url": "https://www.secondechance.org/refuge/val-de-marne/les-petits-proteges-de-jo-co-2136"
+      },
+      "description": "Adoptable dans toute la France Hello hello Ce soir on vous présente 5 chatons à ADOPTER DANS 2 SEMAINES À LEUR 2 MOIS ( vers le 5 octobre) AVEC UN CHAT DÉJÀ PRÉSENT CHEZ VOUS ILDUT 1 MOIS ET DEMI La plus petite mais la plus expressive : ne vous fiez pas à ma taille miniature : je suis la plus petite de la portée, mais c’est moi qui donne le ton ! Véritable \"Drama Queen\", j'adore taquiner mes frèr…",
+      "fiche_lue": true,
+      "portee": {
+        "id": "portee-6",
+        "taille": 5,
+        "disponibles": 5,
+        "confiance": "probable",
+        "indices": [
+          "même âge et même date de mise en ligne",
+          "fratrie mentionnée"
+        ]
+      },
+      "nouveau": true
+    },
+    {
+      "id": "secondechance:1519983",
+      "source": "secondechance",
+      "source_label": "Seconde Chance",
+      "source_id": "1519983",
+      "uid": "chat-europeen-grisou-c-1519983",
+      "nom": "Grisou c",
+      "url": "https://www.secondechance.org/animal/chat-europeen-grisou-c-1519983",
+      "image": "https://www.secondechance.org/uploads/anim/580dd06dc9427e1bf6b04c65d0b0d607.jpg",
+      "espece": "chat",
+      "race": "EUROPÉEN",
+      "sexe": "femelle",
+      "age_categorie": null,
+      "age_texte": "2 mois",
+      "age_mois": 2,
+      "age_source": "fiche",
+      "age_conflit": null,
+      "date_naissance": null,
+      "date_publication": "2026-09-26",
+      "reserve": false,
+      "lieu": {
+        "nom": "Refuge SPA de Vaux le Pénil",
+        "slug": null,
+        "ville": "Vaux le Penil",
+        "code_postal": "77000",
+        "departement": "77",
+        "departement_association": "77",
+        "departements_adoption": [
+          "77"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "precision": "departement",
+        "distance_km": null,
+        "url": "https://www.secondechance.org/refuge/seine-et-marne/refuge-spa-de-vaux-le-penil-45"
+      },
+      "description": "Retour à la recherche",
+      "fiche_lue": true,
+      "portee": null,
+      "nouveau": true
+    },
+    {
+      "id": "secondechance:1519944",
+      "source": "secondechance",
+      "source_label": "Seconde Chance",
+      "source_id": "1519944",
+      "uid": "chat-europeen-pab29101-billy-1519944",
+      "nom": "Pab29101 billy",
+      "url": "https://www.secondechance.org/animal/chat-europeen-pab29101-billy-1519944",
+      "image": "https://www.secondechance.org/uploads/anim/3bcef89a3a43e7a31f74ff319793d7e3.png",
+      "espece": "chat",
+      "race": "EUROPÉEN",
+      "sexe": "male",
+      "age_categorie": null,
+      "age_texte": "2 mois",
+      "age_mois": 2,
+      "age_source": "fiche",
+      "age_conflit": null,
+      "date_naissance": null,
+      "date_publication": "2026-09-26",
+      "reserve": false,
+      "lieu": {
+        "nom": "Refuge SPA de Plaisir",
+        "slug": null,
+        "ville": "Plaisir",
+        "code_postal": "78370",
+        "departement": "78",
+        "departement_association": "78",
+        "departements_adoption": [
+          "78"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "precision": "departement",
+        "distance_km": null,
+        "url": "https://www.secondechance.org/refuge/yvelines/refuge-spa-de-plaisir-47"
+      },
+      "description": "Billy est le plus timide des 4. Il n'aime pas trop les caresses mais adore se mettre sur nos genoux. Il reste quand même très sociable et très joueurs avec ces frères et avec nous. Il a un bout de patte en moins mais ce débrouille très bien. Il a eu quelques soucis avec sa patte. La vétérinaire a ponctionner sa patte et nous a dit qu'il y aurait potentiellement une amputation à faire si Billy se…",
+      "fiche_lue": true,
+      "portee": {
+        "id": "portee-3",
+        "taille": 3,
+        "disponibles": 3,
+        "confiance": "forte",
+        "indices": [
+          "même date de naissance",
+          "fratrie mentionnée",
+          "même portée publiée sur La SPA et Seconde Chance",
+          "même âge et même date de mise en ligne"
+        ]
+      },
+      "nouveau": true
+    },
+    {
+      "id": "secondechance:1519943",
+      "source": "secondechance",
+      "source_label": "Seconde Chance",
+      "source_id": "1519943",
+      "uid": "chat-europeen-pab29102-lockhart-1519943",
+      "nom": "Pab29102 lockhart",
+      "url": "https://www.secondechance.org/animal/chat-europeen-pab29102-lockhart-1519943",
+      "image": "https://www.secondechance.org/uploads/anim/6c2621dc8a1798aa8f081fea0fec45d8.png",
+      "espece": "chat",
+      "race": "EUROPÉEN",
+      "sexe": "male",
+      "age_categorie": null,
+      "age_texte": "2 mois",
+      "age_mois": 2,
+      "age_source": "fiche",
+      "age_conflit": null,
+      "date_naissance": null,
+      "date_publication": "2026-09-26",
+      "reserve": false,
+      "lieu": {
+        "nom": "Refuge SPA de Plaisir",
+        "slug": null,
+        "ville": "Plaisir",
+        "code_postal": "78370",
+        "departement": "78",
+        "departement_association": "78",
+        "departements_adoption": [
+          "78"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "precision": "departement",
+        "distance_km": null,
+        "url": "https://www.secondechance.org/refuge/yvelines/refuge-spa-de-plaisir-47"
+      },
+      "description": "Lockhart est un vrai petit pot de colle, il adore jouer avec ses frères et nous, attention il met pas mal les griffes, grimpe beaucoup sur les jambes et a une tendance très prononcée pour les pieds. Il se laisse manipuler. Il aime la compagnie et a un très bon caractère. Lockhart n'est pas visible au refuge, merci de contacter directement sa famille d'accueil à l'adresse suivante : bailly.hermanc…",
+      "fiche_lue": true,
+      "portee": {
+        "id": "portee-3",
+        "taille": 3,
+        "disponibles": 3,
+        "confiance": "forte",
+        "indices": [
+          "même date de naissance",
+          "fratrie mentionnée",
+          "même portée publiée sur La SPA et Seconde Chance",
+          "même âge et même date de mise en ligne"
+        ]
+      },
+      "nouveau": true
+    },
+    {
+      "id": "secondechance:1519942",
+      "source": "secondechance",
+      "source_label": "Seconde Chance",
+      "source_id": "1519942",
+      "uid": "chat-europeen-pab29103-minus-1519942",
+      "nom": "Pab29103 minus",
+      "url": "https://www.secondechance.org/animal/chat-europeen-pab29103-minus-1519942",
+      "image": "https://www.secondechance.org/uploads/anim/91a0c8cf99932698161760a0bb359bf9.png",
+      "espece": "chat",
+      "race": "EUROPÉEN",
+      "sexe": "male",
+      "age_categorie": null,
+      "age_texte": "2 mois",
+      "age_mois": 2,
+      "age_source": "fiche",
+      "age_conflit": null,
+      "date_naissance": null,
+      "date_publication": "2026-09-26",
+      "reserve": false,
+      "lieu": {
+        "nom": "Refuge SPA de Plaisir",
+        "slug": null,
+        "ville": "Plaisir",
+        "code_postal": "78370",
+        "departement": "78",
+        "departement_association": "78",
+        "departements_adoption": [
+          "78"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "precision": "departement",
+        "distance_km": null,
+        "url": "https://www.secondechance.org/refuge/yvelines/refuge-spa-de-plaisir-47"
+      },
+      "description": "Minus est très posé, il se laisse manipuler il est très joueur avec ses frères et nous très sociable avec un bon caractère. Il a une tendance à monter sur les épaules et s'agripper à la tête. Mais c'est un petite boule d'amour. Minus n'est pas visible au refuge, pour plus de renseignement, merci de contacter sa famille d'accueil à l'adresse suivante : bailly.hermance91@gmail.com Retour à la reche…",
+      "fiche_lue": true,
+      "portee": {
+        "id": "portee-3",
+        "taille": 3,
+        "disponibles": 3,
+        "confiance": "forte",
+        "indices": [
+          "même date de naissance",
+          "fratrie mentionnée",
+          "même portée publiée sur La SPA et Seconde Chance",
+          "même âge et même date de mise en ligne"
+        ]
+      },
+      "nouveau": true
+    },
+    {
+      "id": "secondechance:1519939",
+      "source": "secondechance",
+      "source_label": "Seconde Chance",
+      "source_id": "1519939",
+      "uid": "chat-europeen-belly-pab28866-1519939",
+      "nom": "Belly pab28866",
+      "url": "https://www.secondechance.org/animal/chat-europeen-belly-pab28866-1519939",
+      "image": "https://www.secondechance.org/uploads/anim/fd1da329e2c23c769de6886ddcecfc89.jpg",
+      "espece": "chat",
+      "race": "EUROPÉEN",
+      "sexe": "femelle",
+      "age_categorie": null,
+      "age_texte": "3 mois",
+      "age_mois": 3,
+      "age_source": "fiche",
+      "age_conflit": null,
+      "date_naissance": null,
+      "date_publication": "2026-09-26",
+      "reserve": false,
+      "lieu": {
+        "nom": "Refuge SPA de Plaisir",
+        "slug": null,
+        "ville": "Plaisir",
+        "code_postal": "78370",
+        "departement": "78",
+        "departement_association": "78",
+        "departements_adoption": [
+          "78"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "precision": "departement",
+        "distance_km": null,
+        "url": "https://www.secondechance.org/refuge/yvelines/refuge-spa-de-plaisir-47"
+      },
+      "description": "Belly est une jolie chatte tigrée de 3 mois. Elevée au biberon avec ses frères et soeurs, elle est sociable et très proche des humains. Vive, curieuse et joueuse, elle sait aussi se montrer très câline et adore venir s’installer sur les genoux pour une petite sieste. Belly ne connait pas encore les enfants, ni les chiens. Habituée depuis toute petite à vivre entourée de ses frères et sœurs et de…",
+      "fiche_lue": true,
+      "portee": null,
+      "nouveau": true
+    },
+    {
+      "id": "secondechance:1520128",
+      "source": "secondechance",
+      "source_label": "Seconde Chance",
+      "source_id": "1520128",
+      "uid": "chat-europeen-odin-1520128",
+      "nom": "Odin",
+      "url": "https://www.secondechance.org/animal/chat-europeen-odin-1520128",
+      "image": "https://www.secondechance.org/uploads/anim/6ab78dda8da8e510397953.png",
+      "espece": "chat",
+      "race": "EUROPÉEN",
+      "sexe": "male",
+      "age_categorie": null,
+      "age_texte": "3 mois",
+      "age_mois": 3,
+      "age_source": "fiche",
+      "age_conflit": null,
+      "date_naissance": null,
+      "date_publication": "2026-09-26",
+      "reserve": false,
+      "lieu": {
+        "nom": "REFUGE ASCLAF (Association de Sauvegarde des Chats Libres et Abandonnés de Fresnes)",
+        "slug": null,
+        "ville": "Fresnes",
+        "code_postal": "94260",
+        "departement": "94",
+        "departement_association": "94",
+        "departements_adoption": [
+          "94"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "precision": "departement",
+        "distance_km": null,
+        "url": "https://www.secondechance.org/refuge/val-de-marne/refuge-asclaf-association-de-sauvegarde-des-chats-libres-et-abandonnes-de-fresnes-488"
+      },
+      "description": "Adoptable dans toute la France Important : Un chaton n’est pas un jouet à l’aspect mignon dont on se lasse une fois l’âge adulte atteint. C’est un être vivant, sensible, qui demande de l’attention, de la présence, et une véritable implication sur le long terme. Quel que soit le caractère qu’il révèle en grandissant, l’adoption doit rester un engagement pour toute sa vie. Et malgré leurs bouilles…",
+      "fiche_lue": true,
+      "portee": {
+        "id": "portee-23",
+        "taille": 2,
+        "disponibles": 2,
+        "confiance": "probable",
+        "indices": [
+          "même âge et même date de mise en ligne"
+        ]
+      },
+      "nouveau": true
+    },
+    {
+      "id": "secondechance:1520121",
+      "source": "secondechance",
+      "source_label": "Seconde Chance",
+      "source_id": "1520121",
+      "uid": "chat-europeen-balto-1520121",
+      "nom": "Balto",
+      "url": "https://www.secondechance.org/animal/chat-europeen-balto-1520121",
+      "image": "https://www.secondechance.org/uploads/anim/6ab78a7909c50416570761.jpeg",
+      "espece": "chat",
+      "race": "EUROPÉEN",
+      "sexe": "male",
+      "age_categorie": null,
+      "age_texte": "3 mois",
+      "age_mois": 3,
+      "age_source": "fiche",
+      "age_conflit": null,
+      "date_naissance": null,
+      "date_publication": "2026-09-26",
+      "reserve": false,
+      "lieu": {
+        "nom": "REFUGE ASCLAF (Association de Sauvegarde des Chats Libres et Abandonnés de Fresnes)",
+        "slug": null,
+        "ville": "Fresnes",
+        "code_postal": "94260",
+        "departement": "94",
+        "departement_association": "94",
+        "departements_adoption": [
+          "94"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "precision": "departement",
+        "distance_km": null,
+        "url": "https://www.secondechance.org/refuge/val-de-marne/refuge-asclaf-association-de-sauvegarde-des-chats-libres-et-abandonnes-de-fresnes-488"
+      },
+      "description": "Adoptable dans toute la France Important : Un chaton n’est pas un jouet à l’aspect mignon dont on se lasse une fois l’âge adulte atteint. C’est un être vivant, sensible, qui demande de l’attention, de la présence, et une véritable implication sur le long terme. Quel que soit le caractère qu’il révèle en grandissant, l’adoption doit rester un engagement pour toute sa vie. Et malgré leurs bouilles…",
+      "fiche_lue": true,
+      "portee": {
+        "id": "portee-23",
+        "taille": 2,
+        "disponibles": 2,
+        "confiance": "probable",
+        "indices": [
+          "même âge et même date de mise en ligne"
+        ]
+      },
+      "nouveau": true
+    },
+    {
+      "id": "laspa:244682",
+      "source": "laspa",
+      "source_label": "La SPA",
+      "source_id": "244682",
+      "uid": "animal-pab29102",
+      "nom": "PAB29102 Lockhart",
+      "url": "https://www.la-spa.fr/animal/pab29102/",
+      "image": "https://www.la-spa.fr/app/app/uploads/animals/244682/pab29102-lockhart-244682-6ab6953c84ad1.jpg",
+      "espece": "chat",
+      "race": "Europeen",
+      "sexe": "male",
+      "age_categorie": "junior",
+      "age_texte": null,
+      "age_mois": 2.248481557913149,
+      "age_source": "naissance",
+      "age_conflit": null,
+      "date_naissance": "2026-07-20",
+      "date_publication": "2026-09-25",
+      "reserve": false,
+      "sos": false,
+      "fad": false,
+      "lieu": {
+        "nom": "La SPA - Refuge de Plaisir",
+        "slug": "refuge-spa-de-plaisir",
+        "ville": "Plaisir",
+        "code_postal": "78370",
+        "departement": "78",
+        "latitude": 48.799745,
+        "longitude": 1.931481,
+        "precision": "exacte",
+        "distance_km": 33.64370864577482,
+        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-plaisir/"
+      },
+      "description": "Lockhart est un vrai petit pot de colle, il adore jouer avec ses frères et nous, attention il met pas mal les griffes, grimpe beaucoup sur les jambes et a une tendance très prononcée pour les pieds. Il se laisse manipuler. Il aime la compagnie et a un très bon caractère.\nLockhart n'est pas visible au refuge, merci de contacter directement sa famille d'accueil à l'adresse suivante : bailly.hermanc…",
+      "fiche_lue": true,
+      "portee": {
+        "id": "portee-3",
+        "taille": 3,
+        "disponibles": 3,
+        "confiance": "forte",
+        "indices": [
+          "même date de naissance",
+          "fratrie mentionnée",
+          "même portée publiée sur La SPA et Seconde Chance",
+          "même âge et même date de mise en ligne"
+        ]
+      },
+      "nouveau": true
+    },
+    {
+      "id": "laspa:244690",
+      "source": "laspa",
+      "source_label": "La SPA",
+      "source_id": "244690",
+      "uid": "animal-pab29103-minus",
+      "nom": "PAB29103 Minus",
+      "url": "https://www.la-spa.fr/animal/pab29103-minus/",
+      "image": "https://www.la-spa.fr/app/app/uploads/animals/244690/pab29103-minus-244690-6ab69516daec7.jpg",
+      "espece": "chat",
+      "race": "Europeen",
+      "sexe": "male",
+      "age_categorie": "junior",
+      "age_texte": null,
+      "age_mois": 2.248481557913149,
+      "age_source": "naissance",
+      "age_conflit": null,
+      "date_naissance": "2026-07-20",
+      "date_publication": "2026-09-25",
+      "reserve": false,
+      "sos": false,
+      "fad": false,
+      "lieu": {
+        "nom": "La SPA - Refuge de Plaisir",
+        "slug": "refuge-spa-de-plaisir",
+        "ville": "Plaisir",
+        "code_postal": "78370",
+        "departement": "78",
+        "latitude": 48.799745,
+        "longitude": 1.931481,
+        "precision": "exacte",
+        "distance_km": 33.64370864577482,
+        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-plaisir/"
+      },
+      "description": "Minus est très posé, il se laisse manipuler il est très joueur avec ses frères et nous très sociable avec un bon caractère. Il a une tendance à monter sur les épaules et s'agripper à la tête. Mais c'est un petite boule d'amour.\nMinus n'est pas visible au refuge, pour plus de renseignement, merci de contacter sa famille d'accueil à l'adresse suivante : bailly.hermance91@gmail.com",
+      "fiche_lue": true,
+      "portee": {
+        "id": "portee-3",
+        "taille": 3,
+        "disponibles": 3,
+        "confiance": "forte",
+        "indices": [
+          "même date de naissance",
+          "fratrie mentionnée",
+          "même portée publiée sur La SPA et Seconde Chance",
+          "même âge et même date de mise en ligne"
+        ]
+      },
+      "nouveau": true
+    },
+    {
+      "id": "laspa:244681",
+      "source": "laspa",
+      "source_label": "La SPA",
+      "source_id": "244681",
+      "uid": "animal-pab29101",
+      "nom": "PAB29101 Billy",
+      "url": "https://www.la-spa.fr/animal/pab29101/",
+      "image": "https://www.la-spa.fr/app/app/uploads/animals/244681/pab29101-billy-244681-6ab6949a83782.jpg",
+      "espece": "chat",
+      "race": "Europeen",
+      "sexe": "male",
+      "age_categorie": "junior",
+      "age_texte": null,
+      "age_mois": 2.248481557913149,
+      "age_source": "naissance",
+      "age_conflit": null,
+      "date_naissance": "2026-07-20",
+      "date_publication": "2026-09-25",
+      "reserve": false,
+      "sos": true,
+      "fad": false,
+      "lieu": {
+        "nom": "La SPA - Refuge de Plaisir",
+        "slug": "refuge-spa-de-plaisir",
+        "ville": "Plaisir",
+        "code_postal": "78370",
+        "departement": "78",
+        "latitude": 48.799745,
+        "longitude": 1.931481,
+        "precision": "exacte",
+        "distance_km": 33.64370864577482,
+        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-plaisir/"
+      },
+      "description": "Billy est le plus timide des 4. Il n'aime pas trop les caresses mais adore se mettre sur nos genoux. Il reste quand même très sociable et très joueurs avec ces frères et avec nous. Il a un bout de patte en moins mais ce débrouille très bien. Il a eu quelques soucis avec sa patte. La vétérinaire a ponctionner sa patte et nous a dit qu'il y aurait potentiellement une amputation à faire si Billy se…",
+      "fiche_lue": true,
+      "portee": {
+        "id": "portee-3",
+        "taille": 3,
+        "disponibles": 3,
+        "confiance": "forte",
+        "indices": [
+          "même date de naissance",
+          "fratrie mentionnée",
+          "même portée publiée sur La SPA et Seconde Chance",
+          "même âge et même date de mise en ligne"
+        ]
+      },
+      "nouveau": true
+    },
     {
       "id": "secondechance:1518973",
       "source": "secondechance",
@@ -7554,7 +8792,7 @@
       "description": "BLOOM comme ses frères (Keijo, Inook, Pixel), a été nourri,, sevré par sa maman, une toute jeune chatte trouvée gestante, il est devenu un adorable chaton, attachant, sociable. Curieux, tonique, il adore grimper sur le séchoir à linge, courir après les balles mais surtout jouer à la bagarre avec ses frères, faire des courses-poursuites puis séances de léchage et grandes siestes les uns contre les…",
       "fiche_lue": true,
       "portee": {
-        "id": "portee-2",
+        "id": "portee-4",
         "taille": 3,
         "disponibles": 3,
         "confiance": "forte",
@@ -7618,7 +8856,7 @@
       "description": "KEIJO comme ses frères (Bloom, Inook, Pixel), a été nourri, sevré par sa maman, une toute jeune chatte trouvée gestante, il est devenu un adorable chaton, attachant, sociable. Curieux, tonique, il adore grimper sur le séchoir à linge, courir après les balles mais surtout jouer à la bagarre avec ses frères, faire des courses-poursuites puis séances de léchage et grandes siestes les uns contre les…",
       "fiche_lue": true,
       "portee": {
-        "id": "portee-2",
+        "id": "portee-4",
         "taille": 3,
         "disponibles": 3,
         "confiance": "forte",
@@ -7682,7 +8920,7 @@
       "description": "INOOK, PAB 29241 INOOK comme ses frères (Keijo, Bloom, Pixel), a été nourri,, sevré par sa maman, une toute jeune chatte trouvée gestante, il est devenu un adorable chaton, attachant, sociable. Curieux, tonique, il adore grimper sur le séchoir à linge, courir après les balles mais surtout jouer à la bagarre avec ses frères, faire des courses-poursuites puis séances de léchage et grandes siestes l…",
       "fiche_lue": true,
       "portee": {
-        "id": "portee-2",
+        "id": "portee-4",
         "taille": 3,
         "disponibles": 3,
         "confiance": "forte",
@@ -7902,6 +9140,101 @@
       "nouveau": true
     },
     {
+      "id": "secondechance:1519914",
+      "source": "secondechance",
+      "source_label": "Seconde Chance",
+      "source_id": "1519914",
+      "uid": "chat-europeen-tigroot-1519914",
+      "nom": "Tigroot",
+      "url": "https://www.secondechance.org/animal/chat-europeen-tigroot-1519914",
+      "image": "https://www.secondechance.org/uploads/anim/6ab6cdd708f3e731564771.jpeg",
+      "espece": "chat",
+      "race": "EUROPÉEN",
+      "sexe": "male",
+      "age_categorie": null,
+      "age_texte": "3 mois",
+      "age_mois": 3.431233097954217,
+      "age_source": "description",
+      "age_conflit": null,
+      "date_naissance": "2026-06-14",
+      "date_publication": "2026-09-25",
+      "reserve": false,
+      "lieu": {
+        "nom": "Zang",
+        "slug": null,
+        "ville": "Saint Claude",
+        "code_postal": "97120",
+        "departement": "91",
+        "departement_association": "971",
+        "departements_adoption": [
+          "91"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "precision": "departement",
+        "distance_km": null,
+        "url": "https://www.secondechance.org/refuge/guadeloupe/zang-3817"
+      },
+      "description": "Adoptable dans toute la France TIGROOT, chaton mâle créole Né le 14 juin 2026, identifié (n° 250268782287201) Soins 🚑 : primo-vacciné, déparasité, vermifugé Poids estimé à l’âge adulte : 4-5 Kg 🌎 : Actuellement en famille d’accueil en Guadeloupe Une adorable boîte à ronrons qui n’attend que vous ! Découvrez-moi ! https://www.association-zang.com/profil-chat/tigroot Mon caractère, mes ententes : J…",
+      "fiche_lue": true,
+      "portee": null,
+      "nouveau": true
+    },
+    {
+      "id": "secondechance:1519890",
+      "source": "secondechance",
+      "source_label": "Seconde Chance",
+      "source_id": "1519890",
+      "uid": "chat-europeen-bulle-d-eau-1519890",
+      "nom": "Bulle d'eau",
+      "url": "https://www.secondechance.org/animal/chat-europeen-bulle-d-eau-1519890",
+      "image": "https://www.secondechance.org/uploads/anim/6ab6bb6299d79837840555.jpeg",
+      "espece": "chat",
+      "race": "EUROPÉEN",
+      "sexe": "femelle",
+      "age_categorie": null,
+      "age_texte": "3 mois",
+      "age_mois": 3.858337820746825,
+      "age_source": "description",
+      "age_conflit": null,
+      "date_naissance": "2026-06-01",
+      "date_publication": "2026-09-25",
+      "reserve": false,
+      "lieu": {
+        "nom": "L'échappée belle",
+        "slug": null,
+        "ville": "OZOIR LA FERRIERE",
+        "code_postal": "77330",
+        "departement": "77",
+        "departement_association": "77",
+        "departements_adoption": [
+          "77"
+        ],
+        "latitude": null,
+        "longitude": null,
+        "precision": "departement",
+        "distance_km": null,
+        "url": "https://www.secondechance.org/refuge/seine-et-marne/l-echappee-belle-1978"
+      },
+      "description": "BULLE D'EAU , née le 01/06/2026, est une petite chatonne écaille de tortue. Elle est plutôt calme, et aime bien observer avant de participer à la séance de jeu. L'heure de la pâté reste un moment important de la journée! BULLE D'EAU est visible à Pontault Combault. Pour la rencontrer, contactez le 06 89 37 54 33. Retour à la recherche",
+      "fiche_lue": true,
+      "portee": {
+        "id": "portee-32",
+        "taille": 4,
+        "disponibles": 4,
+        "confiance": "forte",
+        "indices": [
+          "même date de naissance",
+          "fratrie mentionnée",
+          "« Bretzel » cité·e dans la description",
+          "cité·e dans la description de « Bretzel »",
+          "cité·e dans la description de « Brune »",
+          "« Brune » cité·e dans la description"
+        ]
+      },
+      "nouveau": true
+    },
+    {
       "id": "secondechance:1519794",
       "source": "secondechance",
       "source_label": "Seconde Chance",
@@ -7915,7 +9248,7 @@
       "sexe": "femelle",
       "age_categorie": null,
       "age_texte": "3 mois",
-      "age_mois": 3.891628431059396,
+      "age_mois": 3.924046239637995,
       "age_source": "description",
       "age_conflit": null,
       "date_naissance": "2026-05-30",
@@ -7940,7 +9273,7 @@
       "description": "Aminous Libres propose à l'adoption les chattes AVA et BAYA. AVA, jeune et belle chatte noire et blanche de 18 mois, amoureuse des caresses et de la tranquillité, recherche un foyer aimant et calme. BAYA, jolie petite chatonne noire née le 30 mai 2026, très affectueuse, joueuse et dynamique, recherche son foyer pour la vie. Elle est pour le moment en FA (famille d'accueil) à Torcy (77200) avec sa…",
       "fiche_lue": true,
       "portee": {
-        "id": "portee-32",
+        "id": "portee-34",
         "taille": 2,
         "disponibles": 2,
         "confiance": "forte",
@@ -7964,7 +9297,7 @@
       "sexe": "femelle",
       "age_categorie": null,
       "age_texte": "1 mois",
-      "age_mois": 1.5261253509772605,
+      "age_mois": 1.5585431595558599,
       "age_source": "description",
       "age_conflit": null,
       "date_naissance": "2026-08-10",
@@ -8071,7 +9404,7 @@
       "description": "Adoptable dans toute la France Belette un magnifique chaton cendré Avec son magnifique pelage noir et cendré, Belette ne passe pas inaperçu !. C’est un petit chaton intelligent qui aime établir le contact avec les humains. Il vous regarde dans les yeux, vient chercher votre présence pour jouer, mais aussi pour simplement se poser près de vous. Sociable, il s’entend bien avec les autres chatons co…",
       "fiche_lue": true,
       "portee": {
-        "id": "portee-5",
+        "id": "portee-8",
         "taille": 5,
         "disponibles": 5,
         "confiance": "forte",
@@ -8123,7 +9456,7 @@
       "description": "Adoptable dans toute la France Berny un petit coeur à prendre Avec son joli pelage noir à poils mi-longs, Berny est un petit bout tout en douceur âgé de 2,5 mois. Beaucoup plus calme que ses frères, il apprécie les ambiances paisibles et les moments tranquilles. Sociable avec les autres chatons comme avec les chats adultes, il saura trouver sa place dans un foyer où il pourra évoluer sereinement.…",
       "fiche_lue": true,
       "portee": {
-        "id": "portee-5",
+        "id": "portee-8",
         "taille": 5,
         "disponibles": 5,
         "confiance": "forte",
@@ -8175,7 +9508,7 @@
       "description": "Adoptable dans toute la France Agée de 2,5 mois, Bichette à une belle robe noire smoke et est une adorable minette de petit gabarit qui ne manque pas de charme ! Lorsqu’elle rencontre de nouvelles personnes, elle se montre assez timide. Elle aura besoin de temps, de patience et de douceur pour prendre confiance et révéler pleinement sa personnalité. Mais derrière cette petite réserve se cache une…",
       "fiche_lue": true,
       "portee": {
-        "id": "portee-5",
+        "id": "portee-8",
         "taille": 5,
         "disponibles": 5,
         "confiance": "forte",
@@ -8227,7 +9560,7 @@
       "description": "Adoptable dans toute la France Agé de 2,5 mois Kawa , est un adorable chaton tigré roux en double adoption avec sa soeur Kawa, jolie écaille de tortue. Ils ont été élevé par leur maman. Un peu timides au premier abord, ils ont besoin d’un petit temps d’adaptation pour prendre leurs marques. Mais une fois en confiance, ils dévoilent toute leur personnalité… et surtout, leur incroyable amour pour l…",
       "fiche_lue": true,
       "portee": {
-        "id": "portee-5",
+        "id": "portee-8",
         "taille": 5,
         "disponibles": 5,
         "confiance": "forte",
@@ -8279,7 +9612,7 @@
       "description": "Adoptable dans toute la France Brookie et Kawa un duo plein de vie, de douceur et de complicité &Acirc;gés de 2 mois et demi, Brookie est à l'adoption avec son frère Kawa (tigé roux). Ces deux adorables chatons, frère et sœur, ont grandi auprès de leur maman. Aujourd’hui, ils sont prêts à trouver un foyer aimant qui leur ouvrira les portes de sa maison et de son cœur, à condition de rester ensemb…",
       "fiche_lue": true,
       "portee": {
-        "id": "portee-5",
+        "id": "portee-8",
         "taille": 5,
         "disponibles": 5,
         "confiance": "forte",
@@ -8331,7 +9664,7 @@
       "description": "🐾 À l'adoption - Espion, l'aventurier 🐾 😸 Espion a été trappé avec ses frères et soeurs ainsi que sa maman dans le jardin d'un hôpital. Après un mois passé en famille d'accueil pour être sociabilisé, il est prêt pour son adoption ! 😼 Très curieux, Espion cherche l’interaction avec tous les membres de la famille. Véritable aventurier, il passe beaucoup de temps à observer et explorer son environne…",
       "fiche_lue": true,
       "portee": {
-        "id": "portee-7",
+        "id": "portee-9",
         "taille": 2,
         "disponibles": 2,
         "confiance": "probable",
@@ -8381,7 +9714,7 @@
       "description": "🐾 À l'adoption - Zola, le timide 🐾 😸 Zola a été trappé avec ses frères et soeurs ainsi que sa maman dans le jardin d'un hôpital. Après un mois passé en famille d'accueil pour être sociabilisé, il est prêt pour son adoption ! 😻 Zola est encore craintif, mais il fait quotidiennement des progrès. S'il peut lui arriver de crachotter, il accepte les caresses en douceur. Il lui faudra une famille patie…",
       "fiche_lue": true,
       "portee": {
-        "id": "portee-7",
+        "id": "portee-9",
         "taille": 2,
         "disponibles": 2,
         "confiance": "probable",
@@ -8447,7 +9780,7 @@
       "sexe": "femelle",
       "age_categorie": null,
       "age_texte": "3 mois",
-      "age_mois": 3.5302321271579586,
+      "age_mois": 3.5626499357365575,
       "age_source": "description",
       "age_conflit": null,
       "date_naissance": "2026-06-10",
@@ -8488,7 +9821,7 @@
       "sexe": "male",
       "age_categorie": null,
       "age_texte": "3 mois",
-      "age_mois": 3.858774221613811,
+      "age_mois": 3.8911920301924097,
       "age_source": "description",
       "age_conflit": null,
       "date_naissance": "2026-05-31",
@@ -8513,7 +9846,7 @@
       "description": "Adoptable dans toute la France Né le 31/05/2026 Bombay recherche le contact humain. Il attend souvent qu'on le rejoigne dans la pièce, vient se frotter, renifler et miauler pour interagir. Son histoire : leur maman a été trouvée à saint Denis, errante et prête à accoucher, nous l’avons pris en charge alors qu’elle venait de mettre bas de 4 petits chatons. Côté santé : Identifiée Primo-vaccinée St…",
       "fiche_lue": true,
       "portee": {
-        "id": "portee-31",
+        "id": "portee-33",
         "taille": 2,
         "disponibles": 2,
         "confiance": "forte",
@@ -8537,7 +9870,7 @@
       "sexe": "femelle",
       "age_categorie": null,
       "age_texte": "3 mois",
-      "age_mois": 3.858774221613811,
+      "age_mois": 3.8911920301924097,
       "age_source": "description",
       "age_conflit": null,
       "date_naissance": "2026-05-31",
@@ -8562,7 +9895,7 @@
       "description": "Adoptable dans toute la France Née le 31/05/2026 Bogota aime particulièrement se placer en hauteur. Elle est assez indépendante et joue volontiers de son côté. Son histoire : leur maman a été trouvée à saint Denis, errante et prête à accoucher, nous l’avons pris en charge alors qu’elle venait de mettre bas de 4 petits chatons. Côté santé : Identifiée Primo-vaccinée Stérilisation à prévoir",
       "fiche_lue": true,
       "portee": {
-        "id": "portee-31",
+        "id": "portee-33",
         "taille": 2,
         "disponibles": 2,
         "confiance": "forte",
@@ -8652,7 +9985,7 @@
       "description": "Rita chatonne identifiée vaccinée deparasitée vermifugée cherche sa famille Contact Nathalie par SMS : 06-78-59-53-86 Retour à la recherche",
       "fiche_lue": true,
       "portee": {
-        "id": "portee-4",
+        "id": "portee-7",
         "taille": 3,
         "disponibles": 3,
         "confiance": "probable",
@@ -8701,7 +10034,7 @@
       "description": "Emma chatonne identifiée vaccinée deparasitée vermifugée cherche sa famille Contact par SMS Nathalie : 06-78-59-53-86 Retour à la recherche",
       "fiche_lue": true,
       "portee": {
-        "id": "portee-4",
+        "id": "portee-7",
         "taille": 3,
         "disponibles": 3,
         "confiance": "probable",
@@ -8750,7 +10083,7 @@
       "description": "Max chaton vacciné identifié deparasité vermifugé cherche sa famille Contact Nathalie par sms : 06-78-59-53-86 Retour à la recherche",
       "fiche_lue": true,
       "portee": {
-        "id": "portee-4",
+        "id": "portee-7",
         "taille": 3,
         "disponibles": 3,
         "confiance": "probable",
@@ -8798,64 +10131,7 @@
       },
       "description": "Adoptable dans toute la France 🤍🤎 Kim, 2 mois, une petite merveille qui a toute la vie à découvrir 🤎🤍 Kim est une adorable chatonne européenne blanche et tigrée de 2 mois . Du haut de ses quelques semaines, elle a encore tout à découvrir de la vie … et cherche les humains qui auront envie de partager toutes ces premières fois avec elle. 🐾 Jouer, explorer, grimper, apprendre, faire quelques bêtise…",
       "fiche_lue": true,
-      "portee": {
-        "id": "portee-6",
-        "taille": 2,
-        "disponibles": 2,
-        "confiance": "probable",
-        "indices": [
-          "même âge et même date de mise en ligne"
-        ]
-      },
-      "nouveau": true
-    },
-    {
-      "id": "secondechance:1519083",
-      "source": "secondechance",
-      "source_label": "Seconde Chance",
-      "source_id": "1519083",
-      "uid": "chat-europeen-malibu-1519083",
-      "nom": "Malibu",
-      "url": "https://www.secondechance.org/animal/chat-europeen-malibu-1519083",
-      "image": "https://www.secondechance.org/uploads/anim/6ab3d5beab709631442504.jpg",
-      "espece": "chat",
-      "race": "EUROPÉEN",
-      "sexe": "femelle",
-      "age_categorie": null,
-      "age_texte": "2 mois",
-      "age_mois": 2,
-      "age_source": "fiche",
-      "age_conflit": null,
-      "date_naissance": null,
-      "date_publication": "2026-09-23",
-      "reserve": false,
-      "lieu": {
-        "nom": "Brigade de Protection Animale",
-        "slug": null,
-        "ville": "Paris",
-        "code_postal": "75008",
-        "departement": "92",
-        "departement_association": "75",
-        "departements_adoption": [
-          "92"
-        ],
-        "latitude": null,
-        "longitude": null,
-        "precision": "departement",
-        "distance_km": null,
-        "url": "https://www.secondechance.org/refuge/aude/brigade-de-protection-animale-2759"
-      },
-      "description": "Adoptable dans toute la France 🩶 Malibu, 2 mois, une petite merveille grise qui a toute la vie à découvrir 🩶 Malibu est une magnifique chatonne européenne grise de 2 mois . Du haut de ses quelques semaines, elle a encore absolument tout à découvrir de la vie … et cherche les humains qui auront envie de vivre toutes ces premières fois à ses côtés. 🐾 Jouer, explorer chaque nouveau recoin, apprendre…",
-      "fiche_lue": true,
-      "portee": {
-        "id": "portee-6",
-        "taille": 2,
-        "disponibles": 2,
-        "confiance": "probable",
-        "indices": [
-          "même âge et même date de mise en ligne"
-        ]
-      },
+      "portee": null,
       "nouveau": true
     },
     {
@@ -8913,7 +10189,7 @@
       "sexe": "male",
       "age_categorie": null,
       "age_texte": "2 mois",
-      "age_mois": 2.28177216822572,
+      "age_mois": 2.3141899768043195,
       "age_source": "description",
       "age_conflit": null,
       "date_naissance": "2026-07-18",
@@ -8954,7 +10230,7 @@
       "sexe": "male",
       "age_categorie": null,
       "age_texte": "2 mois",
-      "age_mois": 3.080540135371511,
+      "age_mois": 3.1129579439501103,
       "age_source": "description",
       "age_conflit": "fiche : 2 mois · description : us les deux âgés de 3 mois. Ils sont inséparables et très at",
       "date_naissance": null,
@@ -8979,7 +10255,7 @@
       "description": "Adoptable dans toute la France 🐾 Baloo & Bianca cherchent leur famille pour la vie ! 🐾 Baloo est un petit mâle et Bianca une petite femelle, tous les deux âgés de 3 mois. Ils sont inséparables et très attachés l’un à l’autre. ❤️ Très à l’aise rapidement et pas vraiment timides, ils sont câlins, joueurs et adorables. 🏡 Ils devront être adoptés ensemble, afin de ne pas être séparés. Ils sont pucés…",
       "fiche_lue": true,
       "portee": {
-        "id": "portee-25",
+        "id": "portee-28",
         "taille": 3,
         "disponibles": 3,
         "confiance": "forte",
@@ -9006,7 +10282,7 @@
       "sexe": "femelle",
       "age_categorie": null,
       "age_texte": "3 mois",
-      "age_mois": 3.6287947554947144,
+      "age_mois": 3.6612125640733133,
       "age_source": "description",
       "age_conflit": null,
       "date_naissance": "2026-06-07",
@@ -9047,7 +10323,7 @@
       "sexe": "male",
       "age_categorie": "junior",
       "age_texte": null,
-      "age_mois": 3.891628431059396,
+      "age_mois": 3.924046239637995,
       "age_source": "naissance",
       "age_conflit": null,
       "date_naissance": "2026-05-30",
@@ -9234,7 +10510,7 @@
       "description": "Adoptable dans toute la France Cette annonce est supprimée puis remise en ligne chaque semaine. N’hésitez pas à vérifier dans la liste de nos pensionnaires à l’adoption si vous ne la retrouvez pas. Poids : NC Stérilisée/castré : Vacciné(e) : X Identifié(e) : X Lieu de vie actuel : Lille (59) HISTOIRE : Bella a été sauvée par Claire. Elle se trouve en accueil à Lille (59) CARACTÈRE : Bella est cra…",
       "fiche_lue": true,
       "portee": {
-        "id": "portee-21",
+        "id": "portee-24",
         "taille": 3,
         "disponibles": 3,
         "confiance": "forte",
@@ -9288,7 +10564,7 @@
       "description": "Adoptable dans toute la France Cette annonce est supprimée puis remise en ligne chaque semaine. N’hésitez pas à vérifier dans la liste de nos pensionnaires à l’adoption si vous ne la retrouvez pas. Poids : NC Stérilisée/castré : Vacciné(e) : X Identifié(e) : X Lieu de vie actuel : Lille (59) HISTOIRE : Caramel et sa soeur Chouchoute ont été sauvés par Claire. Adoption avec son frère. Il se trouve…",
       "fiche_lue": true,
       "portee": {
-        "id": "portee-21",
+        "id": "portee-24",
         "taille": 3,
         "disponibles": 3,
         "confiance": "forte",
@@ -9342,7 +10618,7 @@
       "description": "Adoptable dans toute la France Cette annonce est supprimée puis remise en ligne chaque semaine. N’hésitez pas à vérifier dans la liste de nos pensionnaires à l’adoption si vous ne la retrouvez pas. Poids : NC Stérilisée/castré : Vacciné(e) : X Identifié(e) : X Lieu de vie actuel : Lille (59) HISTOIRE : Caramel et sa soeur Chouchoute ont été sauvés par Claire. Adoption avec sa soeur. Il se trouve…",
       "fiche_lue": true,
       "portee": {
-        "id": "portee-21",
+        "id": "portee-24",
         "taille": 3,
         "disponibles": 3,
         "confiance": "forte",
@@ -9371,7 +10647,7 @@
       "sexe": "femelle",
       "age_categorie": null,
       "age_texte": "2 mois",
-      "age_mois": 3.113394344817096,
+      "age_mois": 3.1458121533956955,
       "age_source": "description",
       "age_conflit": "fiche : 2 mois · description : chatonne femelle de 3 mois, au joli pelage blanc et roux. El",
       "date_naissance": null,
@@ -9412,7 +10688,7 @@
       "sexe": "male",
       "age_categorie": null,
       "age_texte": "3 mois",
-      "age_mois": 3.8259200121682255,
+      "age_mois": 3.858337820746825,
       "age_source": "description",
       "age_conflit": null,
       "date_naissance": "2026-06-01",
@@ -9437,7 +10713,7 @@
       "description": "BINGO , né le 01/06/2026, est un très beau chaton roux au regard tout doux. Comme ses frères et sœurs, c'est un chaton calme qui observe avant de se lancer dans le jeu. Ce n'est pas un gros gourmand, et il aime prendre son temps pour finir sa pâté... BINGO est visible à Pontault Combault. Pour le rencontrer, contactez le 06 89 37 54 33. Retour à la recherche",
       "fiche_lue": true,
       "portee": {
-        "id": "portee-30",
+        "id": "portee-32",
         "taille": 4,
         "disponibles": 4,
         "confiance": "forte",
@@ -9466,7 +10742,7 @@
       "sexe": "male",
       "age_categorie": "junior",
       "age_texte": null,
-      "age_mois": 3.3659610799300324,
+      "age_mois": 3.3983788885086317,
       "age_source": "naissance",
       "age_conflit": null,
       "date_naissance": "2026-06-15",
@@ -9515,7 +10791,7 @@
       "sexe": "femelle",
       "age_categorie": "junior",
       "age_texte": null,
-      "age_mois": 3.3659610799300324,
+      "age_mois": 3.3983788885086317,
       "age_source": "naissance",
       "age_conflit": null,
       "date_naissance": "2026-06-15",
@@ -9564,7 +10840,7 @@
       "sexe": "male",
       "age_categorie": "junior",
       "age_texte": null,
-      "age_mois": 3.3659610799300324,
+      "age_mois": 3.3983788885086317,
       "age_source": "naissance",
       "age_conflit": null,
       "date_naissance": "2026-06-15",
@@ -9638,7 +10914,7 @@
       "description": "ADOPTABLE UNIQUEMENT DANS L'OISE, LIMITROPHE 95 ET LIMITROPHE 77 Pour son adoption, il vous faudra présenter svp une pièce d'identité et un justificatif de domicile. Merci. Un chèque de caution vous sera également demandé pour la stérilisation obligatoire à 6 mois maxi. Identifiée. Crevette et une adorable chatonne qui a malheureusement été prise en charge avec un gros coryza qui a été soigné. El…",
       "fiche_lue": true,
       "portee": {
-        "id": "portee-9",
+        "id": "portee-11",
         "taille": 4,
         "disponibles": 4,
         "confiance": "probable",
@@ -9687,7 +10963,7 @@
       "description": "ADOPTABLE UNIQUEMENT DANS L'OISE, LIMITROPHE 95 ET LIMITROPHE 77 Contact de préférence par SMS svp 06 87 29 37 69 ou 07 49 57 98 49 Pour son adoption, il vous faudra présenter svp une pièce d'identité et un justificatif de domicile. Un chèque de caution vous sera également demandé pour la stérilisation obligatoire à 6 mois maxi. Identifiée, primo vaccinée, déparasitée. Tainy est timide quand elle…",
       "fiche_lue": true,
       "portee": {
-        "id": "portee-9",
+        "id": "portee-11",
         "taille": 4,
         "disponibles": 4,
         "confiance": "probable",
@@ -9736,7 +11012,7 @@
       "description": "ADOPTABLE UNIQUEMENT DANS L'OISE, LIMITROPHE 95 ET LIMITROPHE 77 Pour son adoption, il vous faudra svp, présenter une pièce d'identité et un justificatif de domicile. Un chèque de caution vous sera également demandé pour sa stérilisation obligatoire à 6 mois maxi. Merci. Identifiée, vermifugée. Bonny est une chatonne pleine de vie, cascadeuse invétérée, joueuse, elle adore aussi les câlins. Ok ch…",
       "fiche_lue": true,
       "portee": {
-        "id": "portee-9",
+        "id": "portee-11",
         "taille": 4,
         "disponibles": 4,
         "confiance": "probable",
@@ -9785,7 +11061,7 @@
       "description": "ADOPTABLE UNIQUEMENT DANS L'OISE, LIMITROPHE 95 ET LIMITROPHE 77 Pour son adoption, il vous faudra svp, présenter une pièce d'identité et un justificatif de domicile. Un chèque de caution vous sera également demandé pour sa stérilisation obligatoire à 6 mois maxi. Merci. Identifié, vermifugé. Ne vous fiez pas à son air grognon sur la photo car Onyx est un adorable chaton câlin, calme et doux. Ok…",
       "fiche_lue": true,
       "portee": {
-        "id": "portee-9",
+        "id": "portee-11",
         "taille": 4,
         "disponibles": 4,
         "confiance": "probable",
@@ -9834,7 +11110,7 @@
       "description": "🐾 A l'adoption ➡️ Marlow 🐾 Marlow est un adorable petit mâle 🥰 Joueur, curieux et plein d’entrain, il est également câlin, doux et affectueux. Il apprécie la compagnie de ses congénères et les accepte volontiers. ❤️ Un petit compagnon plein de vie qui n’attend plus qu’une famille aimante pour commencer une belle histoire ! 🏡🐾 🏠 Marlow est visible sur lieusaint ❌️UNE ADOPTION DOIT &Ecirc;TRE UN AC…",
       "fiche_lue": true,
       "portee": {
-        "id": "portee-15",
+        "id": "portee-17",
         "taille": 3,
         "disponibles": 3,
         "confiance": "probable",
@@ -9883,7 +11159,7 @@
       "description": "🐾 A l'adoption ➡️ Maohi adorable petit minet 🐾 Une petite boule de vie, joueur, curieux et plein d’entrain ! 🥰 Il est également câlin, doux et un brin coquin, toujours prêt à partir à la découverte de son petit monde. Un joli minet plein de charme qui saura faire fondre les cœurs. ❤️🐱 🏠 Maohi est visible sur lieusaint ❌️UNE ADOPTION DOIT &Ecirc;TRE UN ACTE RÉFLÉCHI ET VOUS ENGAGE SUR DES ANNÉES ❌…",
       "fiche_lue": true,
       "portee": {
-        "id": "portee-15",
+        "id": "portee-17",
         "taille": 3,
         "disponibles": 3,
         "confiance": "probable",
@@ -9932,7 +11208,7 @@
       "description": "🌸A l'adoption ➡️ Minotte 🌸 Minotte est une adorable petite femelle 🐾 Joueuse, curieuse et pleine de vie, elle aime découvrir son environnement et partager de jolis moments avec les humains. Très câline et douce, elle apprécie particulièrement les moments de tendresse. ❤️ ❌️UNE ADOPTION DOIT &Ecirc;TRE UN ACTE RÉFLÉCHI ET VOUS ENGAGE SUR DES ANNÉES ❌️ ➡️Pour toute demande d'adoption www.pachats77.…",
       "fiche_lue": true,
       "portee": {
-        "id": "portee-15",
+        "id": "portee-17",
         "taille": 3,
         "disponibles": 3,
         "confiance": "probable",
@@ -9956,7 +11232,7 @@
       "sexe": "male",
       "age_categorie": null,
       "age_texte": "0 mois",
-      "age_mois": 3.1462485542626815,
+      "age_mois": 3.178666362841281,
       "age_source": "description",
       "age_conflit": null,
       "date_naissance": null,
@@ -9981,7 +11257,7 @@
       "description": "Bee & Bop, bientôt 3 mois, cherchent leur famille. Et si possible… la même. Recueillis dans la rue cet été, ils sont très probablement frères. Depuis, ils grandissent ensemble et ne se quittent pas. Bee, c’est une vraie petite machine à ronrons Câlin, joueur et curieux de tout, il veut toujours savoir ce qui se passe autour de lui… et fonce généralement le premier ! Bop, lui, est plus réservé. C’…",
       "fiche_lue": true,
       "portee": {
-        "id": "portee-26",
+        "id": "portee-29",
         "taille": 3,
         "disponibles": 3,
         "confiance": "forte",
@@ -10008,7 +11284,7 @@
       "sexe": "male",
       "age_categorie": null,
       "age_texte": "0 mois",
-      "age_mois": 3.1462485542626815,
+      "age_mois": 3.178666362841281,
       "age_source": "description",
       "age_conflit": null,
       "date_naissance": null,
@@ -10033,7 +11309,7 @@
       "description": "Bluetooth, 3 mois, cherche sa famille. Sauvé de la rue une semaine après Bee et Bop, il est très probablement leur frère. Bluetooth est le plus solitaire des trois. Un peu réservé au premier contact, il a besoin de temps pour accorder sa confiance. Mais une fois qu’il se sent en sécurité, il apprécie vraiment les caresses… et surtout, il commence maintenant à venir les chercher de lui-même. C’est…",
       "fiche_lue": true,
       "portee": {
-        "id": "portee-26",
+        "id": "portee-29",
         "taille": 3,
         "disponibles": 3,
         "confiance": "forte",
@@ -10088,47 +11364,6 @@
       "nouveau": true
     },
     {
-      "id": "secondechance:1518134",
-      "source": "secondechance",
-      "source_label": "Seconde Chance",
-      "source_id": "1518134",
-      "uid": "chat-europeen-chocominette-1518134",
-      "nom": "Chocominette",
-      "url": "https://www.secondechance.org/animal/chat-europeen-chocominette-1518134",
-      "image": "https://www.secondechance.org/uploads/anim/6aafed7fccb9b976457028.jpg",
-      "espece": "chat",
-      "race": "EUROPÉEN",
-      "sexe": "femelle",
-      "age_categorie": null,
-      "age_texte": "2 mois",
-      "age_mois": 2,
-      "age_source": "fiche",
-      "age_conflit": null,
-      "date_naissance": null,
-      "date_publication": "2026-09-20",
-      "reserve": false,
-      "lieu": {
-        "nom": "Family Wanted",
-        "slug": null,
-        "ville": "Marcq",
-        "code_postal": "78770",
-        "departement": "78",
-        "departement_association": "78",
-        "departements_adoption": [
-          "78"
-        ],
-        "latitude": null,
-        "longitude": null,
-        "precision": "departement",
-        "distance_km": null,
-        "url": "https://www.secondechance.org/refuge/yvelines/family-wanted-3121"
-      },
-      "description": "Attention, petit gabarit… mais énergie XXL !!! Chocominette est une adorable chatonne au dynamisme hors pair ! Une petite tornade sur pattes qui court, saute, joue, explore… et recommence ! Son histoire aurait pourtant pu très mal finir. Chocominette nous a été confiée par une clinique vétérinaire où elle avait été déposée alors qu’elle était malade. Elle souffrait du typhus, une maladie particul…",
-      "fiche_lue": true,
-      "portee": null,
-      "nouveau": true
-    },
-    {
       "id": "secondechance:1516012",
       "source": "secondechance",
       "source_label": "Seconde Chance",
@@ -10142,7 +11377,7 @@
       "sexe": "femelle",
       "age_categorie": null,
       "age_texte": "2 mois",
-      "age_mois": 2.544605843790402,
+      "age_mois": 2.577023652369001,
       "age_source": "description",
       "age_conflit": null,
       "date_naissance": "2026-07-10",
@@ -10167,7 +11402,7 @@
       "description": "Adoptable dans toute la France 😻À L’adoption : Pile Pile et son frère, Face (adopté), sont arrivés récemment à l’association, en provenance de Canny-sur-Thérain, une commune où nous avons déjà pris en charge de nombreux loulous. Ils viennent tout juste d’être séparés de leur maman, une chatte sauvage qui a été stérilisée et qui sera relâchée sur son site de vie. Eux, en revanche, ont encore toute…",
       "fiche_lue": true,
       "portee": {
-        "id": "portee-8",
+        "id": "portee-10",
         "taille": 2,
         "disponibles": 2,
         "confiance": "forte",
@@ -10221,7 +11456,7 @@
       "description": "Jeune chatonne trouvée avec sa maman et son frère. Nous privilégierons une adoption double (avec sa soeur) ou une famille qui a déjà un chat ou un chaton. Adoption en maison (dans une impasse ou éloignée des grands routes) ou en appartement avec balcon sécurisé par un filet et au moins une fenêtre entièrement protégée. Nos chatons sont identifiés, déparasités et testés Fiv/Felv avant l'adoption.…",
       "fiche_lue": true,
       "portee": {
-        "id": "portee-11",
+        "id": "portee-13",
         "taille": 2,
         "disponibles": 2,
         "confiance": "probable",
@@ -10271,7 +11506,7 @@
       "description": "Jeune chaton trouvé avec sa maman et sa soeur. Nous privilégierons une adoption double (avec sa soeur) ou une famille qui a déjà un chat ou un chaton. Adoption en maison (dans une impasse ou éloignée des grands routes) ou en appartement avec balcon sécurisé par un filet et au moins une fenêtre entièrement protégée. Nos chatons sont identifiés, déparasités et testés Fiv/Felv avant l'adoption. Ils…",
       "fiche_lue": true,
       "portee": {
-        "id": "portee-11",
+        "id": "portee-13",
         "taille": 2,
         "disponibles": 2,
         "confiance": "probable",
@@ -10296,7 +11531,7 @@
       "sexe": "male",
       "age_categorie": null,
       "age_texte": "2 mois",
-      "age_mois": 3.1791027637082667,
+      "age_mois": 3.211520572286866,
       "age_source": "description",
       "age_conflit": "fiche : 2 mois · description : x petits chatons de 3 mois 🐱🤍 Si vous souhaitez les adopté",
       "date_naissance": null,
@@ -10321,7 +11556,7 @@
       "description": "Adoptable dans toute la France 🚨 FAMILLE D’ACCUEIL RECHERCHÉE EN URGENCE 🐾 Nous recherchons en urgence une famille d’accueil pour ces deux petits chatons de 3 mois 🐱🤍 Si vous souhaitez les adoptés vous pourrez également le faire ! Ils ont besoin d’un foyer temporaire, chaleureux et sécurisant, le temps de pouvoir leur trouver leur famille pour la vie. 📍 Paris 20e 🏠 Vous avez une place chez vous e…",
       "fiche_lue": true,
       "portee": {
-        "id": "portee-25",
+        "id": "portee-28",
         "taille": 3,
         "disponibles": 3,
         "confiance": "forte",
@@ -10373,7 +11608,7 @@
       "description": "Adoptable dans toute la France Honey et Lucky cherchent chacun leur famille pour la vie Nous vous présentons deux adorables petits chatons mâle âgés d’environ 3 mois. Ils pourront être adoptés ensemble ou séparément. Ils sont câlins, sociables, joueurs et très proches de l’humain. Toujours partants pour une séance de jeu ou quelques caresses, ils sont de petits compagnons adorables et attachants.…",
       "fiche_lue": true,
       "portee": {
-        "id": "portee-18",
+        "id": "portee-20",
         "taille": 2,
         "disponibles": 2,
         "confiance": "forte",
@@ -10423,7 +11658,7 @@
       "description": "Adoptable dans toute la France Très gentille chatounette née à la ferme, calme et joueuse. Elle pourra s'adapter aussi bien en appartement qu'en maison. Ne connait pas les enfants en bas-âge (à éviter sauf si l'enfant vit déja avec des les chats). Belle à aussi 1 soeur et 1 frère si vous en voulez plusieurs ( une tricolore et un roux et blanc, photos sur demande) Placement par association : propo…",
       "fiche_lue": true,
       "portee": {
-        "id": "portee-24",
+        "id": "portee-27",
         "taille": 3,
         "disponibles": 3,
         "confiance": "probable",
@@ -10473,7 +11708,7 @@
       "description": "Adoptable dans toute la France Très gentille chatounette née à la ferme, calme et joueuse. Elle pourra s'adapter aussi bien en appartement qu'en maison. Ne connait pas les enfants en bas-âge (à éviter sauf si l'enfant vit déja avec des les chats). Bulle à aussi 1 soeur et 1 frère si vous en voulez plusieurs ( une noire et blanche et un roux et blanc, photos sur demande) Placement par association…",
       "fiche_lue": true,
       "portee": {
-        "id": "portee-24",
+        "id": "portee-27",
         "taille": 3,
         "disponibles": 3,
         "confiance": "probable",
@@ -10523,7 +11758,7 @@
       "description": "Adoptable dans toute la France Très gentil chaton né à la ferme, calme et joueur. Il pourra s'adapter aussi bien en appartement qu'en maison. Ne connait pas les enfants en bas-âge (à éviter sauf si l'enfant vit déja avec des les chats). Biscuit à aussi 2 soeurs si vous en voulez plusieurs (1 tricolore et une noire et blanche, photos sur demande) Placement par association : proposé Identifié, verm…",
       "fiche_lue": true,
       "portee": {
-        "id": "portee-24",
+        "id": "portee-27",
         "taille": 3,
         "disponibles": 3,
         "confiance": "probable",
@@ -10533,339 +11768,33 @@
         ]
       },
       "nouveau": true
-    },
-    {
-      "id": "secondechance:1517475",
-      "source": "secondechance",
-      "source_label": "Seconde Chance",
-      "source_id": "1517475",
-      "uid": "chat-europeen-tsuki-et-cafeine-1517475",
-      "nom": "Tsuki et caféine",
-      "url": "https://www.secondechance.org/animal/chat-europeen-tsuki-et-cafeine-1517475",
-      "image": "https://www.secondechance.org/uploads/anim/6aad1d72ec4a5416130471.png",
-      "espece": "chat",
-      "race": "EUROPÉEN",
-      "sexe": "femelle",
-      "age_categorie": null,
-      "age_texte": "1 mois",
-      "age_mois": 1,
-      "age_source": "fiche",
-      "age_conflit": null,
-      "date_naissance": null,
-      "date_publication": "2026-09-18",
-      "reserve": false,
-      "lieu": {
-        "nom": "Pause câline",
-        "slug": null,
-        "ville": "Le pré saint Gervais",
-        "code_postal": "93310",
-        "departement": "93",
-        "departement_association": "93",
-        "departements_adoption": [
-          "93"
-        ],
-        "latitude": null,
-        "longitude": null,
-        "precision": "departement",
-        "distance_km": null,
-        "url": "https://www.secondechance.org/refuge/seine-saint-denis/pause-caline-4237"
-      },
-      "description": "💞 TSUKI & CAFFEINE — DEUX C&OElig;URS À ADOPTER ENSEMBLE 💞 Tsuki et sa petite Caffeine reviennent de loin… vraiment très loin. Tsuki a déjà connu plusieurs portées et la douleur de perdre ses bébés. Elle en a perdu un premier, puis un deuxième le jour de l’éclipse. Quant à Caffeine, à quelques heures près, elle ne serait probablement plus là aujourd’hui. Lorsqu’elle a été mise en sécurité, cette…",
-      "fiche_lue": true,
-      "portee": {
-        "id": "portee-3",
-        "taille": 2,
-        "disponibles": 2,
-        "confiance": "forte",
-        "indices": [
-          "annonce groupée : Tsuki, caféine"
-        ]
-      },
-      "nouveau": true
-    },
-    {
-      "id": "secondechance:1517661",
-      "source": "secondechance",
-      "source_label": "Seconde Chance",
-      "source_id": "1517661",
-      "uid": "chat-europeen-bolide-1517661",
-      "nom": "Bolide",
-      "url": "https://www.secondechance.org/animal/chat-europeen-bolide-1517661",
-      "image": "https://www.secondechance.org/uploads/anim/6aad8bab8a533571833907.jpg",
-      "espece": "chat",
-      "race": "EUROPÉEN",
-      "sexe": "male",
-      "age_categorie": null,
-      "age_texte": "3 mois",
-      "age_mois": 3,
-      "age_source": "fiche",
-      "age_conflit": null,
-      "date_naissance": null,
-      "date_publication": "2026-09-18",
-      "reserve": false,
-      "lieu": {
-        "nom": "ACCA",
-        "slug": null,
-        "ville": "Marolles en Brie",
-        "code_postal": "94440",
-        "departement": "94",
-        "departement_association": "94",
-        "departements_adoption": [
-          "94"
-        ],
-        "latitude": null,
-        "longitude": null,
-        "precision": "departement",
-        "distance_km": null,
-        "url": "https://www.secondechance.org/refuge/val-de-marne/acca-3347"
-      },
-      "description": "Retour à la recherche",
-      "fiche_lue": true,
-      "portee": {
-        "id": "portee-22",
-        "taille": 2,
-        "disponibles": 2,
-        "confiance": "probable",
-        "indices": [
-          "même âge et même date de mise en ligne"
-        ]
-      },
-      "nouveau": true
-    },
-    {
-      "id": "secondechance:1517660",
-      "source": "secondechance",
-      "source_label": "Seconde Chance",
-      "source_id": "1517660",
-      "uid": "chat-europeen-bob-1517660",
-      "nom": "Bob",
-      "url": "https://www.secondechance.org/animal/chat-europeen-bob-1517660",
-      "image": "https://www.secondechance.org/uploads/anim/6aad8b81dd821514536446.jpg",
-      "espece": "chat",
-      "race": "EUROPÉEN",
-      "sexe": "male",
-      "age_categorie": null,
-      "age_texte": "3 mois",
-      "age_mois": 3,
-      "age_source": "fiche",
-      "age_conflit": null,
-      "date_naissance": null,
-      "date_publication": "2026-09-18",
-      "reserve": false,
-      "lieu": {
-        "nom": "ACCA",
-        "slug": null,
-        "ville": "Marolles en Brie",
-        "code_postal": "94440",
-        "departement": "94",
-        "departement_association": "94",
-        "departements_adoption": [
-          "94"
-        ],
-        "latitude": null,
-        "longitude": null,
-        "precision": "departement",
-        "distance_km": null,
-        "url": "https://www.secondechance.org/refuge/val-de-marne/acca-3347"
-      },
-      "description": "Retour à la recherche",
-      "fiche_lue": true,
-      "portee": {
-        "id": "portee-22",
-        "taille": 2,
-        "disponibles": 2,
-        "confiance": "probable",
-        "indices": [
-          "même âge et même date de mise en ligne"
-        ]
-      },
-      "nouveau": true
-    },
-    {
-      "id": "secondechance:1517632",
-      "source": "secondechance",
-      "source_label": "Seconde Chance",
-      "source_id": "1517632",
-      "uid": "chat-europeen-tigroot-chaton-male-creole-1517632",
-      "nom": "Tigroot, chaton mâle...",
-      "url": "https://www.secondechance.org/animal/chat-europeen-tigroot-chaton-male-creole-1517632",
-      "image": "https://www.secondechance.org/uploads/anim/6aad7fe185c19974810107.jpeg",
-      "espece": "chat",
-      "race": "EUROPÉEN",
-      "sexe": "male",
-      "age_categorie": null,
-      "age_texte": "3 mois",
-      "age_mois": 3.3988152893756176,
-      "age_source": "description",
-      "age_conflit": null,
-      "date_naissance": "2026-06-14",
-      "date_publication": "2026-09-18",
-      "reserve": false,
-      "lieu": {
-        "nom": "Zang",
-        "slug": null,
-        "ville": "Saint Claude",
-        "code_postal": "97120",
-        "departement": "60",
-        "departement_association": "971",
-        "departements_adoption": [
-          "60"
-        ],
-        "latitude": null,
-        "longitude": null,
-        "precision": "departement",
-        "distance_km": null,
-        "url": "https://www.secondechance.org/refuge/guadeloupe/zang-3817"
-      },
-      "description": "Adoptable dans toute la France TIGROOT, chaton mâle créole Né le 14 juin 2026, identifié (n° 250268782287201) Soins 🚑 : primo-vacciné, déparasité, vermifugé Poids estimé à l’âge adulte : 4-5 Kg 🌎 : Actuellement en famille d’accueil en Guadeloupe Une adorable boîte à ronrons qui n’attend que vous ! Découvrez-moi ! https://www.association-zang.com/profil-chat/tigroot Mon caractère, mes ententes : J…",
-      "fiche_lue": true,
-      "portee": {
-        "id": "portee-29",
-        "taille": 2,
-        "disponibles": 2,
-        "confiance": "forte",
-        "indices": [
-          "annonce groupée : Tigroot, chaton mâle"
-        ]
-      },
-      "nouveau": true
-    },
-    {
-      "id": "secondechance:1517640",
-      "source": "secondechance",
-      "source_label": "Seconde Chance",
-      "source_id": "1517640",
-      "uid": "chat-europeen-brune-1517640",
-      "nom": "Brune",
-      "url": "https://www.secondechance.org/animal/chat-europeen-brune-1517640",
-      "image": "https://www.secondechance.org/uploads/anim/6aad8524d5849480610981.jpeg",
-      "espece": "chat",
-      "race": "EUROPÉEN",
-      "sexe": "femelle",
-      "age_categorie": null,
-      "age_texte": "3 mois",
-      "age_mois": 3.8259200121682255,
-      "age_source": "description",
-      "age_conflit": null,
-      "date_naissance": "2026-06-01",
-      "date_publication": "2026-09-18",
-      "reserve": false,
-      "lieu": {
-        "nom": "L'échappée belle",
-        "slug": null,
-        "ville": "OZOIR LA FERRIERE",
-        "code_postal": "77330",
-        "departement": "77",
-        "departement_association": "77",
-        "departements_adoption": [
-          "77"
-        ],
-        "latitude": null,
-        "longitude": null,
-        "precision": "departement",
-        "distance_km": null,
-        "url": "https://www.secondechance.org/refuge/seine-et-marne/l-echappee-belle-1978"
-      },
-      "description": "BRUNE , née le 01/06/2026, est la fille de BERYL et la soeur de BRETZEL , trouvés un soir de fin Juin à Ozoir. Les petits avaient à peine un mois! C'est une minette bien dans ses patounes et très curieuse. Elle adore jouer avec son frère, ou bien seule. Sa priorité: être en mouvement, que ce soit pour jouer, gambader, courir, ou se faire câliner! Elle est demandeuse d'attention et de câlins, et l…",
-      "fiche_lue": true,
-      "portee": {
-        "id": "portee-30",
-        "taille": 4,
-        "disponibles": 4,
-        "confiance": "forte",
-        "indices": [
-          "même date de naissance",
-          "fratrie mentionnée",
-          "« Bretzel » cité·e dans la description",
-          "cité·e dans la description de « Bretzel »",
-          "cité·e dans la description de « Brune »",
-          "« Brune » cité·e dans la description"
-        ]
-      },
-      "nouveau": true
-    },
-    {
-      "id": "secondechance:1517633",
-      "source": "secondechance",
-      "source_label": "Seconde Chance",
-      "source_id": "1517633",
-      "uid": "chat-europeen-bretzel-1517633",
-      "nom": "Bretzel",
-      "url": "https://www.secondechance.org/animal/chat-europeen-bretzel-1517633",
-      "image": "https://www.secondechance.org/uploads/anim/6aad81eade64f319538260.png",
-      "espece": "chat",
-      "race": "EUROPÉEN",
-      "sexe": "male",
-      "age_categorie": null,
-      "age_texte": "3 mois",
-      "age_mois": 3.8259200121682255,
-      "age_source": "description",
-      "age_conflit": null,
-      "date_naissance": "2026-06-01",
-      "date_publication": "2026-09-18",
-      "reserve": false,
-      "lieu": {
-        "nom": "L'échappée belle",
-        "slug": null,
-        "ville": "OZOIR LA FERRIERE",
-        "code_postal": "77330",
-        "departement": "77",
-        "departement_association": "77",
-        "departements_adoption": [
-          "77"
-        ],
-        "latitude": null,
-        "longitude": null,
-        "precision": "departement",
-        "distance_km": null,
-        "url": "https://www.secondechance.org/refuge/seine-et-marne/l-echappee-belle-1978"
-      },
-      "description": "BRETZEL , né le 01/06/2026, est le fils de BERYL , et le frère de BRUNE , trouvés un soir de fin Juin à Ozoir. Les petits avaient à peine un mois! C'est un chaton un peu timidou de prime abord. Comme sa maman, il lui faut un petit peu de temps pour se sentir à l'aise, apprécier et réclamer des caresses en faisant fonctionner sa boite à ronrons. Il aime jouer avec sa soeur, auprès de qui il court…",
-      "fiche_lue": true,
-      "portee": {
-        "id": "portee-30",
-        "taille": 4,
-        "disponibles": 4,
-        "confiance": "forte",
-        "indices": [
-          "même date de naissance",
-          "fratrie mentionnée",
-          "« Bretzel » cité·e dans la description",
-          "cité·e dans la description de « Bretzel »",
-          "cité·e dans la description de « Brune »",
-          "« Brune » cité·e dans la description"
-        ]
-      },
-      "nouveau": true
     }
   ],
   "stats": {
     "sources": {
       "laspa": {
         "pages": 1,
-        "total_site": 168,
-        "dans_zone": 117,
-        "fiches": 46,
-        "fiches_cache": 0,
+        "total_site": 176,
+        "dans_zone": 126,
+        "fiches": 6,
+        "fiches_cache": 46,
         "erreurs": 0
       },
       "secondechance": {
         "pages": 47,
-        "cartes": 517,
-        "dans_zone": 517,
-        "fiches": 335,
-        "fiches_cache": 0,
+        "cartes": 515,
+        "dans_zone": 515,
+        "fiches": 19,
+        "fiches_cache": 322,
         "erreurs": 0,
         "departements": 9,
         "pages_tronquees": 0
       }
     },
-    "requests": 431,
+    "requests": 75,
     "retries": 0,
-    "duree_s": 152.5,
-    "annonces_zone": 634
+    "duree_s": 55.4,
+    "annonces_zone": 641
   },
-  "erreurs": [
-    "Première exécution : la mémoire du bot est vide, les nouveaux arrivants sont déterminés d'après la date de mise en ligne uniquement (détection « jamais vus » active dès la prochaine exécution)."
-  ]
+  "erreurs": []
 }
