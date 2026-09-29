@@ -1,6 +1,6 @@
-# Annonces chatons — lundi 28 septembre 2026
+# Annonces chatons — mardi 29 septembre 2026
 
-## 🐾 Chatons de moins de 4 mois (152)
+## 🐾 Chatons de moins de 4 mois (143)
 
 ### 👨‍👩‍👧‍👦 Portée de 5 chatons · Les petits protégés de Jo & Co · 1 mois · portée probable
 - 🆕 **[Erell, ildut et ster...](https://www.secondechance.org/animal/chat-europeen-erell-ildut-et-sterenn-1520115)** — 1 mois · ♀ femelle · EUROPÉEN
@@ -49,53 +49,44 @@
   📍 Adopte un Matou · Maurecourt (78) · adoptable dans le 75
   🗓 mis en ligne le 26/09/2026 · Seconde Chance
 
+### 👨‍👩‍👧‍👦 Portée de 4 chatons · Family Wanted · 2 mois · portée probable
+- 🆕 **[Marcia](https://www.secondechance.org/animal/chat-europeen-marcia-1520772)** — 2 mois · ♀ femelle · EUROPÉEN
+  📍 Family Wanted · Marcq (78)
+  🗓 mis en ligne le 28/09/2026 · Seconde Chance
+- 🆕 **[Maryse](https://www.secondechance.org/animal/chat-europeen-maryse-1520774)** — 2 mois · ♀ femelle · EUROPÉEN
+  📍 Family Wanted · Marcq (78)
+  🗓 mis en ligne le 28/09/2026 · Seconde Chance
+- 🆕 **[Marty](https://www.secondechance.org/animal/chat-europeen-marty-1520776)** — 2 mois · ♂ mâle · EUROPÉEN
+  📍 Family Wanted · Marcq (78)
+  🗓 mis en ligne le 28/09/2026 · Seconde Chance
+- 🆕 **[Mory](https://www.secondechance.org/animal/chat-europeen-mory-1520777)** — 2 mois · ♂ mâle · EUROPÉEN
+  📍 Family Wanted · Marcq (78)
+  🗓 mis en ligne le 28/09/2026 · Seconde Chance
+
 ### 👨‍👩‍👧‍👦 Portée de 4 chatons · Animaux sans toit · 3 mois · portée probable
-- 🆕 **[Onyx en accueil chez...](https://www.secondechance.org/animal/chat-europeen-onyx-en-accueil-chez-florence-1517170)** — 3 mois · ♂ mâle · EUROPÉEN
+- **[Onyx en accueil chez...](https://www.secondechance.org/animal/chat-europeen-onyx-en-accueil-chez-florence-1517170)** — 3 mois · ♂ mâle · EUROPÉEN
   📍 Animaux sans toit · Mogneville (60)
   🗓 mis en ligne le 21/09/2026 · Seconde Chance
-- 🆕 **[Bonny en accueil che...](https://www.secondechance.org/animal/chat-europeen-bonny-en-accueil-chez-florence-1517173)** — 3 mois · ♀ femelle · EUROPÉEN
+- **[Bonny en accueil che...](https://www.secondechance.org/animal/chat-europeen-bonny-en-accueil-chez-florence-1517173)** — 3 mois · ♀ femelle · EUROPÉEN
   📍 Animaux sans toit · Mogneville (60)
   🗓 mis en ligne le 21/09/2026 · Seconde Chance
-- 🆕 **[Tainy en accueil che...](https://www.secondechance.org/animal/chat-europeen-tainy-en-accueil-chez-elodie-1517274)** — 3 mois · ♀ femelle · EUROPÉEN
+- **[Tainy en accueil che...](https://www.secondechance.org/animal/chat-europeen-tainy-en-accueil-chez-elodie-1517274)** — 3 mois · ♀ femelle · EUROPÉEN
   📍 Animaux sans toit · Mogneville (60)
   🗓 mis en ligne le 21/09/2026 · Seconde Chance
-- 🆕 **[Crevette en accueil ...](https://www.secondechance.org/animal/chat-europeen-crevette-en-accueil-chez-christelle-1517983)** — 3 mois · ♀ femelle · EUROPÉEN
+- **[Crevette en accueil ...](https://www.secondechance.org/animal/chat-europeen-crevette-en-accueil-chez-christelle-1517983)** — 3 mois · ♀ femelle · EUROPÉEN
   📍 Animaux sans toit · Mogneville (60)
   🗓 mis en ligne le 21/09/2026 · Seconde Chance
 
-### 👨‍👩‍👧‍👦 Portée de 4 chatons · Syndi'Cat · 3 mois · portée probable
-- **[Loki](https://www.secondechance.org/animal/chat-europeen-loki-1517191)** — 3 mois · ♂ mâle · EUROPÉEN
-  📍 Syndi'Cat · Pommeuse (77)
-  🗓 mis en ligne le 17/09/2026 · Seconde Chance
-- **[Lua](https://www.secondechance.org/animal/chat-europeen-lua-1517193)** — 3 mois · ♀ femelle · EUROPÉEN
-  📍 Syndi'Cat · Pommeuse (77)
-  🗓 mis en ligne le 17/09/2026 · Seconde Chance
-- **[Oslo](https://www.secondechance.org/animal/chat-europeen-oslo-1517199)** — 3 mois · ♂ mâle · EUROPÉEN
-  📍 Syndi'Cat · Pommeuse (77)
-  🗓 mis en ligne le 17/09/2026 · Seconde Chance
-- **[Sia](https://www.secondechance.org/animal/chat-europeen-sia-1517206)** — 3 mois · ♀ femelle · EUROPÉEN
-  📍 Syndi'Cat · Pommeuse (77)
-  🗓 mis en ligne le 17/09/2026 · Seconde Chance
-
-### 👨‍👩‍👧‍👦 Portée de 3 chatons · La SPA - Refuge de Plaisir · né·e·s le 20/07/2026
-- 🆕 **[PAB29101 Billy](https://www.la-spa.fr/animal/pab29101/)** — 2 mois (né·e le 20/07/2026) · ♂ mâle · Europeen
-  📍 La SPA - Refuge de Plaisir · 34 km
-  🗓 mis en ligne le 25/09/2026 · La SPA
-- 🆕 **[PAB29102 Lockhart](https://www.la-spa.fr/animal/pab29102/)** — 2 mois (né·e le 20/07/2026) · ♂ mâle · Europeen
-  📍 La SPA - Refuge de Plaisir · 34 km
-  🗓 mis en ligne le 25/09/2026 · La SPA
-- 🆕 **[PAB29103 Minus](https://www.la-spa.fr/animal/pab29103-minus/)** — 2 mois (né·e le 20/07/2026) · ♂ mâle · Europeen
-  📍 La SPA - Refuge de Plaisir · 34 km
-  🗓 mis en ligne le 25/09/2026 · La SPA
-- 🆕 **[Pab29103 minus](https://www.secondechance.org/animal/chat-europeen-pab29103-minus-1519942)** — 2 mois · ♂ mâle · EUROPÉEN
-  📍 Refuge SPA de Plaisir
-  🗓 mis en ligne le 26/09/2026 · Seconde Chance
-- 🆕 **[Pab29102 lockhart](https://www.secondechance.org/animal/chat-europeen-pab29102-lockhart-1519943)** — 2 mois · ♂ mâle · EUROPÉEN
-  📍 Refuge SPA de Plaisir
-  🗓 mis en ligne le 26/09/2026 · Seconde Chance
-- 🆕 **[Pab29101 billy](https://www.secondechance.org/animal/chat-europeen-pab29101-billy-1519944)** — 2 mois · ♂ mâle · EUROPÉEN
-  📍 Refuge SPA de Plaisir
-  🗓 mis en ligne le 26/09/2026 · Seconde Chance
+### 👨‍👩‍👧‍👦 Portée de 3 chatons · Ani Mots Espoir · 2 mois · portée probable
+- 🆕 **[Bora](https://www.secondechance.org/animal/chat-europeen-bora-1520693)** — 2 mois · ♀ femelle · EUROPÉEN
+  📍 Ani Mots Espoir · Méru (60)
+  🗓 mis en ligne le 28/09/2026 · Seconde Chance
+- 🆕 **[Barnabé](https://www.secondechance.org/animal/chat-europeen-barnabe-1520694)** — 2 mois · ♂ mâle · EUROPÉEN
+  📍 Ani Mots Espoir · Méru (60)
+  🗓 mis en ligne le 28/09/2026 · Seconde Chance
+- 🆕 **[Banzai](https://www.secondechance.org/animal/chat-europeen-banzai-1520696)** — 2 mois · ♀ femelle · EUROPÉEN
+  📍 Ani Mots Espoir · Méru (60)
+  🗓 mis en ligne le 28/09/2026 · Seconde Chance
 
 ### 👨‍👩‍👧‍👦 Portée de 3 chatons · L'école du chat de l'Oise · 2 mois · portée probable
 - 🆕 **[Max](https://www.secondechance.org/animal/chat-europeen-max-1519059)** — 2 mois · ♂ mâle · EUROPÉEN
@@ -108,16 +99,16 @@
   📍 L'école du chat de l'Oise · Agnetz (60)
   🗓 mis en ligne le 23/09/2026 · Seconde Chance
 
-### 👨‍👩‍👧‍👦 Portée de 3 chatons · Adopte un Matou · 2 mois
-- 🆕 **[Kawa](https://www.secondechance.org/animal/chat-europeen-kawa-1519197)** — 2 mois · ♂ mâle · EUROPÉEN
-  📍 Adopte un Matou · Maurecourt (78) · adoptable dans le 75
-  🗓 mis en ligne le 24/09/2026 · Seconde Chance
-- 🆕 **[Brookie](https://www.secondechance.org/animal/chat-europeen-brookie-1519198)** — 2 mois · ♀ femelle · EUROPÉEN
-  📍 Adopte un Matou · Maurecourt (78)
-  🗓 mis en ligne le 24/09/2026 · Seconde Chance
-- 🆕 **[Belette](https://www.secondechance.org/animal/chat-europeen-belette-1519514)** — 2 mois · ♂ mâle · EUROPÉEN
-  📍 Adopte un Matou · Maurecourt (78) · adoptable dans le 75
-  🗓 mis en ligne le 24/09/2026 · Seconde Chance
+### 👨‍👩‍👧‍👦 Portée de 3 chatons · Amicha · 2 mois · portée probable
+- 🆕 **[Gandalf](https://www.secondechance.org/animal/chat-europeen-gandalf-1520714)** — 2 mois · ♂ mâle · EUROPÉEN
+  📍 Amicha · Houilles (78)
+  🗓 mis en ligne le 28/09/2026 · Seconde Chance
+- 🆕 **[Croquemou](https://www.secondechance.org/animal/chat-europeen-croquemou-1520779)** — 2 mois · ♂ mâle · EUROPÉEN
+  📍 Amicha · Houilles (78)
+  🗓 mis en ligne le 28/09/2026 · Seconde Chance
+- 🆕 **[Mercredi](https://www.secondechance.org/animal/chat-europeen-mercredi-1520780)** — 2 mois · ♂ mâle · EUROPÉEN
+  📍 Amicha · Houilles (78)
+  🗓 mis en ligne le 28/09/2026 · Seconde Chance
 
 ### 👨‍👩‍👧‍👦 Portée de 3 chatons · La SPA - Refuge de Plaisir · né·e·s le 06/06/2026
 - **[BLOOM PAB29240](https://www.la-spa.fr/animal/bloom-pab29240/)** — 3 mois (né·e le 06/06/2026) · ♂ mâle · Europeen
@@ -140,15 +131,26 @@
   🗓 mis en ligne le 25/09/2026 · Seconde Chance
 
 ### 👨‍👩‍👧‍👦 Portée de 3 chatons · PAChats 77 · 3 mois · portée probable
-- 🆕 **[Minotte](https://www.secondechance.org/animal/chat-europeen-minotte-1518379)** — 3 mois · ♀ femelle · EUROPÉEN
+- **[Minotte](https://www.secondechance.org/animal/chat-europeen-minotte-1518379)** — 3 mois · ♀ femelle · EUROPÉEN
   📍 PAChats 77 · Lieusaint (77)
   🗓 mis en ligne le 21/09/2026 · Seconde Chance
-- 🆕 **[Maohi](https://www.secondechance.org/animal/chat-europeen-maohi-1518380)** — 3 mois · ♂ mâle · EUROPÉEN
+- **[Maohi](https://www.secondechance.org/animal/chat-europeen-maohi-1518380)** — 3 mois · ♂ mâle · EUROPÉEN
   📍 PAChats 77 · Lieusaint (77)
   🗓 mis en ligne le 21/09/2026 · Seconde Chance
-- 🆕 **[Marlow](https://www.secondechance.org/animal/chat-europeen-marlow-1518381)** — 3 mois · ♂ mâle · EUROPÉEN
+- **[Marlow](https://www.secondechance.org/animal/chat-europeen-marlow-1518381)** — 3 mois · ♂ mâle · EUROPÉEN
   📍 PAChats 77 · Lieusaint (77)
   🗓 mis en ligne le 21/09/2026 · Seconde Chance
+
+### 👨‍👩‍👧‍👦 Portée de 3 chatons · Syndi'Cat · 3 mois · portée probable
+- **[Lua](https://www.secondechance.org/animal/chat-europeen-lua-1517193)** — 3 mois · ♀ femelle · EUROPÉEN
+  📍 Syndi'Cat · Pommeuse (77)
+  🗓 mis en ligne le 17/09/2026 · Seconde Chance
+- **[Oslo](https://www.secondechance.org/animal/chat-europeen-oslo-1517199)** — 3 mois · ♂ mâle · EUROPÉEN
+  📍 Syndi'Cat · Pommeuse (77)
+  🗓 mis en ligne le 17/09/2026 · Seconde Chance
+- **[Sia](https://www.secondechance.org/animal/chat-europeen-sia-1517206)** — 3 mois · ♀ femelle · EUROPÉEN
+  📍 Syndi'Cat · Pommeuse (77)
+  🗓 mis en ligne le 17/09/2026 · Seconde Chance
 
 ### 👨‍👩‍👧‍👦 Portée de 3 chatons · Association SOUKY · 3 mois
 - 🆕 **[Bandit](https://www.secondechance.org/animal/chat-europeen-bandit-1520415)** — 3 mois · ♂ mâle · EUROPÉEN
@@ -161,17 +163,6 @@
   📍 Association SOUKY · Chennevières-sur-Marne (94)
   🗓 mis en ligne le 27/09/2026 · Seconde Chance
 
-### 👨‍👩‍👧‍👦 Portée de 3 chatons · Prends moi la patte · 3 mois
-- 🆕 **[Caramel](https://www.secondechance.org/animal/chat-europeen-caramel-1518831)** — 3 mois · ♂ mâle · EUROPÉEN
-  📍 Prends moi la patte · Nogent-sur-Marne (94)
-  🗓 mis en ligne le 22/09/2026 · Seconde Chance
-- 🆕 **[Chouchoute](https://www.secondechance.org/animal/chat-europeen-chouchoute-1518834)** — 3 mois · ♀ femelle · EUROPÉEN
-  📍 Prends moi la patte · Nogent-sur-Marne (94)
-  🗓 mis en ligne le 22/09/2026 · Seconde Chance
-- 🆕 **[Bella 2](https://www.secondechance.org/animal/chat-europeen-bella-2-1518835)** — 3 mois · ♀ femelle · EUROPÉEN
-  📍 Prends moi la patte · Nogent-sur-Marne (94)
-  🗓 mis en ligne le 22/09/2026 · Seconde Chance
-
 ### 👨‍👩‍👧‍👦 Portée de 3 chatons · Sopranimaux · 3 mois
 - **[Baby et bianca](https://www.secondechance.org/animal/chat-europeen-baby-et-bianca-1518135)** — 3 mois (d'après la description) · ♂ mâle · EUROPÉEN
   📍 Sopranimaux · Paris (75)
@@ -181,10 +172,10 @@
   🗓 mis en ligne le 23/09/2026 · Seconde Chance
 
 ### 👨‍👩‍👧‍👦 Portée de 3 chatons · Les SLF - Sans Litière Fixe · 3 mois
-- 🆕 **[Bluetooth](https://www.secondechance.org/animal/chat-europeen-bluetooth-1518485)** — 3 mois (d'après la description) · ♂ mâle · EUROPÉEN
+- **[Bluetooth](https://www.secondechance.org/animal/chat-europeen-bluetooth-1518485)** — 3 mois (d'après la description) · ♂ mâle · EUROPÉEN
   📍 Les SLF - Sans Litière Fixe · Trilport (77)
   🗓 mis en ligne le 21/09/2026 · Seconde Chance
-- 🆕 **[Bee & bop](https://www.secondechance.org/animal/chat-europeen-bee-bop-1518489)** — 3 mois (d'après la description) · ♂ mâle · EUROPÉEN
+- **[Bee & bop](https://www.secondechance.org/animal/chat-europeen-bee-bop-1518489)** — 3 mois (d'après la description) · ♂ mâle · EUROPÉEN
   📍 Les SLF - Sans Litière Fixe · Trilport (77)
   🗓 mis en ligne le 21/09/2026 · Seconde Chance
 
@@ -193,18 +184,18 @@
   📍 Pause câline · Le pré saint Gervais (93)
   🗓 mis en ligne le 18/09/2026 · Seconde Chance
 
-### 👨‍👩‍👧‍👦 Portée de 2 chatons · Ani Mots Espoir · 2 mois · portée probable
-- 🆕 **[Bora](https://www.secondechance.org/animal/chat-europeen-bora-1520693)** — 2 mois · ♀ femelle · EUROPÉEN
-  📍 Ani Mots Espoir · Méru (60)
-  🗓 mis en ligne le 28/09/2026 · Seconde Chance
-- 🆕 **[Barnabé](https://www.secondechance.org/animal/chat-europeen-barnabe-1520694)** — 2 mois · ♂ mâle · EUROPÉEN
-  📍 Ani Mots Espoir · Méru (60)
-  🗓 mis en ligne le 28/09/2026 · Seconde Chance
-
 ### 👨‍👩‍👧‍👦 Portée de 2 chatons · Animaux sans toit · 2 mois
 - 🆕 **[Horus et amon en acc...](https://www.secondechance.org/animal/chat-europeen-horus-et-amon-en-accueil-chez-nathalie-1520398)** — 2 mois · ♂ mâle · EUROPÉEN
   📍 Animaux sans toit · Mogneville (60)
   🗓 mis en ligne le 27/09/2026 · Seconde Chance
+
+### 👨‍👩‍👧‍👦 Portée de 2 chatons · Adopte un Matou · 2 mois
+- 🆕 **[Kawa](https://www.secondechance.org/animal/chat-europeen-kawa-1519197)** — 2 mois · ♂ mâle · EUROPÉEN
+  📍 Adopte un Matou · Maurecourt (78) · adoptable dans le 75
+  🗓 mis en ligne le 24/09/2026 · Seconde Chance
+- 🆕 **[Brookie](https://www.secondechance.org/animal/chat-europeen-brookie-1519198)** — 2 mois · ♀ femelle · EUROPÉEN
+  📍 Adopte un Matou · Maurecourt (78)
+  🗓 mis en ligne le 24/09/2026 · Seconde Chance
 
 ### 👨‍👩‍👧‍👦 Portée de 2 chatons · Chat Chien & Cie · 2 mois · portée probable
 - 🆕 **[Pacha](https://www.secondechance.org/animal/chat-europeen-pacha-1520168)** — 2 mois · ♂ mâle · EUROPÉEN
@@ -213,6 +204,14 @@
 - 🆕 **[Tigrou](https://www.secondechance.org/animal/chat-europeen-tigrou-1520174)** — 2 mois · ♂ mâle · EUROPÉEN
   📍 Chat Chien & Cie · Saint Germain lès Corbeil (91)
   🗓 mis en ligne le 26/09/2026 · Seconde Chance
+
+### 👨‍👩‍👧‍👦 Portée de 2 chatons · Owca · 2 mois · portée probable
+- 🆕 **[Rowling](https://www.secondechance.org/animal/chat-europeen-rowling-1520784)** — 2 mois · ♀ femelle · EUROPÉEN
+  📍 Owca · Paris (75) · adoptable dans le 93
+  🗓 mis en ligne le 28/09/2026 · Seconde Chance
+- 🆕 **[Margarette](https://www.secondechance.org/animal/chat-europeen-margarette-1520788)** — 2 mois · ♀ femelle · EUROPÉEN
+  📍 Owca · Paris (75) · adoptable dans le 93
+  🗓 mis en ligne le 28/09/2026 · Seconde Chance
 
 ### 👨‍👩‍👧‍👦 Portée de 2 chatons · Owca · 2 mois · portée probable
 - 🆕 **[Zola](https://www.secondechance.org/animal/chat-europeen-zola-1519502)** — 2 mois · ♂ mâle · EUROPÉEN
@@ -231,10 +230,10 @@
   🗓 mis en ligne le 13/09/2026 · Seconde Chance
 
 ### 👨‍👩‍👧‍👦 Portée de 2 chatons · La SPA - Refuge de Gennevilliers – Grammont · né·e·s le 15/06/2026
-- 🆕 **[BLINIS](https://www.la-spa.fr/animal/blinis/)** — 3 mois (né·e le 15/06/2026) · ♂ mâle · Europeen
+- **[BLINIS](https://www.la-spa.fr/animal/blinis/)** — 3 mois (né·e le 15/06/2026) · ♂ mâle · Europeen
   📍 La SPA - Refuge de Gennevilliers – Grammont · 11 km
   🗓 mis en ligne le 21/09/2026 · La SPA
-- 🆕 **[BRIOCHE](https://www.la-spa.fr/animal/brioche/)** — 3 mois (né·e le 15/06/2026) · ♀ femelle · Europeen
+- **[BRIOCHE](https://www.la-spa.fr/animal/brioche/)** — 3 mois (né·e le 15/06/2026) · ♀ femelle · Europeen
   📍 La SPA - Refuge de Gennevilliers – Grammont · 11 km
   🗓 mis en ligne le 21/09/2026 · La SPA
 - 🆕 **[Brioche](https://www.secondechance.org/animal/chat-europeen-brioche-1518571)** — 3 mois · ♀ femelle · EUROPÉEN
@@ -243,14 +242,6 @@
 - 🆕 **[Blinis](https://www.secondechance.org/animal/chat-europeen-blinis-1518572)** — 3 mois · ♂ mâle · EUROPÉEN
   📍 Refuge SPA Grammont - Gennevilliers
   🗓 mis en ligne le 25/09/2026 · Seconde Chance
-
-### 👨‍👩‍👧‍👦 Portée de 2 chatons · REFUGE DE COMPIEGNE · 3 mois · portée probable
-- 🆕 **[Liam cab6076](https://www.secondechance.org/animal/chat-europeen-liam-cab6076-1520261)** — 3 mois · ♂ mâle · EUROPÉEN
-  📍 REFUGE DE COMPIEGNE · Compiègne (60)
-  🗓 mis en ligne le 27/09/2026 · Seconde Chance
-- 🆕 **[Ellis cab6077](https://www.secondechance.org/animal/chat-europeen-ellis-cab6077-1520262)** — 3 mois · ♂ mâle · EUROPÉEN
-  📍 REFUGE DE COMPIEGNE · Compiègne (60)
-  🗓 mis en ligne le 27/09/2026 · Seconde Chance
 
 ### 👨‍👩‍👧‍👦 Portée de 2 chatons · Animaux sans toit · 3 mois · portée probable
 - **[Yuki](https://www.secondechance.org/animal/chat-europeen-yuki-1512335)** — 3 mois · ♂ mâle · EUROPÉEN
@@ -382,27 +373,13 @@
   📍 Truffes Sans Toit · Massy (91) · adoptable dans le 92
   🗓 mis en ligne le 24/09/2026 · Seconde Chance
 
-### 👨‍👩‍👧‍👦 Portée de 2 chatons · Aminous libres · né·e·s le 30/05/2026
-- 🆕 **[Ava et baya](https://www.secondechance.org/animal/chat-europeen-ava-et-baya-1519794)** — 3 mois (né·e le 30/05/2026) · ♀ femelle · EUROPÉEN
-  📍 Aminous libres · Torcy (77)
-  🗓 mis en ligne le 25/09/2026 · Seconde Chance
-
-### Chatons seuls (51)
+### Chatons seuls (46)
 
 - **[ORPHIE CHA](https://www.la-spa.fr/animal/orphie-cha/)** — 3 mois (né·e le 25/06/2026) · ♀ femelle · Europeen
   📍 La SPA - Refuge de Chamarande · 38 km
   🗓 mis en ligne le 11/09/2026 · La SPA
-- 🆕 **[DUNDEE C](https://www.la-spa.fr/animal/dundee-c/)** — 3 mois (né·e le 30/05/2026) · ♂ mâle · Europeen
-  📍 La SPA - Refuge de Vaux-Le-Penil · Vaux-Le-Pénil (77) · 45 km
-  🗓 mis en ligne le 22/09/2026 · La SPA
-- 🆕 **[Banzai](https://www.secondechance.org/animal/chat-europeen-banzai-1520696)** — 1 mois · ♂ mâle · EUROPÉEN
-  📍 Ani Mots Espoir · Méru (60)
-  🗓 mis en ligne le 28/09/2026 · Seconde Chance
 - 🆕 **[Ava](https://www.secondechance.org/animal/chat-europeen-ava-1519381)** — 1 mois (né·e le 10/08/2026) · ♀ femelle · EUROPÉEN
   📍 Nos chats sans toit · Corbeil-Essonnes (91)
-  🗓 mis en ligne le 24/09/2026 · Seconde Chance
-- 🆕 **[Baly](https://www.secondechance.org/animal/chat-europeen-baly-1519389)** — 2 mois · ♂ mâle · EUROPÉEN
-  📍 Ani Mots Espoir · Méru (60)
   🗓 mis en ligne le 24/09/2026 · Seconde Chance
 - 🆕 **[Billie](https://www.secondechance.org/animal/chat-europeen-billie-1519130)** — 2 mois · ♀ femelle · EUROPÉEN
   📍 LJD - Les Joyeux Diablotins · Cuvilly (60)
@@ -434,9 +411,6 @@
 - 🆕 **[Mew](https://www.secondechance.org/animal/chat-europeen-mew-1516813)** — 2 mois · ♂ mâle · EUROPÉEN
   📍 Association YouCare · Levallois Perret (92)
   🗓 mis en ligne le 23/09/2026 · Seconde Chance
-- **[Bandy](https://www.secondechance.org/animal/chat-europeen-bandy-1515301)** — 2 mois · ♂ mâle · EUROPÉEN
-  📍 Les Petits Chats'Choux · Livry-gargan (93)
-  🗓 mis en ligne le 11/09/2026 · Seconde Chance
 - 🆕 **[Louni](https://www.secondechance.org/animal/chat-europeen-louni-1520224)** — 2 mois (d'après la description) · ♂ mâle · EUROPÉEN
   📍 Les petits protégés de Jo & Co · LE KREMLIN BICETRE (94) · adoptable dans le 93
   🗓 mis en ligne le 26/09/2026 · Seconde Chance
@@ -449,12 +423,12 @@
 - **[Berlioz](https://www.secondechance.org/animal/chat-europeen-berlioz-1512731)** — 2 mois (né·e le 10/07/2026) · ♂ mâle · EUROPÉEN
   📍 Hop, hop, hop on adopte ! · chatillon coligny (45) · adoptable dans le 91
   🗓 mis en ligne le 03/09/2026 · Seconde Chance
+- 🆕 **[Baly](https://www.secondechance.org/animal/chat-europeen-baly-1519389)** — 3 mois · ♂ mâle · EUROPÉEN
+  📍 Ani Mots Espoir · Méru (60)
+  🗓 mis en ligne le 24/09/2026 · Seconde Chance
 - 🆕 **[Noona](https://www.secondechance.org/animal/chat-europeen-noona-1520672)** — 3 mois · ♀ femelle · EUROPÉEN
   📍 Fondation Sky · Paris · adoptable dans le 75
   🗓 mis en ligne le 28/09/2026 · Seconde Chance
-- 🆕 **[Benny blanco](https://www.secondechance.org/animal/chat-europeen-benny-blanco-1519512)** — 3 mois · ♂ mâle · EUROPÉEN
-  📍 Adopte un Matou · Maurecourt (78) · adoptable dans le 75
-  🗓 mis en ligne le 24/09/2026 · Seconde Chance
 - **[Bulle](https://www.secondechance.org/animal/chat-europeen-bulle-1516517)** — 3 mois · ♀ femelle · EUROPÉEN
   📍 La patte de l'espoir · Paris (75)
   🗓 mis en ligne le 15/09/2026 · Seconde Chance
@@ -464,9 +438,6 @@
 - **[El chapo](https://www.secondechance.org/animal/chat-europeen-el-chapo-1501104)** — 3 mois · ♂ mâle · EUROPÉEN
   📍 Chat d'Oc · Paris (75)
   🗓 mis en ligne le 30/07/2026 · Seconde Chance
-- 🆕 **[Dundee c](https://www.secondechance.org/animal/chat-europeen-dundee-c-1518973)** — 3 mois · ♂ mâle · EUROPÉEN
-  📍 Refuge SPA de Vaux le Pénil · Vaux le Penil (77)
-  🗓 mis en ligne le 25/09/2026 · Seconde Chance
 - **[Nori](https://www.secondechance.org/animal/chat-europeen-nori-1515286)** — 3 mois · ♀ femelle · EUROPÉEN
   📍 Hop, hop, hop on adopte ! · chatillon coligny (45) · adoptable dans le 77
   🗓 mis en ligne le 11/09/2026 · Seconde Chance
@@ -509,15 +480,15 @@
 - **[Liya](https://www.secondechance.org/animal/chat-europeen-liya-1515047)** — 3 mois · ♀ femelle · EUROPÉEN
   📍 Association YouCare · Levallois Perret (92)
   🗓 mis en ligne le 10/09/2026 · Seconde Chance
+- **[Bandy](https://www.secondechance.org/animal/chat-europeen-bandy-1515301)** — 3 mois · ♂ mâle · EUROPÉEN
+  📍 Les Petits Chats'Choux · Livry-gargan (93)
+  🗓 mis en ligne le 11/09/2026 · Seconde Chance
 - **[Peggy](https://www.secondechance.org/animal/chat-europeen-peggy-1517213)** — 3 mois · ♀ femelle · EUROPÉEN
   📍 Les chats d'ici et d'ailleurs · Deuil La Barre (95)
   🗓 mis en ligne le 17/09/2026 · Seconde Chance
 - **[Tresor](https://www.secondechance.org/animal/chat-europeen-tresor-1517186)** — 3 mois · ♂ mâle · EUROPÉEN
   📍 SOS MULTICATS · soisy-sous-montmorency (95)
   🗓 mis en ligne le 17/09/2026 · Seconde Chance
-- **[Bourbon](https://www.secondechance.org/animal/chat-europeen-bourbon-1515416)** — 3 mois (né·e le 28/06/2026) · ♂ mâle · EUROPÉEN
-  📍 Association de sauvetage animalier Bamanach · Saint Christophe à Berry (02) · adoptable dans le 77
-  🗓 mis en ligne le 11/09/2026 · Seconde Chance
 - **[Guiness](https://www.secondechance.org/animal/chat-europeen-guiness-1514763)** — 3 mois (d'après la description) · ♂ mâle · EUROPÉEN
   📍 Les petits protégés de Jo & Co · LE KREMLIN BICETRE (94) · adoptable dans le 75
   🗓 mis en ligne le 09/09/2026 · Seconde Chance
@@ -543,7 +514,7 @@
   📍 Lou-Pilou · Savigny sur orge (91)
   🗓 mis en ligne le 17/09/2026 · Seconde Chance
 
-_🆕 = 86 nouveaux chatons (mis en ligne depuis 7 jours ou jamais vus)._
+_🆕 = 68 nouveaux chatons (mis en ligne depuis 7 jours ou jamais vus)._
 
 ---
-_Zone : 50 km autour de Paris 11e Arrondissement · Sources : La SPA + Seconde Chance · 71 requêtes HTTP_
+_Zone : 50 km autour de Paris 11e Arrondissement · Sources : La SPA + Seconde Chance · 66 requêtes HTTP_
