@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "derniere_execution": "2026-10-01T12:04:13.600Z",
+  "derniere_execution": "2026-10-02T11:35:30.975Z",
   "vus": {
     "laspa:239651": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
@@ -10,55 +10,55 @@
     },
     "laspa:219109": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "laspa",
       "nom": "WISA"
     },
     "laspa:242243": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "laspa",
       "nom": "LUCY"
     },
     "laspa:223043": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "laspa",
       "nom": "LIMBA C"
     },
     "laspa:242486": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "laspa",
       "nom": "KHAL PAB29265"
     },
     "laspa:238297": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "laspa",
       "nom": "ENDIVE 2"
     },
     "laspa:221477": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "laspa",
       "nom": "POIL PILE C"
     },
     "laspa:238134": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "laspa",
       "nom": "XENA"
     },
     "laspa:234601": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "laspa",
       "nom": "LIZZIE"
     },
     "laspa:223036": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "laspa",
       "nom": "MÉO C"
     },
@@ -70,19 +70,19 @@
     },
     "laspa:234587": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "laspa",
       "nom": "IRIS"
     },
     "laspa:238294": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "laspa",
       "nom": "MAROILLES"
     },
     "laspa:202440": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "laspa",
       "nom": "CANNELLE A17342"
     },
@@ -94,31 +94,31 @@
     },
     "laspa:238304": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "laspa",
       "nom": "FICELLE"
     },
     "laspa:202178": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "laspa",
       "nom": "CALINOU"
     },
     "laspa:230378": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "laspa",
       "nom": "KANKURO C"
     },
     "laspa:238306": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "laspa",
       "nom": "LIVARET"
     },
     "laspa:243575": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "laspa",
       "nom": "MERLIN PAB29994"
     },
@@ -130,19 +130,19 @@
     },
     "laspa:238314": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "laspa",
       "nom": "CARBONADE"
     },
     "laspa:196774": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "laspa",
       "nom": "ROUMAN"
     },
     "laspa:242484": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "laspa",
       "nom": "THEON PAB29266"
     },
@@ -154,25 +154,25 @@
     },
     "laspa:228884": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "laspa",
       "nom": "GROUTI"
     },
     "laspa:238303": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "laspa",
       "nom": "NAFER"
     },
     "laspa:197486": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "laspa",
       "nom": "DRACO PAB28422"
     },
     "laspa:222452": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "laspa",
       "nom": "PASTMAY"
     },
@@ -184,7 +184,7 @@
     },
     "laspa:213559": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "laspa",
       "nom": "ABI"
     },
@@ -196,43 +196,43 @@
     },
     "laspa:238305": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "laspa",
       "nom": "FLAMICHE"
     },
     "laspa:238307": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "laspa",
       "nom": "CHABICHOU"
     },
     "laspa:223046": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "laspa",
       "nom": "LINDT C"
     },
     "laspa:205936": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "laspa",
       "nom": "MALIF"
     },
     "laspa:244161": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "laspa",
       "nom": "RUSE"
     },
     "laspa:214262": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "laspa",
       "nom": "MALICE A17444"
     },
     "laspa:215313": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "laspa",
       "nom": "JUNE PAB28815"
     },
@@ -244,19 +244,19 @@
     },
     "laspa:229429": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "laspa",
       "nom": "VICTORIA A17432 (réservée)"
     },
     "laspa:213462": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "laspa",
       "nom": "ENDIVE"
     },
     "laspa:200722": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "laspa",
       "nom": "CHARLOTTE"
     },
@@ -268,25 +268,25 @@
     },
     "laspa:239807": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "laspa",
       "nom": "BLOOM PAB29240"
     },
     "laspa:210169": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "laspa",
       "nom": "KRUM C"
     },
     "laspa:239503": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "laspa",
       "nom": "FILAO CHA"
     },
     "laspa:239413": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "laspa",
       "nom": "ITCHY"
     },
@@ -298,7 +298,7 @@
     },
     "laspa:238133": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "laspa",
       "nom": "XINTHIA"
     },
@@ -322,37 +322,37 @@
     },
     "laspa:244276": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "laspa",
       "nom": "SAFRAN A17581"
     },
     "laspa:238296": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "laspa",
       "nom": "FRICADELLE"
     },
     "laspa:242946": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "laspa",
       "nom": "BLINIS"
     },
     "laspa:218145": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "laspa",
       "nom": "PROVOC CHA"
     },
     "laspa:242947": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "laspa",
       "nom": "BRIOCHE"
     },
     "laspa:213459": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "laspa",
       "nom": "SALAMI"
     },
@@ -370,49 +370,49 @@
     },
     "laspa:227387": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "laspa",
       "nom": "SEKANI PAB29072"
     },
     "laspa:211330": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "laspa",
       "nom": "TIO"
     },
     "laspa:242905": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "laspa",
       "nom": "BROOISE"
     },
     "laspa:235656": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "laspa",
       "nom": "ELLARIA PAB29049"
     },
     "laspa:223032": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "laspa",
       "nom": "VIDOCQ C"
     },
     "laspa:231017": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "laspa",
       "nom": "LEXA CHA"
     },
     "laspa:243140": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "laspa",
       "nom": "SPAM C"
     },
     "laspa:244157": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "laspa",
       "nom": "TCHOUKRAVETTE"
     },
@@ -430,7 +430,7 @@
     },
     "laspa:222719": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "laspa",
       "nom": "LIVIRA"
     },
@@ -448,7 +448,7 @@
     },
     "laspa:222453": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "laspa",
       "nom": "MESME"
     },
@@ -460,37 +460,37 @@
     },
     "laspa:238315": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "laspa",
       "nom": "BIBOU"
     },
     "laspa:243387": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "laspa",
       "nom": "CHARLOTTE C"
     },
     "laspa:196795": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "laspa",
       "nom": "MILO"
     },
     "laspa:244272": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "laspa",
       "nom": "HILDA A17435"
     },
     "laspa:242248": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "laspa",
       "nom": "MAGNI"
     },
     "laspa:195787": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "laspa",
       "nom": "PICTORETTE PAB28424"
     },
@@ -502,7 +502,7 @@
     },
     "laspa:225105": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "laspa",
       "nom": "TINA A17491"
     },
@@ -514,7 +514,7 @@
     },
     "laspa:238316": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "laspa",
       "nom": "BIRGITT"
     },
@@ -532,7 +532,7 @@
     },
     "laspa:239238": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "laspa",
       "nom": "FLAMIAOU PAB29259"
     },
@@ -544,7 +544,7 @@
     },
     "laspa:239809": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "laspa",
       "nom": "PAB29241 INOOK"
     },
@@ -556,7 +556,7 @@
     },
     "laspa:238317": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "laspa",
       "nom": "JASMINE"
     },
@@ -568,13 +568,13 @@
     },
     "laspa:215278": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "laspa",
       "nom": "ZOUK PAB28799"
     },
     "laspa:197385": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "laspa",
       "nom": "JAMES PAB28531"
     },
@@ -586,49 +586,49 @@
     },
     "laspa:223034": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "laspa",
       "nom": "URON C"
     },
     "laspa:235053": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "laspa",
       "nom": "POLO"
     },
     "laspa:238298": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "laspa",
       "nom": "CHICOREE"
     },
     "laspa:242493": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "laspa",
       "nom": "MA PRINCESSE"
     },
     "laspa:226526": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "laspa",
       "nom": "BIANCA"
     },
     "laspa:212695": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "laspa",
       "nom": "SNOW PAB28816"
     },
     "laspa:201594": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "laspa",
       "nom": "MACAO"
     },
     "laspa:242902": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "laspa",
       "nom": "TCHOUPIRATE"
     },
@@ -646,7 +646,7 @@
     },
     "laspa:223031": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "laspa",
       "nom": "BASTET C"
     },
@@ -664,13 +664,13 @@
     },
     "laspa:239500": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "laspa",
       "nom": "ORPHIE CHA"
     },
     "laspa:243145": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "laspa",
       "nom": "AVAST C"
     },
@@ -682,7 +682,7 @@
     },
     "laspa:213411": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "laspa",
       "nom": "DLOWNIE"
     },
@@ -694,67 +694,67 @@
     },
     "laspa:238291": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "laspa",
       "nom": "ROYOU"
     },
     "laspa:195003": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "laspa",
       "nom": "PONGO"
     },
     "secondechance:1519781": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Chaussette en accuei..."
     },
     "secondechance:1519771": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Réglisse en accueil ..."
     },
     "secondechance:1519766": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Milha en accueil che..."
     },
     "secondechance:1519389": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Baly"
     },
     "secondechance:1519130": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Billie"
     },
     "secondechance:1519064": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Rita"
     },
     "secondechance:1519060": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Emma"
     },
     "secondechance:1519059": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Max"
     },
     "secondechance:1517983": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Crevette en accueil ..."
     },
@@ -766,13 +766,13 @@
     },
     "secondechance:1517658": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "June en accueil chez..."
     },
     "secondechance:1517647": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Jayce en accueil che..."
     },
@@ -784,13 +784,13 @@
     },
     "secondechance:1517274": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Tainy en accueil che..."
     },
     "secondechance:1517173": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Bonny en accueil che..."
     },
@@ -802,37 +802,37 @@
     },
     "secondechance:1516842": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Eclipse en accueil c..."
     },
     "secondechance:1516664": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Perle"
     },
     "secondechance:1516509": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Batcat en accueil ch..."
     },
     "secondechance:1516013": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Face"
     },
     "secondechance:1516012": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Pile"
     },
     "secondechance:1515042": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Jojo"
     },
@@ -844,31 +844,31 @@
     },
     "secondechance:1513653": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Buzz"
     },
     "secondechance:1512729": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Jimmy"
     },
     "secondechance:1512336": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Maki"
     },
     "secondechance:1512335": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Yuki"
     },
     "secondechance:1511982": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Chaussette en accuei..."
     },
@@ -880,55 +880,55 @@
     },
     "secondechance:1508958": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Brownie"
     },
     "secondechance:1508957": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Brume"
     },
     "secondechance:1508956": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Bégonia"
     },
     "secondechance:1508955": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Bigoudi"
     },
     "secondechance:1508954": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Baya"
     },
     "secondechance:1508948": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Lux"
     },
     "secondechance:1508942": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Nox"
     },
     "secondechance:1508534": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Baloo"
     },
     "secondechance:1508533": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Derpy"
     },
@@ -940,91 +940,91 @@
     },
     "secondechance:1508209": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Flash"
     },
     "secondechance:1508195": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Stendhal"
     },
     "secondechance:1507474": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Betsy"
     },
     "secondechance:1503359": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Filou"
     },
     "secondechance:1503358": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Betty"
     },
     "secondechance:1503356": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Beauty"
     },
     "secondechance:1502534": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Bagheera"
     },
     "secondechance:1502531": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Bijou"
     },
     "secondechance:1502211": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Pitch"
     },
     "secondechance:1502210": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Kiko"
     },
     "secondechance:1502209": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Rosie"
     },
     "secondechance:1500696": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Tigrou"
     },
     "secondechance:1497272": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Pipounette"
     },
     "secondechance:1497271": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Seraphina"
     },
     "secondechance:1495125": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Kelli"
     },
@@ -1036,37 +1036,37 @@
     },
     "secondechance:1488673": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Sichuan"
     },
     "secondechance:1488205": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Pepper"
     },
     "secondechance:1487891": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Moustik"
     },
     "secondechance:1487888": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Nala"
     },
     "secondechance:1487881": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Luna"
     },
     "secondechance:1484691": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Bb"
     },
@@ -1096,79 +1096,79 @@
     },
     "secondechance:1519230": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Bulle"
     },
     "secondechance:1519197": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Kawa"
     },
     "secondechance:1518889": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Baloo et bianca"
     },
     "secondechance:1518696": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Baya"
     },
     "secondechance:1518223": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Filonna et piston"
     },
     "secondechance:1518211": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Chatonne écaille (et..."
     },
     "secondechance:1518135": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Baby et bianca"
     },
     "secondechance:1518133": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Algo"
     },
     "secondechance:1518116": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Sirius"
     },
     "secondechance:1518113": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Jane"
     },
     "secondechance:1518082": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Chaton noir (et sa s..."
     },
     "secondechance:1517819": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Mira"
     },
     "secondechance:1517621": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Dulce et madalena"
     },
@@ -1186,43 +1186,43 @@
     },
     "secondechance:1516867": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Gilmore"
     },
     "secondechance:1516676": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Perle"
     },
     "secondechance:1516517": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Bulle"
     },
     "secondechance:1515640": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Mayssa et ranine"
     },
     "secondechance:1515346": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Brigitte"
     },
     "secondechance:1515284": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Truffo"
     },
     "secondechance:1514763": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Guiness"
     },
@@ -1240,19 +1240,19 @@
     },
     "secondechance:1512814": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Yondua et gohanna"
     },
     "secondechance:1512811": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Kusmi, dumbo et gala..."
     },
     "secondechance:1512734": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Bigoti"
     },
@@ -1270,55 +1270,55 @@
     },
     "secondechance:1511175": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Biscuit"
     },
     "secondechance:1508891": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Chimamanda"
     },
     "secondechance:1508886": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Silex"
     },
     "secondechance:1507539": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Aurora"
     },
     "secondechance:1505807": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Tchouchou adoptable ..."
     },
     "secondechance:1505802": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Hockney à adopter en..."
     },
     "secondechance:1505796": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Chirico à adopter en..."
     },
     "secondechance:1504130": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Lea"
     },
     "secondechance:1504017": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Bonbon"
     },
@@ -1336,25 +1336,25 @@
     },
     "secondechance:1501104": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "El chapo"
     },
     "secondechance:1501071": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Junko"
     },
     "secondechance:1501069": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Bobby"
     },
     "secondechance:1499403": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Fisher et jace"
     },
@@ -1378,7 +1378,7 @@
     },
     "secondechance:1495130": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Dean et gareth"
     },
@@ -1396,7 +1396,7 @@
     },
     "secondechance:1490522": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Gavroche"
     },
@@ -1408,13 +1408,13 @@
     },
     "secondechance:1519794": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Ava et baya"
     },
     "secondechance:1519407": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Bjorg de roissy"
     },
@@ -1426,7 +1426,7 @@
     },
     "secondechance:1518975": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Avast c"
     },
@@ -1462,109 +1462,109 @@
     },
     "secondechance:1518794": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Belenos"
     },
     "secondechance:1518792": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Bingo"
     },
     "secondechance:1518790": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Bambou"
     },
     "secondechance:1518788": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Bibou"
     },
     "secondechance:1518489": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Bee & bop"
     },
     "secondechance:1518485": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Bluetooth"
     },
     "secondechance:1518381": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Marlow"
     },
     "secondechance:1518380": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Maohi"
     },
     "secondechance:1518379": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Minotte"
     },
     "secondechance:1518378": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Orion"
     },
     "secondechance:1518376": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Tiaré"
     },
     "secondechance:1518375": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Brisko"
     },
     "secondechance:1518372": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Orius"
     },
     "secondechance:1518368": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Akimi"
     },
     "secondechance:1517670": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Platon"
     },
     "secondechance:1517666": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Addicie et héméra"
     },
     "secondechance:1517640": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Brune"
     },
     "secondechance:1517633": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Bretzel"
     },
@@ -1576,43 +1576,43 @@
     },
     "secondechance:1517212": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Vitani"
     },
     "secondechance:1517208": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Vaiana"
     },
     "secondechance:1517207": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Tami"
     },
     "secondechance:1517206": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Sia"
     },
     "secondechance:1517205": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Scar"
     },
     "secondechance:1517199": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Oslo"
     },
     "secondechance:1517193": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Lua"
     },
@@ -1624,25 +1624,25 @@
     },
     "secondechance:1517189": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Jasmine"
     },
     "secondechance:1517187": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Chance"
     },
     "secondechance:1516847": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Falgus"
     },
     "secondechance:1516846": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Makus"
     },
@@ -1654,31 +1654,31 @@
     },
     "secondechance:1516792": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Bigoudis"
     },
     "secondechance:1516791": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Belle"
     },
     "secondechance:1516306": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Pépito"
     },
     "secondechance:1515744": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Zuko"
     },
     "secondechance:1515742": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Falco"
     },
@@ -1702,25 +1702,25 @@
     },
     "secondechance:1515286": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Nori"
     },
     "secondechance:1515261": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Bloom"
     },
     "secondechance:1515072": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Biscuit et biscotte"
     },
     "secondechance:1514519": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Bowy"
     },
@@ -1738,7 +1738,7 @@
     },
     "secondechance:1514269": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Newt"
     },
@@ -1750,25 +1750,25 @@
     },
     "secondechance:1511450": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Star"
     },
     "secondechance:1511169": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Diego"
     },
     "secondechance:1510327": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Bulle, buffy et bets..."
     },
     "secondechance:1509463": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Mousse"
     },
@@ -1792,13 +1792,13 @@
     },
     "secondechance:1508187": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Lily"
     },
     "secondechance:1507907": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Bidule de goussainvi..."
     },
@@ -1816,91 +1816,91 @@
     },
     "secondechance:1506566": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Bowgli"
     },
     "secondechance:1505575": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Mango"
     },
     "secondechance:1505574": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Mojito"
     },
     "secondechance:1505573": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Rosa"
     },
     "secondechance:1505572": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Dahlia"
     },
     "secondechance:1505571": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Frida"
     },
     "secondechance:1505570": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Matcha"
     },
     "secondechance:1505569": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Moka"
     },
     "secondechance:1505568": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Mochi"
     },
     "secondechance:1505567": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Suki"
     },
     "secondechance:1505565": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Yuki"
     },
     "secondechance:1505564": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Luma"
     },
     "secondechance:1505563": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Tao"
     },
     "secondechance:1505157": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Bambou & banksia (do..."
     },
     "secondechance:1504518": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Brutus"
     },
@@ -1912,7 +1912,7 @@
     },
     "secondechance:1504510": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Wendy"
     },
@@ -1924,37 +1924,37 @@
     },
     "secondechance:1504132": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Shiva"
     },
     "secondechance:1501082": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Bonnie"
     },
     "secondechance:1500282": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Buzz"
     },
     "secondechance:1499419": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Chipie"
     },
     "secondechance:1499417": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Chivas"
     },
     "secondechance:1499415": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Mimosa"
     },
@@ -1966,19 +1966,19 @@
     },
     "secondechance:1498749": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Perle"
     },
     "secondechance:1498746": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Isis"
     },
     "secondechance:1498745": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Bijoux"
     },
@@ -1996,37 +1996,37 @@
     },
     "secondechance:1491569": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Plume"
     },
     "secondechance:1490833": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Cookies"
     },
     "secondechance:1488763": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Chaton"
     },
     "secondechance:1519555": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Safran a17581"
     },
     "secondechance:1519521": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Bebel"
     },
     "secondechance:1519198": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Brookie"
     },
@@ -2038,25 +2038,25 @@
     },
     "secondechance:1518713": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Berlioz"
     },
     "secondechance:1518698": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Rusty"
     },
     "secondechance:1518285": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Khal pab29265"
     },
     "secondechance:1518286": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Theon pab29266"
     },
@@ -2068,13 +2068,13 @@
     },
     "secondechance:1517989": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Honey et lucky"
     },
     "secondechance:1516604": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Rintintin"
     },
@@ -2086,7 +2086,7 @@
     },
     "secondechance:1515790": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Bloom pab29240"
     },
@@ -2098,85 +2098,85 @@
     },
     "secondechance:1515788": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Pab29241 inook"
     },
     "secondechance:1515425": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Bao"
     },
     "secondechance:1515424": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Buffy"
     },
     "secondechance:1515422": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Batman"
     },
     "secondechance:1515420": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Balou"
     },
     "secondechance:1515078": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Swim"
     },
     "secondechance:1515000": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Clovis et cesar"
     },
     "secondechance:1513389": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Pepsi (réservée)"
     },
     "secondechance:1513388": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Coca"
     },
     "secondechance:1512650": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Baguera (réservée)"
     },
     "secondechance:1512636": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Jane ( réservée)"
     },
     "secondechance:1512634": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Tarzan ( réservé)"
     },
     "secondechance:1509779": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Chihiro et arriety"
     },
     "secondechance:1509775": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Mononoke et kanto"
     },
@@ -2188,13 +2188,13 @@
     },
     "secondechance:1508150": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Blue et bobby"
     },
     "secondechance:1507946": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Jane"
     },
@@ -2206,13 +2206,13 @@
     },
     "secondechance:1505495": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Bouchon et barbouill..."
     },
     "secondechance:1503360": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Lili"
     },
@@ -2230,19 +2230,19 @@
     },
     "secondechance:1502561": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Bubble & bloom"
     },
     "secondechance:1498958": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Blacky"
     },
     "secondechance:1497236": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Béchamel"
     },
@@ -2272,13 +2272,13 @@
     },
     "secondechance:1494929": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Sookie"
     },
     "secondechance:1492543": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Bran"
     },
@@ -2290,61 +2290,61 @@
     },
     "secondechance:1488824": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Tony (réservé)"
     },
     "secondechance:1487960": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Xéna ( réservée )"
     },
     "secondechance:1519384": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Zain"
     },
     "secondechance:1519382": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Anoky"
     },
     "secondechance:1519381": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Ava"
     },
     "secondechance:1519090": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Mozart"
     },
     "secondechance:1519044": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Speculoos"
     },
     "secondechance:1518844": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Celeste"
     },
     "secondechance:1517136": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Marbella ♀️"
     },
     "secondechance:1517100": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Diesel"
     },
@@ -2356,19 +2356,19 @@
     },
     "secondechance:1515979": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Venus"
     },
     "secondechance:1515436": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Orphie cha"
     },
     "secondechance:1514531": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Salami"
     },
@@ -2386,103 +2386,103 @@
     },
     "secondechance:1514350": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Pink"
     },
     "secondechance:1514314": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Jafar"
     },
     "secondechance:1514311": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Lumière"
     },
     "secondechance:1514309": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Kira"
     },
     "secondechance:1514307": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Poca"
     },
     "secondechance:1514306": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Fleur"
     },
     "secondechance:1513989": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Bandit"
     },
     "secondechance:1513700": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Basalte"
     },
     "secondechance:1513698": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Hapy"
     },
     "secondechance:1513696": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Cléo"
     },
     "secondechance:1513695": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Athéna"
     },
     "secondechance:1513648": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Merry"
     },
     "secondechance:1513647": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Zelie"
     },
     "secondechance:1512731": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Berlioz"
     },
     "secondechance:1511990": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Figaro"
     },
     "secondechance:1511798": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Rumi"
     },
     "secondechance:1511794": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Cleo"
     },
@@ -2500,31 +2500,31 @@
     },
     "secondechance:1511608": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Sam"
     },
     "secondechance:1511470": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Frodon"
     },
     "secondechance:1511469": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Koby"
     },
     "secondechance:1511466": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Domino"
     },
     "secondechance:1511164": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Pablo"
     },
@@ -2536,13 +2536,13 @@
     },
     "secondechance:1509901": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Bagheera"
     },
     "secondechance:1509900": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Bayou"
     },
@@ -2554,25 +2554,25 @@
     },
     "secondechance:1508937": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Baggaïd"
     },
     "secondechance:1507973": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Maki"
     },
     "secondechance:1507678": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Biscuit"
     },
     "secondechance:1506981": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Brest"
     },
@@ -2584,7 +2584,7 @@
     },
     "secondechance:1506971": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Bigoudi"
     },
@@ -2596,7 +2596,7 @@
     },
     "secondechance:1506694": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Bulbiz"
     },
@@ -2608,7 +2608,7 @@
     },
     "secondechance:1505965": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Mirabelle"
     },
@@ -2620,55 +2620,55 @@
     },
     "secondechance:1501247": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Brou avelinesson"
     },
     "secondechance:1501246": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Coryle avelinesson"
     },
     "secondechance:1501245": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Akène avelinesson"
     },
     "secondechance:1501243": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Donatello aprilsson"
     },
     "secondechance:1501242": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Splinter aprilsson"
     },
     "secondechance:1501241": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Leonardo aprilsson"
     },
     "secondechance:1501202": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Nala"
     },
     "secondechance:1501193": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Bady"
     },
     "secondechance:1500685": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Bayern"
     },
@@ -2680,31 +2680,31 @@
     },
     "secondechance:1500437": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Ti loup"
     },
     "secondechance:1500432": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Fidgi"
     },
     "secondechance:1499981": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Cheeky et sora"
     },
     "secondechance:1499422": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Sunlight"
     },
     "secondechance:1497684": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Bianca ♀️ et garou ♂..."
     },
@@ -2716,13 +2716,13 @@
     },
     "secondechance:1496302": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Bulle"
     },
     "secondechance:1492405": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Bo"
     },
@@ -2752,19 +2752,19 @@
     },
     "secondechance:1483408": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Saori et shiryu"
     },
     "secondechance:1519508": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Bombay"
     },
     "secondechance:1519506": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Bogota"
     },
@@ -2776,7 +2776,7 @@
     },
     "secondechance:1519228": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Bilbao"
     },
@@ -2794,7 +2794,7 @@
     },
     "secondechance:1519214": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Ritaline"
     },
@@ -2812,7 +2812,7 @@
     },
     "secondechance:1518693": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Perle"
     },
@@ -2824,7 +2824,7 @@
     },
     "secondechance:1518572": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Blinis"
     },
@@ -2836,7 +2836,7 @@
     },
     "secondechance:1518571": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Brioche"
     },
@@ -2854,19 +2854,19 @@
     },
     "secondechance:1517623": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Fernandito e tinito"
     },
     "secondechance:1516859": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Martha"
     },
     "secondechance:1516828": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Topping"
     },
@@ -2908,7 +2908,7 @@
     },
     "secondechance:1514559": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Endive 2"
     },
@@ -2920,13 +2920,13 @@
     },
     "secondechance:1514561": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Maroilles"
     },
     "secondechance:1514558": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Chicoree"
     },
@@ -2938,7 +2938,7 @@
     },
     "secondechance:1514555": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Nafer"
     },
@@ -2950,7 +2950,7 @@
     },
     "secondechance:1514552": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Livaret"
     },
@@ -2962,43 +2962,43 @@
     },
     "secondechance:1514551": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Chabichou"
     },
     "secondechance:1514548": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Birgitt"
     },
     "secondechance:1514549": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Bibou"
     },
     "secondechance:1514547": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Jasmine"
     },
     "secondechance:1514355": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Green"
     },
     "secondechance:1512726": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Grizzly"
     },
     "secondechance:1510086": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Isseki"
     },
@@ -3010,7 +3010,7 @@
     },
     "secondechance:1509704": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Brocoli - bikini et ..."
     },
@@ -3022,13 +3022,13 @@
     },
     "secondechance:1507876": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Rodeo"
     },
     "secondechance:1500716": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Stinson et mosby"
     },
@@ -3046,61 +3046,61 @@
     },
     "secondechance:1491060": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Stitch"
     },
     "secondechance:1488193": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Pitchou"
     },
     "secondechance:1486518": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Babybelle"
     },
     "secondechance:1519503": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Espion"
     },
     "secondechance:1519502": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Zola"
     },
     "secondechance:1518118": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Bianca"
     },
     "secondechance:1517993": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Star"
     },
     "secondechance:1517516": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Jeannot"
     },
     "secondechance:1517475": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Tsuki et caféine"
     },
     "secondechance:1516644": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Bolide"
     },
@@ -3112,37 +3112,37 @@
     },
     "secondechance:1515302": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Bikini et birdy"
     },
     "secondechance:1515301": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Bandy"
     },
     "secondechance:1514270": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Tabby"
     },
     "secondechance:1511140": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Pablo et pepita"
     },
     "secondechance:1504986": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Boston"
     },
     "secondechance:1504985": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Bronx"
     },
@@ -3154,7 +3154,7 @@
     },
     "secondechance:1503619": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Marguerite"
     },
@@ -3166,43 +3166,43 @@
     },
     "secondechance:1503101": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Sinatra"
     },
     "secondechance:1502844": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Romarin et basil"
     },
     "secondechance:1500423": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Sky"
     },
     "secondechance:1500422": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Simba"
     },
     "secondechance:1500421": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Ruby"
     },
     "secondechance:1500420": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Lila"
     },
     "secondechance:1500109": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Loki"
     },
@@ -3214,25 +3214,25 @@
     },
     "secondechance:1496360": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Thor"
     },
     "secondechance:1496232": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Groot"
     },
     "secondechance:1496004": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Roquette"
     },
     "secondechance:1494884": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Figaro et gédéon"
     },
@@ -3250,13 +3250,13 @@
     },
     "secondechance:1490700": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "✨️ nox ✨️ 🐱"
     },
     "secondechance:1519226": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Elfy"
     },
@@ -3280,37 +3280,37 @@
     },
     "secondechance:1517661": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Bolide"
     },
     "secondechance:1517660": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Bob"
     },
     "secondechance:1517190": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Diego"
     },
     "secondechance:1516868": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Cadanse"
     },
     "secondechance:1515895": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Moki"
     },
     "secondechance:1514343": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Emma"
     },
@@ -3334,55 +3334,55 @@
     },
     "secondechance:1513954": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Bianca"
     },
     "secondechance:1513953": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Bono"
     },
     "secondechance:1513949": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Becca"
     },
     "secondechance:1513187": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Bianca"
     },
     "secondechance:1511460": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Bao"
     },
     "secondechance:1510844": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Piano"
     },
     "secondechance:1510833": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Nuage"
     },
     "secondechance:1509468": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Pisolo"
     },
     "secondechance:1508888": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Sartre"
     },
@@ -3400,13 +3400,13 @@
     },
     "secondechance:1506669": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Bianca"
     },
     "secondechance:1506668": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Bernard"
     },
@@ -3448,43 +3448,43 @@
     },
     "secondechance:1497656": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Sarah connor"
     },
     "secondechance:1496326": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Jim"
     },
     "secondechance:1496324": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Jules"
     },
     "secondechance:1496323": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Bulle"
     },
     "secondechance:1496321": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Bluey"
     },
     "secondechance:1496319": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Babette"
     },
     "secondechance:1495590": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Sarabi"
     },
@@ -3496,13 +3496,13 @@
     },
     "secondechance:1495587": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Bikini&mucho"
     },
     "secondechance:1495585": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Patches"
     },
@@ -3520,31 +3520,31 @@
     },
     "secondechance:1450308": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Noiro"
     },
     "secondechance:1248218": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Balou"
     },
     "secondechance:1079162": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Basile"
     },
     "secondechance:1518770": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Kayra"
     },
     "secondechance:1518348": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Bubble"
     },
@@ -3568,13 +3568,13 @@
     },
     "secondechance:1517673": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Plume"
     },
     "secondechance:1517213": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Peggy"
     },
@@ -3586,7 +3586,7 @@
     },
     "secondechance:1517186": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Tresor"
     },
@@ -3598,7 +3598,7 @@
     },
     "secondechance:1516646": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Diva"
     },
@@ -3610,19 +3610,19 @@
     },
     "secondechance:1515926": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Oli"
     },
     "secondechance:1515772": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Domino"
     },
     "secondechance:1514853": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Piggie"
     },
@@ -3634,7 +3634,7 @@
     },
     "secondechance:1514760": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Bucheron"
     },
@@ -3646,61 +3646,61 @@
     },
     "secondechance:1514337": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Licorne"
     },
     "secondechance:1513077": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Anita"
     },
     "secondechance:1513072": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Kodak & flash"
     },
     "secondechance:1512765": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Gumble"
     },
     "secondechance:1511795": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Isis"
     },
     "secondechance:1510175": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Mouwnny"
     },
     "secondechance:1510173": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Shoopi"
     },
     "secondechance:1510170": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Opale"
     },
     "secondechance:1510097": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Rinjani 3 mois à soc..."
     },
     "secondechance:1508337": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Boston"
     },
@@ -3712,13 +3712,13 @@
     },
     "secondechance:1506299": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Laki"
     },
     "secondechance:1506251": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Tracassin"
     },
@@ -3730,19 +3730,19 @@
     },
     "secondechance:1499749": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Andouillette"
     },
     "secondechance:1499748": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Picanha"
     },
     "secondechance:1499402": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Caliban et azriel"
     },
@@ -3754,55 +3754,55 @@
     },
     "secondechance:1496241": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Bonnie"
     },
     "secondechance:1494202": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Kanto et arriety"
     },
     "secondechance:1494201": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Mononoke, et chihiro"
     },
     "secondechance:1494198": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Uno"
     },
     "secondechance:1492396": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Buzz"
     },
     "secondechance:1491163": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Bulmo"
     },
     "secondechance:1491162": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Bao"
     },
     "secondechance:1491156": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Sakura"
     },
     "secondechance:1481582": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Juliet"
     },
@@ -3850,7 +3850,7 @@
     },
     "laspa:244650": {
       "premiere_vue": "2026-09-26T10:30:56.801Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "laspa",
       "nom": "PIRATE PAB29253"
     },
@@ -3868,13 +3868,13 @@
     },
     "laspa:244568": {
       "premiere_vue": "2026-09-26T10:30:56.801Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "laspa",
       "nom": "CHAUSSETTE PAB29252"
     },
     "laspa:244866": {
       "premiere_vue": "2026-09-26T10:30:56.801Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "laspa",
       "nom": "BANKOLE"
     },
@@ -3886,13 +3886,13 @@
     },
     "secondechance:1519890": {
       "premiere_vue": "2026-09-26T10:30:56.801Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Bulle d'eau"
     },
     "secondechance:1519874": {
       "premiere_vue": "2026-09-26T10:30:56.801Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Bergamote"
     },
@@ -3922,55 +3922,55 @@
     },
     "secondechance:1519823": {
       "premiere_vue": "2026-09-26T10:30:56.801Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Bloom"
     },
     "secondechance:1519914": {
       "premiere_vue": "2026-09-26T10:30:56.801Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Tigroot"
     },
     "secondechance:1519831": {
       "premiere_vue": "2026-09-26T10:30:56.801Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Pupuce ♂️"
     },
     "secondechance:1519809": {
       "premiere_vue": "2026-09-26T10:30:56.801Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Moustique ♂️"
     },
     "secondechance:1520138": {
       "premiere_vue": "2026-09-26T10:30:56.801Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Tinou"
     },
     "secondechance:1520145": {
       "premiere_vue": "2026-09-26T10:30:56.801Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Dorie"
     },
     "secondechance:1520134": {
       "premiere_vue": "2026-09-26T10:30:56.801Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Denver"
     },
     "secondechance:1520128": {
       "premiere_vue": "2026-09-26T10:30:56.801Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Odin"
     },
     "secondechance:1520121": {
       "premiere_vue": "2026-09-26T10:30:56.801Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Balto"
     },
@@ -3982,13 +3982,13 @@
     },
     "secondechance:1520116": {
       "premiere_vue": "2026-09-26T10:30:56.801Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Bleiz et gurvan"
     },
     "secondechance:1520115": {
       "premiere_vue": "2026-09-26T10:30:56.801Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Erell, ildut et ster..."
     },
@@ -4000,19 +4000,19 @@
     },
     "secondechance:1520398": {
       "premiere_vue": "2026-09-27T11:02:32.694Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Horus et amon en acc..."
     },
     "secondechance:1520262": {
       "premiere_vue": "2026-09-27T11:02:32.694Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Ellis cab6077"
     },
     "secondechance:1520261": {
       "premiere_vue": "2026-09-27T11:02:32.694Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Liam cab6076"
     },
@@ -4024,7 +4024,7 @@
     },
     "secondechance:1520257": {
       "premiere_vue": "2026-09-27T11:02:32.694Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Salem cab6099"
     },
@@ -4054,61 +4054,61 @@
     },
     "secondechance:1520201": {
       "premiere_vue": "2026-09-27T11:02:32.694Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Lilo"
     },
     "secondechance:1520198": {
       "premiere_vue": "2026-09-27T11:02:32.694Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Stitch"
     },
     "secondechance:1520186": {
       "premiere_vue": "2026-09-27T11:02:32.694Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Ulysse"
     },
     "secondechance:1520185": {
       "premiere_vue": "2026-09-27T11:02:32.694Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Echo"
     },
     "secondechance:1520165": {
       "premiere_vue": "2026-09-27T11:02:32.694Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Bingo"
     },
     "secondechance:1520162": {
       "premiere_vue": "2026-09-27T11:02:32.694Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Leonard"
     },
     "secondechance:1520240": {
       "premiere_vue": "2026-09-27T11:02:32.694Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Butterfly"
     },
     "secondechance:1520152": {
       "premiere_vue": "2026-09-27T11:02:32.694Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Grey"
     },
     "secondechance:1520174": {
       "premiere_vue": "2026-09-27T11:02:32.694Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Tigrou"
     },
     "secondechance:1520168": {
       "premiere_vue": "2026-09-27T11:02:32.694Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Pacha"
     },
@@ -4120,97 +4120,97 @@
     },
     "secondechance:1520242": {
       "premiere_vue": "2026-09-27T11:02:32.694Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Jade"
     },
     "secondechance:1520224": {
       "premiere_vue": "2026-09-27T11:02:32.694Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Louni"
     },
     "secondechance:1520421": {
       "premiere_vue": "2026-09-27T11:02:32.694Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Bolt"
     },
     "secondechance:1520418": {
       "premiere_vue": "2026-09-27T11:02:32.694Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Buzz"
     },
     "secondechance:1520415": {
       "premiere_vue": "2026-09-27T11:02:32.694Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Bandit"
     },
     "secondechance:1520243": {
       "premiere_vue": "2026-09-27T11:02:32.694Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Reglisse"
     },
     "laspa:245593": {
       "premiere_vue": "2026-09-28T12:22:37.533Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "laspa",
       "nom": "HILLEL PAB29171"
     },
     "secondechance:1520696": {
       "premiere_vue": "2026-09-28T12:22:37.533Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Banzai"
     },
     "secondechance:1520694": {
       "premiere_vue": "2026-09-28T12:22:37.533Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Barnabé"
     },
     "secondechance:1520693": {
       "premiere_vue": "2026-09-28T12:22:37.533Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Bora"
     },
     "secondechance:1520672": {
       "premiere_vue": "2026-09-28T12:22:37.533Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Noona"
     },
     "secondechance:1520671": {
       "premiere_vue": "2026-09-28T12:22:37.533Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Romeo"
     },
     "secondechance:1520452": {
       "premiere_vue": "2026-09-28T12:22:37.533Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Bulle"
     },
     "secondechance:1515392": {
       "premiere_vue": "2026-09-28T12:22:37.533Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Baloo"
     },
     "secondechance:1520695": {
       "premiere_vue": "2026-09-28T12:22:37.533Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Ben"
     },
     "secondechance:1520107": {
       "premiere_vue": "2026-09-28T12:22:37.533Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Betty"
     },
@@ -4276,55 +4276,55 @@
     },
     "secondechance:1520510": {
       "premiere_vue": "2026-09-28T12:22:37.533Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Bikeuse"
     },
     "secondechance:1521010": {
       "premiere_vue": "2026-09-29T11:48:52.767Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Olaf en accueil chez..."
     },
     "secondechance:1520978": {
       "premiere_vue": "2026-09-29T11:48:52.767Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Boomer"
     },
     "secondechance:1520956": {
       "premiere_vue": "2026-09-29T11:48:52.767Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Hippy"
     },
     "secondechance:1520951": {
       "premiere_vue": "2026-09-29T11:48:52.767Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Inaya"
     },
     "secondechance:1520948": {
       "premiere_vue": "2026-09-29T11:48:52.767Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Yuko"
     },
     "secondechance:1520943": {
       "premiere_vue": "2026-09-29T11:48:52.767Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Mira"
     },
     "secondechance:1520780": {
       "premiere_vue": "2026-09-29T11:48:52.767Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Mercredi"
     },
     "secondechance:1520779": {
       "premiere_vue": "2026-09-29T11:48:52.767Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Croquemou"
     },
@@ -4354,55 +4354,55 @@
     },
     "secondechance:1520714": {
       "premiere_vue": "2026-09-29T11:48:52.767Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Gandalf"
     },
     "secondechance:1520788": {
       "premiere_vue": "2026-09-29T11:48:52.767Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Margarette"
     },
     "secondechance:1520784": {
       "premiere_vue": "2026-09-29T11:48:52.767Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Rowling"
     },
     "laspa:246206": {
       "premiere_vue": "2026-09-30T11:35:27.960Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "laspa",
       "nom": "FANTCHA"
     },
     "laspa:246217": {
       "premiere_vue": "2026-09-30T11:35:27.960Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "laspa",
       "nom": "MOUSSE PAB28900"
     },
     "laspa:246215": {
       "premiere_vue": "2026-09-30T11:35:27.960Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "laspa",
       "nom": "MIETTE ( DUO avec LOUKOUM)PAB29051"
     },
     "laspa:246082": {
       "premiere_vue": "2026-09-30T11:35:27.960Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "laspa",
       "nom": "ADORABLE"
     },
     "laspa:246080": {
       "premiere_vue": "2026-09-30T11:35:27.960Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "laspa",
       "nom": "CRAQUANT"
     },
     "laspa:246039": {
       "premiere_vue": "2026-09-30T11:35:27.960Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "laspa",
       "nom": "FLECHNER"
     },
@@ -4414,25 +4414,25 @@
     },
     "laspa:246038": {
       "premiere_vue": "2026-09-30T11:35:27.960Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "laspa",
       "nom": "KINOTO"
     },
     "laspa:246078": {
       "premiere_vue": "2026-09-30T11:35:27.960Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "laspa",
       "nom": "CHARMANT"
     },
     "laspa:246037": {
       "premiere_vue": "2026-09-30T11:35:27.960Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "laspa",
       "nom": "BAMBOU"
     },
     "laspa:246085": {
       "premiere_vue": "2026-09-30T11:35:27.960Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "laspa",
       "nom": "JOLI"
     },
@@ -4444,43 +4444,43 @@
     },
     "laspa:246216": {
       "premiere_vue": "2026-09-30T11:35:27.960Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "laspa",
       "nom": "LOUKOUM ( Duo avec MIETTE)PAB29053"
     },
     "secondechance:1521145": {
       "premiere_vue": "2026-09-30T11:35:27.960Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Grey en accueil chez..."
     },
     "secondechance:1521144": {
       "premiere_vue": "2026-09-30T11:35:27.960Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Gajil en accueil che..."
     },
     "secondechance:1521352": {
       "premiere_vue": "2026-09-30T11:35:27.960Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Boo"
     },
     "secondechance:1521349": {
       "premiere_vue": "2026-09-30T11:35:27.960Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Bob"
     },
     "secondechance:1521348": {
       "premiere_vue": "2026-09-30T11:35:27.960Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Barnabé"
     },
     "secondechance:1521347": {
       "premiere_vue": "2026-09-30T11:35:27.960Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Balou"
     },
@@ -4492,19 +4492,19 @@
     },
     "secondechance:1521160": {
       "premiere_vue": "2026-09-30T11:35:27.960Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Luna"
     },
     "secondechance:1521159": {
       "premiere_vue": "2026-09-30T11:35:27.960Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Jack"
     },
     "secondechance:1521158": {
       "premiere_vue": "2026-09-30T11:35:27.960Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Jo"
     },
@@ -4516,127 +4516,127 @@
     },
     "secondechance:1521198": {
       "premiere_vue": "2026-09-30T11:35:27.960Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Flechner"
     },
     "secondechance:1521199": {
       "premiere_vue": "2026-09-30T11:35:27.960Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Kinoto"
     },
     "secondechance:1521200": {
       "premiere_vue": "2026-09-30T11:35:27.960Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Bambou"
     },
     "secondechance:1521177": {
       "premiere_vue": "2026-09-30T11:35:27.960Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Charmant"
     },
     "secondechance:1521175": {
       "premiere_vue": "2026-09-30T11:35:27.960Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Craquant"
     },
     "secondechance:1521173": {
       "premiere_vue": "2026-09-30T11:35:27.960Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Adorable"
     },
     "secondechance:1521170": {
       "premiere_vue": "2026-09-30T11:35:27.960Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Joli"
     },
     "secondechance:1521033": {
       "premiere_vue": "2026-09-30T11:35:27.960Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Bella 2"
     },
     "secondechance:1521031": {
       "premiere_vue": "2026-09-30T11:35:27.960Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Chouchoute"
     },
     "secondechance:1521030": {
       "premiere_vue": "2026-09-30T11:35:27.960Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Caramel"
     },
     "laspa:246328": {
       "premiere_vue": "2026-10-01T12:04:13.600Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "laspa",
       "nom": "CAPUCINE"
     },
     "laspa:246431": {
       "premiere_vue": "2026-10-01T12:04:13.600Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "laspa",
       "nom": "GRANY PAB30028"
     },
     "laspa:246419": {
       "premiere_vue": "2026-10-01T12:04:13.600Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "laspa",
       "nom": "DIANA CHA"
     },
     "laspa:246296": {
       "premiere_vue": "2026-10-01T12:04:13.600Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "laspa",
       "nom": "SUE"
     },
     "laspa:246425": {
       "premiere_vue": "2026-10-01T12:04:13.600Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "laspa",
       "nom": "SIXTIEEN CHA"
     },
     "laspa:246325": {
       "premiere_vue": "2026-10-01T12:04:13.600Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "laspa",
       "nom": "NOUGATINE"
     },
     "laspa:246312": {
       "premiere_vue": "2026-10-01T12:04:13.600Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "laspa",
       "nom": "ONDINE"
     },
     "laspa:246291": {
       "premiere_vue": "2026-10-01T12:04:13.600Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "laspa",
       "nom": "BAMBINE"
     },
     "laspa:246293": {
       "premiere_vue": "2026-10-01T12:04:13.600Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "laspa",
       "nom": "ALONZO"
     },
     "laspa:246302": {
       "premiere_vue": "2026-10-01T12:04:13.600Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "laspa",
       "nom": "PILOULINE"
     },
     "laspa:246313": {
       "premiere_vue": "2026-10-01T12:04:13.600Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "laspa",
       "nom": "CLEMENTINE"
     },
@@ -4648,37 +4648,37 @@
     },
     "laspa:246526": {
       "premiere_vue": "2026-10-01T12:04:13.600Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "laspa",
       "nom": "OSIRIS CHA"
     },
     "secondechance:1521396": {
       "premiere_vue": "2026-10-01T12:04:13.600Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Misty"
     },
     "secondechance:1521394": {
       "premiere_vue": "2026-10-01T12:04:13.600Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Mochi"
     },
     "secondechance:1521393": {
       "premiere_vue": "2026-10-01T12:04:13.600Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Mowgli"
     },
     "secondechance:1521390": {
       "premiere_vue": "2026-10-01T12:04:13.600Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Nox"
     },
     "secondechance:1521389": {
       "premiere_vue": "2026-10-01T12:04:13.600Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Oslo"
     },
@@ -4690,135 +4690,237 @@
     },
     "secondechance:1521397": {
       "premiere_vue": "2026-10-01T12:04:13.600Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Buzz"
     },
     "secondechance:1521392": {
       "premiere_vue": "2026-10-01T12:04:13.600Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Cesar"
     },
     "secondechance:1509459": {
       "premiere_vue": "2026-10-01T12:04:13.600Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Sushi"
     },
     "secondechance:1521545": {
       "premiere_vue": "2026-10-01T12:04:13.600Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Loukoum ( duo avec m..."
     },
     "secondechance:1521546": {
       "premiere_vue": "2026-10-01T12:04:13.600Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Miette ( duo avec lo..."
     },
     "secondechance:1521404": {
       "premiere_vue": "2026-10-01T12:04:13.600Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Beckett"
     },
     "secondechance:1521417": {
       "premiere_vue": "2026-10-01T12:04:13.600Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Tara"
     },
     "secondechance:1521416": {
       "premiere_vue": "2026-10-01T12:04:13.600Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Zoé (petite)"
     },
     "secondechance:1474020": {
       "premiere_vue": "2026-10-01T12:04:13.600Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Ken"
     },
     "secondechance:1521552": {
       "premiere_vue": "2026-10-01T12:04:13.600Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Fantcha"
     },
     "secondechance:1521515": {
       "premiere_vue": "2026-10-01T12:04:13.600Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Bambine"
     },
     "secondechance:1521513": {
       "premiere_vue": "2026-10-01T12:04:13.600Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Alonzo"
     },
     "secondechance:1521511": {
       "premiere_vue": "2026-10-01T12:04:13.600Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Sue"
     },
     "secondechance:1521509": {
       "premiere_vue": "2026-10-01T12:04:13.600Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Pilouline"
     },
     "secondechance:1521502": {
       "premiere_vue": "2026-10-01T12:04:13.600Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Clementine"
     },
     "secondechance:1521503": {
       "premiere_vue": "2026-10-01T12:04:13.600Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Ondine"
     },
     "secondechance:1521499": {
       "premiere_vue": "2026-10-01T12:04:13.600Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Nougatine"
     },
     "secondechance:1521497": {
       "premiere_vue": "2026-10-01T12:04:13.600Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Capucine"
     },
     "secondechance:1521381": {
       "premiere_vue": "2026-10-01T12:04:13.600Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Pitrouille"
     },
     "secondechance:1521377": {
       "premiere_vue": "2026-10-01T12:04:13.600Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Nala"
     },
     "secondechance:1521374": {
       "premiere_vue": "2026-10-01T12:04:13.600Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Boston"
     },
     "secondechance:1521372": {
       "premiere_vue": "2026-10-01T12:04:13.600Z",
-      "derniere_vue": "2026-10-01T12:04:13.600Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
       "source": "secondechance",
       "nom": "Bella"
+    },
+    "laspa:246686": {
+      "premiere_vue": "2026-10-02T11:35:30.975Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
+      "source": "laspa",
+      "nom": "CACAO A17475"
+    },
+    "laspa:247156": {
+      "premiere_vue": "2026-10-02T11:35:30.975Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
+      "source": "laspa",
+      "nom": "MONA"
+    },
+    "secondechance:1521744": {
+      "premiere_vue": "2026-10-02T11:35:30.975Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
+      "source": "secondechance",
+      "nom": "Minoutaure"
+    },
+    "secondechance:1521740": {
+      "premiere_vue": "2026-10-02T11:35:30.975Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
+      "source": "secondechance",
+      "nom": "Mel"
+    },
+    "secondechance:1521739": {
+      "premiere_vue": "2026-10-02T11:35:30.975Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
+      "source": "secondechance",
+      "nom": "Birdie"
+    },
+    "secondechance:1521738": {
+      "premiere_vue": "2026-10-02T11:35:30.975Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
+      "source": "secondechance",
+      "nom": "Charly"
+    },
+    "secondechance:1521717": {
+      "premiere_vue": "2026-10-02T11:35:30.975Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
+      "source": "secondechance",
+      "nom": "Pompon"
+    },
+    "secondechance:1521712": {
+      "premiere_vue": "2026-10-02T11:35:30.975Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
+      "source": "secondechance",
+      "nom": "Brume"
+    },
+    "secondechance:1521711": {
+      "premiere_vue": "2026-10-02T11:35:30.975Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
+      "source": "secondechance",
+      "nom": "Bart"
+    },
+    "secondechance:1521607": {
+      "premiere_vue": "2026-10-02T11:35:30.975Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
+      "source": "secondechance",
+      "nom": "Basil babouch et bal..."
+    },
+    "secondechance:1521685": {
+      "premiere_vue": "2026-10-02T11:35:30.975Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
+      "source": "secondechance",
+      "nom": "Winnie"
+    },
+    "secondechance:1521748": {
+      "premiere_vue": "2026-10-02T11:35:30.975Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
+      "source": "secondechance",
+      "nom": "Kyra"
+    },
+    "secondechance:1521737": {
+      "premiere_vue": "2026-10-02T11:35:30.975Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
+      "source": "secondechance",
+      "nom": "Ninja"
+    },
+    "secondechance:1521735": {
+      "premiere_vue": "2026-10-02T11:35:30.975Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
+      "source": "secondechance",
+      "nom": "Kana"
+    },
+    "secondechance:1521746": {
+      "premiere_vue": "2026-10-02T11:35:30.975Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
+      "source": "secondechance",
+      "nom": "Lulu"
+    },
+    "secondechance:1521742": {
+      "premiere_vue": "2026-10-02T11:35:30.975Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
+      "source": "secondechance",
+      "nom": "Rocket"
+    },
+    "secondechance:1521725": {
+      "premiere_vue": "2026-10-02T11:35:30.975Z",
+      "derniere_vue": "2026-10-02T11:35:30.975Z",
+      "source": "secondechance",
+      "nom": "Abasi et nedjem"
     }
   },
   "fiches": {
@@ -15050,6 +15152,332 @@
         "departement": "75"
       },
       "mise_en_cache": "2026-10-01T12:04:13.600Z"
+    },
+    "laspa:246686": {
+      "date_naissance": "2026-01-11",
+      "description": "Les animaux présents au refuge du Papillon sont adoptables uniquement en Guadeloupe. Pas de réservation possible depuis la France hexagonale. Une rencontre physique entre la famille et l'animal est obligatoire avant tout départ en adoption. Merci de votre compréhension.",
+      "description_complete": "Les animaux présents au refuge du Papillon sont adoptables uniquement en Guadeloupe. Pas de réservation possible depuis la France hexagonale. Une rencontre physique entre la famille et l'animal est obligatoire avant tout départ en adoption. Merci de votre compréhension.",
+      "sexe": "male",
+      "race": "Europeen",
+      "lieu": {
+        "latitude": 48.904123,
+        "longitude": 1.937452,
+        "adresse": "1 Route Royale, 78630 Orgeval"
+      },
+      "mise_en_cache": "2026-10-02T11:35:30.975Z"
+    },
+    "laspa:247156": {
+      "date_naissance": "2026-06-01",
+      "description": "Mona revient de famille relais.\nMona est une minette timide qui recherche des adoptants doux et patients qui lui laisseront le temps d'évoluer à son rythme.\nElle devra vivre en appartement sans sortie extérieure et sans jeunes enfants. La présence d'un premier chat vacciné, identifié et stérilisé est obligatoire pour son bon développement.\nVenez vite la rencontrer!",
+      "description_complete": "Mona revient de famille relais.\nMona est une minette timide qui recherche des adoptants doux et patients qui lui laisseront le temps d'évoluer à son rythme.\nElle devra vivre en appartement sans sortie extérieure et sans jeunes enfants. La présence d'un premier chat vacciné, identifié et stérilisé est obligatoire pour son bon développement.\nVenez vite la rencontrer!",
+      "sexe": "femelle",
+      "race": "Europeen",
+      "lieu": {
+        "latitude": 48.944706567958,
+        "longitude": 2.3035848619018,
+        "adresse": "121 Av. Marcel Paul 117 119, 92230 Gennevilliers"
+      },
+      "mise_en_cache": "2026-10-02T11:35:30.975Z"
+    },
+    "secondechance:1521744": {
+      "date_naissance": null,
+      "date_maj": "2026-10-01",
+      "age_texte": "2 mois",
+      "race": "EUROPÉEN",
+      "sexe": "male",
+      "couleur": "Roux et blanc",
+      "pelage": "Courts",
+      "taille": "Petit",
+      "description": "Adoptable dans toute la France Vidéo 🩵 A RÉSERVER 🩵 ✨ MINOUTAURE ✨ Adoption possible à Orly ou au refuge situé à Champigny-la-Futelaye (27) 🏡 🔵 Mâle, sauvé de l'errance en Guadeloupe, né le 20 Juillet 2026 Un petit nom (presque) de légende pour un chat plein de vie ! 🐾 Joueur et vif, Minoutaure aime aussi ralentir le rythme pour profiter d’un bon moment au calme, bien installé auprès des humains.…",
+      "description_complete": "Adoptable dans toute la France Vidéo 🩵 A RÉSERVER 🩵 ✨ MINOUTAURE ✨ Adoption possible à Orly ou au refuge situé à Champigny-la-Futelaye (27) 🏡 🔵 Mâle, sauvé de l'errance en Guadeloupe, né le 20 Juillet 2026 Un petit nom (presque) de légende pour un chat plein de vie ! 🐾 Joueur et vif, Minoutaure aime aussi ralentir le rythme pour profiter d’un bon moment au calme, bien installé auprès des humains. Un joli mélange d’énergie et de douceur. 🤍 🐾 Ok chats 🐈 🐾 Ok jeunes enfants 👶🏽 🐾 OK Chiens 🐶 🐾 Ok appartement ou maison🏡 ⛑️ vermifugé, identifié, vacciné et certificat de bonne santé. Castration obligatoire. Pour toute demande d'adoption ou de renseignements, vous pouvez nous contacter par mail à : adoption4pattesendanger@gmail.com Ensuite vous devrez obligatoirement remplir le formulaire d’adoption transmis en réponse à votre mail, avant un 1er contact par téléphone avec Sandrine. Vous pouvez également vous rendre sur la page Facebook de l'association pour découvrir tous nos loulous en attente d’adoption, sur son site internet , sur sa page Instagram ou encore sur TikTok . 🐾 ASSOCIATION 4 PATTES EN DANGER 🐾 📝 Pour lutter contre la maltraitance animale et l'abandon. En application du décret 2022-1012 du 18 juillet 2022 relatif à la protection des animaux de compagnie contre la maltraitance animale : un certificat d’engagement et de connaissance sera mis en place selon la loi en vigueur.",
+      "association": {
+        "nom": "4 pattes en danger",
+        "url": "https://www.secondechance.org/refuge/eure/4-pattes-en-danger-3118",
+        "code_postal": "27220",
+        "ville": "Champigny la Futelaye",
+        "departement": "27"
+      },
+      "mise_en_cache": "2026-10-02T11:35:30.975Z"
+    },
+    "secondechance:1521739": {
+      "date_naissance": null,
+      "date_maj": "2026-10-01",
+      "age_texte": "3 mois",
+      "race": "EUROPÉEN",
+      "sexe": "femelle",
+      "couleur": "Tigré",
+      "pelage": "Courts",
+      "taille": "Moyen",
+      "description": "Adoptable dans toute la France 🐾 À L’ADOPTION – MOI, C’EST BIRDIE 🐾 Bonjour, moi c’est Birdie 😺 Je suis une petite minette qui aime prendre son temps pour découvrir les gens et son environnement. J’aurai besoin d’une famille calme, douce et qui saura me laisser venir à mon rythme. Mais une fois que je suis bien, j’adore les câlins… quand j’ai décidé que c’était le moment évidemment ! 😂 Parce que…",
+      "description_complete": "Adoptable dans toute la France 🐾 À L’ADOPTION – MOI, C’EST BIRDIE 🐾 Bonjour, moi c’est Birdie 😺 Je suis une petite minette qui aime prendre son temps pour découvrir les gens et son environnement. J’aurai besoin d’une famille calme, douce et qui saura me laisser venir à mon rythme. Mais une fois que je suis bien, j’adore les câlins… quand j’ai décidé que c’était le moment évidemment ! 😂 Parce que oui, j’ai aussi mon petit caractère. À 3h du matin, alors que tout le monde dort, moi je peux avoir une soudaine envie de jouer avec les pieds de mon humain. 🙈 J’aime beaucoup être en hauteur, observer ce qui se passe autour de moi et je suis très attirée par l’extérieur. Il faudra donc être particulièrement vigilant sur ce point. Et malgré mon petit côté indépendante, j’aime quand même avoir mon humain près de moi : la nuit, je dors volontiers contre lui. ❤️ J’aurai également besoin d’un copain chat avec qui partager mon quotidien. ⸻ 🏡 Mes conditions d’adoption 🐱 OK chats — adoption avec un congénère obligatoire 🐶 Entente chiens non testée 👶 OK enfants calmes et respectueux ⸻ 🩺 Mon identité 🗓 Naissance estimée : 25/06/2025 🔎 Identifiée 💉 Vaccinée Typhus / Coryza 🪱 Déparasitée 🩺 Certificat vétérinaire de bonne santé en poche ✂️ Stérilisation obligatoire à mes 6 mois ou avant - chèque de caution à prévoir. 📄 Adoption sous contrat associatif ✍️ Signature du certificat d’engagement obligatoire 📍 En famille d’accueil à Noisiel (77) 🚗 Rapatriement possible proche de Villers-Cotterêts (02) pour une adoption ⸻ 📩 Notre processus d’adoption Parce qu’une adoption est un engagement pour de nombreuses années, nous prenons le temps de nous assurer que chaque chat rejoigne la famille qui lui correspond. 📝 Formulaire d’adoption à compléter 👥 Étude du dossier par l’ensemble des membres de l’association 📹 Pré-visite du logement en visioconférence 💬 Échange autour de l’adoption et de mes besoins 💛 Si toutes les étapes sont validées, l’adoption peut alors avoir lieu. 📧 associationbamanach@gmail.com 📬 Vous pouvez également nous contacter par message privé en nous présentant votre profil et votre projet d’adoption. 🤎 Une petite minette câline, joueuse, observatrice et avec son petit caractère… il ne me manque plus qu’une famille douce et patiente avec qui partager plein de moments, et pourquoi pas quelques réveils à 3h du matin ! 🐾❤️",
+      "association": {
+        "nom": "Association de sauvetage animalier Bamanach",
+        "url": "https://www.secondechance.org/refuge/aisne/association-de-sauvetage-animalier-bamanach-2962",
+        "code_postal": "02290",
+        "ville": "Saint Christophe à Berry",
+        "departement": "02"
+      },
+      "mise_en_cache": "2026-10-02T11:35:30.975Z"
+    },
+    "secondechance:1521740": {
+      "date_naissance": null,
+      "date_maj": "2026-10-01",
+      "age_texte": "2 mois",
+      "race": "EUROPÉEN",
+      "sexe": "femelle",
+      "couleur": "Tigré blanc",
+      "pelage": "Courts",
+      "taille": "Petit",
+      "description": "Adoptable dans toute la France 🤍🤎 Mel, 2 mois, une jolie petite tigrée et blanche qui cherche sa famille pour la vie 🤎🤍 Mel est une adorable chatonne européenne tigrée et blanche de 2 mois . Encore toute petite, elle a tout à découvrir de la vie … et cherche les humains qui auront envie de partager avec elle toutes ces premières fois. 🐾 À son âge, chaque journée est une nouvelle aventure : jouer,…",
+      "description_complete": "Adoptable dans toute la France 🤍🤎 Mel, 2 mois, une jolie petite tigrée et blanche qui cherche sa famille pour la vie 🤎🤍 Mel est une adorable chatonne européenne tigrée et blanche de 2 mois . Encore toute petite, elle a tout à découvrir de la vie … et cherche les humains qui auront envie de partager avec elle toutes ces premières fois. 🐾 À son âge, chaque journée est une nouvelle aventure : jouer, explorer, grimper, observer tout ce qui bouge, découvrir les câlins… puis profiter d'une bonne sieste avant de repartir à la découverte du monde. 💞 🐱 OK chats 🐶 OK chiens Sociable avec les autres animaux, Mel pourra donc rejoindre un foyer où vivent déjà des compagnons à quatre pattes. 🏡 Elle recherche maintenant sa famille pour la vie , prête à l'accompagner dans ses apprentissages, à la voir grandir et à lui offrir jeux, présence, douceur et sécurité pour toutes les années à venir. Adopter un chaton, c'est craquer aujourd'hui pour une minuscule boule de poils, mais surtout s'engager auprès de la chatte adulte qu'elle deviendra demain . ❤️ 📍 Mel se trouve actuellement dans le 77 . ✨ Adopter Mel, c'est lui offrir toute une vie à découvrir entourée d'amour… et avoir le bonheur de la regarder grandir à vos côtés. ✨ 👉 Si vous êtes prêt à l'accueillir dans votre vie, remplissez le formulaire : https://docs.google.com/.../1wZz83CPYDjBn0FyRF0N.../viewform Pour soutenir nos missions, faire un don, devenir famille d’accueil ou être bénévole… 👉 https://",
+      "association": {
+        "nom": "Brigade de Protection Animale",
+        "url": "https://www.secondechance.org/refuge/aude/brigade-de-protection-animale-2759",
+        "code_postal": "75008",
+        "ville": "Paris",
+        "departement": "75"
+      },
+      "mise_en_cache": "2026-10-02T11:35:30.975Z"
+    },
+    "secondechance:1521738": {
+      "date_naissance": null,
+      "date_maj": "2026-10-01",
+      "age_texte": "2 mois",
+      "race": "EUROPÉEN",
+      "sexe": "male",
+      "couleur": "Noir et blanc",
+      "pelage": "Courts",
+      "taille": "Moyen",
+      "description": "Adoptable dans toute la France 🖤🤍 Charly, 2 mois, un petit bonhomme qui cherche sa famille pour la vie 🤍🖤 Charly est un adorable chaton européen noir et blanc de 2 mois . Encore tout petit, il a toute la vie à découvrir … et cherche les humains qui auront envie de partager avec lui toutes ces premières fois. 🐾 À son âge, chaque journée est une nouvelle aventure : jouer, explorer, grimper, observe…",
+      "description_complete": "Adoptable dans toute la France 🖤🤍 Charly, 2 mois, un petit bonhomme qui cherche sa famille pour la vie 🤍🖤 Charly est un adorable chaton européen noir et blanc de 2 mois . Encore tout petit, il a toute la vie à découvrir … et cherche les humains qui auront envie de partager avec lui toutes ces premières fois. 🐾 À son âge, chaque journée est une nouvelle aventure : jouer, explorer, grimper, observer tout ce qui l'entoure, découvrir les câlins… puis profiter d'une bonne sieste avant de repartir à l'assaut du monde. 💞 🐱 OK chats 🐶 OK chiens Sociable avec les autres animaux, Charly pourra donc rejoindre un foyer où vivent déjà des compagnons à quatre pattes. 🏡 Il recherche maintenant sa famille pour la vie , prête à l'accompagner dans ses apprentissages, à le voir grandir et à lui offrir jeux, présence, douceur et sécurité pour toutes les années à venir. Adopter un chaton, c'est craquer aujourd'hui pour une minuscule boule de poils, mais surtout s'engager auprès du chat adulte qu'il deviendra demain . ❤️ 📍 Charly se trouve actuellement dans le 77 . ✨ Adopter Charly, c'est lui offrir toute une vie à découvrir entouré d'amour… et avoir le bonheur de le regarder grandir à vos côtés. ✨ 👉 Si vous êtes prêt à l'accueillir dans votre vie, remplissez le formulaire : https://docs.google.com/.../1wZz83CPYDjBn0FyRF0N.../viewform Pour soutenir nos missions, faire un don, devenir famille d’accueil ou être bénévole… 👉 https://www.brigadepa.com/links #jesuisbpa #BPA #brigadedeprotectionanimale #adoption #chaton #chatons #sauvetage #protectionanimale #MaltraitanceAnimale",
+      "association": {
+        "nom": "Brigade de Protection Animale",
+        "url": "https://www.secondechance.org/refuge/aude/brigade-de-protection-animale-2759",
+        "code_postal": "75008",
+        "ville": "Paris",
+        "departement": "75"
+      },
+      "mise_en_cache": "2026-10-02T11:35:30.975Z"
+    },
+    "secondechance:1521717": {
+      "date_naissance": null,
+      "date_maj": "2026-10-01",
+      "age_texte": "5 mois",
+      "race": "EUROPÉEN",
+      "sexe": "male",
+      "couleur": "Blanc avec marque noire",
+      "pelage": "Mi-longs",
+      "taille": "Grand",
+      "description": "Pompon mâle de 5 mois Timide quand il ne connaît pas, il aura besoin d'un temps d'adaptation. Il est joueur, calme, il observe beaucoup. Sa mère a pris le refuge dans un jardin pour y mettre bas. ✅ Identifié par puce électronique ✅ Vacciné typhus/coryza ✅ Déparasité puces, vermifugé ✅ Castration à partir de 6 mois 👉 Il est visible secteur la Ferté Gaucher (77) 👉 Des frais de participation seront…",
+      "description_complete": "Pompon mâle de 5 mois Timide quand il ne connaît pas, il aura besoin d'un temps d'adaptation. Il est joueur, calme, il observe beaucoup. Sa mère a pris le refuge dans un jardin pour y mettre bas. ✅ Identifié par puce électronique ✅ Vacciné typhus/coryza ✅ Déparasité puces, vermifugé ✅ Castration à partir de 6 mois 👉 Il est visible secteur la Ferté Gaucher (77) 👉 Des frais de participation seront demandés afin de rembourser les soins effectués ci-dessus, placement sous contrat associatif avec certificat vétérinaire 👉 Certificat d'engagement et de connaissance à signer avant toute adoption 👉 Pour toute demande d'informations, n'hésitez pas à nous contacter 👉 Pour toute demande d'adoption, merci de remplir le formulaire : https://form.jotform.com/230162089193354 Retour à la recherche",
+      "association": {
+        "nom": "Les Chats Gauchers",
+        "url": "https://www.secondechance.org/refuge/seine-et-marne/les-chats-gauchers-3401",
+        "code_postal": "77320",
+        "ville": "La Ferté Gaucher",
+        "departement": "77"
+      },
+      "mise_en_cache": "2026-10-02T11:35:30.975Z"
+    },
+    "secondechance:1521712": {
+      "date_naissance": null,
+      "date_maj": "2026-10-01",
+      "age_texte": "3 mois",
+      "race": "EUROPÉEN",
+      "sexe": "femelle",
+      "couleur": "Tigré blanc",
+      "pelage": "Courts",
+      "taille": "Moyen",
+      "description": "Brume née fin juin 2026 Timide quand elle ne connaît pas, une fois en confiance, elle est joueuse, câline, douce et calme. Elle a été retrouvée avec son frère Bart (également à l'adoption) dans une benne à pneus et suite à cela elle a perdu un morceau de sa queue, maintenant cicatrisé et ne nécessitant pas de soins. ✅ Identifiée par puce électronique ✅ Vaccinée typhus/coryza ✅ Déparasitée puces,…",
+      "description_complete": "Brume née fin juin 2026 Timide quand elle ne connaît pas, une fois en confiance, elle est joueuse, câline, douce et calme. Elle a été retrouvée avec son frère Bart (également à l'adoption) dans une benne à pneus et suite à cela elle a perdu un morceau de sa queue, maintenant cicatrisé et ne nécessitant pas de soins. ✅ Identifiée par puce électronique ✅ Vaccinée typhus/coryza ✅ Déparasitée puces, vermifugée ✅ Stérilisation à partir de 6 mois 👉 Elle est visible secteur la Ferté Gaucher (77) 👉 Des frais de participation seront demandés afin de rembourser les soins effectués ci-dessus, placement sous contrat associatif avec certificat vétérinaire 👉 Certificat d'engagement et de connaissance à signer avant toute adoption 👉 Pour toute demande d'informations, n'hésitez pas à nous contacter 👉 Pour toute demande d'adoption, merci de remplir le formulaire : https://form.jotform.com/230162089193354 Retour à la recherche",
+      "association": {
+        "nom": "Les Chats Gauchers",
+        "url": "https://www.secondechance.org/refuge/seine-et-marne/les-chats-gauchers-3401",
+        "code_postal": "77320",
+        "ville": "La Ferté Gaucher",
+        "departement": "77"
+      },
+      "mise_en_cache": "2026-10-02T11:35:30.975Z"
+    },
+    "secondechance:1521711": {
+      "date_naissance": null,
+      "date_maj": "2026-10-01",
+      "age_texte": "3 mois",
+      "race": "EUROPÉEN",
+      "sexe": "male",
+      "couleur": "Tigré",
+      "pelage": "Courts",
+      "taille": "Moyen",
+      "description": "Bart, né fin juin 2026 Très curieux, avenant, aventurier. Il adore la compagnie des humains, câlin et affectueux. Il a été retrouvé avec sa soeur Brume (également à l'adoption) dans une benne à pneus. ✅ Identifié par puce électronique ✅ Vacciné typhus/coryza ✅ Déparasité puces, vermifugé ✅ Castration à partir de 6 mois 👉 Il est visible secteur la Ferté Gaucher (77) 👉 Des frais de participation se…",
+      "description_complete": "Bart, né fin juin 2026 Très curieux, avenant, aventurier. Il adore la compagnie des humains, câlin et affectueux. Il a été retrouvé avec sa soeur Brume (également à l'adoption) dans une benne à pneus. ✅ Identifié par puce électronique ✅ Vacciné typhus/coryza ✅ Déparasité puces, vermifugé ✅ Castration à partir de 6 mois 👉 Il est visible secteur la Ferté Gaucher (77) 👉 Des frais de participation seront demandés afin de rembourser les soins effectués ci-dessus, placement sous contrat associatif avec certificat vétérinaire 👉 Certificat d'engagement et de connaissance à signer avant toute adoption 👉 Pour toute demande d'informations, n'hésitez pas à nous contacter 👉 Pour toute demande d'adoption, merci de remplir le formulaire : https://form.jotform.com/230162089193354 Retour à la recherche",
+      "association": {
+        "nom": "Les Chats Gauchers",
+        "url": "https://www.secondechance.org/refuge/seine-et-marne/les-chats-gauchers-3401",
+        "code_postal": "77320",
+        "ville": "La Ferté Gaucher",
+        "departement": "77"
+      },
+      "mise_en_cache": "2026-10-02T11:35:30.975Z"
+    },
+    "secondechance:1521607": {
+      "date_naissance": null,
+      "date_maj": "2026-10-01",
+      "age_texte": "5 mois",
+      "race": "EUROPÉEN",
+      "sexe": "male",
+      "couleur": "Tigré",
+      "pelage": "Ras",
+      "taille": "Moyen",
+      "description": "**BASIL, BALOO & BABOUCH (nés en mai 2026)** ----Sud77/ La Chapelle-la-Reine---- FORMULAIRE POUR CONTACT ADOPTION : https://forms.gle/HDt56btG47YntAjo7 😍 Amoureux des tigrés, voici des bombes à adopter ! 😁 Leur maman enchaînait les portées et les chatons étaient ensuite donnés, sans suivi, au gré des demandes. Cette fois, nous avons pu intervenir ! 🙏 🐱 La maman est désormais stérilisée et identif…",
+      "description_complete": "**BASIL, BALOO & BABOUCH (nés en mai 2026)** ----Sud77/ La Chapelle-la-Reine---- FORMULAIRE POUR CONTACT ADOPTION : https://forms.gle/HDt56btG47YntAjo7 😍 Amoureux des tigrés, voici des bombes à adopter ! 😁 Leur maman enchaînait les portées et les chatons étaient ensuite donnés, sans suivi, au gré des demandes. Cette fois, nous avons pu intervenir ! 🙏 🐱 La maman est désormais stérilisée et identifiée ! Et nous cherchons à présent ces 3 jeunes petits loulous 🚨 ACTUELLEMENT A LA RUE (faute d'accueil !)🚨. 💛 BASIL – BALOO – BABOUCH 💛 🏡 Ils sont adoptables sous contrat associatif Les Amis de Mathurin. Ils seront ✅ stérilisés / ✅ identifiés / ✅ vaccinés / ✅ déparasités ! 📝 Pour toute demande d’adoption, merci de remplir UNIQUEMENT notre formulaire d’adoption. ➡️ Les demandes par commentaires ou messages privés ne seront pas traitées : https://forms.gle/HDt56btG47YntAjo7 #amoureuxdeschats#larchant#protectionanimale Retour à la recherche",
+      "association": {
+        "nom": "Amis de Mathurin",
+        "url": "https://www.secondechance.org/refuge/seine-et-marne/amis-de-mathurin-1758",
+        "code_postal": "77000",
+        "ville": "SEINE ET MARNE",
+        "departement": "77"
+      },
+      "mise_en_cache": "2026-10-02T11:35:30.975Z"
+    },
+    "secondechance:1521685": {
+      "date_naissance": null,
+      "date_maj": "2026-10-01",
+      "age_texte": "2 mois",
+      "race": "EUROPÉEN",
+      "sexe": "femelle",
+      "couleur": "Tigré blanc",
+      "pelage": "Courts",
+      "taille": "Moyen",
+      "description": "WINNIE, une petite boule d’amour à adopter ! Quand Winnie a été retrouvée, elle n’avait qu’un petit mois… Seule, blottie dans un buisson, cette minuscule chatonne avait pourtant toute la vie devant elle. Heureusement, elle a rapidement rejoint sa famille d’accueil, qui l’a choyée, dorlotée et couverte d’amour… et Winnie, de son côté, a immédiatement adopté sa famille d’accueil ! Grâce à elle, Win…",
+      "description_complete": "WINNIE, une petite boule d’amour à adopter ! Quand Winnie a été retrouvée, elle n’avait qu’un petit mois… Seule, blottie dans un buisson, cette minuscule chatonne avait pourtant toute la vie devant elle. Heureusement, elle a rapidement rejoint sa famille d’accueil, qui l’a choyée, dorlotée et couverte d’amour… et Winnie, de son côté, a immédiatement adopté sa famille d’accueil ! Grâce à elle, Winnie a pu grandir entourée de chats, apprendre leurs codes et devenir une petite minette parfaitement à l’aise avec ses congénères. Une vraie chance pour cette petite rescapée ! Aujourd’hui, Winnie est une adorable jeune chatte attachante, joueuse et câline. Elle aime partager des moments de complicité, jouer comme tous les jeunes chats et venir chercher les câlins quand l’envie lui prend. Elle est maintenant prête à écrire la suite de son histoire, dans sa famille pour la vie, celle qui saura lui offrir toute l’affection qu’elle mérite. Winnie n’attend plus que vous pour commencer son plus beau chapitre ! Winnie est identifiée, primo- vaccinée, déparasitée, vermifugée et testée négative Fiv/Felv. Sa stérilisation devra avoir lieu à ses 6 mois ( chèque de caution de 200€ à prévoir, non encaissé) Vous pouvez la rencontrer dans les Yvelines à Maurepas Vous souhaitez adopter Winnie, remplissez un formulaire en cliquant sur le lien ci-dessous et vous serez contacté rapidement par une bénévole pour un entretien téléphonique préalable avant toutes visites. https://familywanted.wixsite.com/fwanted/conditions-d-adoption Frais d'adoption 200€ Retour à la recherche",
+      "association": {
+        "nom": "Family Wanted",
+        "url": "https://www.secondechance.org/refuge/yvelines/family-wanted-3121",
+        "code_postal": "78770",
+        "ville": "Marcq",
+        "departement": "78"
+      },
+      "mise_en_cache": "2026-10-02T11:35:30.975Z"
+    },
+    "secondechance:1521748": {
+      "date_naissance": null,
+      "date_maj": "2026-10-02",
+      "age_texte": "5 mois",
+      "race": "EUROPÉEN",
+      "sexe": "femelle",
+      "couleur": "Noir et blanc",
+      "pelage": "Courts",
+      "taille": "Petit",
+      "description": "Adoptable dans toute la France Vidéo 1 Vidéo 2 🩷 A RESERVER 🩷 ✨ KYRA ✨ Adoption possible à Orly ou au refuge situé à Champigny-la-Futelaye (27) 🏡 🟣 Femelle, sauvée de l'errance en Guadeloupe, née le 1er Mai 2026 Retrouvée sur le terrain d’un hôtel en Guadeloupe, cette petite chatonne a rapidement montré à quel point elle aime la présence humaine. ❤️ Douce, câline et très proche de l’humain, Kyra…",
+      "description_complete": "Adoptable dans toute la France Vidéo 1 Vidéo 2 🩷 A RESERVER 🩷 ✨ KYRA ✨ Adoption possible à Orly ou au refuge situé à Champigny-la-Futelaye (27) 🏡 🟣 Femelle, sauvée de l'errance en Guadeloupe, née le 1er Mai 2026 Retrouvée sur le terrain d’un hôtel en Guadeloupe, cette petite chatonne a rapidement montré à quel point elle aime la présence humaine. ❤️ Douce, câline et très proche de l’humain, Kyra ne perd pas une seconde pour venir chercher un peu de tendresse : à peine assis, la voilà déjà blottie tout contre vous. 🥹 Une petite puce pleine de douceur qui attend maintenant de trouver sa famille pour la vie. 🐱💕 🐾 Ok chats 🐈 🐾 Ok jeunes enfants 👶🏽 🐾 Ok Chiens 🐶 🐾 Ok appartement avec balcon ou maison🏡 ⛑️ vermifugée, identifiée, vaccinée et certificat de bonne santé. Stérilisation obligatoire. Pour toute demande d'adoption ou de renseignements, vous pouvez nous contacter par mail à : adoption4pattesendanger@gmail.com Ensuite vous devrez obligatoirement remplir le formulaire d’adoption transmis en réponse à votre mail, avant un 1er contact par téléphone avec Sandrine. Vous pouvez également vous rendre sur la page Facebook de l'association pour découvrir tous nos loulous en attente d’adoption, sur son site internet , sur sa page Instagram ou encore sur TikTok . 🐾 ASSOCIATION 4 PATTES EN DANGER 🐾 📝 Pour lutter contre la maltraitance animale et l'abandon. En application du décret 2022-1012 du 18 juillet 2022 relatif à la protection des animaux de compagnie contre la maltraitance animale : un certificat d’engagement et de connaissance sera mis en place selon la loi en vigueur",
+      "association": {
+        "nom": "4 pattes en danger",
+        "url": "https://www.secondechance.org/refuge/eure/4-pattes-en-danger-3118",
+        "code_postal": "27220",
+        "ville": "Champigny la Futelaye",
+        "departement": "27"
+      },
+      "mise_en_cache": "2026-10-02T11:35:30.975Z"
+    },
+    "secondechance:1521737": {
+      "date_naissance": null,
+      "date_maj": "2026-10-01",
+      "age_texte": "2 mois",
+      "race": "EUROPÉEN",
+      "sexe": "femelle",
+      "couleur": "Noir et blanc",
+      "pelage": "Courts",
+      "taille": "Petit",
+      "description": "Adoptable dans toute la France 🖤🤍 Ninja, 2 mois, une petite aventurière qui cherche sa famille pour la vie 🤍🖤 Ninja est une adorable chatonne européenne noire et blanche de 2 mois . Encore toute petite, elle a tout à découvrir de la vie … et cherche les humains qui auront envie de l'accompagner dans toutes ses premières aventures. 🐾 À son âge, le monde est un immense terrain de découvertes : joue…",
+      "description_complete": "Adoptable dans toute la France 🖤🤍 Ninja, 2 mois, une petite aventurière qui cherche sa famille pour la vie 🤍🖤 Ninja est une adorable chatonne européenne noire et blanche de 2 mois . Encore toute petite, elle a tout à découvrir de la vie … et cherche les humains qui auront envie de l'accompagner dans toutes ses premières aventures. 🐾 À son âge, le monde est un immense terrain de découvertes : jouer, explorer, grimper, observer, apprendre… avant de profiter d'une bonne sieste pour recharger les batteries. 💞 🐱 OK chats 🐶 OK chiens Sociable avec les autres animaux, Ninja pourra donc rejoindre un foyer où vivent déjà des compagnons à quatre pattes. 🏡 Elle recherche maintenant sa famille pour la vie , prête à la voir grandir et à lui offrir jeux, présence, douceur et sécurité pour toutes les années à venir. Adopter un chaton, c'est craquer aujourd'hui pour une minuscule boule de poils, mais surtout s'engager auprès de la chatte adulte qu'elle deviendra demain . ❤️ 📍 Ninja se trouve actuellement dans le 92 . ✨ Adopter Ninja, c'est lui offrir toute une vie à découvrir entourée d'amour… et gagner une petite compagne qui grandira à vos côtés. ✨ 👉 Si vous êtes prêt à l'accueillir dans votre vie, remplissez le formulaire : https://docs.google.com/.../1wZz83CPYDjBn0FyRF0N.../viewform Pour soutenir nos missions, faire un don, devenir famille d’accueil ou être bénévole… 👉 https://www.brigadepa.com/links #jesuisbpa #BPA #brigadedeprotectionanimale #adoption #chaton #chatons #sauvetage #protectionanimale #MaltraitanceAnimale",
+      "association": {
+        "nom": "Brigade de Protection Animale",
+        "url": "https://www.secondechance.org/refuge/aude/brigade-de-protection-animale-2759",
+        "code_postal": "75008",
+        "ville": "Paris",
+        "departement": "75"
+      },
+      "mise_en_cache": "2026-10-02T11:35:30.975Z"
+    },
+    "secondechance:1521735": {
+      "date_naissance": null,
+      "date_maj": "2026-10-01",
+      "age_texte": "2 mois",
+      "race": "EUROPÉEN",
+      "sexe": "femelle",
+      "couleur": "Noir et blanc",
+      "pelage": "Courts",
+      "taille": "Petit",
+      "description": "Adoptable dans toute la France 🖤🤍 Kana, 2 mois, une petite boule de vie qui cherche sa famille 🤍🖤 Kana est une adorable chatonne européenne noire et blanche de 2 mois . Encore toute petite, elle a aujourd'hui toute une vie à découvrir … et cherche les humains qui auront envie de la voir grandir à leurs côtés. 🐾 À son âge, chaque journée est une nouvelle aventure : explorer, jouer, grimper, observ…",
+      "description_complete": "Adoptable dans toute la France 🖤🤍 Kana, 2 mois, une petite boule de vie qui cherche sa famille 🤍🖤 Kana est une adorable chatonne européenne noire et blanche de 2 mois . Encore toute petite, elle a aujourd'hui toute une vie à découvrir … et cherche les humains qui auront envie de la voir grandir à leurs côtés. 🐾 À son âge, chaque journée est une nouvelle aventure : explorer, jouer, grimper, observer tout ce qui bouge, découvrir les câlins… puis s'écrouler pour une bonne sieste avant de recommencer. 💞 🐱 OK chats 🐶 OK chiens Sociable avec les autres animaux, Kana pourra donc rejoindre un foyer où vivent déjà des compagnons à quatre pattes. 🏡 Elle recherche maintenant sa famille pour la vie , prête à l'accompagner dans ses apprentissages et à lui offrir jeux, présence, douceur et sécurité pour toutes les années à venir. Adopter un chaton, c'est craquer aujourd'hui pour une minuscule boule de poils, mais surtout s'engager auprès de la chatte adulte qu'elle deviendra demain . ❤️ 📍 Kana se trouve actuellement dans le 92 . ✨ Adopter Kana, c'est lui offrir la chance de découvrir la vie entourée d'amour… et avoir le bonheur de la regarder grandir à vos côtés. ✨ 👉 Si vous êtes prêt à l'accueillir dans votre vie, remplissez le formulaire : https://docs.google.com/.../1wZz83CPYDjBn0FyRF0N.../viewform Pour soutenir nos missions, faire un don, devenir famille d’accueil ou être bénévole… 👉 https://www.brigadepa.com/links #jesuisbpa #BPA #brigadedeprotectionanimale #adoption #chaton #chatons #sauvetage #protectionanimale #MaltraitanceAnimale",
+      "association": {
+        "nom": "Brigade de Protection Animale",
+        "url": "https://www.secondechance.org/refuge/aude/brigade-de-protection-animale-2759",
+        "code_postal": "75008",
+        "ville": "Paris",
+        "departement": "75"
+      },
+      "mise_en_cache": "2026-10-02T11:35:30.975Z"
+    },
+    "secondechance:1521746": {
+      "date_naissance": null,
+      "date_maj": "2026-10-02",
+      "age_texte": "3 mois",
+      "race": "EUROPÉEN",
+      "sexe": "male",
+      "couleur": "Tigré roux",
+      "pelage": "Courts",
+      "taille": "Petit",
+      "description": "Adoptable dans toute la France 🩵 A RÉSERVER 🩵 ✨ LULU ✨ Adoption possible à Orly ou au refuge situé à Champigny-la-Futelaye (27) 🏡 🔵 Mâle, sauvé de l'errance en Guadeloupe, né le 1er Juillet 2026 Abandonné sur une plage alors qu’il n’était encore qu’un tout petit chaton, Lulu s’est retrouvé au milieu d’enfants qui, ne réalisant pas sa fragilité, le manipulaient comme si c'était un jouet… 💔 Malgré…",
+      "description_complete": "Adoptable dans toute la France 🩵 A RÉSERVER 🩵 ✨ LULU ✨ Adoption possible à Orly ou au refuge situé à Champigny-la-Futelaye (27) 🏡 🔵 Mâle, sauvé de l'errance en Guadeloupe, né le 1er Juillet 2026 Abandonné sur une plage alors qu’il n’était encore qu’un tout petit chaton, Lulu s’est retrouvé au milieu d’enfants qui, ne réalisant pas sa fragilité, le manipulaient comme si c'était un jouet… 💔 Malgré ce début de vie difficile, Lulu est resté un petit chaton bien dans ses pattes, plein de douceur et de vie. Aujourd’hui, il mérite simplement de trouver sa super famille, celle qui prendra soin de lui et lui offrira enfin toute l’affection qu’il mérite. ❤️🐾 🐾 Ok chats 🐈 🐾 Ok jeunes enfants 👶🏽 🐾 Ok Chiens 🐶 🐾 Ok appartement ou maison🏡 ⛑️ vermifugé, identifié, vacciné et certificat de bonne santé. Castration obligatoire. Pour toute demande d'adoption ou de renseignements, vous pouvez nous contacter par mail à : adoption4pattesendanger@gmail.com Ensuite vous devrez obligatoirement remplir le formulaire d’adoption transmis en réponse à votre mail, avant un 1er contact par téléphone avec Sandrine. Vous pouvez également vous rendre sur la page Facebook de l'association pour découvrir tous nos loulous en attente d’adoption, sur son site internet , sur sa page Instagram ou encore sur TikTok . 🐾 ASSOCIATION 4 PATTES EN DANGER 🐾 📝 Pour lutter contre la maltraitance animale et l'abandon. En application du décret 2022-1012 du 18 juillet 2022 relatif à la protection des animaux de compagnie contre la maltraitance animale : un certificat d’engagement et de connaissance sera mis en place selon la loi en vigueur.",
+      "association": {
+        "nom": "4 pattes en danger",
+        "url": "https://www.secondechance.org/refuge/eure/4-pattes-en-danger-3118",
+        "code_postal": "27220",
+        "ville": "Champigny la Futelaye",
+        "departement": "27"
+      },
+      "mise_en_cache": "2026-10-02T11:35:30.975Z"
+    },
+    "secondechance:1521742": {
+      "date_naissance": null,
+      "date_maj": "2026-10-01",
+      "age_texte": "2 mois",
+      "race": "EUROPÉEN",
+      "sexe": "male",
+      "couleur": "Tigré",
+      "pelage": "Courts",
+      "taille": "Moyen",
+      "description": "Adoptable dans toute la France 🤎 Rocket, 2 mois, un petit tigré prêt à décoller vers sa nouvelle vie 🚀🐾 Rocket est un adorable chaton européen mâle tigré de 2 mois . Encore tout petit, il a toute la vie à découvrir … et cherche les humains qui auront envie de partager avec lui toutes ses premières aventures. 💞 À son âge, le monde est un immense terrain de jeu : explorer chaque recoin, grimper, co…",
+      "description_complete": "Adoptable dans toute la France 🤎 Rocket, 2 mois, un petit tigré prêt à décoller vers sa nouvelle vie 🚀🐾 Rocket est un adorable chaton européen mâle tigré de 2 mois . Encore tout petit, il a toute la vie à découvrir … et cherche les humains qui auront envie de partager avec lui toutes ses premières aventures. 💞 À son âge, le monde est un immense terrain de jeu : explorer chaque recoin, grimper, courir après tout ce qui bouge, apprendre, découvrir les câlins… puis s'écrouler pour une bonne sieste avant de repartir de plus belle. 😴 🐱 OK chats 🐶 OK chiens Sociable avec les autres animaux, Rocket pourra donc rejoindre un foyer où vivent déjà des compagnons à quatre pattes. 🏡 Il recherche maintenant sa famille pour la vie , prête à l'accompagner dans ses apprentissages, à le voir grandir et à lui offrir jeux, présence, douceur et sécurité pour toutes les années à venir. Adopter un chaton, c'est craquer aujourd'hui pour une minuscule boule de poils, mais surtout s'engager auprès du chat adulte qu'il deviendra demain . ❤️ 📍 Rocket se trouve actuellement dans le 94 . ✨ Adopter Rocket, c'est lui offrir toute une vie à découvrir entouré d'amour… et embarquer avec lui pour de nombreuses années de complicité. 🚀❤️ 👉 Si vous êtes prêt à l'accueillir dans votre vie, remplissez le formulaire : https://docs.google.com/.../1wZz83CPYDjBn0FyRF0N.../viewform Pour soutenir nos missions, faire un don, devenir famille d’accueil ou être bénévole… 👉 https://www.brigadepa.com/links #jesuisbpa #BPA #brigadedeprotectionanimale #adoption #chaton #chatons #sauvetage #protectionanimale #MaltraitanceAnimale",
+      "association": {
+        "nom": "Brigade de Protection Animale",
+        "url": "https://www.secondechance.org/refuge/aude/brigade-de-protection-animale-2759",
+        "code_postal": "75008",
+        "ville": "Paris",
+        "departement": "75"
+      },
+      "mise_en_cache": "2026-10-02T11:35:30.975Z"
+    },
+    "secondechance:1521725": {
+      "date_naissance": null,
+      "date_maj": "2026-10-01",
+      "age_texte": "5 mois",
+      "race": "ABYSSIN",
+      "sexe": "male",
+      "couleur": "Noir ",
+      "pelage": "Courts",
+      "taille": "Moyen",
+      "description": "Adoptable dans toute la France Hello hello Ce soir on vous présente NEDJEM PEUT ETRE ADOPTÉE SEULE MAIS ELLE EST AUSSI OK CHATS. ABASI EST À ADOPTER AVEC UN COPAIN CHAT JOUEUR. LES 2 SONT ISSUS DE LA M&Ecirc;ME MAMAN. ILS PEUVENT ÉGALEMENT &Ecirc;TRE ADOPTÉS ENSEMBLE NEDJEM 8MOIS Nedjem est une jolie minette qui sait parfaitement alterner entre ses moments tranquilles et ses grandes envies de jou…",
+      "description_complete": "Adoptable dans toute la France Hello hello Ce soir on vous présente NEDJEM PEUT ETRE ADOPTÉE SEULE MAIS ELLE EST AUSSI OK CHATS. ABASI EST À ADOPTER AVEC UN COPAIN CHAT JOUEUR. LES 2 SONT ISSUS DE LA M&Ecirc;ME MAMAN. ILS PEUVENT ÉGALEMENT &Ecirc;TRE ADOPTÉS ENSEMBLE NEDJEM 8MOIS Nedjem est une jolie minette qui sait parfaitement alterner entre ses moments tranquilles et ses grandes envies de jouer. Mais ce qu’elle aime par-dessus tout, ce sont les caresses ! Dès qu’on commence à la câliner, Nedjem se retourne dans tous les sens pour en profiter et vous faire comprendre qu’il ne faut surtout pas vous arrêter. Très affectueuse, elle préfère cependant garder ses quatre pattes libres : être portée et serrée longtemps dans les bras, ce n’est pas vraiment son truc. Avec elle, les câlins, c’est volontiers… mais à sa façon ! Joueuse, bien dans ses pattounes et proche de ses humains, Nedjem est une petite chatte très attachante qui apprécie autant les moments de jeu que les instants plus calmes. Elle cherche maintenant sa famille pour la vie, qui saura respecter son petit caractère tout en lui offrant toutes les caresses qu’elle réclame. ABASI 5 MOIS Abasi est un petit chat plein de vie, joueur, curieux et surtout très proche de ses humains. Les câlins, il adore ça… et il sait parfaitement les réclamer ! D’ailleurs, difficile de l’oublier : si vous avez le malheur de caresser un autre chat devant lui, Abasi n’hésitera pas à donner de la voix pour vous rappeler que lui aussi est là et qu’il mérite sa dose de caresses. Un petit jaloux très expressif qui sait exactement ce qu’il veut ! Très joueur, il aime se dépenser et partager des moments avec les autres chats, mais sait également profiter des moments plus calmes. C’est un chat bien dans ses pattounes, sociable et à l’aise dans son environnement. Abasi cherche maintenant une famille qui aura envie de partager avec lui jeux, câlins et vie de famille. Visibles chez Lina à Ézanville (95) Merci de ne pas nous contacter si vous ne voulez pas ou ne pouvez pas sécuriser vos fenêtres ou balcon avec un filet jusqu’au plafond, ou votre jardin de façon à ce qu’un chat ne puisse pas en sortir.",
+      "association": {
+        "nom": "Les petits protégés de Jo & Co",
+        "url": "https://www.secondechance.org/refuge/val-de-marne/les-petits-proteges-de-jo-co-2136",
+        "code_postal": "94270",
+        "ville": "LE KREMLIN BICETRE",
+        "departement": "94"
+      },
+      "mise_en_cache": "2026-10-02T11:35:30.975Z"
     }
   }
 }
