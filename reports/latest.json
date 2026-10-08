@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-07T12:19:14.334Z",
+  "date": "2026-10-08T12:28:52.445Z",
   "zone": {
     "mode": "rayon",
     "label": "50 km autour de Paris 11e Arrondissement",
@@ -34,7 +34,7 @@
       "sexe": "femelle",
       "age_categorie": "junior",
       "age_texte": null,
-      "age_mois": 2.776619641797855,
+      "age_mois": 2.8096936820290517,
       "age_source": "naissance",
       "age_conflit": null,
       "date_naissance": "2026-07-15",
@@ -70,7 +70,7 @@
           "« ONDINE » cité·e dans la description"
         ]
       },
-      "nouveau": true
+      "nouveau": false
     },
     {
       "id": "laspa:246313",
@@ -86,7 +86,7 @@
       "sexe": "femelle",
       "age_categorie": "junior",
       "age_texte": null,
-      "age_mois": 2.776619641797855,
+      "age_mois": 2.8096936820290517,
       "age_source": "naissance",
       "age_conflit": null,
       "date_naissance": "2026-07-15",
@@ -122,7 +122,7 @@
           "« ONDINE » cité·e dans la description"
         ]
       },
-      "nouveau": true
+      "nouveau": false
     },
     {
       "id": "laspa:246296",
@@ -138,7 +138,7 @@
       "sexe": "femelle",
       "age_categorie": "junior",
       "age_texte": null,
-      "age_mois": 3.236578574036048,
+      "age_mois": 3.2696526142672444,
       "age_source": "naissance",
       "age_conflit": null,
       "date_naissance": "2026-07-01",
@@ -160,7 +160,167 @@
       },
       "description": "Adopter un chaton est un engagement sur de nombreuses années. Cela demande du temps, de la patience, de l’attention et un budget pour assurer sa santé et son bien-être tout au long de sa vie.\nSue est une minette timide qui recherche des adoptants doux et patients qui lui laisseront le temps d'évoluer à son rythme.\nLa présence d'un premier chat vacciné, identifié et stérilisé sera obligatoire pour…",
       "fiche_lue": true,
-      "portee": null,
+      "portee": {
+        "id": "portee-2",
+        "taille": 3,
+        "disponibles": 3,
+        "confiance": "forte",
+        "indices": [
+          "même date de naissance",
+          "cité·e dans la description de « LOUPIOT »",
+          "« PETIOT » cité·e dans la description"
+        ]
+      },
+      "nouveau": false
+    },
+    {
+      "id": "laspa:249148",
+      "source": "laspa",
+      "source_label": "La SPA",
+      "source_id": "249148",
+      "uid": "animal-petiot",
+      "nom": "PETIOT",
+      "url": "https://www.la-spa.fr/animal/petiot/",
+      "image": "https://www.la-spa.fr/app/app/uploads/animals/249148/petiot-249148-6ac64bbd9e1a8.jpg",
+      "espece": "chat",
+      "race": "Europeen",
+      "sexe": "male",
+      "age_categorie": "junior",
+      "age_texte": null,
+      "age_mois": 3.2696526142672444,
+      "age_source": "naissance",
+      "age_conflit": null,
+      "date_naissance": "2026-07-01",
+      "date_publication": "2026-10-07",
+      "reserve": false,
+      "sos": false,
+      "fad": false,
+      "lieu": {
+        "nom": "La SPA - Refuge de Gennevilliers – Grammont",
+        "slug": "refuge-spa-de-gennevilliers-grammont",
+        "ville": "Gennevilliers",
+        "code_postal": "92230",
+        "departement": "92",
+        "latitude": 48.944706567958,
+        "longitude": 2.3035848619018,
+        "precision": "exacte",
+        "distance_km": 11.004464438564007,
+        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-gennevilliers-grammont/"
+      },
+      "description": "Actuellement en traitement contre la teigne. Le traitement sera fourni. Tout vous sera expliqué directement au refuge.\nPetiot arrive de fourrière animale. Nous ne connaissons donc rien de sa vie précédente.\nPetiot est un adorable loulou qui recherche des adoptants doux et patients qui lui laisseront le temps d'évoluer à son rythme.\nPetiot devra vivre en appartement, sans sortie extérieure et sans…",
+      "fiche_lue": true,
+      "portee": {
+        "id": "portee-2",
+        "taille": 3,
+        "disponibles": 3,
+        "confiance": "forte",
+        "indices": [
+          "même date de naissance",
+          "cité·e dans la description de « LOUPIOT »",
+          "« PETIOT » cité·e dans la description"
+        ]
+      },
+      "nouveau": true
+    },
+    {
+      "id": "laspa:249149",
+      "source": "laspa",
+      "source_label": "La SPA",
+      "source_id": "249149",
+      "uid": "animal-loupiot-2",
+      "nom": "LOUPIOT",
+      "url": "https://www.la-spa.fr/animal/loupiot-2/",
+      "image": "https://www.la-spa.fr/app/app/uploads/animals/249149/loupiot-249149-6ac64c01130e4.jpg",
+      "espece": "chat",
+      "race": "Europeen",
+      "sexe": "male",
+      "age_categorie": "junior",
+      "age_texte": null,
+      "age_mois": 3.2696526142672444,
+      "age_source": "naissance",
+      "age_conflit": null,
+      "date_naissance": "2026-07-01",
+      "date_publication": "2026-10-07",
+      "reserve": false,
+      "sos": false,
+      "fad": false,
+      "lieu": {
+        "nom": "La SPA - Refuge de Gennevilliers – Grammont",
+        "slug": "refuge-spa-de-gennevilliers-grammont",
+        "ville": "Gennevilliers",
+        "code_postal": "92230",
+        "departement": "92",
+        "latitude": 48.944706567958,
+        "longitude": 2.3035848619018,
+        "precision": "exacte",
+        "distance_km": 11.004464438564007,
+        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-gennevilliers-grammont/"
+      },
+      "description": "Actuellement en traitement contre la teigne. Le traitement sera fourni. Tout vous sera expliqué directement au refuge.\nPetiot arrive de fourrière animale. Nous ne connaissons donc rien de sa vie précédente.\nPetiot est un adorable loulou qui recherche des adoptants doux et patients qui lui laisseront le temps d'évoluer à son rythme.\nPetiot devra vivre en appartement, sans sortie extérieure et sans…",
+      "fiche_lue": true,
+      "portee": {
+        "id": "portee-2",
+        "taille": 3,
+        "disponibles": 3,
+        "confiance": "forte",
+        "indices": [
+          "même date de naissance",
+          "cité·e dans la description de « LOUPIOT »",
+          "« PETIOT » cité·e dans la description"
+        ]
+      },
+      "nouveau": true
+    },
+    {
+      "id": "laspa:249125",
+      "source": "laspa",
+      "source_label": "La SPA",
+      "source_id": "249125",
+      "uid": "animal-hallebarde",
+      "nom": "HALLEBARDE",
+      "url": "https://www.la-spa.fr/animal/hallebarde/",
+      "image": "https://www.la-spa.fr/app/app/uploads/animals/249125/hallebarde-249125-6ac647185e4e7.jpg",
+      "espece": "chat",
+      "race": "Europeen",
+      "sexe": "femelle",
+      "age_categorie": "junior",
+      "age_texte": null,
+      "age_mois": 3.6967573370598523,
+      "age_source": "naissance",
+      "age_conflit": null,
+      "date_naissance": "2026-06-18",
+      "date_publication": "2026-10-07",
+      "reserve": false,
+      "sos": false,
+      "fad": false,
+      "lieu": {
+        "nom": "La SPA - Refuge de Gennevilliers – Grammont",
+        "slug": "refuge-spa-de-gennevilliers-grammont",
+        "ville": "Gennevilliers",
+        "code_postal": "92230",
+        "departement": "92",
+        "latitude": 48.944706567958,
+        "longitude": 2.3035848619018,
+        "precision": "exacte",
+        "distance_km": 11.004464438564007,
+        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-gennevilliers-grammont/"
+      },
+      "description": "Hallebarde a été abandonné directement au refuge avec sa mère.\nHallebarde est un gentil petit chaton qui recherche des adoptants doux et patients qui lui laisseront le temps d'évoluer à son rythme.\nHallebarde est en traitement contre la teigne. Le traitement sera fourni et tout vous sera expliqué au refuge.\nVenez vite le rencontrer !",
+      "fiche_lue": true,
+      "portee": {
+        "id": "portee-3",
+        "taille": 6,
+        "disponibles": 6,
+        "confiance": "forte",
+        "indices": [
+          "même date de naissance",
+          "fratrie mentionnée",
+          "« ALONZO » cité·e dans la description",
+          "cité·e dans la description de « ALONZO »",
+          "cité·e dans la description de « BAMBINE »",
+          "« BAMBINE » cité·e dans la description"
+        ]
+      },
       "nouveau": true
     },
     {
@@ -177,7 +337,7 @@
       "sexe": "femelle",
       "age_categorie": "junior",
       "age_texte": null,
-      "age_mois": 3.7622459251654115,
+      "age_mois": 3.795319965396608,
       "age_source": "naissance",
       "age_conflit": null,
       "date_naissance": "2026-06-15",
@@ -200,9 +360,9 @@
       "description": "Nougatine & Capucine sont arrivées suite à un transfert d'une autre association.\nNougatine & Capucine sont deux loulous un peu timide qui recherche des adoptants doux et patients qui leur laisseront le temps d'évoluer à leur rythme.\nIls devront vivre en appartement, sans sortie extérieure et sans jeunes enfants.\nIls pourront être adoptés ensemble ou séparément mais la présence d'un premier chat,…",
       "fiche_lue": true,
       "portee": {
-        "id": "portee-2",
-        "taille": 5,
-        "disponibles": 5,
+        "id": "portee-3",
+        "taille": 6,
+        "disponibles": 6,
         "confiance": "forte",
         "indices": [
           "même date de naissance",
@@ -213,7 +373,7 @@
           "« BAMBINE » cité·e dans la description"
         ]
       },
-      "nouveau": true
+      "nouveau": false
     },
     {
       "id": "laspa:242946",
@@ -229,7 +389,7 @@
       "sexe": "male",
       "age_categorie": "junior",
       "age_texte": null,
-      "age_mois": 3.7622459251654115,
+      "age_mois": 3.795319965396608,
       "age_source": "naissance",
       "age_conflit": null,
       "date_naissance": "2026-06-15",
@@ -252,9 +412,9 @@
       "description": "Blinis est un chaton arrivé au refuge par la fourrière animale. Nous ne connaissons donc rien de sa courte vie.\nBlinis est un petit craintif qui recherche des adoptants doux et patients, prêts à lui laisser le temps d’évoluer à son rythme.\nLa présence d’un premier chat au foyer (vacciné, identifié et stérilisé) sera indispensable pour son bon développement.\nIl devra vivre en appartement, sans acc…",
       "fiche_lue": true,
       "portee": {
-        "id": "portee-2",
-        "taille": 5,
-        "disponibles": 5,
+        "id": "portee-3",
+        "taille": 6,
+        "disponibles": 6,
         "confiance": "forte",
         "indices": [
           "même date de naissance",
@@ -281,7 +441,7 @@
       "sexe": "femelle",
       "age_categorie": "junior",
       "age_texte": null,
-      "age_mois": 3.7622459251654115,
+      "age_mois": 3.795319965396608,
       "age_source": "naissance",
       "age_conflit": null,
       "date_naissance": "2026-06-15",
@@ -304,9 +464,9 @@
       "description": "Brioche est une chatonne arrivé au refuge par la fourrière animale. Nous ne connaissons donc rien de sa courte vie.\nBrioche est une petite craintive qui recherche des adoptants doux et patients, prêts à lui laisser le temps d’évoluer à son rythme.\nLa présence d’un premier chat au foyer (vacciné, identifié et stérilisé) sera indispensable pour son bon développement.\nElle devra vivre en appartement…",
       "fiche_lue": true,
       "portee": {
-        "id": "portee-2",
-        "taille": 5,
-        "disponibles": 5,
+        "id": "portee-3",
+        "taille": 6,
+        "disponibles": 6,
         "confiance": "forte",
         "indices": [
           "même date de naissance",
@@ -333,7 +493,7 @@
       "sexe": "male",
       "age_categorie": "junior",
       "age_texte": null,
-      "age_mois": 3.7622459251654115,
+      "age_mois": 3.795319965396608,
       "age_source": "naissance",
       "age_conflit": null,
       "date_naissance": "2026-06-15",
@@ -356,9 +516,9 @@
       "description": "Bambine et Alonzo sont arrivés suite à un transfert d'une autre association.\nBambine et Alonzo sont deux loulous un peu timide qui recherche des adoptants doux et patients qui leur laisseront le temps d'évoluer à leur rythme.\nBambine et Alonzo sont en sos car ils ont chacun une gingivite. Ils devront vivre en appartement, sans sortie extérieure et sans jeunes enfants.\nVenez vite les rencontrer !",
       "fiche_lue": true,
       "portee": {
-        "id": "portee-2",
-        "taille": 5,
-        "disponibles": 5,
+        "id": "portee-3",
+        "taille": 6,
+        "disponibles": 6,
         "confiance": "forte",
         "indices": [
           "même date de naissance",
@@ -369,7 +529,7 @@
           "« BAMBINE » cité·e dans la description"
         ]
       },
-      "nouveau": true
+      "nouveau": false
     },
     {
       "id": "laspa:246293",
@@ -385,7 +545,7 @@
       "sexe": "male",
       "age_categorie": "junior",
       "age_texte": null,
-      "age_mois": 3.7622459251654115,
+      "age_mois": 3.795319965396608,
       "age_source": "naissance",
       "age_conflit": null,
       "date_naissance": "2026-06-15",
@@ -408,9 +568,9 @@
       "description": "Bambine et Alonzo sont arrivés suite à un transfert d'une autre association.\nBambine et Alonzo sont deux loulous un peu timide qui recherche des adoptants doux et patients qui leur laisseront le temps d'évoluer à leur rythme.\nBambine et Alonzo sont en sos car ils ont chacun une gingivite. Ils devront vivre en appartement, sans sortie extérieure et sans jeunes enfants.\nVenez vite les rencontrer !",
       "fiche_lue": true,
       "portee": {
-        "id": "portee-2",
-        "taille": 5,
-        "disponibles": 5,
+        "id": "portee-3",
+        "taille": 6,
+        "disponibles": 6,
         "confiance": "forte",
         "indices": [
           "même date de naissance",
@@ -421,7 +581,7 @@
           "« BAMBINE » cité·e dans la description"
         ]
       },
-      "nouveau": true
+      "nouveau": false
     },
     {
       "id": "laspa:248768",
@@ -437,7 +597,7 @@
       "sexe": "male",
       "age_categorie": "junior",
       "age_texte": null,
-      "age_mois": 2.776619641797855,
+      "age_mois": 2.8096936820290517,
       "age_source": "naissance",
       "age_conflit": null,
       "date_naissance": "2026-07-15",
@@ -476,7 +636,7 @@
       "sexe": "femelle",
       "age_categorie": "junior",
       "age_texte": null,
-      "age_mois": 3.7622459251654115,
+      "age_mois": 3.795319965396608,
       "age_source": "naissance",
       "age_conflit": null,
       "date_naissance": "2026-06-15",
@@ -504,7 +664,7 @@
   ],
   "portees": [
     {
-      "id": "portee-2",
+      "id": "portee-3",
       "source": "laspa",
       "source_label": "La SPA",
       "lieu": {
@@ -514,10 +674,10 @@
         "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-gennevilliers-grammont/"
       },
       "date_naissance": "2026-06-15",
-      "age_mois": 3.7622459251654115,
-      "taille": 5,
-      "annonces": 5,
-      "disponibles": 5,
+      "age_mois": 3.6967573370598523,
+      "taille": 6,
+      "annonces": 6,
+      "disponibles": 6,
       "confiance": "forte",
       "indices": [
         "même date de naissance",
@@ -532,14 +692,51 @@
         "laspa:242947",
         "laspa:246291",
         "laspa:246293",
-        "laspa:246325"
+        "laspa:246325",
+        "laspa:249125"
       ],
       "noms": [
         "ALONZO",
         "BAMBINE",
         "BLINIS",
         "BRIOCHE",
+        "HALLEBARDE",
         "NOUGATINE"
+      ],
+      "sources": [
+        "La SPA"
+      ]
+    },
+    {
+      "id": "portee-2",
+      "source": "laspa",
+      "source_label": "La SPA",
+      "lieu": {
+        "nom": "La SPA - Refuge de Gennevilliers – Grammont",
+        "ville": "Gennevilliers",
+        "departement": "92",
+        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-gennevilliers-grammont/"
+      },
+      "date_naissance": "2026-07-01",
+      "age_mois": 3.2696526142672444,
+      "taille": 3,
+      "annonces": 3,
+      "disponibles": 3,
+      "confiance": "forte",
+      "indices": [
+        "même date de naissance",
+        "cité·e dans la description de « LOUPIOT »",
+        "« PETIOT » cité·e dans la description"
+      ],
+      "membres": [
+        "laspa:246296",
+        "laspa:249148",
+        "laspa:249149"
+      ],
+      "noms": [
+        "LOUPIOT",
+        "PETIOT",
+        "SUE"
       ],
       "sources": [
         "La SPA"
@@ -556,7 +753,7 @@
         "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-gennevilliers-grammont/"
       },
       "date_naissance": "2026-07-15",
-      "age_mois": 2.776619641797855,
+      "age_mois": 2.8096936820290517,
       "taille": 2,
       "annonces": 2,
       "disponibles": 2,
@@ -584,6 +781,156 @@
   ],
   "nouveaux_arrivants": [
     {
+      "id": "laspa:249148",
+      "source": "laspa",
+      "source_label": "La SPA",
+      "source_id": "249148",
+      "uid": "animal-petiot",
+      "nom": "PETIOT",
+      "url": "https://www.la-spa.fr/animal/petiot/",
+      "image": "https://www.la-spa.fr/app/app/uploads/animals/249148/petiot-249148-6ac64bbd9e1a8.jpg",
+      "espece": "chat",
+      "race": "Europeen",
+      "sexe": "male",
+      "age_categorie": "junior",
+      "age_texte": null,
+      "age_mois": 3.2696526142672444,
+      "age_source": "naissance",
+      "age_conflit": null,
+      "date_naissance": "2026-07-01",
+      "date_publication": "2026-10-07",
+      "reserve": false,
+      "sos": false,
+      "fad": false,
+      "lieu": {
+        "nom": "La SPA - Refuge de Gennevilliers – Grammont",
+        "slug": "refuge-spa-de-gennevilliers-grammont",
+        "ville": "Gennevilliers",
+        "code_postal": "92230",
+        "departement": "92",
+        "latitude": 48.944706567958,
+        "longitude": 2.3035848619018,
+        "precision": "exacte",
+        "distance_km": 11.004464438564007,
+        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-gennevilliers-grammont/"
+      },
+      "description": "Actuellement en traitement contre la teigne. Le traitement sera fourni. Tout vous sera expliqué directement au refuge.\nPetiot arrive de fourrière animale. Nous ne connaissons donc rien de sa vie précédente.\nPetiot est un adorable loulou qui recherche des adoptants doux et patients qui lui laisseront le temps d'évoluer à son rythme.\nPetiot devra vivre en appartement, sans sortie extérieure et sans…",
+      "fiche_lue": true,
+      "portee": {
+        "id": "portee-2",
+        "taille": 3,
+        "disponibles": 3,
+        "confiance": "forte",
+        "indices": [
+          "même date de naissance",
+          "cité·e dans la description de « LOUPIOT »",
+          "« PETIOT » cité·e dans la description"
+        ]
+      },
+      "nouveau": true
+    },
+    {
+      "id": "laspa:249149",
+      "source": "laspa",
+      "source_label": "La SPA",
+      "source_id": "249149",
+      "uid": "animal-loupiot-2",
+      "nom": "LOUPIOT",
+      "url": "https://www.la-spa.fr/animal/loupiot-2/",
+      "image": "https://www.la-spa.fr/app/app/uploads/animals/249149/loupiot-249149-6ac64c01130e4.jpg",
+      "espece": "chat",
+      "race": "Europeen",
+      "sexe": "male",
+      "age_categorie": "junior",
+      "age_texte": null,
+      "age_mois": 3.2696526142672444,
+      "age_source": "naissance",
+      "age_conflit": null,
+      "date_naissance": "2026-07-01",
+      "date_publication": "2026-10-07",
+      "reserve": false,
+      "sos": false,
+      "fad": false,
+      "lieu": {
+        "nom": "La SPA - Refuge de Gennevilliers – Grammont",
+        "slug": "refuge-spa-de-gennevilliers-grammont",
+        "ville": "Gennevilliers",
+        "code_postal": "92230",
+        "departement": "92",
+        "latitude": 48.944706567958,
+        "longitude": 2.3035848619018,
+        "precision": "exacte",
+        "distance_km": 11.004464438564007,
+        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-gennevilliers-grammont/"
+      },
+      "description": "Actuellement en traitement contre la teigne. Le traitement sera fourni. Tout vous sera expliqué directement au refuge.\nPetiot arrive de fourrière animale. Nous ne connaissons donc rien de sa vie précédente.\nPetiot est un adorable loulou qui recherche des adoptants doux et patients qui lui laisseront le temps d'évoluer à son rythme.\nPetiot devra vivre en appartement, sans sortie extérieure et sans…",
+      "fiche_lue": true,
+      "portee": {
+        "id": "portee-2",
+        "taille": 3,
+        "disponibles": 3,
+        "confiance": "forte",
+        "indices": [
+          "même date de naissance",
+          "cité·e dans la description de « LOUPIOT »",
+          "« PETIOT » cité·e dans la description"
+        ]
+      },
+      "nouveau": true
+    },
+    {
+      "id": "laspa:249125",
+      "source": "laspa",
+      "source_label": "La SPA",
+      "source_id": "249125",
+      "uid": "animal-hallebarde",
+      "nom": "HALLEBARDE",
+      "url": "https://www.la-spa.fr/animal/hallebarde/",
+      "image": "https://www.la-spa.fr/app/app/uploads/animals/249125/hallebarde-249125-6ac647185e4e7.jpg",
+      "espece": "chat",
+      "race": "Europeen",
+      "sexe": "femelle",
+      "age_categorie": "junior",
+      "age_texte": null,
+      "age_mois": 3.6967573370598523,
+      "age_source": "naissance",
+      "age_conflit": null,
+      "date_naissance": "2026-06-18",
+      "date_publication": "2026-10-07",
+      "reserve": false,
+      "sos": false,
+      "fad": false,
+      "lieu": {
+        "nom": "La SPA - Refuge de Gennevilliers – Grammont",
+        "slug": "refuge-spa-de-gennevilliers-grammont",
+        "ville": "Gennevilliers",
+        "code_postal": "92230",
+        "departement": "92",
+        "latitude": 48.944706567958,
+        "longitude": 2.3035848619018,
+        "precision": "exacte",
+        "distance_km": 11.004464438564007,
+        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-gennevilliers-grammont/"
+      },
+      "description": "Hallebarde a été abandonné directement au refuge avec sa mère.\nHallebarde est un gentil petit chaton qui recherche des adoptants doux et patients qui lui laisseront le temps d'évoluer à son rythme.\nHallebarde est en traitement contre la teigne. Le traitement sera fourni et tout vous sera expliqué au refuge.\nVenez vite le rencontrer !",
+      "fiche_lue": true,
+      "portee": {
+        "id": "portee-3",
+        "taille": 6,
+        "disponibles": 6,
+        "confiance": "forte",
+        "indices": [
+          "même date de naissance",
+          "fratrie mentionnée",
+          "« ALONZO » cité·e dans la description",
+          "cité·e dans la description de « ALONZO »",
+          "cité·e dans la description de « BAMBINE »",
+          "« BAMBINE » cité·e dans la description"
+        ]
+      },
+      "nouveau": true
+    },
+    {
       "id": "laspa:248768",
       "source": "laspa",
       "source_label": "La SPA",
@@ -597,7 +944,7 @@
       "sexe": "male",
       "age_categorie": "junior",
       "age_texte": null,
-      "age_mois": 2.776619641797855,
+      "age_mois": 2.8096936820290517,
       "age_source": "naissance",
       "age_conflit": null,
       "date_naissance": "2026-07-15",
@@ -636,7 +983,7 @@
       "sexe": "femelle",
       "age_categorie": "junior",
       "age_texte": null,
-      "age_mois": 3.7622459251654115,
+      "age_mois": 3.795319965396608,
       "age_source": "naissance",
       "age_conflit": null,
       "date_naissance": "2026-06-15",
@@ -660,315 +1007,16 @@
       "fiche_lue": true,
       "portee": null,
       "nouveau": true
-    },
-    {
-      "id": "laspa:246312",
-      "source": "laspa",
-      "source_label": "La SPA",
-      "source_id": "246312",
-      "uid": "animal-ondine-2",
-      "nom": "ONDINE",
-      "url": "https://www.la-spa.fr/animal/ondine-2/",
-      "image": "https://www.la-spa.fr/app/app/uploads/animals/246312/ondine-246312-6abcfb659273b.jpg",
-      "espece": "chat",
-      "race": "Europeen",
-      "sexe": "femelle",
-      "age_categorie": "junior",
-      "age_texte": null,
-      "age_mois": 2.776619641797855,
-      "age_source": "naissance",
-      "age_conflit": null,
-      "date_naissance": "2026-07-15",
-      "date_publication": "2026-09-30",
-      "reserve": false,
-      "sos": false,
-      "fad": false,
-      "lieu": {
-        "nom": "La SPA - Refuge de Gennevilliers – Grammont",
-        "slug": "refuge-spa-de-gennevilliers-grammont",
-        "ville": "Gennevilliers",
-        "code_postal": "92230",
-        "departement": "92",
-        "latitude": 48.944706567958,
-        "longitude": 2.3035848619018,
-        "precision": "exacte",
-        "distance_km": 11.004464438564007,
-        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-gennevilliers-grammont/"
-      },
-      "description": "Ondine & Clémentine sont arrivées suite à un transfert d'une autre association.\nOndine & Clémentine sont deux loulous un peu timide qui recherche des adoptants doux et patients qui leur laisseront le temps d'évoluer à leur rythme.\nIls devront vivre en appartement, sans sortie extérieure et sans jeunes enfants.\nIls pourront être adoptés ensemble ou séparément mais la présence d'un premier chat, va…",
-      "fiche_lue": true,
-      "portee": {
-        "id": "portee-1",
-        "taille": 2,
-        "disponibles": 2,
-        "confiance": "forte",
-        "indices": [
-          "même date de naissance",
-          "« CLEMENTINE » cité·e dans la description",
-          "cité·e dans la description de « CLEMENTINE »",
-          "fratrie mentionnée",
-          "cité·e dans la description de « ONDINE »",
-          "« ONDINE » cité·e dans la description"
-        ]
-      },
-      "nouveau": true
-    },
-    {
-      "id": "laspa:246313",
-      "source": "laspa",
-      "source_label": "La SPA",
-      "source_id": "246313",
-      "uid": "animal-clementine-2",
-      "nom": "CLEMENTINE",
-      "url": "https://www.la-spa.fr/animal/clementine-2/",
-      "image": "https://www.la-spa.fr/app/app/uploads/animals/246313/clementine-246313-6abcfb80b5948.jpg",
-      "espece": "chat",
-      "race": "Europeen",
-      "sexe": "femelle",
-      "age_categorie": "junior",
-      "age_texte": null,
-      "age_mois": 2.776619641797855,
-      "age_source": "naissance",
-      "age_conflit": null,
-      "date_naissance": "2026-07-15",
-      "date_publication": "2026-09-30",
-      "reserve": false,
-      "sos": false,
-      "fad": false,
-      "lieu": {
-        "nom": "La SPA - Refuge de Gennevilliers – Grammont",
-        "slug": "refuge-spa-de-gennevilliers-grammont",
-        "ville": "Gennevilliers",
-        "code_postal": "92230",
-        "departement": "92",
-        "latitude": 48.944706567958,
-        "longitude": 2.3035848619018,
-        "precision": "exacte",
-        "distance_km": 11.004464438564007,
-        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-gennevilliers-grammont/"
-      },
-      "description": "Ondine & Clémentine sont arrivées suite à un transfert d'une autre association.\nOndine & Clémentine sont deux loulous un peu timide qui recherche des adoptants doux et patients qui leur laisseront le temps d'évoluer à leur rythme.\nIls devront vivre en appartement, sans sortie extérieure et sans jeunes enfants.\nIls pourront être adoptés ensemble ou séparément mais la présence d'un premier chat, va…",
-      "fiche_lue": true,
-      "portee": {
-        "id": "portee-1",
-        "taille": 2,
-        "disponibles": 2,
-        "confiance": "forte",
-        "indices": [
-          "même date de naissance",
-          "« CLEMENTINE » cité·e dans la description",
-          "cité·e dans la description de « CLEMENTINE »",
-          "fratrie mentionnée",
-          "cité·e dans la description de « ONDINE »",
-          "« ONDINE » cité·e dans la description"
-        ]
-      },
-      "nouveau": true
-    },
-    {
-      "id": "laspa:246296",
-      "source": "laspa",
-      "source_label": "La SPA",
-      "source_id": "246296",
-      "uid": "animal-sue",
-      "nom": "SUE",
-      "url": "https://www.la-spa.fr/animal/sue/",
-      "image": "https://www.la-spa.fr/app/app/uploads/animals/246296/sue-246296-6abcf7d868f9f.jpg",
-      "espece": "chat",
-      "race": "Europeen",
-      "sexe": "femelle",
-      "age_categorie": "junior",
-      "age_texte": null,
-      "age_mois": 3.236578574036048,
-      "age_source": "naissance",
-      "age_conflit": null,
-      "date_naissance": "2026-07-01",
-      "date_publication": "2026-09-30",
-      "reserve": false,
-      "sos": false,
-      "fad": false,
-      "lieu": {
-        "nom": "La SPA - Refuge de Gennevilliers – Grammont",
-        "slug": "refuge-spa-de-gennevilliers-grammont",
-        "ville": "Gennevilliers",
-        "code_postal": "92230",
-        "departement": "92",
-        "latitude": 48.944706567958,
-        "longitude": 2.3035848619018,
-        "precision": "exacte",
-        "distance_km": 11.004464438564007,
-        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-gennevilliers-grammont/"
-      },
-      "description": "Adopter un chaton est un engagement sur de nombreuses années. Cela demande du temps, de la patience, de l’attention et un budget pour assurer sa santé et son bien-être tout au long de sa vie.\nSue est une minette timide qui recherche des adoptants doux et patients qui lui laisseront le temps d'évoluer à son rythme.\nLa présence d'un premier chat vacciné, identifié et stérilisé sera obligatoire pour…",
-      "fiche_lue": true,
-      "portee": null,
-      "nouveau": true
-    },
-    {
-      "id": "laspa:246325",
-      "source": "laspa",
-      "source_label": "La SPA",
-      "source_id": "246325",
-      "uid": "animal-nougatine",
-      "nom": "NOUGATINE",
-      "url": "https://www.la-spa.fr/animal/nougatine/",
-      "image": "https://www.la-spa.fr/app/app/uploads/animals/246325/nougatine-246325-6abcfd5e49180.jpg",
-      "espece": "chat",
-      "race": "Europeen",
-      "sexe": "femelle",
-      "age_categorie": "junior",
-      "age_texte": null,
-      "age_mois": 3.7622459251654115,
-      "age_source": "naissance",
-      "age_conflit": null,
-      "date_naissance": "2026-06-15",
-      "date_publication": "2026-09-30",
-      "reserve": false,
-      "sos": false,
-      "fad": false,
-      "lieu": {
-        "nom": "La SPA - Refuge de Gennevilliers – Grammont",
-        "slug": "refuge-spa-de-gennevilliers-grammont",
-        "ville": "Gennevilliers",
-        "code_postal": "92230",
-        "departement": "92",
-        "latitude": 48.944706567958,
-        "longitude": 2.3035848619018,
-        "precision": "exacte",
-        "distance_km": 11.004464438564007,
-        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-gennevilliers-grammont/"
-      },
-      "description": "Nougatine & Capucine sont arrivées suite à un transfert d'une autre association.\nNougatine & Capucine sont deux loulous un peu timide qui recherche des adoptants doux et patients qui leur laisseront le temps d'évoluer à leur rythme.\nIls devront vivre en appartement, sans sortie extérieure et sans jeunes enfants.\nIls pourront être adoptés ensemble ou séparément mais la présence d'un premier chat,…",
-      "fiche_lue": true,
-      "portee": {
-        "id": "portee-2",
-        "taille": 5,
-        "disponibles": 5,
-        "confiance": "forte",
-        "indices": [
-          "même date de naissance",
-          "fratrie mentionnée",
-          "« ALONZO » cité·e dans la description",
-          "cité·e dans la description de « ALONZO »",
-          "cité·e dans la description de « BAMBINE »",
-          "« BAMBINE » cité·e dans la description"
-        ]
-      },
-      "nouveau": true
-    },
-    {
-      "id": "laspa:246291",
-      "source": "laspa",
-      "source_label": "La SPA",
-      "source_id": "246291",
-      "uid": "animal-bambine",
-      "nom": "BAMBINE",
-      "url": "https://www.la-spa.fr/animal/bambine/",
-      "image": "https://www.la-spa.fr/app/app/uploads/animals/246291/bambine-246291-6abcf76e5c9b4.jpg",
-      "espece": "chat",
-      "race": "Europeen",
-      "sexe": "male",
-      "age_categorie": "junior",
-      "age_texte": null,
-      "age_mois": 3.7622459251654115,
-      "age_source": "naissance",
-      "age_conflit": null,
-      "date_naissance": "2026-06-15",
-      "date_publication": "2026-09-30",
-      "reserve": false,
-      "sos": true,
-      "fad": false,
-      "lieu": {
-        "nom": "La SPA - Refuge de Gennevilliers – Grammont",
-        "slug": "refuge-spa-de-gennevilliers-grammont",
-        "ville": "Gennevilliers",
-        "code_postal": "92230",
-        "departement": "92",
-        "latitude": 48.944706567958,
-        "longitude": 2.3035848619018,
-        "precision": "exacte",
-        "distance_km": 11.004464438564007,
-        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-gennevilliers-grammont/"
-      },
-      "description": "Bambine et Alonzo sont arrivés suite à un transfert d'une autre association.\nBambine et Alonzo sont deux loulous un peu timide qui recherche des adoptants doux et patients qui leur laisseront le temps d'évoluer à leur rythme.\nBambine et Alonzo sont en sos car ils ont chacun une gingivite. Ils devront vivre en appartement, sans sortie extérieure et sans jeunes enfants.\nVenez vite les rencontrer !",
-      "fiche_lue": true,
-      "portee": {
-        "id": "portee-2",
-        "taille": 5,
-        "disponibles": 5,
-        "confiance": "forte",
-        "indices": [
-          "même date de naissance",
-          "fratrie mentionnée",
-          "« ALONZO » cité·e dans la description",
-          "cité·e dans la description de « ALONZO »",
-          "cité·e dans la description de « BAMBINE »",
-          "« BAMBINE » cité·e dans la description"
-        ]
-      },
-      "nouveau": true
-    },
-    {
-      "id": "laspa:246293",
-      "source": "laspa",
-      "source_label": "La SPA",
-      "source_id": "246293",
-      "uid": "animal-alonzo",
-      "nom": "ALONZO",
-      "url": "https://www.la-spa.fr/animal/alonzo/",
-      "image": "https://www.la-spa.fr/app/app/uploads/animals/246293/alonzo-246293-6abcf75e6610d.jpg",
-      "espece": "chat",
-      "race": "Europeen",
-      "sexe": "male",
-      "age_categorie": "junior",
-      "age_texte": null,
-      "age_mois": 3.7622459251654115,
-      "age_source": "naissance",
-      "age_conflit": null,
-      "date_naissance": "2026-06-15",
-      "date_publication": "2026-09-30",
-      "reserve": false,
-      "sos": true,
-      "fad": false,
-      "lieu": {
-        "nom": "La SPA - Refuge de Gennevilliers – Grammont",
-        "slug": "refuge-spa-de-gennevilliers-grammont",
-        "ville": "Gennevilliers",
-        "code_postal": "92230",
-        "departement": "92",
-        "latitude": 48.944706567958,
-        "longitude": 2.3035848619018,
-        "precision": "exacte",
-        "distance_km": 11.004464438564007,
-        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-gennevilliers-grammont/"
-      },
-      "description": "Bambine et Alonzo sont arrivés suite à un transfert d'une autre association.\nBambine et Alonzo sont deux loulous un peu timide qui recherche des adoptants doux et patients qui leur laisseront le temps d'évoluer à leur rythme.\nBambine et Alonzo sont en sos car ils ont chacun une gingivite. Ils devront vivre en appartement, sans sortie extérieure et sans jeunes enfants.\nVenez vite les rencontrer !",
-      "fiche_lue": true,
-      "portee": {
-        "id": "portee-2",
-        "taille": 5,
-        "disponibles": 5,
-        "confiance": "forte",
-        "indices": [
-          "même date de naissance",
-          "fratrie mentionnée",
-          "« ALONZO » cité·e dans la description",
-          "cité·e dans la description de « ALONZO »",
-          "cité·e dans la description de « BAMBINE »",
-          "« BAMBINE » cité·e dans la description"
-        ]
-      },
-      "nouveau": true
     }
   ],
   "stats": {
     "sources": {
       "laspa": {
         "pages": 1,
-        "total_site": 153,
-        "dans_zone": 103,
-        "fiches": 10,
-        "fiches_cache": 30,
+        "total_site": 154,
+        "dans_zone": 106,
+        "fiches": 5,
+        "fiches_cache": 39,
         "erreurs": 0
       },
       "secondechance": {
@@ -982,10 +1030,10 @@
         "pages_tronquees": 0
       }
     },
-    "requests": 22,
+    "requests": 17,
     "retries": 0,
-    "duree_s": 12,
-    "annonces_zone": 103
+    "duree_s": 11.6,
+    "annonces_zone": 106
   },
   "erreurs": []
 }
