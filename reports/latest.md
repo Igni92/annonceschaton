@@ -1,4 +1,4 @@
-# Annonces chatons — jeudi 8 octobre 2026
+# Annonces chatons — vendredi 9 octobre 2026
 
 ## 🐾 Chatons de moins de 4 mois (13)
 
