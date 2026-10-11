@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-10T11:35:36.782Z",
+  "date": "2026-10-11T11:49:07.579Z",
   "zone": {
     "mode": "rayon",
     "label": "50 km autour de Paris 11e Arrondissement",
@@ -34,7 +34,7 @@
       "sexe": "femelle",
       "age_categorie": "junior",
       "age_texte": null,
-      "age_mois": 2.8741869275230054,
+      "age_mois": 2.907349448247015,
       "age_source": "naissance",
       "age_conflit": null,
       "date_naissance": "2026-07-15",
@@ -86,7 +86,7 @@
       "sexe": "femelle",
       "age_categorie": "junior",
       "age_texte": null,
-      "age_mois": 2.8741869275230054,
+      "age_mois": 2.907349448247015,
       "age_source": "naissance",
       "age_conflit": null,
       "date_naissance": "2026-07-15",
@@ -138,7 +138,7 @@
       "sexe": "femelle",
       "age_categorie": "junior",
       "age_texte": null,
-      "age_mois": 3.3341458597611986,
+      "age_mois": 3.367308380485208,
       "age_source": "naissance",
       "age_conflit": null,
       "date_naissance": "2026-07-01",
@@ -162,65 +162,14 @@
       "fiche_lue": true,
       "portee": {
         "id": "portee-2",
-        "taille": 3,
-        "disponibles": 3,
+        "taille": 2,
+        "disponibles": 2,
         "confiance": "forte",
         "indices": [
-          "même date de naissance",
-          "cité·e dans la description de « LOUPIOT »",
-          "« PETIOT » cité·e dans la description"
+          "même date de naissance"
         ]
       },
       "nouveau": false
-    },
-    {
-      "id": "laspa:249148",
-      "source": "laspa",
-      "source_label": "La SPA",
-      "source_id": "249148",
-      "uid": "animal-petiot",
-      "nom": "PETIOT",
-      "url": "https://www.la-spa.fr/animal/petiot/",
-      "image": "https://www.la-spa.fr/app/app/uploads/animals/249148/petiot-249148-6ac64bbd9e1a8.jpg",
-      "espece": "chat",
-      "race": "Europeen",
-      "sexe": "male",
-      "age_categorie": "junior",
-      "age_texte": null,
-      "age_mois": 3.3341458597611986,
-      "age_source": "naissance",
-      "age_conflit": null,
-      "date_naissance": "2026-07-01",
-      "date_publication": "2026-10-07",
-      "reserve": false,
-      "sos": false,
-      "fad": false,
-      "lieu": {
-        "nom": "La SPA - Refuge de Gennevilliers – Grammont",
-        "slug": "refuge-spa-de-gennevilliers-grammont",
-        "ville": "Gennevilliers",
-        "code_postal": "92230",
-        "departement": "92",
-        "latitude": 48.944706567958,
-        "longitude": 2.3035848619018,
-        "precision": "exacte",
-        "distance_km": 11.004464438564007,
-        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-gennevilliers-grammont/"
-      },
-      "description": "Actuellement en traitement contre la teigne. Le traitement sera fourni. Tout vous sera expliqué directement au refuge.\nPetiot arrive de fourrière animale. Nous ne connaissons donc rien de sa vie précédente.\nPetiot est un adorable loulou qui recherche des adoptants doux et patients qui lui laisseront le temps d'évoluer à son rythme.\nPetiot devra vivre en appartement, sans sortie extérieure et sans…",
-      "fiche_lue": true,
-      "portee": {
-        "id": "portee-2",
-        "taille": 3,
-        "disponibles": 3,
-        "confiance": "forte",
-        "indices": [
-          "même date de naissance",
-          "cité·e dans la description de « LOUPIOT »",
-          "« PETIOT » cité·e dans la description"
-        ]
-      },
-      "nouveau": true
     },
     {
       "id": "laspa:249149",
@@ -236,7 +185,7 @@
       "sexe": "male",
       "age_categorie": "junior",
       "age_texte": null,
-      "age_mois": 3.3341458597611986,
+      "age_mois": 3.367308380485208,
       "age_source": "naissance",
       "age_conflit": null,
       "date_naissance": "2026-07-01",
@@ -260,120 +209,14 @@
       "fiche_lue": true,
       "portee": {
         "id": "portee-2",
-        "taille": 3,
-        "disponibles": 3,
+        "taille": 2,
+        "disponibles": 2,
         "confiance": "forte",
         "indices": [
-          "même date de naissance",
-          "cité·e dans la description de « LOUPIOT »",
-          "« PETIOT » cité·e dans la description"
+          "même date de naissance"
         ]
       },
       "nouveau": true
-    },
-    {
-      "id": "laspa:249125",
-      "source": "laspa",
-      "source_label": "La SPA",
-      "source_id": "249125",
-      "uid": "animal-hallebarde",
-      "nom": "HALLEBARDE",
-      "url": "https://www.la-spa.fr/animal/hallebarde/",
-      "image": "https://www.la-spa.fr/app/app/uploads/animals/249125/hallebarde-249125-6ac647185e4e7.jpg",
-      "espece": "chat",
-      "race": "Europeen",
-      "sexe": "femelle",
-      "age_categorie": "junior",
-      "age_texte": null,
-      "age_mois": 3.761250582553806,
-      "age_source": "naissance",
-      "age_conflit": null,
-      "date_naissance": "2026-06-18",
-      "date_publication": "2026-10-07",
-      "reserve": false,
-      "sos": false,
-      "fad": false,
-      "lieu": {
-        "nom": "La SPA - Refuge de Gennevilliers – Grammont",
-        "slug": "refuge-spa-de-gennevilliers-grammont",
-        "ville": "Gennevilliers",
-        "code_postal": "92230",
-        "departement": "92",
-        "latitude": 48.944706567958,
-        "longitude": 2.3035848619018,
-        "precision": "exacte",
-        "distance_km": 11.004464438564007,
-        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-gennevilliers-grammont/"
-      },
-      "description": "Hallebarde a été abandonné directement au refuge avec sa mère.\nHallebarde est un gentil petit chaton qui recherche des adoptants doux et patients qui lui laisseront le temps d'évoluer à son rythme.\nHallebarde est en traitement contre la teigne. Le traitement sera fourni et tout vous sera expliqué au refuge.\nVenez vite le rencontrer !",
-      "fiche_lue": true,
-      "portee": {
-        "id": "portee-3",
-        "taille": 6,
-        "disponibles": 6,
-        "confiance": "forte",
-        "indices": [
-          "même date de naissance",
-          "fratrie mentionnée",
-          "« ALONZO » cité·e dans la description",
-          "cité·e dans la description de « ALONZO »",
-          "cité·e dans la description de « BAMBINE »",
-          "« BAMBINE » cité·e dans la description"
-        ]
-      },
-      "nouveau": true
-    },
-    {
-      "id": "laspa:246325",
-      "source": "laspa",
-      "source_label": "La SPA",
-      "source_id": "246325",
-      "uid": "animal-nougatine",
-      "nom": "NOUGATINE",
-      "url": "https://www.la-spa.fr/animal/nougatine/",
-      "image": "https://www.la-spa.fr/app/app/uploads/animals/246325/nougatine-246325-6abcfd5e49180.jpg",
-      "espece": "chat",
-      "race": "Europeen",
-      "sexe": "femelle",
-      "age_categorie": "junior",
-      "age_texte": null,
-      "age_mois": 3.859813210890562,
-      "age_source": "naissance",
-      "age_conflit": null,
-      "date_naissance": "2026-06-15",
-      "date_publication": "2026-09-30",
-      "reserve": false,
-      "sos": false,
-      "fad": false,
-      "lieu": {
-        "nom": "La SPA - Refuge de Gennevilliers – Grammont",
-        "slug": "refuge-spa-de-gennevilliers-grammont",
-        "ville": "Gennevilliers",
-        "code_postal": "92230",
-        "departement": "92",
-        "latitude": 48.944706567958,
-        "longitude": 2.3035848619018,
-        "precision": "exacte",
-        "distance_km": 11.004464438564007,
-        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-gennevilliers-grammont/"
-      },
-      "description": "Nougatine & Capucine sont arrivées suite à un transfert d'une autre association.\nNougatine & Capucine sont deux loulous un peu timide qui recherche des adoptants doux et patients qui leur laisseront le temps d'évoluer à leur rythme.\nIls devront vivre en appartement, sans sortie extérieure et sans jeunes enfants.\nIls pourront être adoptés ensemble ou séparément mais la présence d'un premier chat,…",
-      "fiche_lue": true,
-      "portee": {
-        "id": "portee-3",
-        "taille": 6,
-        "disponibles": 6,
-        "confiance": "forte",
-        "indices": [
-          "même date de naissance",
-          "fratrie mentionnée",
-          "« ALONZO » cité·e dans la description",
-          "cité·e dans la description de « ALONZO »",
-          "cité·e dans la description de « BAMBINE »",
-          "« BAMBINE » cité·e dans la description"
-        ]
-      },
-      "nouveau": false
     },
     {
       "id": "laspa:242946",
@@ -389,7 +232,7 @@
       "sexe": "male",
       "age_categorie": "junior",
       "age_texte": null,
-      "age_mois": 3.859813210890562,
+      "age_mois": 3.8929757316145714,
       "age_source": "naissance",
       "age_conflit": null,
       "date_naissance": "2026-06-15",
@@ -413,12 +256,11 @@
       "fiche_lue": true,
       "portee": {
         "id": "portee-3",
-        "taille": 6,
-        "disponibles": 6,
+        "taille": 4,
+        "disponibles": 4,
         "confiance": "forte",
         "indices": [
           "même date de naissance",
-          "fratrie mentionnée",
           "« ALONZO » cité·e dans la description",
           "cité·e dans la description de « ALONZO »",
           "cité·e dans la description de « BAMBINE »",
@@ -441,7 +283,7 @@
       "sexe": "femelle",
       "age_categorie": "junior",
       "age_texte": null,
-      "age_mois": 3.859813210890562,
+      "age_mois": 3.8929757316145714,
       "age_source": "naissance",
       "age_conflit": null,
       "date_naissance": "2026-06-15",
@@ -465,12 +307,11 @@
       "fiche_lue": true,
       "portee": {
         "id": "portee-3",
-        "taille": 6,
-        "disponibles": 6,
+        "taille": 4,
+        "disponibles": 4,
         "confiance": "forte",
         "indices": [
           "même date de naissance",
-          "fratrie mentionnée",
           "« ALONZO » cité·e dans la description",
           "cité·e dans la description de « ALONZO »",
           "cité·e dans la description de « BAMBINE »",
@@ -493,7 +334,7 @@
       "sexe": "male",
       "age_categorie": "junior",
       "age_texte": null,
-      "age_mois": 3.859813210890562,
+      "age_mois": 3.8929757316145714,
       "age_source": "naissance",
       "age_conflit": null,
       "date_naissance": "2026-06-15",
@@ -517,12 +358,11 @@
       "fiche_lue": true,
       "portee": {
         "id": "portee-3",
-        "taille": 6,
-        "disponibles": 6,
+        "taille": 4,
+        "disponibles": 4,
         "confiance": "forte",
         "indices": [
           "même date de naissance",
-          "fratrie mentionnée",
           "« ALONZO » cité·e dans la description",
           "cité·e dans la description de « ALONZO »",
           "cité·e dans la description de « BAMBINE »",
@@ -545,7 +385,7 @@
       "sexe": "male",
       "age_categorie": "junior",
       "age_texte": null,
-      "age_mois": 3.859813210890562,
+      "age_mois": 3.8929757316145714,
       "age_source": "naissance",
       "age_conflit": null,
       "date_naissance": "2026-06-15",
@@ -569,12 +409,11 @@
       "fiche_lue": true,
       "portee": {
         "id": "portee-3",
-        "taille": 6,
-        "disponibles": 6,
+        "taille": 4,
+        "disponibles": 4,
         "confiance": "forte",
         "indices": [
           "même date de naissance",
-          "fratrie mentionnée",
           "« ALONZO » cité·e dans la description",
           "cité·e dans la description de « ALONZO »",
           "cité·e dans la description de « BAMBINE »",
@@ -582,147 +421,6 @@
         ]
       },
       "nouveau": false
-    },
-    {
-      "id": "laspa:249912",
-      "source": "laspa",
-      "source_label": "La SPA",
-      "source_id": "249912",
-      "uid": "animal-ava-pab30078",
-      "nom": "Ava PAB30078",
-      "url": "https://www.la-spa.fr/animal/ava-pab30078/",
-      "image": "https://www.la-spa.fr/app/app/uploads/animals/249912/ava-pab30078-249912-6ac932e59ddd2.jpg",
-      "espece": "chat",
-      "race": "Europeen",
-      "sexe": "femelle",
-      "age_categorie": "junior",
-      "age_texte": null,
-      "age_mois": 2.01997748193779,
-      "age_source": "naissance",
-      "age_conflit": null,
-      "date_naissance": "2026-08-10",
-      "date_publication": "2026-10-09",
-      "reserve": false,
-      "sos": false,
-      "fad": false,
-      "lieu": {
-        "nom": "La SPA - Refuge de Plaisir",
-        "slug": "refuge-spa-de-plaisir",
-        "ville": "Plaisir",
-        "code_postal": "78370",
-        "departement": "78",
-        "latitude": 48.799745,
-        "longitude": 1.931481,
-        "precision": "exacte",
-        "distance_km": 33.64370864577482,
-        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-plaisir/"
-      },
-      "description": null,
-      "fiche_lue": true,
-      "portee": {
-        "id": "portee-4",
-        "taille": 3,
-        "disponibles": 3,
-        "confiance": "forte",
-        "indices": [
-          "même date de naissance"
-        ]
-      },
-      "nouveau": true
-    },
-    {
-      "id": "laspa:249910",
-      "source": "laspa",
-      "source_label": "La SPA",
-      "source_id": "249910",
-      "uid": "animal-sadie-pab30076",
-      "nom": "Sadie PAB30076",
-      "url": "https://www.la-spa.fr/animal/sadie-pab30076/",
-      "image": "https://www.la-spa.fr/app/app/uploads/animals/249910/sadie-pab30076-249910-6ac930a585317.jpg",
-      "espece": "chat",
-      "race": "Europeen",
-      "sexe": "femelle",
-      "age_categorie": "junior",
-      "age_texte": null,
-      "age_mois": 2.01997748193779,
-      "age_source": "naissance",
-      "age_conflit": null,
-      "date_naissance": "2026-08-10",
-      "date_publication": "2026-10-09",
-      "reserve": false,
-      "sos": false,
-      "fad": false,
-      "lieu": {
-        "nom": "La SPA - Refuge de Plaisir",
-        "slug": "refuge-spa-de-plaisir",
-        "ville": "Plaisir",
-        "code_postal": "78370",
-        "departement": "78",
-        "latitude": 48.799745,
-        "longitude": 1.931481,
-        "precision": "exacte",
-        "distance_km": 33.64370864577482,
-        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-plaisir/"
-      },
-      "description": null,
-      "fiche_lue": true,
-      "portee": {
-        "id": "portee-4",
-        "taille": 3,
-        "disponibles": 3,
-        "confiance": "forte",
-        "indices": [
-          "même date de naissance"
-        ]
-      },
-      "nouveau": true
-    },
-    {
-      "id": "laspa:249909",
-      "source": "laspa",
-      "source_label": "La SPA",
-      "source_id": "249909",
-      "uid": "animal-ally-pab30075",
-      "nom": "Ally PAB30075",
-      "url": "https://www.la-spa.fr/animal/ally-pab30075/",
-      "image": "https://www.la-spa.fr/app/app/uploads/animals/249909/ally-pab30075-249909-6ac92fb4e4793.jpg",
-      "espece": "chat",
-      "race": "Europeen",
-      "sexe": "femelle",
-      "age_categorie": "junior",
-      "age_texte": null,
-      "age_mois": 2.01997748193779,
-      "age_source": "naissance",
-      "age_conflit": null,
-      "date_naissance": "2026-08-10",
-      "date_publication": "2026-10-09",
-      "reserve": false,
-      "sos": false,
-      "fad": false,
-      "lieu": {
-        "nom": "La SPA - Refuge de Plaisir",
-        "slug": "refuge-spa-de-plaisir",
-        "ville": "Plaisir",
-        "code_postal": "78370",
-        "departement": "78",
-        "latitude": 48.799745,
-        "longitude": 1.931481,
-        "precision": "exacte",
-        "distance_km": 33.64370864577482,
-        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-plaisir/"
-      },
-      "description": null,
-      "fiche_lue": true,
-      "portee": {
-        "id": "portee-4",
-        "taille": 3,
-        "disponibles": 3,
-        "confiance": "forte",
-        "indices": [
-          "même date de naissance"
-        ]
-      },
-      "nouveau": true
     },
     {
       "id": "laspa:248837",
@@ -738,7 +436,7 @@
       "sexe": "femelle",
       "age_categorie": "junior",
       "age_texte": null,
-      "age_mois": 3.859813210890562,
+      "age_mois": 3.8929757316145714,
       "age_source": "naissance",
       "age_conflit": null,
       "date_naissance": "2026-06-15",
@@ -776,14 +474,13 @@
         "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-gennevilliers-grammont/"
       },
       "date_naissance": "2026-06-15",
-      "age_mois": 3.761250582553806,
-      "taille": 6,
-      "annonces": 6,
-      "disponibles": 6,
+      "age_mois": 3.8929757316145714,
+      "taille": 4,
+      "annonces": 4,
+      "disponibles": 4,
       "confiance": "forte",
       "indices": [
         "même date de naissance",
-        "fratrie mentionnée",
         "« ALONZO » cité·e dans la description",
         "cité·e dans la description de « ALONZO »",
         "cité·e dans la description de « BAMBINE »",
@@ -793,85 +490,13 @@
         "laspa:242946",
         "laspa:242947",
         "laspa:246291",
-        "laspa:246293",
-        "laspa:246325",
-        "laspa:249125"
+        "laspa:246293"
       ],
       "noms": [
         "ALONZO",
         "BAMBINE",
         "BLINIS",
-        "BRIOCHE",
-        "HALLEBARDE",
-        "NOUGATINE"
-      ],
-      "sources": [
-        "La SPA"
-      ]
-    },
-    {
-      "id": "portee-4",
-      "source": "laspa",
-      "source_label": "La SPA",
-      "lieu": {
-        "nom": "La SPA - Refuge de Plaisir",
-        "ville": "Plaisir",
-        "departement": "78",
-        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-plaisir/"
-      },
-      "date_naissance": "2026-08-10",
-      "age_mois": 2.01997748193779,
-      "taille": 3,
-      "annonces": 3,
-      "disponibles": 3,
-      "confiance": "forte",
-      "indices": [
-        "même date de naissance"
-      ],
-      "membres": [
-        "laspa:249909",
-        "laspa:249910",
-        "laspa:249912"
-      ],
-      "noms": [
-        "Ally",
-        "Ava",
-        "Sadie"
-      ],
-      "sources": [
-        "La SPA"
-      ]
-    },
-    {
-      "id": "portee-2",
-      "source": "laspa",
-      "source_label": "La SPA",
-      "lieu": {
-        "nom": "La SPA - Refuge de Gennevilliers – Grammont",
-        "ville": "Gennevilliers",
-        "departement": "92",
-        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-gennevilliers-grammont/"
-      },
-      "date_naissance": "2026-07-01",
-      "age_mois": 3.3341458597611986,
-      "taille": 3,
-      "annonces": 3,
-      "disponibles": 3,
-      "confiance": "forte",
-      "indices": [
-        "même date de naissance",
-        "cité·e dans la description de « LOUPIOT »",
-        "« PETIOT » cité·e dans la description"
-      ],
-      "membres": [
-        "laspa:246296",
-        "laspa:249148",
-        "laspa:249149"
-      ],
-      "noms": [
-        "LOUPIOT",
-        "PETIOT",
-        "SUE"
+        "BRIOCHE"
       ],
       "sources": [
         "La SPA"
@@ -888,7 +513,7 @@
         "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-gennevilliers-grammont/"
       },
       "date_naissance": "2026-07-15",
-      "age_mois": 2.8741869275230054,
+      "age_mois": 2.907349448247015,
       "taille": 2,
       "annonces": 2,
       "disponibles": 2,
@@ -912,199 +537,40 @@
       "sources": [
         "La SPA"
       ]
+    },
+    {
+      "id": "portee-2",
+      "source": "laspa",
+      "source_label": "La SPA",
+      "lieu": {
+        "nom": "La SPA - Refuge de Gennevilliers – Grammont",
+        "ville": "Gennevilliers",
+        "departement": "92",
+        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-gennevilliers-grammont/"
+      },
+      "date_naissance": "2026-07-01",
+      "age_mois": 3.367308380485208,
+      "taille": 2,
+      "annonces": 2,
+      "disponibles": 2,
+      "confiance": "forte",
+      "indices": [
+        "même date de naissance"
+      ],
+      "membres": [
+        "laspa:246296",
+        "laspa:249149"
+      ],
+      "noms": [
+        "LOUPIOT",
+        "SUE"
+      ],
+      "sources": [
+        "La SPA"
+      ]
     }
   ],
   "nouveaux_arrivants": [
-    {
-      "id": "laspa:249912",
-      "source": "laspa",
-      "source_label": "La SPA",
-      "source_id": "249912",
-      "uid": "animal-ava-pab30078",
-      "nom": "Ava PAB30078",
-      "url": "https://www.la-spa.fr/animal/ava-pab30078/",
-      "image": "https://www.la-spa.fr/app/app/uploads/animals/249912/ava-pab30078-249912-6ac932e59ddd2.jpg",
-      "espece": "chat",
-      "race": "Europeen",
-      "sexe": "femelle",
-      "age_categorie": "junior",
-      "age_texte": null,
-      "age_mois": 2.01997748193779,
-      "age_source": "naissance",
-      "age_conflit": null,
-      "date_naissance": "2026-08-10",
-      "date_publication": "2026-10-09",
-      "reserve": false,
-      "sos": false,
-      "fad": false,
-      "lieu": {
-        "nom": "La SPA - Refuge de Plaisir",
-        "slug": "refuge-spa-de-plaisir",
-        "ville": "Plaisir",
-        "code_postal": "78370",
-        "departement": "78",
-        "latitude": 48.799745,
-        "longitude": 1.931481,
-        "precision": "exacte",
-        "distance_km": 33.64370864577482,
-        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-plaisir/"
-      },
-      "description": null,
-      "fiche_lue": true,
-      "portee": {
-        "id": "portee-4",
-        "taille": 3,
-        "disponibles": 3,
-        "confiance": "forte",
-        "indices": [
-          "même date de naissance"
-        ]
-      },
-      "nouveau": true
-    },
-    {
-      "id": "laspa:249910",
-      "source": "laspa",
-      "source_label": "La SPA",
-      "source_id": "249910",
-      "uid": "animal-sadie-pab30076",
-      "nom": "Sadie PAB30076",
-      "url": "https://www.la-spa.fr/animal/sadie-pab30076/",
-      "image": "https://www.la-spa.fr/app/app/uploads/animals/249910/sadie-pab30076-249910-6ac930a585317.jpg",
-      "espece": "chat",
-      "race": "Europeen",
-      "sexe": "femelle",
-      "age_categorie": "junior",
-      "age_texte": null,
-      "age_mois": 2.01997748193779,
-      "age_source": "naissance",
-      "age_conflit": null,
-      "date_naissance": "2026-08-10",
-      "date_publication": "2026-10-09",
-      "reserve": false,
-      "sos": false,
-      "fad": false,
-      "lieu": {
-        "nom": "La SPA - Refuge de Plaisir",
-        "slug": "refuge-spa-de-plaisir",
-        "ville": "Plaisir",
-        "code_postal": "78370",
-        "departement": "78",
-        "latitude": 48.799745,
-        "longitude": 1.931481,
-        "precision": "exacte",
-        "distance_km": 33.64370864577482,
-        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-plaisir/"
-      },
-      "description": null,
-      "fiche_lue": true,
-      "portee": {
-        "id": "portee-4",
-        "taille": 3,
-        "disponibles": 3,
-        "confiance": "forte",
-        "indices": [
-          "même date de naissance"
-        ]
-      },
-      "nouveau": true
-    },
-    {
-      "id": "laspa:249909",
-      "source": "laspa",
-      "source_label": "La SPA",
-      "source_id": "249909",
-      "uid": "animal-ally-pab30075",
-      "nom": "Ally PAB30075",
-      "url": "https://www.la-spa.fr/animal/ally-pab30075/",
-      "image": "https://www.la-spa.fr/app/app/uploads/animals/249909/ally-pab30075-249909-6ac92fb4e4793.jpg",
-      "espece": "chat",
-      "race": "Europeen",
-      "sexe": "femelle",
-      "age_categorie": "junior",
-      "age_texte": null,
-      "age_mois": 2.01997748193779,
-      "age_source": "naissance",
-      "age_conflit": null,
-      "date_naissance": "2026-08-10",
-      "date_publication": "2026-10-09",
-      "reserve": false,
-      "sos": false,
-      "fad": false,
-      "lieu": {
-        "nom": "La SPA - Refuge de Plaisir",
-        "slug": "refuge-spa-de-plaisir",
-        "ville": "Plaisir",
-        "code_postal": "78370",
-        "departement": "78",
-        "latitude": 48.799745,
-        "longitude": 1.931481,
-        "precision": "exacte",
-        "distance_km": 33.64370864577482,
-        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-plaisir/"
-      },
-      "description": null,
-      "fiche_lue": true,
-      "portee": {
-        "id": "portee-4",
-        "taille": 3,
-        "disponibles": 3,
-        "confiance": "forte",
-        "indices": [
-          "même date de naissance"
-        ]
-      },
-      "nouveau": true
-    },
-    {
-      "id": "laspa:249148",
-      "source": "laspa",
-      "source_label": "La SPA",
-      "source_id": "249148",
-      "uid": "animal-petiot",
-      "nom": "PETIOT",
-      "url": "https://www.la-spa.fr/animal/petiot/",
-      "image": "https://www.la-spa.fr/app/app/uploads/animals/249148/petiot-249148-6ac64bbd9e1a8.jpg",
-      "espece": "chat",
-      "race": "Europeen",
-      "sexe": "male",
-      "age_categorie": "junior",
-      "age_texte": null,
-      "age_mois": 3.3341458597611986,
-      "age_source": "naissance",
-      "age_conflit": null,
-      "date_naissance": "2026-07-01",
-      "date_publication": "2026-10-07",
-      "reserve": false,
-      "sos": false,
-      "fad": false,
-      "lieu": {
-        "nom": "La SPA - Refuge de Gennevilliers – Grammont",
-        "slug": "refuge-spa-de-gennevilliers-grammont",
-        "ville": "Gennevilliers",
-        "code_postal": "92230",
-        "departement": "92",
-        "latitude": 48.944706567958,
-        "longitude": 2.3035848619018,
-        "precision": "exacte",
-        "distance_km": 11.004464438564007,
-        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-gennevilliers-grammont/"
-      },
-      "description": "Actuellement en traitement contre la teigne. Le traitement sera fourni. Tout vous sera expliqué directement au refuge.\nPetiot arrive de fourrière animale. Nous ne connaissons donc rien de sa vie précédente.\nPetiot est un adorable loulou qui recherche des adoptants doux et patients qui lui laisseront le temps d'évoluer à son rythme.\nPetiot devra vivre en appartement, sans sortie extérieure et sans…",
-      "fiche_lue": true,
-      "portee": {
-        "id": "portee-2",
-        "taille": 3,
-        "disponibles": 3,
-        "confiance": "forte",
-        "indices": [
-          "même date de naissance",
-          "cité·e dans la description de « LOUPIOT »",
-          "« PETIOT » cité·e dans la description"
-        ]
-      },
-      "nouveau": true
-    },
     {
       "id": "laspa:249149",
       "source": "laspa",
@@ -1119,7 +585,7 @@
       "sexe": "male",
       "age_categorie": "junior",
       "age_texte": null,
-      "age_mois": 3.3341458597611986,
+      "age_mois": 3.367308380485208,
       "age_source": "naissance",
       "age_conflit": null,
       "date_naissance": "2026-07-01",
@@ -1143,65 +609,11 @@
       "fiche_lue": true,
       "portee": {
         "id": "portee-2",
-        "taille": 3,
-        "disponibles": 3,
+        "taille": 2,
+        "disponibles": 2,
         "confiance": "forte",
         "indices": [
-          "même date de naissance",
-          "cité·e dans la description de « LOUPIOT »",
-          "« PETIOT » cité·e dans la description"
-        ]
-      },
-      "nouveau": true
-    },
-    {
-      "id": "laspa:249125",
-      "source": "laspa",
-      "source_label": "La SPA",
-      "source_id": "249125",
-      "uid": "animal-hallebarde",
-      "nom": "HALLEBARDE",
-      "url": "https://www.la-spa.fr/animal/hallebarde/",
-      "image": "https://www.la-spa.fr/app/app/uploads/animals/249125/hallebarde-249125-6ac647185e4e7.jpg",
-      "espece": "chat",
-      "race": "Europeen",
-      "sexe": "femelle",
-      "age_categorie": "junior",
-      "age_texte": null,
-      "age_mois": 3.761250582553806,
-      "age_source": "naissance",
-      "age_conflit": null,
-      "date_naissance": "2026-06-18",
-      "date_publication": "2026-10-07",
-      "reserve": false,
-      "sos": false,
-      "fad": false,
-      "lieu": {
-        "nom": "La SPA - Refuge de Gennevilliers – Grammont",
-        "slug": "refuge-spa-de-gennevilliers-grammont",
-        "ville": "Gennevilliers",
-        "code_postal": "92230",
-        "departement": "92",
-        "latitude": 48.944706567958,
-        "longitude": 2.3035848619018,
-        "precision": "exacte",
-        "distance_km": 11.004464438564007,
-        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-gennevilliers-grammont/"
-      },
-      "description": "Hallebarde a été abandonné directement au refuge avec sa mère.\nHallebarde est un gentil petit chaton qui recherche des adoptants doux et patients qui lui laisseront le temps d'évoluer à son rythme.\nHallebarde est en traitement contre la teigne. Le traitement sera fourni et tout vous sera expliqué au refuge.\nVenez vite le rencontrer !",
-      "fiche_lue": true,
-      "portee": {
-        "id": "portee-3",
-        "taille": 6,
-        "disponibles": 6,
-        "confiance": "forte",
-        "indices": [
-          "même date de naissance",
-          "fratrie mentionnée",
-          "« ALONZO » cité·e dans la description",
-          "cité·e dans la description de « ALONZO »",
-          "cité·e dans la description de « BAMBINE »",
-          "« BAMBINE » cité·e dans la description"
+          "même date de naissance"
         ]
       },
       "nouveau": true
@@ -1220,7 +632,7 @@
       "sexe": "femelle",
       "age_categorie": "junior",
       "age_texte": null,
-      "age_mois": 3.859813210890562,
+      "age_mois": 3.8929757316145714,
       "age_source": "naissance",
       "age_conflit": null,
       "date_naissance": "2026-06-15",
@@ -1250,10 +662,10 @@
     "sources": {
       "laspa": {
         "pages": 1,
-        "total_site": 166,
-        "dans_zone": 116,
-        "fiches": 6,
-        "fiches_cache": 45,
+        "total_site": 148,
+        "dans_zone": 102,
+        "fiches": 0,
+        "fiches_cache": 41,
         "erreurs": 0
       },
       "secondechance": {
@@ -1267,10 +679,10 @@
         "pages_tronquees": 0
       }
     },
-    "requests": 18,
+    "requests": 12,
     "retries": 0,
-    "duree_s": 10.3,
-    "annonces_zone": 116
+    "duree_s": 8.8,
+    "annonces_zone": 102
   },
   "erreurs": []
 }
