@@ -1,4 +1,4 @@
-# Annonces chatons — lundi 12 octobre 2026
+# Annonces chatons — mardi 13 octobre 2026
 
 ## 🐾 Chatons de moins de 4 mois (8)
 
@@ -36,4 +36,4 @@
 _🆕 = 1 nouveau chaton (mis en ligne depuis 7 jours ou jamais vus)._
 
 ---
-_Zone : 50 km autour de Paris 11e Arrondissement · Sources : La SPA + Seconde Chance · 13 requêtes HTTP_
+_Zone : 50 km autour de Paris 11e Arrondissement · Sources : La SPA + Seconde Chance · 14 requêtes HTTP_

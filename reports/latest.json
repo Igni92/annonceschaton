@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-12T13:54:19.082Z",
+  "date": "2026-10-13T13:11:17.796Z",
   "zone": {
     "mode": "rayon",
     "label": "50 km autour de Paris 11e Arrondissement",
@@ -34,7 +34,7 @@
       "sexe": "femelle",
       "age_categorie": "junior",
       "age_texte": null,
-      "age_mois": 2.9430599596927522,
+      "age_mois": 2.974932616929044,
       "age_source": "naissance",
       "age_conflit": null,
       "date_naissance": "2026-07-15",
@@ -86,7 +86,7 @@
       "sexe": "femelle",
       "age_categorie": "junior",
       "age_texte": null,
-      "age_mois": 2.9430599596927522,
+      "age_mois": 2.974932616929044,
       "age_source": "naissance",
       "age_conflit": null,
       "date_naissance": "2026-07-15",
@@ -138,7 +138,7 @@
       "sexe": "femelle",
       "age_categorie": "junior",
       "age_texte": null,
-      "age_mois": 3.403018891930945,
+      "age_mois": 3.4348915491672374,
       "age_source": "naissance",
       "age_conflit": null,
       "date_naissance": "2026-07-01",
@@ -177,7 +177,7 @@
       "sexe": "male",
       "age_categorie": "junior",
       "age_texte": null,
-      "age_mois": 3.9286862430603087,
+      "age_mois": 3.9605589002966006,
       "age_source": "naissance",
       "age_conflit": null,
       "date_naissance": "2026-06-15",
@@ -228,7 +228,7 @@
       "sexe": "femelle",
       "age_categorie": "junior",
       "age_texte": null,
-      "age_mois": 3.9286862430603087,
+      "age_mois": 3.9605589002966006,
       "age_source": "naissance",
       "age_conflit": null,
       "date_naissance": "2026-06-15",
@@ -279,7 +279,7 @@
       "sexe": "male",
       "age_categorie": "junior",
       "age_texte": null,
-      "age_mois": 3.9286862430603087,
+      "age_mois": 3.9605589002966006,
       "age_source": "naissance",
       "age_conflit": null,
       "date_naissance": "2026-06-15",
@@ -330,7 +330,7 @@
       "sexe": "male",
       "age_categorie": "junior",
       "age_texte": null,
-      "age_mois": 3.9286862430603087,
+      "age_mois": 3.9605589002966006,
       "age_source": "naissance",
       "age_conflit": null,
       "date_naissance": "2026-06-15",
@@ -381,7 +381,7 @@
       "sexe": "femelle",
       "age_categorie": "junior",
       "age_texte": null,
-      "age_mois": 3.9286862430603087,
+      "age_mois": 3.9605589002966006,
       "age_source": "naissance",
       "age_conflit": null,
       "date_naissance": "2026-06-15",
@@ -419,7 +419,7 @@
         "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-gennevilliers-grammont/"
       },
       "date_naissance": "2026-06-15",
-      "age_mois": 3.9286862430603087,
+      "age_mois": 3.9605589002966006,
       "taille": 4,
       "annonces": 4,
       "disponibles": 4,
@@ -458,7 +458,7 @@
         "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-gennevilliers-grammont/"
       },
       "date_naissance": "2026-07-15",
-      "age_mois": 2.9430599596927522,
+      "age_mois": 2.974932616929044,
       "taille": 2,
       "annonces": 2,
       "disponibles": 2,
@@ -499,7 +499,7 @@
       "sexe": "femelle",
       "age_categorie": "junior",
       "age_texte": null,
-      "age_mois": 3.9286862430603087,
+      "age_mois": 3.9605589002966006,
       "age_source": "naissance",
       "age_conflit": null,
       "date_naissance": "2026-06-15",
@@ -529,10 +529,10 @@
     "sources": {
       "laspa": {
         "pages": 1,
-        "total_site": 142,
-        "dans_zone": 97,
-        "fiches": 1,
-        "fiches_cache": 37,
+        "total_site": 150,
+        "dans_zone": 101,
+        "fiches": 2,
+        "fiches_cache": 38,
         "erreurs": 0
       },
       "secondechance": {
@@ -546,10 +546,10 @@
         "pages_tronquees": 0
       }
     },
-    "requests": 13,
+    "requests": 14,
     "retries": 0,
-    "duree_s": 11.1,
-    "annonces_zone": 97
+    "duree_s": 7.5,
+    "annonces_zone": 101
   },
   "erreurs": []
 }
