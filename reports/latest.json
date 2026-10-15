@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-14T10:52:05.729Z",
+  "date": "2026-10-15T10:33:58.049Z",
   "zone": {
     "mode": "rayon",
     "label": "50 km autour de Paris 11e Arrondissement",
@@ -34,7 +34,7 @@
       "sexe": "femelle",
       "age_categorie": "junior",
       "age_texte": null,
-      "age_mois": 3.0046108939843337,
+      "age_mois": 3.0370515054376757,
       "age_source": "naissance",
       "age_conflit": null,
       "date_naissance": "2026-07-15",
@@ -86,7 +86,7 @@
       "sexe": "femelle",
       "age_categorie": "junior",
       "age_texte": null,
-      "age_mois": 3.0046108939843337,
+      "age_mois": 3.0370515054376757,
       "age_source": "naissance",
       "age_conflit": null,
       "date_naissance": "2026-07-15",
@@ -138,7 +138,7 @@
       "sexe": "femelle",
       "age_categorie": "junior",
       "age_texte": null,
-      "age_mois": 3.4645698262225264,
+      "age_mois": 3.497010437675869,
       "age_source": "naissance",
       "age_conflit": null,
       "date_naissance": "2026-07-01",
@@ -160,28 +160,36 @@
       },
       "description": "Adopter un chaton est un engagement sur de nombreuses années. Cela demande du temps, de la patience, de l’attention et un budget pour assurer sa santé et son bien-être tout au long de sa vie.\nSue est une minette timide qui recherche des adoptants doux et patients qui lui laisseront le temps d'évoluer à son rythme.\nLa présence d'un premier chat vacciné, identifié et stérilisé sera obligatoire pour…",
       "fiche_lue": true,
-      "portee": null,
+      "portee": {
+        "id": "portee-2",
+        "taille": 2,
+        "disponibles": 2,
+        "confiance": "forte",
+        "indices": [
+          "même date de naissance"
+        ]
+      },
       "nouveau": false
     },
     {
-      "id": "laspa:251093",
+      "id": "laspa:251439",
       "source": "laspa",
       "source_label": "La SPA",
-      "source_id": "251093",
-      "uid": "animal-kera",
-      "nom": "KERA",
-      "url": "https://www.la-spa.fr/animal/kera/",
-      "image": "https://www.la-spa.fr/app/app/uploads/animals/251093/kera-251093-6ace589a6f1a4.jpg",
+      "source_id": "251439",
+      "uid": "animal-fraoudel",
+      "nom": "FRAOUDEL",
+      "url": "https://www.la-spa.fr/animal/fraoudel/",
+      "image": "https://www.la-spa.fr/app/app/uploads/animals/251439/fraoudel-251439-6acfa43a14443.jpg",
       "espece": "chat",
       "race": "Europeen",
-      "sexe": "femelle",
+      "sexe": "male",
       "age_categorie": "junior",
       "age_texte": null,
-      "age_mois": 3.694549292341623,
+      "age_mois": 3.497010437675869,
       "age_source": "naissance",
       "age_conflit": null,
-      "date_naissance": "2026-06-24",
-      "date_publication": "2026-10-13",
+      "date_naissance": "2026-07-01",
+      "date_publication": "2026-10-14",
       "reserve": false,
       "sos": false,
       "fad": false,
@@ -197,214 +205,65 @@
         "distance_km": 11.004464438564007,
         "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-gennevilliers-grammont/"
       },
-      "description": "Kera profite d'un transfert et arrive de Martinique pour tenter sa chance en métropole.\nKera est une chatonne timide qui recherche des adoptants doux et patients qui lui laisseront le temps d'évoluer à son rythme.\nLa présence d'un premier chat vacciné, identifié et stérilisé serait un plus pour son bon développement.\nVenez vite la rencontrer !",
+      "description": "Fraoudel est un chaton trouvé sur la voie publique. Nous ne savons donc rien de son début de vie. Il est désormais prêt pour sa nouvelle vie dans une famille aimante et surtout très investie et connaissant bien les félins. Un premier chat sympa au domicile serait un plus car il n’a pas encore tous les codes félins. Il peut en effet grignoter voire mordre (sans agressivité) et sauter sur tout ce q…",
       "fiche_lue": true,
-      "portee": null,
+      "portee": {
+        "id": "portee-2",
+        "taille": 2,
+        "disponibles": 2,
+        "confiance": "forte",
+        "indices": [
+          "même date de naissance"
+        ]
+      },
       "nouveau": true
     },
     {
-      "id": "laspa:242946",
+      "id": "laspa:251512",
       "source": "laspa",
       "source_label": "La SPA",
-      "source_id": "242946",
-      "uid": "animal-blinis",
-      "nom": "BLINIS",
-      "url": "https://www.la-spa.fr/animal/blinis/",
-      "image": "https://www.la-spa.fr/app/app/uploads/animals/242946/blinis-242946-6ab15868ef1a9.jpg",
-      "espece": "chat",
-      "race": "Europeen",
-      "sexe": "male",
-      "age_categorie": "junior",
-      "age_texte": null,
-      "age_mois": 3.99023717735189,
-      "age_source": "naissance",
-      "age_conflit": null,
-      "date_naissance": "2026-06-15",
-      "date_publication": "2026-09-21",
-      "reserve": false,
-      "sos": false,
-      "fad": false,
-      "lieu": {
-        "nom": "La SPA - Refuge de Gennevilliers – Grammont",
-        "slug": "refuge-spa-de-gennevilliers-grammont",
-        "ville": "Gennevilliers",
-        "code_postal": "92230",
-        "departement": "92",
-        "latitude": 48.944706567958,
-        "longitude": 2.3035848619018,
-        "precision": "exacte",
-        "distance_km": 11.004464438564007,
-        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-gennevilliers-grammont/"
-      },
-      "description": "Blinis est un chaton arrivé au refuge par la fourrière animale. Nous ne connaissons donc rien de sa courte vie.\nBlinis est un petit craintif qui recherche des adoptants doux et patients, prêts à lui laisser le temps d’évoluer à son rythme.\nLa présence d’un premier chat au foyer (vacciné, identifié et stérilisé) sera indispensable pour son bon développement.\nIl devra vivre en appartement, sans acc…",
-      "fiche_lue": true,
-      "portee": {
-        "id": "portee-2",
-        "taille": 4,
-        "disponibles": 4,
-        "confiance": "forte",
-        "indices": [
-          "même date de naissance",
-          "« ALONZO » cité·e dans la description",
-          "cité·e dans la description de « ALONZO »",
-          "cité·e dans la description de « BAMBINE »",
-          "« BAMBINE » cité·e dans la description"
-        ]
-      },
-      "nouveau": false
-    },
-    {
-      "id": "laspa:242947",
-      "source": "laspa",
-      "source_label": "La SPA",
-      "source_id": "242947",
-      "uid": "animal-brioche",
-      "nom": "BRIOCHE",
-      "url": "https://www.la-spa.fr/animal/brioche/",
-      "image": "https://www.la-spa.fr/app/app/uploads/animals/242947/brioche-242947-6ab158ad840fe.jpg",
+      "source_id": "251512",
+      "uid": "animal-mozzarella-cha",
+      "nom": "MOZZARELLA CHA",
+      "url": "https://www.la-spa.fr/animal/mozzarella-cha/",
+      "image": "https://www.la-spa.fr/app/app/uploads/animals/251512/mozzarella-cha-251512-6acfe5729a080.jpg",
       "espece": "chat",
       "race": "Europeen",
       "sexe": "femelle",
       "age_categorie": "junior",
       "age_texte": null,
-      "age_mois": 3.99023717735189,
+      "age_mois": 2.0514252220701192,
       "age_source": "naissance",
       "age_conflit": null,
-      "date_naissance": "2026-06-15",
-      "date_publication": "2026-09-21",
+      "date_naissance": "2026-08-14",
+      "date_publication": "2026-10-14",
       "reserve": false,
       "sos": false,
       "fad": false,
       "lieu": {
-        "nom": "La SPA - Refuge de Gennevilliers – Grammont",
-        "slug": "refuge-spa-de-gennevilliers-grammont",
-        "ville": "Gennevilliers",
-        "code_postal": "92230",
-        "departement": "92",
-        "latitude": 48.944706567958,
-        "longitude": 2.3035848619018,
+        "nom": "La SPA - Refuge de Chamarande",
+        "slug": "refuge-spa-de-chamarande",
+        "ville": "Chamarande",
+        "code_postal": "91730",
+        "departement": "91",
+        "latitude": 48.533724,
+        "longitude": 2.209265,
         "precision": "exacte",
-        "distance_km": 11.004464438564007,
-        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-gennevilliers-grammont/"
+        "distance_km": 38.44465971246643,
+        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-chamarande/"
       },
-      "description": "Brioche est une chatonne arrivé au refuge par la fourrière animale. Nous ne connaissons donc rien de sa courte vie.\nBrioche est une petite craintive qui recherche des adoptants doux et patients, prêts à lui laisser le temps d’évoluer à son rythme.\nLa présence d’un premier chat au foyer (vacciné, identifié et stérilisé) sera indispensable pour son bon développement.\nElle devra vivre en appartement…",
+      "description": "Mozzarella vient tout juste d'arriver au refuge, elle semble être mignonne et sociable.\nElle pourra vivre en appartement supérieur à 50m² ou en maison",
       "fiche_lue": true,
       "portee": {
-        "id": "portee-2",
-        "taille": 4,
-        "disponibles": 4,
+        "id": "portee-3",
+        "taille": 3,
+        "disponibles": 3,
         "confiance": "forte",
         "indices": [
-          "même date de naissance",
-          "« ALONZO » cité·e dans la description",
-          "cité·e dans la description de « ALONZO »",
-          "cité·e dans la description de « BAMBINE »",
-          "« BAMBINE » cité·e dans la description"
+          "même date de naissance"
         ]
       },
-      "nouveau": false
-    },
-    {
-      "id": "laspa:246291",
-      "source": "laspa",
-      "source_label": "La SPA",
-      "source_id": "246291",
-      "uid": "animal-bambine",
-      "nom": "BAMBINE",
-      "url": "https://www.la-spa.fr/animal/bambine/",
-      "image": "https://www.la-spa.fr/app/app/uploads/animals/246291/bambine-246291-6abcf76e5c9b4.jpg",
-      "espece": "chat",
-      "race": "Europeen",
-      "sexe": "male",
-      "age_categorie": "junior",
-      "age_texte": null,
-      "age_mois": 3.99023717735189,
-      "age_source": "naissance",
-      "age_conflit": null,
-      "date_naissance": "2026-06-15",
-      "date_publication": "2026-09-30",
-      "reserve": false,
-      "sos": true,
-      "fad": false,
-      "lieu": {
-        "nom": "La SPA - Refuge de Gennevilliers – Grammont",
-        "slug": "refuge-spa-de-gennevilliers-grammont",
-        "ville": "Gennevilliers",
-        "code_postal": "92230",
-        "departement": "92",
-        "latitude": 48.944706567958,
-        "longitude": 2.3035848619018,
-        "precision": "exacte",
-        "distance_km": 11.004464438564007,
-        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-gennevilliers-grammont/"
-      },
-      "description": "Bambine et Alonzo sont arrivés suite à un transfert d'une autre association.\nBambine et Alonzo sont deux loulous un peu timide qui recherche des adoptants doux et patients qui leur laisseront le temps d'évoluer à leur rythme.\nBambine et Alonzo sont en sos car ils ont chacun une gingivite. Ils devront vivre en appartement, sans sortie extérieure et sans jeunes enfants.\nVenez vite les rencontrer !",
-      "fiche_lue": true,
-      "portee": {
-        "id": "portee-2",
-        "taille": 4,
-        "disponibles": 4,
-        "confiance": "forte",
-        "indices": [
-          "même date de naissance",
-          "« ALONZO » cité·e dans la description",
-          "cité·e dans la description de « ALONZO »",
-          "cité·e dans la description de « BAMBINE »",
-          "« BAMBINE » cité·e dans la description"
-        ]
-      },
-      "nouveau": false
-    },
-    {
-      "id": "laspa:246293",
-      "source": "laspa",
-      "source_label": "La SPA",
-      "source_id": "246293",
-      "uid": "animal-alonzo",
-      "nom": "ALONZO",
-      "url": "https://www.la-spa.fr/animal/alonzo/",
-      "image": "https://www.la-spa.fr/app/app/uploads/animals/246293/alonzo-246293-6abcf75e6610d.jpg",
-      "espece": "chat",
-      "race": "Europeen",
-      "sexe": "male",
-      "age_categorie": "junior",
-      "age_texte": null,
-      "age_mois": 3.99023717735189,
-      "age_source": "naissance",
-      "age_conflit": null,
-      "date_naissance": "2026-06-15",
-      "date_publication": "2026-09-30",
-      "reserve": false,
-      "sos": true,
-      "fad": false,
-      "lieu": {
-        "nom": "La SPA - Refuge de Gennevilliers – Grammont",
-        "slug": "refuge-spa-de-gennevilliers-grammont",
-        "ville": "Gennevilliers",
-        "code_postal": "92230",
-        "departement": "92",
-        "latitude": 48.944706567958,
-        "longitude": 2.3035848619018,
-        "precision": "exacte",
-        "distance_km": 11.004464438564007,
-        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-gennevilliers-grammont/"
-      },
-      "description": "Bambine et Alonzo sont arrivés suite à un transfert d'une autre association.\nBambine et Alonzo sont deux loulous un peu timide qui recherche des adoptants doux et patients qui leur laisseront le temps d'évoluer à leur rythme.\nBambine et Alonzo sont en sos car ils ont chacun une gingivite. Ils devront vivre en appartement, sans sortie extérieure et sans jeunes enfants.\nVenez vite les rencontrer !",
-      "fiche_lue": true,
-      "portee": {
-        "id": "portee-2",
-        "taille": 4,
-        "disponibles": 4,
-        "confiance": "forte",
-        "indices": [
-          "même date de naissance",
-          "« ALONZO » cité·e dans la description",
-          "cité·e dans la description de « ALONZO »",
-          "cité·e dans la description de « BAMBINE »",
-          "« BAMBINE » cité·e dans la description"
-        ]
-      },
-      "nouveau": false
+      "nouveau": true
     },
     {
       "id": "laspa:251237",
@@ -414,13 +273,13 @@
       "uid": "animal-rose-cha",
       "nom": "ROSE CHA",
       "url": "https://www.la-spa.fr/animal/rose-cha/",
-      "image": "https://www.la-spa.fr/app/app/uploads/animals/251237/rose-cha-251237-6acf3e6d3a745.jpg",
+      "image": "https://www.la-spa.fr/app/app/uploads/animals/251237/rose-cha-251237-6acfe6486df98.jpg",
       "espece": "chat",
       "race": "Europeen",
       "sexe": "femelle",
       "age_categorie": "junior",
       "age_texte": null,
-      "age_mois": 2.051838820062362,
+      "age_mois": 2.0842794315157045,
       "age_source": "naissance",
       "age_conflit": null,
       "date_naissance": "2026-08-13",
@@ -440,9 +299,64 @@
         "distance_km": 38.44465971246643,
         "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-chamarande/"
       },
-      "description": null,
+      "description": "Rose est une chatonne timide au premier abord, elle aura besoin d'un foyer calme.\nElle pourra vivre en appartement supérieur à 50m² ou en maison.",
       "fiche_lue": true,
-      "portee": null,
+      "portee": {
+        "id": "portee-3",
+        "taille": 3,
+        "disponibles": 3,
+        "confiance": "forte",
+        "indices": [
+          "même date de naissance"
+        ]
+      },
+      "nouveau": true
+    },
+    {
+      "id": "laspa:251511",
+      "source": "laspa",
+      "source_label": "La SPA",
+      "source_id": "251511",
+      "uid": "animal-palawan-cha",
+      "nom": "PALAWAN CHA",
+      "url": "https://www.la-spa.fr/animal/palawan-cha/",
+      "image": "https://www.la-spa.fr/app/app/uploads/animals/251511/palawan-cha-251511-6acfe53eb3b4f.jpg",
+      "espece": "chat",
+      "race": "Europeen",
+      "sexe": "male",
+      "age_categorie": "junior",
+      "age_texte": null,
+      "age_mois": 2.1828420598524603,
+      "age_source": "naissance",
+      "age_conflit": null,
+      "date_naissance": "2026-08-10",
+      "date_publication": "2026-10-14",
+      "reserve": false,
+      "sos": false,
+      "fad": false,
+      "lieu": {
+        "nom": "La SPA - Refuge de Chamarande",
+        "slug": "refuge-spa-de-chamarande",
+        "ville": "Chamarande",
+        "code_postal": "91730",
+        "departement": "91",
+        "latitude": 48.533724,
+        "longitude": 2.209265,
+        "precision": "exacte",
+        "distance_km": 38.44465971246643,
+        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-chamarande/"
+      },
+      "description": "palawan et un petit chaton discret et timide au premier abord, une fois qu'il prend confiance il devient très proche de son humain.\nPalawan pourra partager son foyer avec des grands enfants calmes et respectueux.\nIl pourra vivre en appartement supérieur à 50m² ou en maison.",
+      "fiche_lue": true,
+      "portee": {
+        "id": "portee-3",
+        "taille": 3,
+        "disponibles": 3,
+        "confiance": "forte",
+        "indices": [
+          "même date de naissance"
+        ]
+      },
       "nouveau": true
     },
     {
@@ -459,7 +373,7 @@
       "sexe": "femelle",
       "age_categorie": "junior",
       "age_texte": null,
-      "age_mois": 2.774631427865237,
+      "age_mois": 2.8070720393185793,
       "age_source": "naissance",
       "age_conflit": null,
       "date_naissance": "2026-07-22",
@@ -482,56 +396,9 @@
       "description": null,
       "fiche_lue": true,
       "portee": {
-        "id": "portee-3",
-        "taille": 4,
-        "disponibles": 4,
-        "confiance": "forte",
-        "indices": [
-          "même date de naissance"
-        ]
-      },
-      "nouveau": true
-    },
-    {
-      "id": "laspa:251257",
-      "source": "laspa",
-      "source_label": "La SPA",
-      "source_id": "251257",
-      "uid": "animal-recit-c",
-      "nom": "RÉCIT C",
-      "url": "https://www.la-spa.fr/animal/recit-c/",
-      "image": "https://www.la-spa.fr/app/app/uploads/animals/251257/recit-c-251257-6acf486a0e105.jpg",
-      "espece": "chat",
-      "race": "Europeen",
-      "sexe": "femelle",
-      "age_categorie": "junior",
-      "age_texte": null,
-      "age_mois": 2.774631427865237,
-      "age_source": "naissance",
-      "age_conflit": null,
-      "date_naissance": "2026-07-22",
-      "date_publication": "2026-10-14",
-      "reserve": false,
-      "sos": false,
-      "fad": false,
-      "lieu": {
-        "nom": "La SPA - Refuge de Vaux-Le-Penil",
-        "slug": "refuge-spa-de-vaux-le-penil",
-        "ville": "Vaux-Le-Pénil",
-        "code_postal": "77000",
-        "departement": "77",
-        "latitude": 48.520575,
-        "longitude": 2.718874,
-        "precision": "exacte",
-        "distance_km": 45.142564706391916,
-        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-vaux-le-penil/"
-      },
-      "description": null,
-      "fiche_lue": true,
-      "portee": {
-        "id": "portee-3",
-        "taille": 4,
-        "disponibles": 4,
+        "id": "portee-4",
+        "taille": 3,
+        "disponibles": 3,
         "confiance": "forte",
         "indices": [
           "même date de naissance"
@@ -553,7 +420,7 @@
       "sexe": "femelle",
       "age_categorie": "junior",
       "age_texte": null,
-      "age_mois": 2.774631427865237,
+      "age_mois": 2.8070720393185793,
       "age_source": "naissance",
       "age_conflit": null,
       "date_naissance": "2026-07-22",
@@ -576,9 +443,9 @@
       "description": null,
       "fiche_lue": true,
       "portee": {
-        "id": "portee-3",
-        "taille": 4,
-        "disponibles": 4,
+        "id": "portee-4",
+        "taille": 3,
+        "disponibles": 3,
         "confiance": "forte",
         "indices": [
           "même date de naissance"
@@ -600,7 +467,7 @@
       "sexe": "femelle",
       "age_categorie": "junior",
       "age_texte": null,
-      "age_mois": 2.774631427865237,
+      "age_mois": 2.8070720393185793,
       "age_source": "naissance",
       "age_conflit": null,
       "date_naissance": "2026-07-22",
@@ -623,59 +490,53 @@
       "description": null,
       "fiche_lue": true,
       "portee": {
-        "id": "portee-3",
-        "taille": 4,
-        "disponibles": 4,
+        "id": "portee-4",
+        "taille": 3,
+        "disponibles": 3,
         "confiance": "forte",
         "indices": [
           "même date de naissance"
         ]
       },
       "nouveau": true
-    },
-    {
-      "id": "laspa:248837",
-      "source": "laspa",
-      "source_label": "La SPA",
-      "source_id": "248837",
-      "uid": "animal-ylona-c",
-      "nom": "YLONA C",
-      "url": "https://www.la-spa.fr/animal/ylona-c/",
-      "image": "https://www.la-spa.fr/app/app/uploads/animals/248837/ylona-c-248837-6ac4fdcae8f29.jpg",
-      "espece": "chat",
-      "race": "Europeen",
-      "sexe": "femelle",
-      "age_categorie": "junior",
-      "age_texte": null,
-      "age_mois": 3.99023717735189,
-      "age_source": "naissance",
-      "age_conflit": null,
-      "date_naissance": "2026-06-15",
-      "date_publication": "2026-10-06",
-      "reserve": false,
-      "sos": false,
-      "fad": false,
-      "lieu": {
-        "nom": "La SPA - Refuge de Vaux-Le-Penil",
-        "slug": "refuge-spa-de-vaux-le-penil",
-        "ville": "Vaux-Le-Pénil",
-        "code_postal": "77000",
-        "departement": "77",
-        "latitude": 48.520575,
-        "longitude": 2.718874,
-        "precision": "exacte",
-        "distance_km": 45.142564706391916,
-        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-vaux-le-penil/"
-      },
-      "description": null,
-      "fiche_lue": true,
-      "portee": null,
-      "nouveau": false
     }
   ],
   "portees": [
     {
       "id": "portee-3",
+      "source": "laspa",
+      "source_label": "La SPA",
+      "lieu": {
+        "nom": "La SPA - Refuge de Chamarande",
+        "ville": "Chamarande",
+        "departement": "91",
+        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-chamarande/"
+      },
+      "date_naissance": "2026-08-10",
+      "age_mois": 2.0514252220701192,
+      "taille": 3,
+      "annonces": 3,
+      "disponibles": 3,
+      "confiance": "forte",
+      "indices": [
+        "même date de naissance"
+      ],
+      "membres": [
+        "laspa:251237",
+        "laspa:251511",
+        "laspa:251512"
+      ],
+      "noms": [
+        "MOZZARELLA CHA",
+        "PALAWAN CHA",
+        "ROSE CHA"
+      ],
+      "sources": [
+        "La SPA"
+      ]
+    },
+    {
+      "id": "portee-4",
       "source": "laspa",
       "source_label": "La SPA",
       "lieu": {
@@ -685,10 +546,10 @@
         "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-vaux-le-penil/"
       },
       "date_naissance": "2026-07-22",
-      "age_mois": 2.774631427865237,
-      "taille": 4,
-      "annonces": 4,
-      "disponibles": 4,
+      "age_mois": 2.8070720393185793,
+      "taille": 3,
+      "annonces": 3,
+      "disponibles": 3,
       "confiance": "forte",
       "indices": [
         "même date de naissance"
@@ -696,53 +557,12 @@
       "membres": [
         "laspa:251253",
         "laspa:251255",
-        "laspa:251256",
-        "laspa:251257"
+        "laspa:251256"
       ],
       "noms": [
         "ACTE C",
         "DIDASCALIE C",
-        "RÉCIT C",
         "RIDEAU C"
-      ],
-      "sources": [
-        "La SPA"
-      ]
-    },
-    {
-      "id": "portee-2",
-      "source": "laspa",
-      "source_label": "La SPA",
-      "lieu": {
-        "nom": "La SPA - Refuge de Gennevilliers – Grammont",
-        "ville": "Gennevilliers",
-        "departement": "92",
-        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-gennevilliers-grammont/"
-      },
-      "date_naissance": "2026-06-15",
-      "age_mois": 3.99023717735189,
-      "taille": 4,
-      "annonces": 4,
-      "disponibles": 4,
-      "confiance": "forte",
-      "indices": [
-        "même date de naissance",
-        "« ALONZO » cité·e dans la description",
-        "cité·e dans la description de « ALONZO »",
-        "cité·e dans la description de « BAMBINE »",
-        "« BAMBINE » cité·e dans la description"
-      ],
-      "membres": [
-        "laspa:242946",
-        "laspa:242947",
-        "laspa:246291",
-        "laspa:246293"
-      ],
-      "noms": [
-        "ALONZO",
-        "BAMBINE",
-        "BLINIS",
-        "BRIOCHE"
       ],
       "sources": [
         "La SPA"
@@ -759,7 +579,7 @@
         "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-gennevilliers-grammont/"
       },
       "date_naissance": "2026-07-15",
-      "age_mois": 3.0046108939843337,
+      "age_mois": 3.0370515054376757,
       "taille": 2,
       "annonces": 2,
       "disponibles": 2,
@@ -783,9 +603,134 @@
       "sources": [
         "La SPA"
       ]
+    },
+    {
+      "id": "portee-2",
+      "source": "laspa",
+      "source_label": "La SPA",
+      "lieu": {
+        "nom": "La SPA - Refuge de Gennevilliers – Grammont",
+        "ville": "Gennevilliers",
+        "departement": "92",
+        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-gennevilliers-grammont/"
+      },
+      "date_naissance": "2026-07-01",
+      "age_mois": 3.497010437675869,
+      "taille": 2,
+      "annonces": 2,
+      "disponibles": 2,
+      "confiance": "forte",
+      "indices": [
+        "même date de naissance"
+      ],
+      "membres": [
+        "laspa:246296",
+        "laspa:251439"
+      ],
+      "noms": [
+        "FRAOUDEL",
+        "SUE"
+      ],
+      "sources": [
+        "La SPA"
+      ]
     }
   ],
   "nouveaux_arrivants": [
+    {
+      "id": "laspa:251439",
+      "source": "laspa",
+      "source_label": "La SPA",
+      "source_id": "251439",
+      "uid": "animal-fraoudel",
+      "nom": "FRAOUDEL",
+      "url": "https://www.la-spa.fr/animal/fraoudel/",
+      "image": "https://www.la-spa.fr/app/app/uploads/animals/251439/fraoudel-251439-6acfa43a14443.jpg",
+      "espece": "chat",
+      "race": "Europeen",
+      "sexe": "male",
+      "age_categorie": "junior",
+      "age_texte": null,
+      "age_mois": 3.497010437675869,
+      "age_source": "naissance",
+      "age_conflit": null,
+      "date_naissance": "2026-07-01",
+      "date_publication": "2026-10-14",
+      "reserve": false,
+      "sos": false,
+      "fad": false,
+      "lieu": {
+        "nom": "La SPA - Refuge de Gennevilliers – Grammont",
+        "slug": "refuge-spa-de-gennevilliers-grammont",
+        "ville": "Gennevilliers",
+        "code_postal": "92230",
+        "departement": "92",
+        "latitude": 48.944706567958,
+        "longitude": 2.3035848619018,
+        "precision": "exacte",
+        "distance_km": 11.004464438564007,
+        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-gennevilliers-grammont/"
+      },
+      "description": "Fraoudel est un chaton trouvé sur la voie publique. Nous ne savons donc rien de son début de vie. Il est désormais prêt pour sa nouvelle vie dans une famille aimante et surtout très investie et connaissant bien les félins. Un premier chat sympa au domicile serait un plus car il n’a pas encore tous les codes félins. Il peut en effet grignoter voire mordre (sans agressivité) et sauter sur tout ce q…",
+      "fiche_lue": true,
+      "portee": {
+        "id": "portee-2",
+        "taille": 2,
+        "disponibles": 2,
+        "confiance": "forte",
+        "indices": [
+          "même date de naissance"
+        ]
+      },
+      "nouveau": true
+    },
+    {
+      "id": "laspa:251512",
+      "source": "laspa",
+      "source_label": "La SPA",
+      "source_id": "251512",
+      "uid": "animal-mozzarella-cha",
+      "nom": "MOZZARELLA CHA",
+      "url": "https://www.la-spa.fr/animal/mozzarella-cha/",
+      "image": "https://www.la-spa.fr/app/app/uploads/animals/251512/mozzarella-cha-251512-6acfe5729a080.jpg",
+      "espece": "chat",
+      "race": "Europeen",
+      "sexe": "femelle",
+      "age_categorie": "junior",
+      "age_texte": null,
+      "age_mois": 2.0514252220701192,
+      "age_source": "naissance",
+      "age_conflit": null,
+      "date_naissance": "2026-08-14",
+      "date_publication": "2026-10-14",
+      "reserve": false,
+      "sos": false,
+      "fad": false,
+      "lieu": {
+        "nom": "La SPA - Refuge de Chamarande",
+        "slug": "refuge-spa-de-chamarande",
+        "ville": "Chamarande",
+        "code_postal": "91730",
+        "departement": "91",
+        "latitude": 48.533724,
+        "longitude": 2.209265,
+        "precision": "exacte",
+        "distance_km": 38.44465971246643,
+        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-chamarande/"
+      },
+      "description": "Mozzarella vient tout juste d'arriver au refuge, elle semble être mignonne et sociable.\nElle pourra vivre en appartement supérieur à 50m² ou en maison",
+      "fiche_lue": true,
+      "portee": {
+        "id": "portee-3",
+        "taille": 3,
+        "disponibles": 3,
+        "confiance": "forte",
+        "indices": [
+          "même date de naissance"
+        ]
+      },
+      "nouveau": true
+    },
     {
       "id": "laspa:251237",
       "source": "laspa",
@@ -794,13 +739,13 @@
       "uid": "animal-rose-cha",
       "nom": "ROSE CHA",
       "url": "https://www.la-spa.fr/animal/rose-cha/",
-      "image": "https://www.la-spa.fr/app/app/uploads/animals/251237/rose-cha-251237-6acf3e6d3a745.jpg",
+      "image": "https://www.la-spa.fr/app/app/uploads/animals/251237/rose-cha-251237-6acfe6486df98.jpg",
       "espece": "chat",
       "race": "Europeen",
       "sexe": "femelle",
       "age_categorie": "junior",
       "age_texte": null,
-      "age_mois": 2.051838820062362,
+      "age_mois": 2.0842794315157045,
       "age_source": "naissance",
       "age_conflit": null,
       "date_naissance": "2026-08-13",
@@ -820,9 +765,64 @@
         "distance_km": 38.44465971246643,
         "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-chamarande/"
       },
-      "description": null,
+      "description": "Rose est une chatonne timide au premier abord, elle aura besoin d'un foyer calme.\nElle pourra vivre en appartement supérieur à 50m² ou en maison.",
       "fiche_lue": true,
-      "portee": null,
+      "portee": {
+        "id": "portee-3",
+        "taille": 3,
+        "disponibles": 3,
+        "confiance": "forte",
+        "indices": [
+          "même date de naissance"
+        ]
+      },
+      "nouveau": true
+    },
+    {
+      "id": "laspa:251511",
+      "source": "laspa",
+      "source_label": "La SPA",
+      "source_id": "251511",
+      "uid": "animal-palawan-cha",
+      "nom": "PALAWAN CHA",
+      "url": "https://www.la-spa.fr/animal/palawan-cha/",
+      "image": "https://www.la-spa.fr/app/app/uploads/animals/251511/palawan-cha-251511-6acfe53eb3b4f.jpg",
+      "espece": "chat",
+      "race": "Europeen",
+      "sexe": "male",
+      "age_categorie": "junior",
+      "age_texte": null,
+      "age_mois": 2.1828420598524603,
+      "age_source": "naissance",
+      "age_conflit": null,
+      "date_naissance": "2026-08-10",
+      "date_publication": "2026-10-14",
+      "reserve": false,
+      "sos": false,
+      "fad": false,
+      "lieu": {
+        "nom": "La SPA - Refuge de Chamarande",
+        "slug": "refuge-spa-de-chamarande",
+        "ville": "Chamarande",
+        "code_postal": "91730",
+        "departement": "91",
+        "latitude": 48.533724,
+        "longitude": 2.209265,
+        "precision": "exacte",
+        "distance_km": 38.44465971246643,
+        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-chamarande/"
+      },
+      "description": "palawan et un petit chaton discret et timide au premier abord, une fois qu'il prend confiance il devient très proche de son humain.\nPalawan pourra partager son foyer avec des grands enfants calmes et respectueux.\nIl pourra vivre en appartement supérieur à 50m² ou en maison.",
+      "fiche_lue": true,
+      "portee": {
+        "id": "portee-3",
+        "taille": 3,
+        "disponibles": 3,
+        "confiance": "forte",
+        "indices": [
+          "même date de naissance"
+        ]
+      },
       "nouveau": true
     },
     {
@@ -839,7 +839,7 @@
       "sexe": "femelle",
       "age_categorie": "junior",
       "age_texte": null,
-      "age_mois": 2.774631427865237,
+      "age_mois": 2.8070720393185793,
       "age_source": "naissance",
       "age_conflit": null,
       "date_naissance": "2026-07-22",
@@ -862,56 +862,9 @@
       "description": null,
       "fiche_lue": true,
       "portee": {
-        "id": "portee-3",
-        "taille": 4,
-        "disponibles": 4,
-        "confiance": "forte",
-        "indices": [
-          "même date de naissance"
-        ]
-      },
-      "nouveau": true
-    },
-    {
-      "id": "laspa:251257",
-      "source": "laspa",
-      "source_label": "La SPA",
-      "source_id": "251257",
-      "uid": "animal-recit-c",
-      "nom": "RÉCIT C",
-      "url": "https://www.la-spa.fr/animal/recit-c/",
-      "image": "https://www.la-spa.fr/app/app/uploads/animals/251257/recit-c-251257-6acf486a0e105.jpg",
-      "espece": "chat",
-      "race": "Europeen",
-      "sexe": "femelle",
-      "age_categorie": "junior",
-      "age_texte": null,
-      "age_mois": 2.774631427865237,
-      "age_source": "naissance",
-      "age_conflit": null,
-      "date_naissance": "2026-07-22",
-      "date_publication": "2026-10-14",
-      "reserve": false,
-      "sos": false,
-      "fad": false,
-      "lieu": {
-        "nom": "La SPA - Refuge de Vaux-Le-Penil",
-        "slug": "refuge-spa-de-vaux-le-penil",
-        "ville": "Vaux-Le-Pénil",
-        "code_postal": "77000",
-        "departement": "77",
-        "latitude": 48.520575,
-        "longitude": 2.718874,
-        "precision": "exacte",
-        "distance_km": 45.142564706391916,
-        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-vaux-le-penil/"
-      },
-      "description": null,
-      "fiche_lue": true,
-      "portee": {
-        "id": "portee-3",
-        "taille": 4,
-        "disponibles": 4,
+        "id": "portee-4",
+        "taille": 3,
+        "disponibles": 3,
         "confiance": "forte",
         "indices": [
           "même date de naissance"
@@ -933,7 +886,7 @@
       "sexe": "femelle",
       "age_categorie": "junior",
       "age_texte": null,
-      "age_mois": 2.774631427865237,
+      "age_mois": 2.8070720393185793,
       "age_source": "naissance",
       "age_conflit": null,
       "date_naissance": "2026-07-22",
@@ -956,9 +909,9 @@
       "description": null,
       "fiche_lue": true,
       "portee": {
-        "id": "portee-3",
-        "taille": 4,
-        "disponibles": 4,
+        "id": "portee-4",
+        "taille": 3,
+        "disponibles": 3,
         "confiance": "forte",
         "indices": [
           "même date de naissance"
@@ -980,7 +933,7 @@
       "sexe": "femelle",
       "age_categorie": "junior",
       "age_texte": null,
-      "age_mois": 2.774631427865237,
+      "age_mois": 2.8070720393185793,
       "age_source": "naissance",
       "age_conflit": null,
       "date_naissance": "2026-07-22",
@@ -1003,53 +956,14 @@
       "description": null,
       "fiche_lue": true,
       "portee": {
-        "id": "portee-3",
-        "taille": 4,
-        "disponibles": 4,
+        "id": "portee-4",
+        "taille": 3,
+        "disponibles": 3,
         "confiance": "forte",
         "indices": [
           "même date de naissance"
         ]
       },
-      "nouveau": true
-    },
-    {
-      "id": "laspa:251093",
-      "source": "laspa",
-      "source_label": "La SPA",
-      "source_id": "251093",
-      "uid": "animal-kera",
-      "nom": "KERA",
-      "url": "https://www.la-spa.fr/animal/kera/",
-      "image": "https://www.la-spa.fr/app/app/uploads/animals/251093/kera-251093-6ace589a6f1a4.jpg",
-      "espece": "chat",
-      "race": "Europeen",
-      "sexe": "femelle",
-      "age_categorie": "junior",
-      "age_texte": null,
-      "age_mois": 3.694549292341623,
-      "age_source": "naissance",
-      "age_conflit": null,
-      "date_naissance": "2026-06-24",
-      "date_publication": "2026-10-13",
-      "reserve": false,
-      "sos": false,
-      "fad": false,
-      "lieu": {
-        "nom": "La SPA - Refuge de Gennevilliers – Grammont",
-        "slug": "refuge-spa-de-gennevilliers-grammont",
-        "ville": "Gennevilliers",
-        "code_postal": "92230",
-        "departement": "92",
-        "latitude": 48.944706567958,
-        "longitude": 2.3035848619018,
-        "precision": "exacte",
-        "distance_km": 11.004464438564007,
-        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-gennevilliers-grammont/"
-      },
-      "description": "Kera profite d'un transfert et arrive de Martinique pour tenter sa chance en métropole.\nKera est une chatonne timide qui recherche des adoptants doux et patients qui lui laisseront le temps d'évoluer à son rythme.\nLa présence d'un premier chat vacciné, identifié et stérilisé serait un plus pour son bon développement.\nVenez vite la rencontrer !",
-      "fiche_lue": true,
-      "portee": null,
       "nouveau": true
     }
   ],
@@ -1057,10 +971,10 @@
     "sources": {
       "laspa": {
         "pages": 1,
-        "total_site": 166,
-        "dans_zone": 116,
-        "fiches": 12,
-        "fiches_cache": 39,
+        "total_site": 173,
+        "dans_zone": 121,
+        "fiches": 4,
+        "fiches_cache": 49,
         "erreurs": 0
       },
       "secondechance": {
@@ -1074,10 +988,10 @@
         "pages_tronquees": 0
       }
     },
-    "requests": 24,
+    "requests": 16,
     "retries": 0,
-    "duree_s": 12,
-    "annonces_zone": 116
+    "duree_s": 11.6,
+    "annonces_zone": 121
   },
   "erreurs": []
 }
