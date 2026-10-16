@@ -1,4 +1,4 @@
-# Annonces chatons — jeudi 15 octobre 2026
+# Annonces chatons — vendredi 16 octobre 2026
 
 ## 🐾 Chatons de moins de 4 mois (10)
 
@@ -11,17 +11,6 @@
   🗓 mis en ligne le 14/10/2026 · La SPA
 - 🆕 **[MOZZARELLA CHA](https://www.la-spa.fr/animal/mozzarella-cha/)** — 2 mois (né·e le 14/08/2026) · ♀ femelle · Europeen
   📍 La SPA - Refuge de Chamarande · 38 km
-  🗓 mis en ligne le 14/10/2026 · La SPA
-
-### 👨‍👩‍👧‍👦 Portée de 3 chatons · La SPA - Refuge de Vaux-Le-Penil · né·e·s le 22/07/2026
-- 🆕 **[ACTE C](https://www.la-spa.fr/animal/acte-c/)** — 2 mois (né·e le 22/07/2026) · ♀ femelle · Europeen
-  📍 La SPA - Refuge de Vaux-Le-Penil · Vaux-Le-Pénil (77) · 45 km
-  🗓 mis en ligne le 14/10/2026 · La SPA
-- 🆕 **[RIDEAU C](https://www.la-spa.fr/animal/rideau-c/)** — 2 mois (né·e le 22/07/2026) · ♀ femelle · Europeen
-  📍 La SPA - Refuge de Vaux-Le-Penil · Vaux-Le-Pénil (77) · 45 km
-  🗓 mis en ligne le 14/10/2026 · La SPA
-- 🆕 **[DIDASCALIE C](https://www.la-spa.fr/animal/didascalie-c/)** — 2 mois (né·e le 22/07/2026) · ♀ femelle · Europeen
-  📍 La SPA - Refuge de Vaux-Le-Penil · Vaux-Le-Pénil (77) · 45 km
   🗓 mis en ligne le 14/10/2026 · La SPA
 
 ### 👨‍👩‍👧‍👦 Portée de 2 chatons · La SPA - Refuge de Gennevilliers – Grammont · né·e·s le 15/07/2026
@@ -40,6 +29,17 @@
   📍 La SPA - Refuge de Gennevilliers – Grammont · 11 km
   🗓 mis en ligne le 14/10/2026 · La SPA
 
+### Chatons seuls (3)
+
+- 🆕 **[ZANZIBAR CHA](https://www.la-spa.fr/animal/zanzibar-cha/)** — 3 mois (né·e le 15/07/2026) · ♂ mâle · Europeen
+  📍 La SPA - Refuge de Chamarande · 38 km
+  🗓 mis en ligne le 15/10/2026 · La SPA
+- 🆕 **[ACTE C](https://www.la-spa.fr/animal/acte-c/)** — 2 mois (né·e le 22/07/2026) · ♀ femelle · Europeen
+  📍 La SPA - Refuge de Vaux-Le-Penil · Vaux-Le-Pénil (77) · 45 km
+  🗓 mis en ligne le 14/10/2026 · La SPA
+- 🆕 **[MAOMAM C](https://www.la-spa.fr/animal/maomam-c/)** — 3 mois (né·e le 15/07/2026) · ♂ mâle · Europeen
+  📍 La SPA - Refuge de Vaux-Le-Penil · Vaux-Le-Pénil (77) · 45 km
+  🗓 mis en ligne le 16/10/2026 · La SPA
 
 _🆕 = 7 nouveaux chatons (mis en ligne depuis 7 jours ou jamais vus)._
 
