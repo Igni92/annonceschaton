@@ -1,11 +1,8 @@
-# Annonces chatons — samedi 17 octobre 2026
+# Annonces chatons — dimanche 18 octobre 2026
 
-## 🐾 Chatons de moins de 4 mois (10)
+## 🐾 Chatons de moins de 4 mois (9)
 
-### 👨‍👩‍👧‍👦 Portée de 4 chatons · La SPA - Refuge de Chamarande · né·e·s le 14/08/2026
-- 🆕 **[MOZZARELLA CHA](https://www.la-spa.fr/animal/mozzarella-cha/)** — 2 mois (né·e le 14/08/2026) · ♀ femelle · Europeen
-  📍 La SPA - Refuge de Chamarande · 38 km
-  🗓 mis en ligne le 14/10/2026 · La SPA
+### 👨‍👩‍👧‍👦 Portée de 3 chatons · La SPA - Refuge de Chamarande · né·e·s le 15/08/2026
 - 🆕 **[BEN CHA](https://www.la-spa.fr/animal/ben-cha/)** — 2 mois (né·e le 15/08/2026) · ♂ mâle · Europeen
   📍 La SPA - Refuge de Chamarande · 38 km
   🗓 mis en ligne le 16/10/2026 · La SPA
@@ -24,16 +21,14 @@
   📍 La SPA - Refuge de Gennevilliers – Grammont · 11 km
   🗓 mis en ligne le 30/09/2026 · La SPA
 
-### 👨‍👩‍👧‍👦 Portée de 2 chatons · La SPA - Refuge de Gennevilliers – Grammont · né·e·s le 01/07/2026
+### Chatons seuls (4)
+
+- 🆕 **[POOPY](https://www.la-spa.fr/animal/poopy/)** — 2 mois (né·e le 08/08/2026) · ♂ mâle · Europeen
+  📍 La SPA - Refuge de Gennevilliers – Grammont · 11 km
+  🗓 mis en ligne le 17/10/2026 · La SPA
 - **[SUE](https://www.la-spa.fr/animal/sue/)** — 3 mois (né·e le 01/07/2026) · ♀ femelle · Europeen
   📍 La SPA - Refuge de Gennevilliers – Grammont · 11 km
   🗓 mis en ligne le 30/09/2026 · La SPA
-- 🆕 **[FRAOUDEL](https://www.la-spa.fr/animal/fraoudel/)** — 3 mois (né·e le 01/07/2026) · ♂ mâle · Europeen
-  📍 La SPA - Refuge de Gennevilliers – Grammont · 11 km
-  🗓 mis en ligne le 14/10/2026 · La SPA
-
-### Chatons seuls (2)
-
 - 🆕 **[MERIDA PAB30101](https://www.la-spa.fr/animal/merida-pab30101/)** — 1 mois (né·e le 01/09/2026) · ♀ femelle · Europeen
   📍 La SPA - Refuge de Plaisir · 34 km
   🗓 mis en ligne le 16/10/2026 · La SPA
@@ -41,7 +36,7 @@
   📍 La SPA - Refuge de Chamarande · 38 km
   🗓 mis en ligne le 15/10/2026 · La SPA
 
-_🆕 = 7 nouveaux chatons (mis en ligne depuis 7 jours ou jamais vus)._
+_🆕 = 6 nouveaux chatons (mis en ligne depuis 7 jours ou jamais vus)._
 
 ---
-_Zone : 50 km autour de Paris 11e Arrondissement · Sources : La SPA + Seconde Chance · 16 requêtes HTTP_
+_Zone : 50 km autour de Paris 11e Arrondissement · Sources : La SPA + Seconde Chance · 15 requêtes HTTP_

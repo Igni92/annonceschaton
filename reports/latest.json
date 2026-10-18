@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-17T09:53:48.823Z",
+  "date": "2026-10-18T10:06:18.885Z",
   "zone": {
     "mode": "rayon",
     "label": "50 km autour de Paris 11e Arrondissement",
@@ -21,6 +21,45 @@
   },
   "chatons": [
     {
+      "id": "laspa:252389",
+      "source": "laspa",
+      "source_label": "La SPA",
+      "source_id": "252389",
+      "uid": "animal-poopy",
+      "nom": "POOPY",
+      "url": "https://www.la-spa.fr/animal/poopy/",
+      "image": "https://www.la-spa.fr/app/app/uploads/animals/252389/poopy-252389-6ad39da1a162e.jpg",
+      "espece": "chat",
+      "race": "Europeen",
+      "sexe": "male",
+      "age_categorie": "junior",
+      "age_texte": null,
+      "age_mois": 2.346482198266028,
+      "age_source": "naissance",
+      "age_conflit": null,
+      "date_naissance": "2026-08-08",
+      "date_publication": "2026-10-17",
+      "reserve": false,
+      "sos": false,
+      "fad": false,
+      "lieu": {
+        "nom": "La SPA - Refuge de Gennevilliers – Grammont",
+        "slug": "refuge-spa-de-gennevilliers-grammont",
+        "ville": "Gennevilliers",
+        "code_postal": "92230",
+        "departement": "92",
+        "latitude": 48.944706567958,
+        "longitude": 2.3035848619018,
+        "precision": "exacte",
+        "distance_km": 11.004464438564007,
+        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-gennevilliers-grammont/"
+      },
+      "description": "Poopy revient tout juste de famille relais. C'est un gentil chaton dynamique qui aura besoin d'une famille disponible pour prendre soin de lui et l'éduquer.\nN'hésitez pas à vite venir le rencontrer.",
+      "fiche_lue": true,
+      "portee": null,
+      "nouveau": true
+    },
+    {
       "id": "laspa:246312",
       "source": "laspa",
       "source_label": "La SPA",
@@ -34,7 +73,7 @@
       "sexe": "femelle",
       "age_categorie": "junior",
       "age_texte": null,
-      "age_mois": 3.101843799148224,
+      "age_mois": 3.134983224960073,
       "age_source": "naissance",
       "age_conflit": null,
       "date_naissance": "2026-07-15",
@@ -86,7 +125,7 @@
       "sexe": "femelle",
       "age_categorie": "junior",
       "age_texte": null,
-      "age_mois": 3.101843799148224,
+      "age_mois": 3.134983224960073,
       "age_source": "naissance",
       "age_conflit": null,
       "date_naissance": "2026-07-15",
@@ -138,7 +177,7 @@
       "sexe": "femelle",
       "age_categorie": "junior",
       "age_texte": null,
-      "age_mois": 3.561802731386417,
+      "age_mois": 3.594942157198266,
       "age_source": "naissance",
       "age_conflit": null,
       "date_naissance": "2026-07-01",
@@ -160,63 +199,8 @@
       },
       "description": "Adopter un chaton est un engagement sur de nombreuses années. Cela demande du temps, de la patience, de l’attention et un budget pour assurer sa santé et son bien-être tout au long de sa vie.\nSue est une minette timide qui recherche des adoptants doux et patients qui lui laisseront le temps d'évoluer à son rythme.\nLa présence d'un premier chat vacciné, identifié et stérilisé sera obligatoire pour…",
       "fiche_lue": true,
-      "portee": {
-        "id": "portee-2",
-        "taille": 2,
-        "disponibles": 2,
-        "confiance": "forte",
-        "indices": [
-          "même date de naissance"
-        ]
-      },
+      "portee": null,
       "nouveau": false
-    },
-    {
-      "id": "laspa:251439",
-      "source": "laspa",
-      "source_label": "La SPA",
-      "source_id": "251439",
-      "uid": "animal-fraoudel",
-      "nom": "FRAOUDEL",
-      "url": "https://www.la-spa.fr/animal/fraoudel/",
-      "image": "https://www.la-spa.fr/app/app/uploads/animals/251439/fraoudel-251439-6acfa43a14443.jpg",
-      "espece": "chat",
-      "race": "Europeen",
-      "sexe": "male",
-      "age_categorie": "junior",
-      "age_texte": null,
-      "age_mois": 3.561802731386417,
-      "age_source": "naissance",
-      "age_conflit": null,
-      "date_naissance": "2026-07-01",
-      "date_publication": "2026-10-14",
-      "reserve": false,
-      "sos": false,
-      "fad": false,
-      "lieu": {
-        "nom": "La SPA - Refuge de Gennevilliers – Grammont",
-        "slug": "refuge-spa-de-gennevilliers-grammont",
-        "ville": "Gennevilliers",
-        "code_postal": "92230",
-        "departement": "92",
-        "latitude": 48.944706567958,
-        "longitude": 2.3035848619018,
-        "precision": "exacte",
-        "distance_km": 11.004464438564007,
-        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-gennevilliers-grammont/"
-      },
-      "description": "Fraoudel est un chaton trouvé sur la voie publique. Nous ne savons donc rien de son début de vie. Il est désormais prêt pour sa nouvelle vie dans une famille aimante et surtout très investie et connaissant bien les félins. Un premier chat sympa au domicile serait un plus car il n’a pas encore tous les codes félins. Il peut en effet grignoter voire mordre (sans agressivité) et sauter sur tout ce q…",
-      "fiche_lue": true,
-      "portee": {
-        "id": "portee-2",
-        "taille": 2,
-        "disponibles": 2,
-        "confiance": "forte",
-        "indices": [
-          "même date de naissance"
-        ]
-      },
-      "nouveau": true
     },
     {
       "id": "laspa:252002",
@@ -232,7 +216,7 @@
       "sexe": "femelle",
       "age_categorie": "junior",
       "age_texte": null,
-      "age_mois": 1.5248417457601338,
+      "age_mois": 1.5579811715719827,
       "age_source": "naissance",
       "age_conflit": null,
       "date_naissance": "2026-09-01",
@@ -271,7 +255,7 @@
       "sexe": "male",
       "age_categorie": "junior",
       "age_texte": null,
-      "age_mois": 2.0833633063350825,
+      "age_mois": 2.116502732146931,
       "age_source": "naissance",
       "age_conflit": null,
       "date_naissance": "2026-08-15",
@@ -294,9 +278,9 @@
       "description": "Ben et ses frères Red et Johnny sont arrivés tout petits au refuge. Grâce à leur famille relais, ils ont grandi entourés d'amour et sont désormais prêts à être adoptés !\n​Ces trois adorables chatons présentent des troubles neurologiques appelés ataxie. Cela se traduit par un manque de coordination, ils dandinent, font des petits écarts ou manquent d'équilibre. Mais ils ne se rendent absolument pa…",
       "fiche_lue": true,
       "portee": {
-        "id": "portee-3",
-        "taille": 4,
-        "disponibles": 4,
+        "id": "portee-2",
+        "taille": 3,
+        "disponibles": 3,
         "confiance": "forte",
         "indices": [
           "même date de naissance",
@@ -319,7 +303,7 @@
       "sexe": "male",
       "age_categorie": "junior",
       "age_texte": null,
-      "age_mois": 2.0833633063350825,
+      "age_mois": 2.116502732146931,
       "age_source": "naissance",
       "age_conflit": null,
       "date_naissance": "2026-08-15",
@@ -342,9 +326,9 @@
       "description": "Ben et ses frères Red et Johnny sont arrivés tout petits au refuge. Grâce à leur famille relais, ils ont grandi entourés d'amour et sont désormais prêts à être adoptés !\n​Ces trois adorables chatons présentent des troubles neurologiques appelés ataxie. Cela se traduit par un manque de coordination, ils dandinent, font des petits écarts ou manquent d'équilibre. Mais ils ne se rendent absolument pa…",
       "fiche_lue": true,
       "portee": {
-        "id": "portee-3",
-        "taille": 4,
-        "disponibles": 4,
+        "id": "portee-2",
+        "taille": 3,
+        "disponibles": 3,
         "confiance": "forte",
         "indices": [
           "même date de naissance",
@@ -367,7 +351,7 @@
       "sexe": "male",
       "age_categorie": "junior",
       "age_texte": null,
-      "age_mois": 2.0833633063350825,
+      "age_mois": 2.116502732146931,
       "age_source": "naissance",
       "age_conflit": null,
       "date_naissance": "2026-08-15",
@@ -390,57 +374,9 @@
       "description": "Ben et ses frères Red et Johnny sont arrivés tout petits au refuge. Grâce à leur famille relais, ils ont grandi entourés d'amour et sont désormais prêts à être adoptés !\n​Ces trois adorables chatons présentent des troubles neurologiques appelés ataxie. Cela se traduit par un manque de coordination, ils dandinent, font des petits écarts ou manquent d'équilibre. Mais ils ne se rendent absolument pa…",
       "fiche_lue": true,
       "portee": {
-        "id": "portee-3",
-        "taille": 4,
-        "disponibles": 4,
-        "confiance": "forte",
-        "indices": [
-          "même date de naissance",
-          "fratrie mentionnée"
-        ]
-      },
-      "nouveau": true
-    },
-    {
-      "id": "laspa:251512",
-      "source": "laspa",
-      "source_label": "La SPA",
-      "source_id": "251512",
-      "uid": "animal-mozzarella-cha",
-      "nom": "MOZZARELLA CHA",
-      "url": "https://www.la-spa.fr/animal/mozzarella-cha/",
-      "image": "https://www.la-spa.fr/app/app/uploads/animals/251512/mozzarella-cha-251512-6acfe5729a080.jpg",
-      "espece": "chat",
-      "race": "Europeen",
-      "sexe": "femelle",
-      "age_categorie": "junior",
-      "age_texte": null,
-      "age_mois": 2.1162175157806673,
-      "age_source": "naissance",
-      "age_conflit": null,
-      "date_naissance": "2026-08-14",
-      "date_publication": "2026-10-14",
-      "reserve": false,
-      "sos": false,
-      "fad": false,
-      "lieu": {
-        "nom": "La SPA - Refuge de Chamarande",
-        "slug": "refuge-spa-de-chamarande",
-        "ville": "Chamarande",
-        "code_postal": "91730",
-        "departement": "91",
-        "latitude": 48.533724,
-        "longitude": 2.209265,
-        "precision": "exacte",
-        "distance_km": 38.44465971246643,
-        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-chamarande/"
-      },
-      "description": "Mozzarella vient tout juste d'arriver au refuge, elle semble être mignonne et sociable.\nElle pourra vivre en appartement supérieur à 50m² ou en maison",
-      "fiche_lue": true,
-      "portee": {
-        "id": "portee-3",
-        "taille": 4,
-        "disponibles": 4,
+        "id": "portee-2",
+        "taille": 3,
+        "disponibles": 3,
         "confiance": "forte",
         "indices": [
           "même date de naissance",
@@ -463,7 +399,7 @@
       "sexe": "male",
       "age_categorie": "junior",
       "age_texte": null,
-      "age_mois": 3.101843799148224,
+      "age_mois": 3.134983224960073,
       "age_source": "naissance",
       "age_conflit": null,
       "date_naissance": "2026-07-15",
@@ -491,7 +427,7 @@
   ],
   "portees": [
     {
-      "id": "portee-3",
+      "id": "portee-2",
       "source": "laspa",
       "source_label": "La SPA",
       "lieu": {
@@ -500,18 +436,17 @@
         "departement": "91",
         "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-chamarande/"
       },
-      "date_naissance": "2026-08-14",
-      "age_mois": 2.0833633063350825,
-      "taille": 4,
-      "annonces": 4,
-      "disponibles": 4,
+      "date_naissance": "2026-08-15",
+      "age_mois": 2.116502732146931,
+      "taille": 3,
+      "annonces": 3,
+      "disponibles": 3,
       "confiance": "forte",
       "indices": [
         "même date de naissance",
         "fratrie mentionnée"
       ],
       "membres": [
-        "laspa:251512",
         "laspa:252161",
         "laspa:252162",
         "laspa:252163"
@@ -519,7 +454,6 @@
       "noms": [
         "BEN CHA",
         "JOHNNY CHA",
-        "MOZZARELLA CHA",
         "RED CHA"
       ],
       "sources": [
@@ -537,7 +471,7 @@
         "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-gennevilliers-grammont/"
       },
       "date_naissance": "2026-07-15",
-      "age_mois": 3.101843799148224,
+      "age_mois": 3.134983224960073,
       "taille": 2,
       "annonces": 2,
       "disponibles": 2,
@@ -561,40 +495,48 @@
       "sources": [
         "La SPA"
       ]
-    },
-    {
-      "id": "portee-2",
-      "source": "laspa",
-      "source_label": "La SPA",
-      "lieu": {
-        "nom": "La SPA - Refuge de Gennevilliers – Grammont",
-        "ville": "Gennevilliers",
-        "departement": "92",
-        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-gennevilliers-grammont/"
-      },
-      "date_naissance": "2026-07-01",
-      "age_mois": 3.561802731386417,
-      "taille": 2,
-      "annonces": 2,
-      "disponibles": 2,
-      "confiance": "forte",
-      "indices": [
-        "même date de naissance"
-      ],
-      "membres": [
-        "laspa:246296",
-        "laspa:251439"
-      ],
-      "noms": [
-        "FRAOUDEL",
-        "SUE"
-      ],
-      "sources": [
-        "La SPA"
-      ]
     }
   ],
   "nouveaux_arrivants": [
+    {
+      "id": "laspa:252389",
+      "source": "laspa",
+      "source_label": "La SPA",
+      "source_id": "252389",
+      "uid": "animal-poopy",
+      "nom": "POOPY",
+      "url": "https://www.la-spa.fr/animal/poopy/",
+      "image": "https://www.la-spa.fr/app/app/uploads/animals/252389/poopy-252389-6ad39da1a162e.jpg",
+      "espece": "chat",
+      "race": "Europeen",
+      "sexe": "male",
+      "age_categorie": "junior",
+      "age_texte": null,
+      "age_mois": 2.346482198266028,
+      "age_source": "naissance",
+      "age_conflit": null,
+      "date_naissance": "2026-08-08",
+      "date_publication": "2026-10-17",
+      "reserve": false,
+      "sos": false,
+      "fad": false,
+      "lieu": {
+        "nom": "La SPA - Refuge de Gennevilliers – Grammont",
+        "slug": "refuge-spa-de-gennevilliers-grammont",
+        "ville": "Gennevilliers",
+        "code_postal": "92230",
+        "departement": "92",
+        "latitude": 48.944706567958,
+        "longitude": 2.3035848619018,
+        "precision": "exacte",
+        "distance_km": 11.004464438564007,
+        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-gennevilliers-grammont/"
+      },
+      "description": "Poopy revient tout juste de famille relais. C'est un gentil chaton dynamique qui aura besoin d'une famille disponible pour prendre soin de lui et l'éduquer.\nN'hésitez pas à vite venir le rencontrer.",
+      "fiche_lue": true,
+      "portee": null,
+      "nouveau": true
+    },
     {
       "id": "laspa:252002",
       "source": "laspa",
@@ -609,7 +551,7 @@
       "sexe": "femelle",
       "age_categorie": "junior",
       "age_texte": null,
-      "age_mois": 1.5248417457601338,
+      "age_mois": 1.5579811715719827,
       "age_source": "naissance",
       "age_conflit": null,
       "date_naissance": "2026-09-01",
@@ -648,7 +590,7 @@
       "sexe": "male",
       "age_categorie": "junior",
       "age_texte": null,
-      "age_mois": 2.0833633063350825,
+      "age_mois": 2.116502732146931,
       "age_source": "naissance",
       "age_conflit": null,
       "date_naissance": "2026-08-15",
@@ -671,9 +613,9 @@
       "description": "Ben et ses frères Red et Johnny sont arrivés tout petits au refuge. Grâce à leur famille relais, ils ont grandi entourés d'amour et sont désormais prêts à être adoptés !\n​Ces trois adorables chatons présentent des troubles neurologiques appelés ataxie. Cela se traduit par un manque de coordination, ils dandinent, font des petits écarts ou manquent d'équilibre. Mais ils ne se rendent absolument pa…",
       "fiche_lue": true,
       "portee": {
-        "id": "portee-3",
-        "taille": 4,
-        "disponibles": 4,
+        "id": "portee-2",
+        "taille": 3,
+        "disponibles": 3,
         "confiance": "forte",
         "indices": [
           "même date de naissance",
@@ -696,7 +638,7 @@
       "sexe": "male",
       "age_categorie": "junior",
       "age_texte": null,
-      "age_mois": 2.0833633063350825,
+      "age_mois": 2.116502732146931,
       "age_source": "naissance",
       "age_conflit": null,
       "date_naissance": "2026-08-15",
@@ -719,9 +661,9 @@
       "description": "Ben et ses frères Red et Johnny sont arrivés tout petits au refuge. Grâce à leur famille relais, ils ont grandi entourés d'amour et sont désormais prêts à être adoptés !\n​Ces trois adorables chatons présentent des troubles neurologiques appelés ataxie. Cela se traduit par un manque de coordination, ils dandinent, font des petits écarts ou manquent d'équilibre. Mais ils ne se rendent absolument pa…",
       "fiche_lue": true,
       "portee": {
-        "id": "portee-3",
-        "taille": 4,
-        "disponibles": 4,
+        "id": "portee-2",
+        "taille": 3,
+        "disponibles": 3,
         "confiance": "forte",
         "indices": [
           "même date de naissance",
@@ -744,7 +686,7 @@
       "sexe": "male",
       "age_categorie": "junior",
       "age_texte": null,
-      "age_mois": 2.0833633063350825,
+      "age_mois": 2.116502732146931,
       "age_source": "naissance",
       "age_conflit": null,
       "date_naissance": "2026-08-15",
@@ -767,9 +709,9 @@
       "description": "Ben et ses frères Red et Johnny sont arrivés tout petits au refuge. Grâce à leur famille relais, ils ont grandi entourés d'amour et sont désormais prêts à être adoptés !\n​Ces trois adorables chatons présentent des troubles neurologiques appelés ataxie. Cela se traduit par un manque de coordination, ils dandinent, font des petits écarts ou manquent d'équilibre. Mais ils ne se rendent absolument pa…",
       "fiche_lue": true,
       "portee": {
-        "id": "portee-3",
-        "taille": 4,
-        "disponibles": 4,
+        "id": "portee-2",
+        "taille": 3,
+        "disponibles": 3,
         "confiance": "forte",
         "indices": [
           "même date de naissance",
@@ -792,7 +734,7 @@
       "sexe": "male",
       "age_categorie": "junior",
       "age_texte": null,
-      "age_mois": 3.101843799148224,
+      "age_mois": 3.134983224960073,
       "age_source": "naissance",
       "age_conflit": null,
       "date_naissance": "2026-07-15",
@@ -816,111 +758,16 @@
       "fiche_lue": true,
       "portee": null,
       "nouveau": true
-    },
-    {
-      "id": "laspa:251439",
-      "source": "laspa",
-      "source_label": "La SPA",
-      "source_id": "251439",
-      "uid": "animal-fraoudel",
-      "nom": "FRAOUDEL",
-      "url": "https://www.la-spa.fr/animal/fraoudel/",
-      "image": "https://www.la-spa.fr/app/app/uploads/animals/251439/fraoudel-251439-6acfa43a14443.jpg",
-      "espece": "chat",
-      "race": "Europeen",
-      "sexe": "male",
-      "age_categorie": "junior",
-      "age_texte": null,
-      "age_mois": 3.561802731386417,
-      "age_source": "naissance",
-      "age_conflit": null,
-      "date_naissance": "2026-07-01",
-      "date_publication": "2026-10-14",
-      "reserve": false,
-      "sos": false,
-      "fad": false,
-      "lieu": {
-        "nom": "La SPA - Refuge de Gennevilliers – Grammont",
-        "slug": "refuge-spa-de-gennevilliers-grammont",
-        "ville": "Gennevilliers",
-        "code_postal": "92230",
-        "departement": "92",
-        "latitude": 48.944706567958,
-        "longitude": 2.3035848619018,
-        "precision": "exacte",
-        "distance_km": 11.004464438564007,
-        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-gennevilliers-grammont/"
-      },
-      "description": "Fraoudel est un chaton trouvé sur la voie publique. Nous ne savons donc rien de son début de vie. Il est désormais prêt pour sa nouvelle vie dans une famille aimante et surtout très investie et connaissant bien les félins. Un premier chat sympa au domicile serait un plus car il n’a pas encore tous les codes félins. Il peut en effet grignoter voire mordre (sans agressivité) et sauter sur tout ce q…",
-      "fiche_lue": true,
-      "portee": {
-        "id": "portee-2",
-        "taille": 2,
-        "disponibles": 2,
-        "confiance": "forte",
-        "indices": [
-          "même date de naissance"
-        ]
-      },
-      "nouveau": true
-    },
-    {
-      "id": "laspa:251512",
-      "source": "laspa",
-      "source_label": "La SPA",
-      "source_id": "251512",
-      "uid": "animal-mozzarella-cha",
-      "nom": "MOZZARELLA CHA",
-      "url": "https://www.la-spa.fr/animal/mozzarella-cha/",
-      "image": "https://www.la-spa.fr/app/app/uploads/animals/251512/mozzarella-cha-251512-6acfe5729a080.jpg",
-      "espece": "chat",
-      "race": "Europeen",
-      "sexe": "femelle",
-      "age_categorie": "junior",
-      "age_texte": null,
-      "age_mois": 2.1162175157806673,
-      "age_source": "naissance",
-      "age_conflit": null,
-      "date_naissance": "2026-08-14",
-      "date_publication": "2026-10-14",
-      "reserve": false,
-      "sos": false,
-      "fad": false,
-      "lieu": {
-        "nom": "La SPA - Refuge de Chamarande",
-        "slug": "refuge-spa-de-chamarande",
-        "ville": "Chamarande",
-        "code_postal": "91730",
-        "departement": "91",
-        "latitude": 48.533724,
-        "longitude": 2.209265,
-        "precision": "exacte",
-        "distance_km": 38.44465971246643,
-        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-chamarande/"
-      },
-      "description": "Mozzarella vient tout juste d'arriver au refuge, elle semble être mignonne et sociable.\nElle pourra vivre en appartement supérieur à 50m² ou en maison",
-      "fiche_lue": true,
-      "portee": {
-        "id": "portee-3",
-        "taille": 4,
-        "disponibles": 4,
-        "confiance": "forte",
-        "indices": [
-          "même date de naissance",
-          "fratrie mentionnée"
-        ]
-      },
-      "nouveau": true
     }
   ],
   "stats": {
     "sources": {
       "laspa": {
         "pages": 1,
-        "total_site": 182,
-        "dans_zone": 126,
-        "fiches": 4,
-        "fiches_cache": 51,
+        "total_site": 171,
+        "dans_zone": 117,
+        "fiches": 3,
+        "fiches_cache": 47,
         "erreurs": 0
       },
       "secondechance": {
@@ -934,10 +781,10 @@
         "pages_tronquees": 0
       }
     },
-    "requests": 16,
+    "requests": 15,
     "retries": 0,
-    "duree_s": 10.8,
-    "annonces_zone": 126
+    "duree_s": 12.5,
+    "annonces_zone": 117
   },
   "erreurs": []
 }
