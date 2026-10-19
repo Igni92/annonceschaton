@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-18T10:06:18.885Z",
+  "date": "2026-10-19T11:35:07.680Z",
   "zone": {
     "mode": "rayon",
     "label": "50 km autour de Paris 11e Arrondissement",
@@ -21,45 +21,6 @@
   },
   "chatons": [
     {
-      "id": "laspa:252389",
-      "source": "laspa",
-      "source_label": "La SPA",
-      "source_id": "252389",
-      "uid": "animal-poopy",
-      "nom": "POOPY",
-      "url": "https://www.la-spa.fr/animal/poopy/",
-      "image": "https://www.la-spa.fr/app/app/uploads/animals/252389/poopy-252389-6ad39da1a162e.jpg",
-      "espece": "chat",
-      "race": "Europeen",
-      "sexe": "male",
-      "age_categorie": "junior",
-      "age_texte": null,
-      "age_mois": 2.346482198266028,
-      "age_source": "naissance",
-      "age_conflit": null,
-      "date_naissance": "2026-08-08",
-      "date_publication": "2026-10-17",
-      "reserve": false,
-      "sos": false,
-      "fad": false,
-      "lieu": {
-        "nom": "La SPA - Refuge de Gennevilliers – Grammont",
-        "slug": "refuge-spa-de-gennevilliers-grammont",
-        "ville": "Gennevilliers",
-        "code_postal": "92230",
-        "departement": "92",
-        "latitude": 48.944706567958,
-        "longitude": 2.3035848619018,
-        "precision": "exacte",
-        "distance_km": 11.004464438564007,
-        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-gennevilliers-grammont/"
-      },
-      "description": "Poopy revient tout juste de famille relais. C'est un gentil chaton dynamique qui aura besoin d'une famille disponible pour prendre soin de lui et l'éduquer.\nN'hésitez pas à vite venir le rencontrer.",
-      "fiche_lue": true,
-      "portee": null,
-      "nouveau": true
-    },
-    {
       "id": "laspa:246312",
       "source": "laspa",
       "source_label": "La SPA",
@@ -73,7 +34,7 @@
       "sexe": "femelle",
       "age_categorie": "junior",
       "age_texte": null,
-      "age_mois": 3.134983224960073,
+      "age_mois": 3.169863746292494,
       "age_source": "naissance",
       "age_conflit": null,
       "date_naissance": "2026-07-15",
@@ -97,8 +58,8 @@
       "fiche_lue": true,
       "portee": {
         "id": "portee-1",
-        "taille": 2,
-        "disponibles": 2,
+        "taille": 4,
+        "disponibles": 4,
         "confiance": "forte",
         "indices": [
           "même date de naissance",
@@ -110,6 +71,58 @@
         ]
       },
       "nouveau": false
+    },
+    {
+      "id": "laspa:252669",
+      "source": "laspa",
+      "source_label": "La SPA",
+      "source_id": "252669",
+      "uid": "animal-cerise-et-framboise",
+      "nom": "CERISE  et FRAMBOISE",
+      "url": "https://www.la-spa.fr/animal/cerise-et-framboise/",
+      "image": "https://www.la-spa.fr/app/app/uploads/animals/252669/cerise-et-framboise-252669-6ad4f98b46e9b.jpg",
+      "espece": "chat",
+      "race": "Europeen",
+      "sexe": "femelle",
+      "age_categorie": "junior",
+      "age_texte": null,
+      "age_mois": 3.169863746292494,
+      "age_source": "naissance",
+      "age_conflit": null,
+      "date_naissance": "2026-07-15",
+      "date_publication": "2026-10-18",
+      "reserve": false,
+      "sos": false,
+      "fad": false,
+      "lieu": {
+        "nom": "La SPA - Refuge de Gennevilliers – Grammont",
+        "slug": "refuge-spa-de-gennevilliers-grammont",
+        "ville": "Gennevilliers",
+        "code_postal": "92230",
+        "departement": "92",
+        "latitude": 48.944706567958,
+        "longitude": 2.3035848619018,
+        "precision": "exacte",
+        "distance_km": 11.004464438564007,
+        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-gennevilliers-grammont/"
+      },
+      "description": "CERISE et FRAMBOISE sont deux chatonnes qui reviennent tout juste de famille relais.\nAdorables, elles sont très proches l'une de l'autre, nous cherchons donc une famille pour une adoption en duo.\nElles recherchent une famille disponible qui pourra leur accorder l'attention dont elles ont besoin. Des petites merveilles à venir rencontrer.",
+      "fiche_lue": true,
+      "portee": {
+        "id": "portee-1",
+        "taille": 4,
+        "disponibles": 4,
+        "confiance": "forte",
+        "indices": [
+          "même date de naissance",
+          "« CLEMENTINE » cité·e dans la description",
+          "cité·e dans la description de « CLEMENTINE »",
+          "fratrie mentionnée",
+          "cité·e dans la description de « ONDINE »",
+          "« ONDINE » cité·e dans la description"
+        ]
+      },
+      "nouveau": true
     },
     {
       "id": "laspa:246313",
@@ -125,7 +138,7 @@
       "sexe": "femelle",
       "age_categorie": "junior",
       "age_texte": null,
-      "age_mois": 3.134983224960073,
+      "age_mois": 3.169863746292494,
       "age_source": "naissance",
       "age_conflit": null,
       "date_naissance": "2026-07-15",
@@ -149,8 +162,8 @@
       "fiche_lue": true,
       "portee": {
         "id": "portee-1",
-        "taille": 2,
-        "disponibles": 2,
+        "taille": 4,
+        "disponibles": 4,
         "confiance": "forte",
         "indices": [
           "même date de naissance",
@@ -177,7 +190,7 @@
       "sexe": "femelle",
       "age_categorie": "junior",
       "age_texte": null,
-      "age_mois": 3.594942157198266,
+      "age_mois": 3.629822678530687,
       "age_source": "naissance",
       "age_conflit": null,
       "date_naissance": "2026-07-01",
@@ -216,7 +229,7 @@
       "sexe": "femelle",
       "age_categorie": "junior",
       "age_texte": null,
-      "age_mois": 1.5579811715719827,
+      "age_mois": 1.5928616929044033,
       "age_source": "naissance",
       "age_conflit": null,
       "date_naissance": "2026-09-01",
@@ -242,54 +255,6 @@
       "nouveau": true
     },
     {
-      "id": "laspa:252162",
-      "source": "laspa",
-      "source_label": "La SPA",
-      "source_id": "252162",
-      "uid": "animal-johnny-cha",
-      "nom": "JOHNNY CHA",
-      "url": "https://www.la-spa.fr/animal/johnny-cha/",
-      "image": "https://www.la-spa.fr/app/app/uploads/animals/252162/johnny-cha-252162-6ad28b066e7f9.jpg",
-      "espece": "chat",
-      "race": "Europeen",
-      "sexe": "male",
-      "age_categorie": "junior",
-      "age_texte": null,
-      "age_mois": 2.116502732146931,
-      "age_source": "naissance",
-      "age_conflit": null,
-      "date_naissance": "2026-08-15",
-      "date_publication": "2026-10-16",
-      "reserve": false,
-      "sos": true,
-      "fad": false,
-      "lieu": {
-        "nom": "La SPA - Refuge de Chamarande",
-        "slug": "refuge-spa-de-chamarande",
-        "ville": "Chamarande",
-        "code_postal": "91730",
-        "departement": "91",
-        "latitude": 48.533724,
-        "longitude": 2.209265,
-        "precision": "exacte",
-        "distance_km": 38.44465971246643,
-        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-chamarande/"
-      },
-      "description": "Ben et ses frères Red et Johnny sont arrivés tout petits au refuge. Grâce à leur famille relais, ils ont grandi entourés d'amour et sont désormais prêts à être adoptés !\n​Ces trois adorables chatons présentent des troubles neurologiques appelés ataxie. Cela se traduit par un manque de coordination, ils dandinent, font des petits écarts ou manquent d'équilibre. Mais ils ne se rendent absolument pa…",
-      "fiche_lue": true,
-      "portee": {
-        "id": "portee-2",
-        "taille": 3,
-        "disponibles": 3,
-        "confiance": "forte",
-        "indices": [
-          "même date de naissance",
-          "fratrie mentionnée"
-        ]
-      },
-      "nouveau": true
-    },
-    {
       "id": "laspa:252163",
       "source": "laspa",
       "source_label": "La SPA",
@@ -303,7 +268,7 @@
       "sexe": "male",
       "age_categorie": "junior",
       "age_texte": null,
-      "age_mois": 2.116502732146931,
+      "age_mois": 2.151383253479352,
       "age_source": "naissance",
       "age_conflit": null,
       "date_naissance": "2026-08-15",
@@ -327,8 +292,8 @@
       "fiche_lue": true,
       "portee": {
         "id": "portee-2",
-        "taille": 3,
-        "disponibles": 3,
+        "taille": 2,
+        "disponibles": 2,
         "confiance": "forte",
         "indices": [
           "même date de naissance",
@@ -351,7 +316,7 @@
       "sexe": "male",
       "age_categorie": "junior",
       "age_texte": null,
-      "age_mois": 2.116502732146931,
+      "age_mois": 2.151383253479352,
       "age_source": "naissance",
       "age_conflit": null,
       "date_naissance": "2026-08-15",
@@ -375,8 +340,8 @@
       "fiche_lue": true,
       "portee": {
         "id": "portee-2",
-        "taille": 3,
-        "disponibles": 3,
+        "taille": 2,
+        "disponibles": 2,
         "confiance": "forte",
         "indices": [
           "même date de naissance",
@@ -399,7 +364,7 @@
       "sexe": "male",
       "age_categorie": "junior",
       "age_texte": null,
-      "age_mois": 3.134983224960073,
+      "age_mois": 3.169863746292494,
       "age_source": "naissance",
       "age_conflit": null,
       "date_naissance": "2026-07-15",
@@ -427,40 +392,6 @@
   ],
   "portees": [
     {
-      "id": "portee-2",
-      "source": "laspa",
-      "source_label": "La SPA",
-      "lieu": {
-        "nom": "La SPA - Refuge de Chamarande",
-        "ville": "Chamarande",
-        "departement": "91",
-        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-chamarande/"
-      },
-      "date_naissance": "2026-08-15",
-      "age_mois": 2.116502732146931,
-      "taille": 3,
-      "annonces": 3,
-      "disponibles": 3,
-      "confiance": "forte",
-      "indices": [
-        "même date de naissance",
-        "fratrie mentionnée"
-      ],
-      "membres": [
-        "laspa:252161",
-        "laspa:252162",
-        "laspa:252163"
-      ],
-      "noms": [
-        "BEN CHA",
-        "JOHNNY CHA",
-        "RED CHA"
-      ],
-      "sources": [
-        "La SPA"
-      ]
-    },
-    {
       "id": "portee-1",
       "source": "laspa",
       "source_label": "La SPA",
@@ -471,10 +402,10 @@
         "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-gennevilliers-grammont/"
       },
       "date_naissance": "2026-07-15",
-      "age_mois": 3.134983224960073,
-      "taille": 2,
-      "annonces": 2,
-      "disponibles": 2,
+      "age_mois": 3.169863746292494,
+      "taille": 4,
+      "annonces": 3,
+      "disponibles": 4,
       "confiance": "forte",
       "indices": [
         "même date de naissance",
@@ -486,11 +417,46 @@
       ],
       "membres": [
         "laspa:246312",
-        "laspa:246313"
+        "laspa:246313",
+        "laspa:252669"
       ],
       "noms": [
+        "CERISE",
         "CLEMENTINE",
+        "FRAMBOISE",
         "ONDINE"
+      ],
+      "sources": [
+        "La SPA"
+      ]
+    },
+    {
+      "id": "portee-2",
+      "source": "laspa",
+      "source_label": "La SPA",
+      "lieu": {
+        "nom": "La SPA - Refuge de Chamarande",
+        "ville": "Chamarande",
+        "departement": "91",
+        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-chamarande/"
+      },
+      "date_naissance": "2026-08-15",
+      "age_mois": 2.151383253479352,
+      "taille": 2,
+      "annonces": 2,
+      "disponibles": 2,
+      "confiance": "forte",
+      "indices": [
+        "même date de naissance",
+        "fratrie mentionnée"
+      ],
+      "membres": [
+        "laspa:252161",
+        "laspa:252163"
+      ],
+      "noms": [
+        "BEN CHA",
+        "RED CHA"
       ],
       "sources": [
         "La SPA"
@@ -499,24 +465,24 @@
   ],
   "nouveaux_arrivants": [
     {
-      "id": "laspa:252389",
+      "id": "laspa:252669",
       "source": "laspa",
       "source_label": "La SPA",
-      "source_id": "252389",
-      "uid": "animal-poopy",
-      "nom": "POOPY",
-      "url": "https://www.la-spa.fr/animal/poopy/",
-      "image": "https://www.la-spa.fr/app/app/uploads/animals/252389/poopy-252389-6ad39da1a162e.jpg",
+      "source_id": "252669",
+      "uid": "animal-cerise-et-framboise",
+      "nom": "CERISE  et FRAMBOISE",
+      "url": "https://www.la-spa.fr/animal/cerise-et-framboise/",
+      "image": "https://www.la-spa.fr/app/app/uploads/animals/252669/cerise-et-framboise-252669-6ad4f98b46e9b.jpg",
       "espece": "chat",
       "race": "Europeen",
-      "sexe": "male",
+      "sexe": "femelle",
       "age_categorie": "junior",
       "age_texte": null,
-      "age_mois": 2.346482198266028,
+      "age_mois": 3.169863746292494,
       "age_source": "naissance",
       "age_conflit": null,
-      "date_naissance": "2026-08-08",
-      "date_publication": "2026-10-17",
+      "date_naissance": "2026-07-15",
+      "date_publication": "2026-10-18",
       "reserve": false,
       "sos": false,
       "fad": false,
@@ -532,9 +498,22 @@
         "distance_km": 11.004464438564007,
         "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-gennevilliers-grammont/"
       },
-      "description": "Poopy revient tout juste de famille relais. C'est un gentil chaton dynamique qui aura besoin d'une famille disponible pour prendre soin de lui et l'éduquer.\nN'hésitez pas à vite venir le rencontrer.",
+      "description": "CERISE et FRAMBOISE sont deux chatonnes qui reviennent tout juste de famille relais.\nAdorables, elles sont très proches l'une de l'autre, nous cherchons donc une famille pour une adoption en duo.\nElles recherchent une famille disponible qui pourra leur accorder l'attention dont elles ont besoin. Des petites merveilles à venir rencontrer.",
       "fiche_lue": true,
-      "portee": null,
+      "portee": {
+        "id": "portee-1",
+        "taille": 4,
+        "disponibles": 4,
+        "confiance": "forte",
+        "indices": [
+          "même date de naissance",
+          "« CLEMENTINE » cité·e dans la description",
+          "cité·e dans la description de « CLEMENTINE »",
+          "fratrie mentionnée",
+          "cité·e dans la description de « ONDINE »",
+          "« ONDINE » cité·e dans la description"
+        ]
+      },
       "nouveau": true
     },
     {
@@ -551,7 +530,7 @@
       "sexe": "femelle",
       "age_categorie": "junior",
       "age_texte": null,
-      "age_mois": 1.5579811715719827,
+      "age_mois": 1.5928616929044033,
       "age_source": "naissance",
       "age_conflit": null,
       "date_naissance": "2026-09-01",
@@ -577,54 +556,6 @@
       "nouveau": true
     },
     {
-      "id": "laspa:252162",
-      "source": "laspa",
-      "source_label": "La SPA",
-      "source_id": "252162",
-      "uid": "animal-johnny-cha",
-      "nom": "JOHNNY CHA",
-      "url": "https://www.la-spa.fr/animal/johnny-cha/",
-      "image": "https://www.la-spa.fr/app/app/uploads/animals/252162/johnny-cha-252162-6ad28b066e7f9.jpg",
-      "espece": "chat",
-      "race": "Europeen",
-      "sexe": "male",
-      "age_categorie": "junior",
-      "age_texte": null,
-      "age_mois": 2.116502732146931,
-      "age_source": "naissance",
-      "age_conflit": null,
-      "date_naissance": "2026-08-15",
-      "date_publication": "2026-10-16",
-      "reserve": false,
-      "sos": true,
-      "fad": false,
-      "lieu": {
-        "nom": "La SPA - Refuge de Chamarande",
-        "slug": "refuge-spa-de-chamarande",
-        "ville": "Chamarande",
-        "code_postal": "91730",
-        "departement": "91",
-        "latitude": 48.533724,
-        "longitude": 2.209265,
-        "precision": "exacte",
-        "distance_km": 38.44465971246643,
-        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-chamarande/"
-      },
-      "description": "Ben et ses frères Red et Johnny sont arrivés tout petits au refuge. Grâce à leur famille relais, ils ont grandi entourés d'amour et sont désormais prêts à être adoptés !\n​Ces trois adorables chatons présentent des troubles neurologiques appelés ataxie. Cela se traduit par un manque de coordination, ils dandinent, font des petits écarts ou manquent d'équilibre. Mais ils ne se rendent absolument pa…",
-      "fiche_lue": true,
-      "portee": {
-        "id": "portee-2",
-        "taille": 3,
-        "disponibles": 3,
-        "confiance": "forte",
-        "indices": [
-          "même date de naissance",
-          "fratrie mentionnée"
-        ]
-      },
-      "nouveau": true
-    },
-    {
       "id": "laspa:252163",
       "source": "laspa",
       "source_label": "La SPA",
@@ -638,7 +569,7 @@
       "sexe": "male",
       "age_categorie": "junior",
       "age_texte": null,
-      "age_mois": 2.116502732146931,
+      "age_mois": 2.151383253479352,
       "age_source": "naissance",
       "age_conflit": null,
       "date_naissance": "2026-08-15",
@@ -662,8 +593,8 @@
       "fiche_lue": true,
       "portee": {
         "id": "portee-2",
-        "taille": 3,
-        "disponibles": 3,
+        "taille": 2,
+        "disponibles": 2,
         "confiance": "forte",
         "indices": [
           "même date de naissance",
@@ -686,7 +617,7 @@
       "sexe": "male",
       "age_categorie": "junior",
       "age_texte": null,
-      "age_mois": 2.116502732146931,
+      "age_mois": 2.151383253479352,
       "age_source": "naissance",
       "age_conflit": null,
       "date_naissance": "2026-08-15",
@@ -710,8 +641,8 @@
       "fiche_lue": true,
       "portee": {
         "id": "portee-2",
-        "taille": 3,
-        "disponibles": 3,
+        "taille": 2,
+        "disponibles": 2,
         "confiance": "forte",
         "indices": [
           "même date de naissance",
@@ -734,7 +665,7 @@
       "sexe": "male",
       "age_categorie": "junior",
       "age_texte": null,
-      "age_mois": 3.134983224960073,
+      "age_mois": 3.169863746292494,
       "age_source": "naissance",
       "age_conflit": null,
       "date_naissance": "2026-07-15",
@@ -764,10 +695,10 @@
     "sources": {
       "laspa": {
         "pages": 1,
-        "total_site": 171,
-        "dans_zone": 117,
-        "fiches": 3,
-        "fiches_cache": 47,
+        "total_site": 158,
+        "dans_zone": 108,
+        "fiches": 1,
+        "fiches_cache": 46,
         "erreurs": 0
       },
       "secondechance": {
@@ -781,10 +712,10 @@
         "pages_tronquees": 0
       }
     },
-    "requests": 15,
+    "requests": 13,
     "retries": 0,
-    "duree_s": 12.5,
-    "annonces_zone": 117
+    "duree_s": 13.4,
+    "annonces_zone": 108
   },
   "erreurs": []
 }
