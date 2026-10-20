@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-19T11:35:07.680Z",
+  "date": "2026-10-20T10:39:40.595Z",
   "zone": {
     "mode": "rayon",
     "label": "50 km autour de Paris 11e Arrondissement",
@@ -34,7 +34,7 @@
       "sexe": "femelle",
       "age_categorie": "junior",
       "age_texte": null,
-      "age_mois": 3.169863746292494,
+      "age_mois": 3.201452808198342,
       "age_source": "naissance",
       "age_conflit": null,
       "date_naissance": "2026-07-15",
@@ -86,7 +86,7 @@
       "sexe": "femelle",
       "age_categorie": "junior",
       "age_texte": null,
-      "age_mois": 3.169863746292494,
+      "age_mois": 3.201452808198342,
       "age_source": "naissance",
       "age_conflit": null,
       "date_naissance": "2026-07-15",
@@ -138,7 +138,7 @@
       "sexe": "femelle",
       "age_categorie": "junior",
       "age_texte": null,
-      "age_mois": 3.169863746292494,
+      "age_mois": 3.201452808198342,
       "age_source": "naissance",
       "age_conflit": null,
       "date_naissance": "2026-07-15",
@@ -190,7 +190,7 @@
       "sexe": "femelle",
       "age_categorie": "junior",
       "age_texte": null,
-      "age_mois": 3.629822678530687,
+      "age_mois": 3.661411740436535,
       "age_source": "naissance",
       "age_conflit": null,
       "date_naissance": "2026-07-01",
@@ -229,7 +229,7 @@
       "sexe": "femelle",
       "age_categorie": "junior",
       "age_texte": null,
-      "age_mois": 1.5928616929044033,
+      "age_mois": 1.6244507548102516,
       "age_source": "naissance",
       "age_conflit": null,
       "date_naissance": "2026-09-01",
@@ -262,13 +262,13 @@
       "uid": "animal-red-cha",
       "nom": "RED CHA",
       "url": "https://www.la-spa.fr/animal/red-cha/",
-      "image": "https://www.la-spa.fr/app/app/uploads/animals/252163/red-cha-252163-6ad28bb34c76c.jpg",
+      "image": "https://www.la-spa.fr/app/app/uploads/animals/252163/red-cha-252163-6ad61e2e4ed71.jpg",
       "espece": "chat",
       "race": "Europeen",
       "sexe": "male",
       "age_categorie": "junior",
       "age_texte": null,
-      "age_mois": 2.151383253479352,
+      "age_mois": 2.1829723153852005,
       "age_source": "naissance",
       "age_conflit": null,
       "date_naissance": "2026-08-15",
@@ -288,7 +288,7 @@
         "distance_km": 38.44465971246643,
         "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-chamarande/"
       },
-      "description": "Ben et ses frères Red et Johnny sont arrivés tout petits au refuge. Grâce à leur famille relais, ils ont grandi entourés d'amour et sont désormais prêts à être adoptés !\n​Ces trois adorables chatons présentent des troubles neurologiques appelés ataxie. Cela se traduit par un manque de coordination, ils dandinent, font des petits écarts ou manquent d'équilibre. Mais ils ne se rendent absolument pa…",
+      "description": "Ben et ses frères Red et Johnny sont arrivés tout petits au refuge. Grâce à leur famille relais, ils ont grandi entourés d'amour et sont désormais prêts à être adoptés !\n?Ces trois adorables chatons présentent des troubles neurologiques appelés ataxie. Cela se traduit par un manque de coordination, ils dandinent, font des petits écarts ou manquent d'équilibre. Mais ils ne se rendent absolument pa…",
       "fiche_lue": true,
       "portee": {
         "id": "portee-2",
@@ -310,13 +310,13 @@
       "uid": "animal-ben-cha",
       "nom": "BEN CHA",
       "url": "https://www.la-spa.fr/animal/ben-cha/",
-      "image": "https://www.la-spa.fr/app/app/uploads/animals/252161/ben-cha-252161-6ad28ac46fb71.jpg",
+      "image": "https://www.la-spa.fr/app/app/uploads/animals/252161/ben-cha-252161-6ad61cfc2272b.jpg",
       "espece": "chat",
       "race": "Europeen",
       "sexe": "male",
       "age_categorie": "junior",
       "age_texte": null,
-      "age_mois": 2.151383253479352,
+      "age_mois": 2.1829723153852005,
       "age_source": "naissance",
       "age_conflit": null,
       "date_naissance": "2026-08-15",
@@ -336,7 +336,7 @@
         "distance_km": 38.44465971246643,
         "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-chamarande/"
       },
-      "description": "Ben et ses frères Red et Johnny sont arrivés tout petits au refuge. Grâce à leur famille relais, ils ont grandi entourés d'amour et sont désormais prêts à être adoptés !\n​Ces trois adorables chatons présentent des troubles neurologiques appelés ataxie. Cela se traduit par un manque de coordination, ils dandinent, font des petits écarts ou manquent d'équilibre. Mais ils ne se rendent absolument pa…",
+      "description": "Ben et ses frères Red et Johnny sont arrivés tout petits au refuge. Grâce à leur famille relais, ils ont grandi entourés d'amour et sont désormais prêts à être adoptés !\n?Ces trois adorables chatons présentent des troubles neurologiques appelés ataxie. Cela se traduit par un manque de coordination, ils dandinent, font des petits écarts ou manquent d'équilibre. Mais ils ne se rendent absolument pa…",
       "fiche_lue": true,
       "portee": {
         "id": "portee-2",
@@ -364,7 +364,7 @@
       "sexe": "male",
       "age_categorie": "junior",
       "age_texte": null,
-      "age_mois": 3.169863746292494,
+      "age_mois": 3.201452808198342,
       "age_source": "naissance",
       "age_conflit": null,
       "date_naissance": "2026-07-15",
@@ -388,6 +388,147 @@
       "fiche_lue": true,
       "portee": null,
       "nouveau": true
+    },
+    {
+      "id": "laspa:252919",
+      "source": "laspa",
+      "source_label": "La SPA",
+      "source_id": "252919",
+      "uid": "animal-athos-c",
+      "nom": "ATHOS C",
+      "url": "https://www.la-spa.fr/animal/athos-c/",
+      "image": "https://www.la-spa.fr/app/app/uploads/animals/252919/athos-c-252919-6ad6237517926.jpg",
+      "espece": "chat",
+      "race": "Europeen",
+      "sexe": "male",
+      "age_categorie": "junior",
+      "age_texte": null,
+      "age_mois": 2.5772228287322227,
+      "age_source": "naissance",
+      "age_conflit": null,
+      "date_naissance": "2026-08-03",
+      "date_publication": "2026-10-19",
+      "reserve": false,
+      "sos": false,
+      "fad": false,
+      "lieu": {
+        "nom": "La SPA - Refuge de Vaux-Le-Penil",
+        "slug": "refuge-spa-de-vaux-le-penil",
+        "ville": "Vaux-Le-Pénil",
+        "code_postal": "77000",
+        "departement": "77",
+        "latitude": 48.520575,
+        "longitude": 2.718874,
+        "precision": "exacte",
+        "distance_km": 45.142564706391916,
+        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-vaux-le-penil/"
+      },
+      "description": null,
+      "fiche_lue": true,
+      "portee": {
+        "id": "portee-3",
+        "taille": 3,
+        "disponibles": 3,
+        "confiance": "forte",
+        "indices": [
+          "même date de naissance"
+        ]
+      },
+      "nouveau": true
+    },
+    {
+      "id": "laspa:252918",
+      "source": "laspa",
+      "source_label": "La SPA",
+      "source_id": "252918",
+      "uid": "animal-aramis-c",
+      "nom": "ARAMIS C",
+      "url": "https://www.la-spa.fr/animal/aramis-c/",
+      "image": "https://www.la-spa.fr/app/app/uploads/animals/252918/aramis-c-252918-6ad623113b9d8.jpg",
+      "espece": "chat",
+      "race": "Europeen",
+      "sexe": "femelle",
+      "age_categorie": "junior",
+      "age_texte": null,
+      "age_mois": 2.5772228287322227,
+      "age_source": "naissance",
+      "age_conflit": null,
+      "date_naissance": "2026-08-03",
+      "date_publication": "2026-10-19",
+      "reserve": false,
+      "sos": false,
+      "fad": false,
+      "lieu": {
+        "nom": "La SPA - Refuge de Vaux-Le-Penil",
+        "slug": "refuge-spa-de-vaux-le-penil",
+        "ville": "Vaux-Le-Pénil",
+        "code_postal": "77000",
+        "departement": "77",
+        "latitude": 48.520575,
+        "longitude": 2.718874,
+        "precision": "exacte",
+        "distance_km": 45.142564706391916,
+        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-vaux-le-penil/"
+      },
+      "description": null,
+      "fiche_lue": true,
+      "portee": {
+        "id": "portee-3",
+        "taille": 3,
+        "disponibles": 3,
+        "confiance": "forte",
+        "indices": [
+          "même date de naissance"
+        ]
+      },
+      "nouveau": true
+    },
+    {
+      "id": "laspa:252921",
+      "source": "laspa",
+      "source_label": "La SPA",
+      "source_id": "252921",
+      "uid": "animal-porthos-c",
+      "nom": "PORTHOS C",
+      "url": "https://www.la-spa.fr/animal/porthos-c/",
+      "image": "https://www.la-spa.fr/app/app/uploads/animals/252921/porthos-c-252921-6ad623bfa0d38.jpg",
+      "espece": "chat",
+      "race": "Europeen",
+      "sexe": "male",
+      "age_categorie": "junior",
+      "age_texte": null,
+      "age_mois": 2.5772228287322227,
+      "age_source": "naissance",
+      "age_conflit": null,
+      "date_naissance": "2026-08-03",
+      "date_publication": "2026-10-19",
+      "reserve": false,
+      "sos": false,
+      "fad": false,
+      "lieu": {
+        "nom": "La SPA - Refuge de Vaux-Le-Penil",
+        "slug": "refuge-spa-de-vaux-le-penil",
+        "ville": "Vaux-Le-Pénil",
+        "code_postal": "77000",
+        "departement": "77",
+        "latitude": 48.520575,
+        "longitude": 2.718874,
+        "precision": "exacte",
+        "distance_km": 45.142564706391916,
+        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-vaux-le-penil/"
+      },
+      "description": null,
+      "fiche_lue": true,
+      "portee": {
+        "id": "portee-3",
+        "taille": 3,
+        "disponibles": 3,
+        "confiance": "forte",
+        "indices": [
+          "même date de naissance"
+        ]
+      },
+      "nouveau": true
     }
   ],
   "portees": [
@@ -402,7 +543,7 @@
         "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-gennevilliers-grammont/"
       },
       "date_naissance": "2026-07-15",
-      "age_mois": 3.169863746292494,
+      "age_mois": 3.201452808198342,
       "taille": 4,
       "annonces": 3,
       "disponibles": 4,
@@ -431,6 +572,39 @@
       ]
     },
     {
+      "id": "portee-3",
+      "source": "laspa",
+      "source_label": "La SPA",
+      "lieu": {
+        "nom": "La SPA - Refuge de Vaux-Le-Penil",
+        "ville": "Vaux-Le-Pénil",
+        "departement": "77",
+        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-vaux-le-penil/"
+      },
+      "date_naissance": "2026-08-03",
+      "age_mois": 2.5772228287322227,
+      "taille": 3,
+      "annonces": 3,
+      "disponibles": 3,
+      "confiance": "forte",
+      "indices": [
+        "même date de naissance"
+      ],
+      "membres": [
+        "laspa:252918",
+        "laspa:252919",
+        "laspa:252921"
+      ],
+      "noms": [
+        "ARAMIS C",
+        "ATHOS C",
+        "PORTHOS C"
+      ],
+      "sources": [
+        "La SPA"
+      ]
+    },
+    {
       "id": "portee-2",
       "source": "laspa",
       "source_label": "La SPA",
@@ -441,7 +615,7 @@
         "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-chamarande/"
       },
       "date_naissance": "2026-08-15",
-      "age_mois": 2.151383253479352,
+      "age_mois": 2.1829723153852005,
       "taille": 2,
       "annonces": 2,
       "disponibles": 2,
@@ -465,6 +639,147 @@
   ],
   "nouveaux_arrivants": [
     {
+      "id": "laspa:252919",
+      "source": "laspa",
+      "source_label": "La SPA",
+      "source_id": "252919",
+      "uid": "animal-athos-c",
+      "nom": "ATHOS C",
+      "url": "https://www.la-spa.fr/animal/athos-c/",
+      "image": "https://www.la-spa.fr/app/app/uploads/animals/252919/athos-c-252919-6ad6237517926.jpg",
+      "espece": "chat",
+      "race": "Europeen",
+      "sexe": "male",
+      "age_categorie": "junior",
+      "age_texte": null,
+      "age_mois": 2.5772228287322227,
+      "age_source": "naissance",
+      "age_conflit": null,
+      "date_naissance": "2026-08-03",
+      "date_publication": "2026-10-19",
+      "reserve": false,
+      "sos": false,
+      "fad": false,
+      "lieu": {
+        "nom": "La SPA - Refuge de Vaux-Le-Penil",
+        "slug": "refuge-spa-de-vaux-le-penil",
+        "ville": "Vaux-Le-Pénil",
+        "code_postal": "77000",
+        "departement": "77",
+        "latitude": 48.520575,
+        "longitude": 2.718874,
+        "precision": "exacte",
+        "distance_km": 45.142564706391916,
+        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-vaux-le-penil/"
+      },
+      "description": null,
+      "fiche_lue": true,
+      "portee": {
+        "id": "portee-3",
+        "taille": 3,
+        "disponibles": 3,
+        "confiance": "forte",
+        "indices": [
+          "même date de naissance"
+        ]
+      },
+      "nouveau": true
+    },
+    {
+      "id": "laspa:252918",
+      "source": "laspa",
+      "source_label": "La SPA",
+      "source_id": "252918",
+      "uid": "animal-aramis-c",
+      "nom": "ARAMIS C",
+      "url": "https://www.la-spa.fr/animal/aramis-c/",
+      "image": "https://www.la-spa.fr/app/app/uploads/animals/252918/aramis-c-252918-6ad623113b9d8.jpg",
+      "espece": "chat",
+      "race": "Europeen",
+      "sexe": "femelle",
+      "age_categorie": "junior",
+      "age_texte": null,
+      "age_mois": 2.5772228287322227,
+      "age_source": "naissance",
+      "age_conflit": null,
+      "date_naissance": "2026-08-03",
+      "date_publication": "2026-10-19",
+      "reserve": false,
+      "sos": false,
+      "fad": false,
+      "lieu": {
+        "nom": "La SPA - Refuge de Vaux-Le-Penil",
+        "slug": "refuge-spa-de-vaux-le-penil",
+        "ville": "Vaux-Le-Pénil",
+        "code_postal": "77000",
+        "departement": "77",
+        "latitude": 48.520575,
+        "longitude": 2.718874,
+        "precision": "exacte",
+        "distance_km": 45.142564706391916,
+        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-vaux-le-penil/"
+      },
+      "description": null,
+      "fiche_lue": true,
+      "portee": {
+        "id": "portee-3",
+        "taille": 3,
+        "disponibles": 3,
+        "confiance": "forte",
+        "indices": [
+          "même date de naissance"
+        ]
+      },
+      "nouveau": true
+    },
+    {
+      "id": "laspa:252921",
+      "source": "laspa",
+      "source_label": "La SPA",
+      "source_id": "252921",
+      "uid": "animal-porthos-c",
+      "nom": "PORTHOS C",
+      "url": "https://www.la-spa.fr/animal/porthos-c/",
+      "image": "https://www.la-spa.fr/app/app/uploads/animals/252921/porthos-c-252921-6ad623bfa0d38.jpg",
+      "espece": "chat",
+      "race": "Europeen",
+      "sexe": "male",
+      "age_categorie": "junior",
+      "age_texte": null,
+      "age_mois": 2.5772228287322227,
+      "age_source": "naissance",
+      "age_conflit": null,
+      "date_naissance": "2026-08-03",
+      "date_publication": "2026-10-19",
+      "reserve": false,
+      "sos": false,
+      "fad": false,
+      "lieu": {
+        "nom": "La SPA - Refuge de Vaux-Le-Penil",
+        "slug": "refuge-spa-de-vaux-le-penil",
+        "ville": "Vaux-Le-Pénil",
+        "code_postal": "77000",
+        "departement": "77",
+        "latitude": 48.520575,
+        "longitude": 2.718874,
+        "precision": "exacte",
+        "distance_km": 45.142564706391916,
+        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-vaux-le-penil/"
+      },
+      "description": null,
+      "fiche_lue": true,
+      "portee": {
+        "id": "portee-3",
+        "taille": 3,
+        "disponibles": 3,
+        "confiance": "forte",
+        "indices": [
+          "même date de naissance"
+        ]
+      },
+      "nouveau": true
+    },
+    {
       "id": "laspa:252669",
       "source": "laspa",
       "source_label": "La SPA",
@@ -478,7 +793,7 @@
       "sexe": "femelle",
       "age_categorie": "junior",
       "age_texte": null,
-      "age_mois": 3.169863746292494,
+      "age_mois": 3.201452808198342,
       "age_source": "naissance",
       "age_conflit": null,
       "date_naissance": "2026-07-15",
@@ -530,7 +845,7 @@
       "sexe": "femelle",
       "age_categorie": "junior",
       "age_texte": null,
-      "age_mois": 1.5928616929044033,
+      "age_mois": 1.6244507548102516,
       "age_source": "naissance",
       "age_conflit": null,
       "date_naissance": "2026-09-01",
@@ -563,13 +878,13 @@
       "uid": "animal-red-cha",
       "nom": "RED CHA",
       "url": "https://www.la-spa.fr/animal/red-cha/",
-      "image": "https://www.la-spa.fr/app/app/uploads/animals/252163/red-cha-252163-6ad28bb34c76c.jpg",
+      "image": "https://www.la-spa.fr/app/app/uploads/animals/252163/red-cha-252163-6ad61e2e4ed71.jpg",
       "espece": "chat",
       "race": "Europeen",
       "sexe": "male",
       "age_categorie": "junior",
       "age_texte": null,
-      "age_mois": 2.151383253479352,
+      "age_mois": 2.1829723153852005,
       "age_source": "naissance",
       "age_conflit": null,
       "date_naissance": "2026-08-15",
@@ -589,7 +904,7 @@
         "distance_km": 38.44465971246643,
         "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-chamarande/"
       },
-      "description": "Ben et ses frères Red et Johnny sont arrivés tout petits au refuge. Grâce à leur famille relais, ils ont grandi entourés d'amour et sont désormais prêts à être adoptés !\n​Ces trois adorables chatons présentent des troubles neurologiques appelés ataxie. Cela se traduit par un manque de coordination, ils dandinent, font des petits écarts ou manquent d'équilibre. Mais ils ne se rendent absolument pa…",
+      "description": "Ben et ses frères Red et Johnny sont arrivés tout petits au refuge. Grâce à leur famille relais, ils ont grandi entourés d'amour et sont désormais prêts à être adoptés !\n?Ces trois adorables chatons présentent des troubles neurologiques appelés ataxie. Cela se traduit par un manque de coordination, ils dandinent, font des petits écarts ou manquent d'équilibre. Mais ils ne se rendent absolument pa…",
       "fiche_lue": true,
       "portee": {
         "id": "portee-2",
@@ -611,13 +926,13 @@
       "uid": "animal-ben-cha",
       "nom": "BEN CHA",
       "url": "https://www.la-spa.fr/animal/ben-cha/",
-      "image": "https://www.la-spa.fr/app/app/uploads/animals/252161/ben-cha-252161-6ad28ac46fb71.jpg",
+      "image": "https://www.la-spa.fr/app/app/uploads/animals/252161/ben-cha-252161-6ad61cfc2272b.jpg",
       "espece": "chat",
       "race": "Europeen",
       "sexe": "male",
       "age_categorie": "junior",
       "age_texte": null,
-      "age_mois": 2.151383253479352,
+      "age_mois": 2.1829723153852005,
       "age_source": "naissance",
       "age_conflit": null,
       "date_naissance": "2026-08-15",
@@ -637,7 +952,7 @@
         "distance_km": 38.44465971246643,
         "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-chamarande/"
       },
-      "description": "Ben et ses frères Red et Johnny sont arrivés tout petits au refuge. Grâce à leur famille relais, ils ont grandi entourés d'amour et sont désormais prêts à être adoptés !\n​Ces trois adorables chatons présentent des troubles neurologiques appelés ataxie. Cela se traduit par un manque de coordination, ils dandinent, font des petits écarts ou manquent d'équilibre. Mais ils ne se rendent absolument pa…",
+      "description": "Ben et ses frères Red et Johnny sont arrivés tout petits au refuge. Grâce à leur famille relais, ils ont grandi entourés d'amour et sont désormais prêts à être adoptés !\n?Ces trois adorables chatons présentent des troubles neurologiques appelés ataxie. Cela se traduit par un manque de coordination, ils dandinent, font des petits écarts ou manquent d'équilibre. Mais ils ne se rendent absolument pa…",
       "fiche_lue": true,
       "portee": {
         "id": "portee-2",
@@ -665,7 +980,7 @@
       "sexe": "male",
       "age_categorie": "junior",
       "age_texte": null,
-      "age_mois": 3.169863746292494,
+      "age_mois": 3.201452808198342,
       "age_source": "naissance",
       "age_conflit": null,
       "date_naissance": "2026-07-15",
@@ -695,10 +1010,10 @@
     "sources": {
       "laspa": {
         "pages": 1,
-        "total_site": 158,
-        "dans_zone": 108,
-        "fiches": 1,
-        "fiches_cache": 46,
+        "total_site": 153,
+        "dans_zone": 106,
+        "fiches": 3,
+        "fiches_cache": 45,
         "erreurs": 0
       },
       "secondechance": {
@@ -712,10 +1027,10 @@
         "pages_tronquees": 0
       }
     },
-    "requests": 13,
+    "requests": 15,
     "retries": 0,
-    "duree_s": 13.4,
-    "annonces_zone": 108
+    "duree_s": 9.7,
+    "annonces_zone": 106
   },
   "erreurs": []
 }
