@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-20T10:39:40.595Z",
+  "date": "2026-10-21T10:50:29.490Z",
   "zone": {
     "mode": "rayon",
     "label": "50 km autour de Paris 11e Arrondissement",
@@ -21,6 +21,100 @@
   },
   "chatons": [
     {
+      "id": "laspa:253145",
+      "source": "laspa",
+      "source_label": "La SPA",
+      "source_id": "253145",
+      "uid": "animal-miaoussini-le-magnifique",
+      "nom": "MIAOUSSINI LE MAGNIFIQUE",
+      "url": "https://www.la-spa.fr/animal/miaoussini-le-magnifique/",
+      "image": "https://www.la-spa.fr/app/app/uploads/animals/253145/miaoussini-le-magnifique-253145-6ad76292d760d.jpg",
+      "espece": "chat",
+      "race": "Europeen",
+      "sexe": "male",
+      "age_categorie": "junior",
+      "age_texte": null,
+      "age_mois": 2.544615366187543,
+      "age_source": "naissance",
+      "age_conflit": null,
+      "date_naissance": "2026-08-05",
+      "date_publication": "2026-10-20",
+      "reserve": false,
+      "sos": false,
+      "fad": false,
+      "lieu": {
+        "nom": "La SPA - Refuge de Gennevilliers – Grammont",
+        "slug": "refuge-spa-de-gennevilliers-grammont",
+        "ville": "Gennevilliers",
+        "code_postal": "92230",
+        "departement": "92",
+        "latitude": 48.944706567958,
+        "longitude": 2.3035848619018,
+        "precision": "exacte",
+        "distance_km": 11.004464438564007,
+        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-gennevilliers-grammont/"
+      },
+      "description": "commentaire à venir",
+      "fiche_lue": true,
+      "portee": {
+        "id": "portee-1",
+        "taille": 2,
+        "disponibles": 2,
+        "confiance": "forte",
+        "indices": [
+          "même date de naissance"
+        ]
+      },
+      "nouveau": true
+    },
+    {
+      "id": "laspa:253177",
+      "source": "laspa",
+      "source_label": "La SPA",
+      "source_id": "253177",
+      "uid": "animal-biscotte-du-buisson",
+      "nom": "BISCOTTE DU BUISSON",
+      "url": "https://www.la-spa.fr/animal/biscotte-du-buisson/",
+      "image": "https://www.la-spa.fr/app/app/uploads/animals/253177/biscotte-du-buisson-253177-6ad76c4f19676.jpg",
+      "espece": "chat",
+      "race": "Europeen",
+      "sexe": "femelle",
+      "age_categorie": "junior",
+      "age_texte": null,
+      "age_mois": 2.544615366187543,
+      "age_source": "naissance",
+      "age_conflit": null,
+      "date_naissance": "2026-08-05",
+      "date_publication": "2026-10-20",
+      "reserve": false,
+      "sos": false,
+      "fad": false,
+      "lieu": {
+        "nom": "La SPA - Refuge de Gennevilliers – Grammont",
+        "slug": "refuge-spa-de-gennevilliers-grammont",
+        "ville": "Gennevilliers",
+        "code_postal": "92230",
+        "departement": "92",
+        "latitude": 48.944706567958,
+        "longitude": 2.3035848619018,
+        "precision": "exacte",
+        "distance_km": 11.004464438564007,
+        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-gennevilliers-grammont/"
+      },
+      "description": "commentaire à venir",
+      "fiche_lue": true,
+      "portee": {
+        "id": "portee-1",
+        "taille": 2,
+        "disponibles": 2,
+        "confiance": "forte",
+        "indices": [
+          "même date de naissance"
+        ]
+      },
+      "nouveau": true
+    },
+    {
       "id": "laspa:246312",
       "source": "laspa",
       "source_label": "La SPA",
@@ -34,7 +128,7 @@
       "sexe": "femelle",
       "age_categorie": "junior",
       "age_texte": null,
-      "age_mois": 3.201452808198342,
+      "age_mois": 3.2345537645448323,
       "age_source": "naissance",
       "age_conflit": null,
       "date_naissance": "2026-07-15",
@@ -57,7 +151,7 @@
       "description": "Ondine & Clémentine sont arrivées suite à un transfert d'une autre association.\nOndine & Clémentine sont deux loulous un peu timide qui recherche des adoptants doux et patients qui leur laisseront le temps d'évoluer à leur rythme.\nIls devront vivre en appartement, sans sortie extérieure et sans jeunes enfants.\nIls pourront être adoptés ensemble ou séparément mais la présence d'un premier chat, va…",
       "fiche_lue": true,
       "portee": {
-        "id": "portee-1",
+        "id": "portee-2",
         "taille": 4,
         "disponibles": 4,
         "confiance": "forte",
@@ -86,7 +180,7 @@
       "sexe": "femelle",
       "age_categorie": "junior",
       "age_texte": null,
-      "age_mois": 3.201452808198342,
+      "age_mois": 3.2345537645448323,
       "age_source": "naissance",
       "age_conflit": null,
       "date_naissance": "2026-07-15",
@@ -109,7 +203,7 @@
       "description": "CERISE et FRAMBOISE sont deux chatonnes qui reviennent tout juste de famille relais.\nAdorables, elles sont très proches l'une de l'autre, nous cherchons donc une famille pour une adoption en duo.\nElles recherchent une famille disponible qui pourra leur accorder l'attention dont elles ont besoin. Des petites merveilles à venir rencontrer.",
       "fiche_lue": true,
       "portee": {
-        "id": "portee-1",
+        "id": "portee-2",
         "taille": 4,
         "disponibles": 4,
         "confiance": "forte",
@@ -138,7 +232,7 @@
       "sexe": "femelle",
       "age_categorie": "junior",
       "age_texte": null,
-      "age_mois": 3.201452808198342,
+      "age_mois": 3.2345537645448323,
       "age_source": "naissance",
       "age_conflit": null,
       "date_naissance": "2026-07-15",
@@ -161,7 +255,7 @@
       "description": "Ondine & Clémentine sont arrivées suite à un transfert d'une autre association.\nOndine & Clémentine sont deux loulous un peu timide qui recherche des adoptants doux et patients qui leur laisseront le temps d'évoluer à leur rythme.\nIls devront vivre en appartement, sans sortie extérieure et sans jeunes enfants.\nIls pourront être adoptés ensemble ou séparément mais la présence d'un premier chat, va…",
       "fiche_lue": true,
       "portee": {
-        "id": "portee-1",
+        "id": "portee-2",
         "taille": 4,
         "disponibles": 4,
         "confiance": "forte",
@@ -190,7 +284,7 @@
       "sexe": "femelle",
       "age_categorie": "junior",
       "age_texte": null,
-      "age_mois": 3.661411740436535,
+      "age_mois": 3.694512696783025,
       "age_source": "naissance",
       "age_conflit": null,
       "date_naissance": "2026-07-01",
@@ -229,7 +323,7 @@
       "sexe": "femelle",
       "age_categorie": "junior",
       "age_texte": null,
-      "age_mois": 1.6244507548102516,
+      "age_mois": 1.657551711156742,
       "age_source": "naissance",
       "age_conflit": null,
       "date_naissance": "2026-09-01",
@@ -268,7 +362,7 @@
       "sexe": "male",
       "age_categorie": "junior",
       "age_texte": null,
-      "age_mois": 2.1829723153852005,
+      "age_mois": 2.2160732717316907,
       "age_source": "naissance",
       "age_conflit": null,
       "date_naissance": "2026-08-15",
@@ -291,7 +385,7 @@
       "description": "Ben et ses frères Red et Johnny sont arrivés tout petits au refuge. Grâce à leur famille relais, ils ont grandi entourés d'amour et sont désormais prêts à être adoptés !\n?Ces trois adorables chatons présentent des troubles neurologiques appelés ataxie. Cela se traduit par un manque de coordination, ils dandinent, font des petits écarts ou manquent d'équilibre. Mais ils ne se rendent absolument pa…",
       "fiche_lue": true,
       "portee": {
-        "id": "portee-2",
+        "id": "portee-3",
         "taille": 2,
         "disponibles": 2,
         "confiance": "forte",
@@ -316,7 +410,7 @@
       "sexe": "male",
       "age_categorie": "junior",
       "age_texte": null,
-      "age_mois": 2.1829723153852005,
+      "age_mois": 2.2160732717316907,
       "age_source": "naissance",
       "age_conflit": null,
       "date_naissance": "2026-08-15",
@@ -339,7 +433,7 @@
       "description": "Ben et ses frères Red et Johnny sont arrivés tout petits au refuge. Grâce à leur famille relais, ils ont grandi entourés d'amour et sont désormais prêts à être adoptés !\n?Ces trois adorables chatons présentent des troubles neurologiques appelés ataxie. Cela se traduit par un manque de coordination, ils dandinent, font des petits écarts ou manquent d'équilibre. Mais ils ne se rendent absolument pa…",
       "fiche_lue": true,
       "portee": {
-        "id": "portee-2",
+        "id": "portee-3",
         "taille": 2,
         "disponibles": 2,
         "confiance": "forte",
@@ -364,7 +458,7 @@
       "sexe": "male",
       "age_categorie": "junior",
       "age_texte": null,
-      "age_mois": 3.201452808198342,
+      "age_mois": 3.2345537645448323,
       "age_source": "naissance",
       "age_conflit": null,
       "date_naissance": "2026-07-15",
@@ -403,7 +497,7 @@
       "sexe": "male",
       "age_categorie": "junior",
       "age_texte": null,
-      "age_mois": 2.5772228287322227,
+      "age_mois": 2.6103237850787133,
       "age_source": "naissance",
       "age_conflit": null,
       "date_naissance": "2026-08-03",
@@ -426,7 +520,7 @@
       "description": null,
       "fiche_lue": true,
       "portee": {
-        "id": "portee-3",
+        "id": "portee-4",
         "taille": 3,
         "disponibles": 3,
         "confiance": "forte",
@@ -450,7 +544,7 @@
       "sexe": "femelle",
       "age_categorie": "junior",
       "age_texte": null,
-      "age_mois": 2.5772228287322227,
+      "age_mois": 2.6103237850787133,
       "age_source": "naissance",
       "age_conflit": null,
       "date_naissance": "2026-08-03",
@@ -473,7 +567,7 @@
       "description": null,
       "fiche_lue": true,
       "portee": {
-        "id": "portee-3",
+        "id": "portee-4",
         "taille": 3,
         "disponibles": 3,
         "confiance": "forte",
@@ -497,7 +591,7 @@
       "sexe": "male",
       "age_categorie": "junior",
       "age_texte": null,
-      "age_mois": 2.5772228287322227,
+      "age_mois": 2.6103237850787133,
       "age_source": "naissance",
       "age_conflit": null,
       "date_naissance": "2026-08-03",
@@ -520,7 +614,7 @@
       "description": null,
       "fiche_lue": true,
       "portee": {
-        "id": "portee-3",
+        "id": "portee-4",
         "taille": 3,
         "disponibles": 3,
         "confiance": "forte",
@@ -533,7 +627,7 @@
   ],
   "portees": [
     {
-      "id": "portee-1",
+      "id": "portee-2",
       "source": "laspa",
       "source_label": "La SPA",
       "lieu": {
@@ -543,7 +637,7 @@
         "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-gennevilliers-grammont/"
       },
       "date_naissance": "2026-07-15",
-      "age_mois": 3.201452808198342,
+      "age_mois": 3.2345537645448323,
       "taille": 4,
       "annonces": 3,
       "disponibles": 4,
@@ -572,7 +666,7 @@
       ]
     },
     {
-      "id": "portee-3",
+      "id": "portee-4",
       "source": "laspa",
       "source_label": "La SPA",
       "lieu": {
@@ -582,7 +676,7 @@
         "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-vaux-le-penil/"
       },
       "date_naissance": "2026-08-03",
-      "age_mois": 2.5772228287322227,
+      "age_mois": 2.6103237850787133,
       "taille": 3,
       "annonces": 3,
       "disponibles": 3,
@@ -605,7 +699,7 @@
       ]
     },
     {
-      "id": "portee-2",
+      "id": "portee-3",
       "source": "laspa",
       "source_label": "La SPA",
       "lieu": {
@@ -615,7 +709,7 @@
         "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-chamarande/"
       },
       "date_naissance": "2026-08-15",
-      "age_mois": 2.1829723153852005,
+      "age_mois": 2.2160732717316907,
       "taille": 2,
       "annonces": 2,
       "disponibles": 2,
@@ -635,9 +729,134 @@
       "sources": [
         "La SPA"
       ]
+    },
+    {
+      "id": "portee-1",
+      "source": "laspa",
+      "source_label": "La SPA",
+      "lieu": {
+        "nom": "La SPA - Refuge de Gennevilliers – Grammont",
+        "ville": "Gennevilliers",
+        "departement": "92",
+        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-gennevilliers-grammont/"
+      },
+      "date_naissance": "2026-08-05",
+      "age_mois": 2.544615366187543,
+      "taille": 2,
+      "annonces": 2,
+      "disponibles": 2,
+      "confiance": "forte",
+      "indices": [
+        "même date de naissance"
+      ],
+      "membres": [
+        "laspa:253145",
+        "laspa:253177"
+      ],
+      "noms": [
+        "BISCOTTE DU BUISSON",
+        "MIAOUSSINI LE MAGNIFIQUE"
+      ],
+      "sources": [
+        "La SPA"
+      ]
     }
   ],
   "nouveaux_arrivants": [
+    {
+      "id": "laspa:253145",
+      "source": "laspa",
+      "source_label": "La SPA",
+      "source_id": "253145",
+      "uid": "animal-miaoussini-le-magnifique",
+      "nom": "MIAOUSSINI LE MAGNIFIQUE",
+      "url": "https://www.la-spa.fr/animal/miaoussini-le-magnifique/",
+      "image": "https://www.la-spa.fr/app/app/uploads/animals/253145/miaoussini-le-magnifique-253145-6ad76292d760d.jpg",
+      "espece": "chat",
+      "race": "Europeen",
+      "sexe": "male",
+      "age_categorie": "junior",
+      "age_texte": null,
+      "age_mois": 2.544615366187543,
+      "age_source": "naissance",
+      "age_conflit": null,
+      "date_naissance": "2026-08-05",
+      "date_publication": "2026-10-20",
+      "reserve": false,
+      "sos": false,
+      "fad": false,
+      "lieu": {
+        "nom": "La SPA - Refuge de Gennevilliers – Grammont",
+        "slug": "refuge-spa-de-gennevilliers-grammont",
+        "ville": "Gennevilliers",
+        "code_postal": "92230",
+        "departement": "92",
+        "latitude": 48.944706567958,
+        "longitude": 2.3035848619018,
+        "precision": "exacte",
+        "distance_km": 11.004464438564007,
+        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-gennevilliers-grammont/"
+      },
+      "description": "commentaire à venir",
+      "fiche_lue": true,
+      "portee": {
+        "id": "portee-1",
+        "taille": 2,
+        "disponibles": 2,
+        "confiance": "forte",
+        "indices": [
+          "même date de naissance"
+        ]
+      },
+      "nouveau": true
+    },
+    {
+      "id": "laspa:253177",
+      "source": "laspa",
+      "source_label": "La SPA",
+      "source_id": "253177",
+      "uid": "animal-biscotte-du-buisson",
+      "nom": "BISCOTTE DU BUISSON",
+      "url": "https://www.la-spa.fr/animal/biscotte-du-buisson/",
+      "image": "https://www.la-spa.fr/app/app/uploads/animals/253177/biscotte-du-buisson-253177-6ad76c4f19676.jpg",
+      "espece": "chat",
+      "race": "Europeen",
+      "sexe": "femelle",
+      "age_categorie": "junior",
+      "age_texte": null,
+      "age_mois": 2.544615366187543,
+      "age_source": "naissance",
+      "age_conflit": null,
+      "date_naissance": "2026-08-05",
+      "date_publication": "2026-10-20",
+      "reserve": false,
+      "sos": false,
+      "fad": false,
+      "lieu": {
+        "nom": "La SPA - Refuge de Gennevilliers – Grammont",
+        "slug": "refuge-spa-de-gennevilliers-grammont",
+        "ville": "Gennevilliers",
+        "code_postal": "92230",
+        "departement": "92",
+        "latitude": 48.944706567958,
+        "longitude": 2.3035848619018,
+        "precision": "exacte",
+        "distance_km": 11.004464438564007,
+        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-gennevilliers-grammont/"
+      },
+      "description": "commentaire à venir",
+      "fiche_lue": true,
+      "portee": {
+        "id": "portee-1",
+        "taille": 2,
+        "disponibles": 2,
+        "confiance": "forte",
+        "indices": [
+          "même date de naissance"
+        ]
+      },
+      "nouveau": true
+    },
     {
       "id": "laspa:252919",
       "source": "laspa",
@@ -652,7 +871,7 @@
       "sexe": "male",
       "age_categorie": "junior",
       "age_texte": null,
-      "age_mois": 2.5772228287322227,
+      "age_mois": 2.6103237850787133,
       "age_source": "naissance",
       "age_conflit": null,
       "date_naissance": "2026-08-03",
@@ -675,7 +894,7 @@
       "description": null,
       "fiche_lue": true,
       "portee": {
-        "id": "portee-3",
+        "id": "portee-4",
         "taille": 3,
         "disponibles": 3,
         "confiance": "forte",
@@ -699,7 +918,7 @@
       "sexe": "femelle",
       "age_categorie": "junior",
       "age_texte": null,
-      "age_mois": 2.5772228287322227,
+      "age_mois": 2.6103237850787133,
       "age_source": "naissance",
       "age_conflit": null,
       "date_naissance": "2026-08-03",
@@ -722,7 +941,7 @@
       "description": null,
       "fiche_lue": true,
       "portee": {
-        "id": "portee-3",
+        "id": "portee-4",
         "taille": 3,
         "disponibles": 3,
         "confiance": "forte",
@@ -746,7 +965,7 @@
       "sexe": "male",
       "age_categorie": "junior",
       "age_texte": null,
-      "age_mois": 2.5772228287322227,
+      "age_mois": 2.6103237850787133,
       "age_source": "naissance",
       "age_conflit": null,
       "date_naissance": "2026-08-03",
@@ -769,7 +988,7 @@
       "description": null,
       "fiche_lue": true,
       "portee": {
-        "id": "portee-3",
+        "id": "portee-4",
         "taille": 3,
         "disponibles": 3,
         "confiance": "forte",
@@ -793,7 +1012,7 @@
       "sexe": "femelle",
       "age_categorie": "junior",
       "age_texte": null,
-      "age_mois": 3.201452808198342,
+      "age_mois": 3.2345537645448323,
       "age_source": "naissance",
       "age_conflit": null,
       "date_naissance": "2026-07-15",
@@ -816,7 +1035,7 @@
       "description": "CERISE et FRAMBOISE sont deux chatonnes qui reviennent tout juste de famille relais.\nAdorables, elles sont très proches l'une de l'autre, nous cherchons donc une famille pour une adoption en duo.\nElles recherchent une famille disponible qui pourra leur accorder l'attention dont elles ont besoin. Des petites merveilles à venir rencontrer.",
       "fiche_lue": true,
       "portee": {
-        "id": "portee-1",
+        "id": "portee-2",
         "taille": 4,
         "disponibles": 4,
         "confiance": "forte",
@@ -845,7 +1064,7 @@
       "sexe": "femelle",
       "age_categorie": "junior",
       "age_texte": null,
-      "age_mois": 1.6244507548102516,
+      "age_mois": 1.657551711156742,
       "age_source": "naissance",
       "age_conflit": null,
       "date_naissance": "2026-09-01",
@@ -884,7 +1103,7 @@
       "sexe": "male",
       "age_categorie": "junior",
       "age_texte": null,
-      "age_mois": 2.1829723153852005,
+      "age_mois": 2.2160732717316907,
       "age_source": "naissance",
       "age_conflit": null,
       "date_naissance": "2026-08-15",
@@ -907,7 +1126,7 @@
       "description": "Ben et ses frères Red et Johnny sont arrivés tout petits au refuge. Grâce à leur famille relais, ils ont grandi entourés d'amour et sont désormais prêts à être adoptés !\n?Ces trois adorables chatons présentent des troubles neurologiques appelés ataxie. Cela se traduit par un manque de coordination, ils dandinent, font des petits écarts ou manquent d'équilibre. Mais ils ne se rendent absolument pa…",
       "fiche_lue": true,
       "portee": {
-        "id": "portee-2",
+        "id": "portee-3",
         "taille": 2,
         "disponibles": 2,
         "confiance": "forte",
@@ -932,7 +1151,7 @@
       "sexe": "male",
       "age_categorie": "junior",
       "age_texte": null,
-      "age_mois": 2.1829723153852005,
+      "age_mois": 2.2160732717316907,
       "age_source": "naissance",
       "age_conflit": null,
       "date_naissance": "2026-08-15",
@@ -955,7 +1174,7 @@
       "description": "Ben et ses frères Red et Johnny sont arrivés tout petits au refuge. Grâce à leur famille relais, ils ont grandi entourés d'amour et sont désormais prêts à être adoptés !\n?Ces trois adorables chatons présentent des troubles neurologiques appelés ataxie. Cela se traduit par un manque de coordination, ils dandinent, font des petits écarts ou manquent d'équilibre. Mais ils ne se rendent absolument pa…",
       "fiche_lue": true,
       "portee": {
-        "id": "portee-2",
+        "id": "portee-3",
         "taille": 2,
         "disponibles": 2,
         "confiance": "forte",
@@ -980,7 +1199,7 @@
       "sexe": "male",
       "age_categorie": "junior",
       "age_texte": null,
-      "age_mois": 3.201452808198342,
+      "age_mois": 3.2345537645448323,
       "age_source": "naissance",
       "age_conflit": null,
       "date_naissance": "2026-07-15",
@@ -1010,10 +1229,10 @@
     "sources": {
       "laspa": {
         "pages": 1,
-        "total_site": 153,
-        "dans_zone": 106,
-        "fiches": 3,
-        "fiches_cache": 45,
+        "total_site": 164,
+        "dans_zone": 117,
+        "fiches": 11,
+        "fiches_cache": 46,
         "erreurs": 0
       },
       "secondechance": {
@@ -1027,10 +1246,10 @@
         "pages_tronquees": 0
       }
     },
-    "requests": 15,
+    "requests": 23,
     "retries": 0,
-    "duree_s": 9.7,
-    "annonces_zone": 106
+    "duree_s": 15.1,
+    "annonces_zone": 117
   },
   "erreurs": []
 }

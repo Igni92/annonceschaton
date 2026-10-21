@@ -1,6 +1,6 @@
-# Annonces chatons — mardi 20 octobre 2026
+# Annonces chatons — mercredi 21 octobre 2026
 
-## 🐾 Chatons de moins de 4 mois (11)
+## 🐾 Chatons de moins de 4 mois (13)
 
 ### 👨‍👩‍👧‍👦 Portée de 4 chatons · La SPA - Refuge de Gennevilliers – Grammont · né·e·s le 15/07/2026
 - **[ONDINE](https://www.la-spa.fr/animal/ondine-2/)** — 3 mois (né·e le 15/07/2026) · ♀ femelle · Europeen
@@ -32,6 +32,14 @@
   📍 La SPA - Refuge de Chamarande · 38 km
   🗓 mis en ligne le 16/10/2026 · La SPA
 
+### 👨‍👩‍👧‍👦 Portée de 2 chatons · La SPA - Refuge de Gennevilliers – Grammont · né·e·s le 05/08/2026
+- 🆕 **[MIAOUSSINI LE MAGNIFIQUE](https://www.la-spa.fr/animal/miaoussini-le-magnifique/)** — 2 mois (né·e le 05/08/2026) · ♂ mâle · Europeen
+  📍 La SPA - Refuge de Gennevilliers – Grammont · 11 km
+  🗓 mis en ligne le 20/10/2026 · La SPA
+- 🆕 **[BISCOTTE DU BUISSON](https://www.la-spa.fr/animal/biscotte-du-buisson/)** — 2 mois (né·e le 05/08/2026) · ♀ femelle · Europeen
+  📍 La SPA - Refuge de Gennevilliers – Grammont · 11 km
+  🗓 mis en ligne le 20/10/2026 · La SPA
+
 ### Chatons seuls (3)
 
 - **[SUE](https://www.la-spa.fr/animal/sue/)** — 3 mois (né·e le 01/07/2026) · ♀ femelle · Europeen
@@ -44,7 +52,7 @@
   📍 La SPA - Refuge de Chamarande · 38 km
   🗓 mis en ligne le 15/10/2026 · La SPA
 
-_🆕 = 8 nouveaux chatons (mis en ligne depuis 7 jours ou jamais vus)._
+_🆕 = 10 nouveaux chatons (mis en ligne depuis 7 jours ou jamais vus)._
 
 ---
-_Zone : 50 km autour de Paris 11e Arrondissement · Sources : La SPA + Seconde Chance · 15 requêtes HTTP_
+_Zone : 50 km autour de Paris 11e Arrondissement · Sources : La SPA + Seconde Chance · 23 requêtes HTTP_
