@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-21T10:50:29.490Z",
+  "date": "2026-10-22T10:51:43.126Z",
   "zone": {
     "mode": "rayon",
     "label": "50 km autour de Paris 11e Arrondissement",
@@ -34,7 +34,7 @@
       "sexe": "male",
       "age_categorie": "junior",
       "age_texte": null,
-      "age_mois": 2.544615366187543,
+      "age_mois": 2.5774975762415395,
       "age_source": "naissance",
       "age_conflit": null,
       "date_naissance": "2026-08-05",
@@ -81,7 +81,7 @@
       "sexe": "femelle",
       "age_categorie": "junior",
       "age_texte": null,
-      "age_mois": 2.544615366187543,
+      "age_mois": 2.5774975762415395,
       "age_source": "naissance",
       "age_conflit": null,
       "date_naissance": "2026-08-05",
@@ -115,58 +115,6 @@
       "nouveau": true
     },
     {
-      "id": "laspa:246312",
-      "source": "laspa",
-      "source_label": "La SPA",
-      "source_id": "246312",
-      "uid": "animal-ondine-2",
-      "nom": "ONDINE",
-      "url": "https://www.la-spa.fr/animal/ondine-2/",
-      "image": "https://www.la-spa.fr/app/app/uploads/animals/246312/ondine-246312-6abcfb659273b.jpg",
-      "espece": "chat",
-      "race": "Europeen",
-      "sexe": "femelle",
-      "age_categorie": "junior",
-      "age_texte": null,
-      "age_mois": 3.2345537645448323,
-      "age_source": "naissance",
-      "age_conflit": null,
-      "date_naissance": "2026-07-15",
-      "date_publication": "2026-09-30",
-      "reserve": false,
-      "sos": false,
-      "fad": false,
-      "lieu": {
-        "nom": "La SPA - Refuge de Gennevilliers – Grammont",
-        "slug": "refuge-spa-de-gennevilliers-grammont",
-        "ville": "Gennevilliers",
-        "code_postal": "92230",
-        "departement": "92",
-        "latitude": 48.944706567958,
-        "longitude": 2.3035848619018,
-        "precision": "exacte",
-        "distance_km": 11.004464438564007,
-        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-gennevilliers-grammont/"
-      },
-      "description": "Ondine & Clémentine sont arrivées suite à un transfert d'une autre association.\nOndine & Clémentine sont deux loulous un peu timide qui recherche des adoptants doux et patients qui leur laisseront le temps d'évoluer à leur rythme.\nIls devront vivre en appartement, sans sortie extérieure et sans jeunes enfants.\nIls pourront être adoptés ensemble ou séparément mais la présence d'un premier chat, va…",
-      "fiche_lue": true,
-      "portee": {
-        "id": "portee-2",
-        "taille": 4,
-        "disponibles": 4,
-        "confiance": "forte",
-        "indices": [
-          "même date de naissance",
-          "« CLEMENTINE » cité·e dans la description",
-          "cité·e dans la description de « CLEMENTINE »",
-          "fratrie mentionnée",
-          "cité·e dans la description de « ONDINE »",
-          "« ONDINE » cité·e dans la description"
-        ]
-      },
-      "nouveau": false
-    },
-    {
       "id": "laspa:252669",
       "source": "laspa",
       "source_label": "La SPA",
@@ -180,7 +128,7 @@
       "sexe": "femelle",
       "age_categorie": "junior",
       "age_texte": null,
-      "age_mois": 3.2345537645448323,
+      "age_mois": 3.267435974598829,
       "age_source": "naissance",
       "age_conflit": null,
       "date_naissance": "2026-07-15",
@@ -204,16 +152,12 @@
       "fiche_lue": true,
       "portee": {
         "id": "portee-2",
-        "taille": 4,
-        "disponibles": 4,
+        "taille": 3,
+        "disponibles": 3,
         "confiance": "forte",
         "indices": [
           "même date de naissance",
-          "« CLEMENTINE » cité·e dans la description",
-          "cité·e dans la description de « CLEMENTINE »",
-          "fratrie mentionnée",
-          "cité·e dans la description de « ONDINE »",
-          "« ONDINE » cité·e dans la description"
+          "fratrie mentionnée"
         ]
       },
       "nouveau": true
@@ -232,7 +176,7 @@
       "sexe": "femelle",
       "age_categorie": "junior",
       "age_texte": null,
-      "age_mois": 3.2345537645448323,
+      "age_mois": 3.267435974598829,
       "age_source": "naissance",
       "age_conflit": null,
       "date_naissance": "2026-07-15",
@@ -256,16 +200,12 @@
       "fiche_lue": true,
       "portee": {
         "id": "portee-2",
-        "taille": 4,
-        "disponibles": 4,
+        "taille": 3,
+        "disponibles": 3,
         "confiance": "forte",
         "indices": [
           "même date de naissance",
-          "« CLEMENTINE » cité·e dans la description",
-          "cité·e dans la description de « CLEMENTINE »",
-          "fratrie mentionnée",
-          "cité·e dans la description de « ONDINE »",
-          "« ONDINE » cité·e dans la description"
+          "fratrie mentionnée"
         ]
       },
       "nouveau": false
@@ -284,7 +224,7 @@
       "sexe": "femelle",
       "age_categorie": "junior",
       "age_texte": null,
-      "age_mois": 3.694512696783025,
+      "age_mois": 3.7273949068370222,
       "age_source": "naissance",
       "age_conflit": null,
       "date_naissance": "2026-07-01",
@@ -323,7 +263,7 @@
       "sexe": "femelle",
       "age_categorie": "junior",
       "age_texte": null,
-      "age_mois": 1.657551711156742,
+      "age_mois": 1.6904339212107384,
       "age_source": "naissance",
       "age_conflit": null,
       "date_naissance": "2026-09-01",
@@ -362,7 +302,7 @@
       "sexe": "male",
       "age_categorie": "junior",
       "age_texte": null,
-      "age_mois": 2.2160732717316907,
+      "age_mois": 2.2489554817856874,
       "age_source": "naissance",
       "age_conflit": null,
       "date_naissance": "2026-08-15",
@@ -410,7 +350,7 @@
       "sexe": "male",
       "age_categorie": "junior",
       "age_texte": null,
-      "age_mois": 2.2160732717316907,
+      "age_mois": 2.2489554817856874,
       "age_source": "naissance",
       "age_conflit": null,
       "date_naissance": "2026-08-15",
@@ -452,13 +392,13 @@
       "uid": "animal-zanzibar-cha",
       "nom": "ZANZIBAR CHA",
       "url": "https://www.la-spa.fr/animal/zanzibar-cha/",
-      "image": "https://www.la-spa.fr/app/app/uploads/animals/251820/zanzibar-cha-251820-6ad13245eb5cc.jpg",
+      "image": "https://www.la-spa.fr/app/app/uploads/animals/251820/zanzibar-cha-251820-6ad9e17211d22.jpg",
       "espece": "chat",
       "race": "Europeen",
       "sexe": "male",
       "age_categorie": "junior",
       "age_texte": null,
-      "age_mois": 3.2345537645448323,
+      "age_mois": 3.267435974598829,
       "age_source": "naissance",
       "age_conflit": null,
       "date_naissance": "2026-07-15",
@@ -497,7 +437,7 @@
       "sexe": "male",
       "age_categorie": "junior",
       "age_texte": null,
-      "age_mois": 2.6103237850787133,
+      "age_mois": 2.64320599513271,
       "age_source": "naissance",
       "age_conflit": null,
       "date_naissance": "2026-08-03",
@@ -521,8 +461,8 @@
       "fiche_lue": true,
       "portee": {
         "id": "portee-4",
-        "taille": 3,
-        "disponibles": 3,
+        "taille": 2,
+        "disponibles": 2,
         "confiance": "forte",
         "indices": [
           "même date de naissance"
@@ -544,7 +484,7 @@
       "sexe": "femelle",
       "age_categorie": "junior",
       "age_texte": null,
-      "age_mois": 2.6103237850787133,
+      "age_mois": 2.64320599513271,
       "age_source": "naissance",
       "age_conflit": null,
       "date_naissance": "2026-08-03",
@@ -568,55 +508,8 @@
       "fiche_lue": true,
       "portee": {
         "id": "portee-4",
-        "taille": 3,
-        "disponibles": 3,
-        "confiance": "forte",
-        "indices": [
-          "même date de naissance"
-        ]
-      },
-      "nouveau": true
-    },
-    {
-      "id": "laspa:252921",
-      "source": "laspa",
-      "source_label": "La SPA",
-      "source_id": "252921",
-      "uid": "animal-porthos-c",
-      "nom": "PORTHOS C",
-      "url": "https://www.la-spa.fr/animal/porthos-c/",
-      "image": "https://www.la-spa.fr/app/app/uploads/animals/252921/porthos-c-252921-6ad623bfa0d38.jpg",
-      "espece": "chat",
-      "race": "Europeen",
-      "sexe": "male",
-      "age_categorie": "junior",
-      "age_texte": null,
-      "age_mois": 2.6103237850787133,
-      "age_source": "naissance",
-      "age_conflit": null,
-      "date_naissance": "2026-08-03",
-      "date_publication": "2026-10-19",
-      "reserve": false,
-      "sos": false,
-      "fad": false,
-      "lieu": {
-        "nom": "La SPA - Refuge de Vaux-Le-Penil",
-        "slug": "refuge-spa-de-vaux-le-penil",
-        "ville": "Vaux-Le-Pénil",
-        "code_postal": "77000",
-        "departement": "77",
-        "latitude": 48.520575,
-        "longitude": 2.718874,
-        "precision": "exacte",
-        "distance_km": 45.142564706391916,
-        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-vaux-le-penil/"
-      },
-      "description": null,
-      "fiche_lue": true,
-      "portee": {
-        "id": "portee-4",
-        "taille": 3,
-        "disponibles": 3,
+        "taille": 2,
+        "disponibles": 2,
         "confiance": "forte",
         "indices": [
           "même date de naissance"
@@ -637,62 +530,23 @@
         "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-gennevilliers-grammont/"
       },
       "date_naissance": "2026-07-15",
-      "age_mois": 3.2345537645448323,
-      "taille": 4,
-      "annonces": 3,
-      "disponibles": 4,
+      "age_mois": 3.267435974598829,
+      "taille": 3,
+      "annonces": 2,
+      "disponibles": 3,
       "confiance": "forte",
       "indices": [
         "même date de naissance",
-        "« CLEMENTINE » cité·e dans la description",
-        "cité·e dans la description de « CLEMENTINE »",
-        "fratrie mentionnée",
-        "cité·e dans la description de « ONDINE »",
-        "« ONDINE » cité·e dans la description"
+        "fratrie mentionnée"
       ],
       "membres": [
-        "laspa:246312",
         "laspa:246313",
         "laspa:252669"
       ],
       "noms": [
         "CERISE",
         "CLEMENTINE",
-        "FRAMBOISE",
-        "ONDINE"
-      ],
-      "sources": [
-        "La SPA"
-      ]
-    },
-    {
-      "id": "portee-4",
-      "source": "laspa",
-      "source_label": "La SPA",
-      "lieu": {
-        "nom": "La SPA - Refuge de Vaux-Le-Penil",
-        "ville": "Vaux-Le-Pénil",
-        "departement": "77",
-        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-vaux-le-penil/"
-      },
-      "date_naissance": "2026-08-03",
-      "age_mois": 2.6103237850787133,
-      "taille": 3,
-      "annonces": 3,
-      "disponibles": 3,
-      "confiance": "forte",
-      "indices": [
-        "même date de naissance"
-      ],
-      "membres": [
-        "laspa:252918",
-        "laspa:252919",
-        "laspa:252921"
-      ],
-      "noms": [
-        "ARAMIS C",
-        "ATHOS C",
-        "PORTHOS C"
+        "FRAMBOISE"
       ],
       "sources": [
         "La SPA"
@@ -709,7 +563,7 @@
         "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-chamarande/"
       },
       "date_naissance": "2026-08-15",
-      "age_mois": 2.2160732717316907,
+      "age_mois": 2.2489554817856874,
       "taille": 2,
       "annonces": 2,
       "disponibles": 2,
@@ -741,7 +595,7 @@
         "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-gennevilliers-grammont/"
       },
       "date_naissance": "2026-08-05",
-      "age_mois": 2.544615366187543,
+      "age_mois": 2.5774975762415395,
       "taille": 2,
       "annonces": 2,
       "disponibles": 2,
@@ -756,6 +610,37 @@
       "noms": [
         "BISCOTTE DU BUISSON",
         "MIAOUSSINI LE MAGNIFIQUE"
+      ],
+      "sources": [
+        "La SPA"
+      ]
+    },
+    {
+      "id": "portee-4",
+      "source": "laspa",
+      "source_label": "La SPA",
+      "lieu": {
+        "nom": "La SPA - Refuge de Vaux-Le-Penil",
+        "ville": "Vaux-Le-Pénil",
+        "departement": "77",
+        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-vaux-le-penil/"
+      },
+      "date_naissance": "2026-08-03",
+      "age_mois": 2.64320599513271,
+      "taille": 2,
+      "annonces": 2,
+      "disponibles": 2,
+      "confiance": "forte",
+      "indices": [
+        "même date de naissance"
+      ],
+      "membres": [
+        "laspa:252918",
+        "laspa:252919"
+      ],
+      "noms": [
+        "ARAMIS C",
+        "ATHOS C"
       ],
       "sources": [
         "La SPA"
@@ -777,7 +662,7 @@
       "sexe": "male",
       "age_categorie": "junior",
       "age_texte": null,
-      "age_mois": 2.544615366187543,
+      "age_mois": 2.5774975762415395,
       "age_source": "naissance",
       "age_conflit": null,
       "date_naissance": "2026-08-05",
@@ -824,7 +709,7 @@
       "sexe": "femelle",
       "age_categorie": "junior",
       "age_texte": null,
-      "age_mois": 2.544615366187543,
+      "age_mois": 2.5774975762415395,
       "age_source": "naissance",
       "age_conflit": null,
       "date_naissance": "2026-08-05",
@@ -871,7 +756,7 @@
       "sexe": "male",
       "age_categorie": "junior",
       "age_texte": null,
-      "age_mois": 2.6103237850787133,
+      "age_mois": 2.64320599513271,
       "age_source": "naissance",
       "age_conflit": null,
       "date_naissance": "2026-08-03",
@@ -895,8 +780,8 @@
       "fiche_lue": true,
       "portee": {
         "id": "portee-4",
-        "taille": 3,
-        "disponibles": 3,
+        "taille": 2,
+        "disponibles": 2,
         "confiance": "forte",
         "indices": [
           "même date de naissance"
@@ -918,7 +803,7 @@
       "sexe": "femelle",
       "age_categorie": "junior",
       "age_texte": null,
-      "age_mois": 2.6103237850787133,
+      "age_mois": 2.64320599513271,
       "age_source": "naissance",
       "age_conflit": null,
       "date_naissance": "2026-08-03",
@@ -942,55 +827,8 @@
       "fiche_lue": true,
       "portee": {
         "id": "portee-4",
-        "taille": 3,
-        "disponibles": 3,
-        "confiance": "forte",
-        "indices": [
-          "même date de naissance"
-        ]
-      },
-      "nouveau": true
-    },
-    {
-      "id": "laspa:252921",
-      "source": "laspa",
-      "source_label": "La SPA",
-      "source_id": "252921",
-      "uid": "animal-porthos-c",
-      "nom": "PORTHOS C",
-      "url": "https://www.la-spa.fr/animal/porthos-c/",
-      "image": "https://www.la-spa.fr/app/app/uploads/animals/252921/porthos-c-252921-6ad623bfa0d38.jpg",
-      "espece": "chat",
-      "race": "Europeen",
-      "sexe": "male",
-      "age_categorie": "junior",
-      "age_texte": null,
-      "age_mois": 2.6103237850787133,
-      "age_source": "naissance",
-      "age_conflit": null,
-      "date_naissance": "2026-08-03",
-      "date_publication": "2026-10-19",
-      "reserve": false,
-      "sos": false,
-      "fad": false,
-      "lieu": {
-        "nom": "La SPA - Refuge de Vaux-Le-Penil",
-        "slug": "refuge-spa-de-vaux-le-penil",
-        "ville": "Vaux-Le-Pénil",
-        "code_postal": "77000",
-        "departement": "77",
-        "latitude": 48.520575,
-        "longitude": 2.718874,
-        "precision": "exacte",
-        "distance_km": 45.142564706391916,
-        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-vaux-le-penil/"
-      },
-      "description": null,
-      "fiche_lue": true,
-      "portee": {
-        "id": "portee-4",
-        "taille": 3,
-        "disponibles": 3,
+        "taille": 2,
+        "disponibles": 2,
         "confiance": "forte",
         "indices": [
           "même date de naissance"
@@ -1012,7 +850,7 @@
       "sexe": "femelle",
       "age_categorie": "junior",
       "age_texte": null,
-      "age_mois": 3.2345537645448323,
+      "age_mois": 3.267435974598829,
       "age_source": "naissance",
       "age_conflit": null,
       "date_naissance": "2026-07-15",
@@ -1036,16 +874,12 @@
       "fiche_lue": true,
       "portee": {
         "id": "portee-2",
-        "taille": 4,
-        "disponibles": 4,
+        "taille": 3,
+        "disponibles": 3,
         "confiance": "forte",
         "indices": [
           "même date de naissance",
-          "« CLEMENTINE » cité·e dans la description",
-          "cité·e dans la description de « CLEMENTINE »",
-          "fratrie mentionnée",
-          "cité·e dans la description de « ONDINE »",
-          "« ONDINE » cité·e dans la description"
+          "fratrie mentionnée"
         ]
       },
       "nouveau": true
@@ -1064,7 +898,7 @@
       "sexe": "femelle",
       "age_categorie": "junior",
       "age_texte": null,
-      "age_mois": 1.657551711156742,
+      "age_mois": 1.6904339212107384,
       "age_source": "naissance",
       "age_conflit": null,
       "date_naissance": "2026-09-01",
@@ -1103,7 +937,7 @@
       "sexe": "male",
       "age_categorie": "junior",
       "age_texte": null,
-      "age_mois": 2.2160732717316907,
+      "age_mois": 2.2489554817856874,
       "age_source": "naissance",
       "age_conflit": null,
       "date_naissance": "2026-08-15",
@@ -1151,7 +985,7 @@
       "sexe": "male",
       "age_categorie": "junior",
       "age_texte": null,
-      "age_mois": 2.2160732717316907,
+      "age_mois": 2.2489554817856874,
       "age_source": "naissance",
       "age_conflit": null,
       "date_naissance": "2026-08-15",
@@ -1193,13 +1027,13 @@
       "uid": "animal-zanzibar-cha",
       "nom": "ZANZIBAR CHA",
       "url": "https://www.la-spa.fr/animal/zanzibar-cha/",
-      "image": "https://www.la-spa.fr/app/app/uploads/animals/251820/zanzibar-cha-251820-6ad13245eb5cc.jpg",
+      "image": "https://www.la-spa.fr/app/app/uploads/animals/251820/zanzibar-cha-251820-6ad9e17211d22.jpg",
       "espece": "chat",
       "race": "Europeen",
       "sexe": "male",
       "age_categorie": "junior",
       "age_texte": null,
-      "age_mois": 3.2345537645448323,
+      "age_mois": 3.267435974598829,
       "age_source": "naissance",
       "age_conflit": null,
       "date_naissance": "2026-07-15",
@@ -1229,10 +1063,10 @@
     "sources": {
       "laspa": {
         "pages": 1,
-        "total_site": 164,
-        "dans_zone": 117,
-        "fiches": 11,
-        "fiches_cache": 46,
+        "total_site": 162,
+        "dans_zone": 114,
+        "fiches": 0,
+        "fiches_cache": 53,
         "erreurs": 0
       },
       "secondechance": {
@@ -1246,10 +1080,10 @@
         "pages_tronquees": 0
       }
     },
-    "requests": 23,
+    "requests": 12,
     "retries": 0,
-    "duree_s": 15.1,
-    "annonces_zone": 117
+    "duree_s": 9.8,
+    "annonces_zone": 114
   },
   "erreurs": []
 }
