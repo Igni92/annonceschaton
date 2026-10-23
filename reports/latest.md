@@ -1,6 +1,6 @@
-# Annonces chatons — jeudi 22 octobre 2026
+# Annonces chatons — vendredi 23 octobre 2026
 
-## 🐾 Chatons de moins de 4 mois (11)
+## 🐾 Chatons de moins de 4 mois (12)
 
 ### 👨‍👩‍👧‍👦 Portée de 3 chatons · La SPA - Refuge de Gennevilliers – Grammont · né·e·s le 15/07/2026
 - **[CLEMENTINE](https://www.la-spa.fr/animal/clementine-2/)** — 3 mois (né·e le 15/07/2026) · ♀ femelle · Europeen
@@ -34,19 +34,22 @@
   📍 La SPA - Refuge de Vaux-Le-Penil · Vaux-Le-Pénil (77) · 45 km
   🗓 mis en ligne le 19/10/2026 · La SPA
 
-### Chatons seuls (3)
+### Chatons seuls (4)
 
+- 🆕 **[BRIDGERTON](https://www.la-spa.fr/animal/bridgerton/)** — 3 mois (né·e le 05/07/2026) · ♀ femelle · Europeen
+  📍 La SPA - Refuge de Gennevilliers – Grammont · 11 km
+  🗓 mis en ligne le 22/10/2026 · La SPA
 - **[SUE](https://www.la-spa.fr/animal/sue/)** — 3 mois (né·e le 01/07/2026) · ♀ femelle · Europeen
   📍 La SPA - Refuge de Gennevilliers – Grammont · 11 km
   🗓 mis en ligne le 30/09/2026 · La SPA
 - 🆕 **[MERIDA PAB30101](https://www.la-spa.fr/animal/merida-pab30101/)** — 1 mois (né·e le 01/09/2026) · ♀ femelle · Europeen
   📍 La SPA - Refuge de Plaisir · 34 km
   🗓 mis en ligne le 16/10/2026 · La SPA
-- 🆕 **[ZANZIBAR CHA](https://www.la-spa.fr/animal/zanzibar-cha/)** — 3 mois (né·e le 15/07/2026) · ♂ mâle · Europeen
+- **[ZANZIBAR CHA](https://www.la-spa.fr/animal/zanzibar-cha/)** — 3 mois (né·e le 15/07/2026) · ♂ mâle · Europeen
   📍 La SPA - Refuge de Chamarande · 38 km
   🗓 mis en ligne le 15/10/2026 · La SPA
 
 _🆕 = 9 nouveaux chatons (mis en ligne depuis 7 jours ou jamais vus)._
 
 ---
-_Zone : 50 km autour de Paris 11e Arrondissement · Sources : La SPA + Seconde Chance · 12 requêtes HTTP_
+_Zone : 50 km autour de Paris 11e Arrondissement · Sources : La SPA + Seconde Chance · 16 requêtes HTTP_
