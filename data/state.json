@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "derniere_execution": "2026-10-23T10:42:59.556Z",
+  "derniere_execution": "2026-10-24T09:59:16.021Z",
   "vus": {
     "laspa:239651": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
@@ -22,7 +22,7 @@
     },
     "laspa:223043": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-23T10:42:59.556Z",
+      "derniere_vue": "2026-10-24T09:59:16.021Z",
       "source": "laspa",
       "nom": "LIMBA C"
     },
@@ -34,31 +34,31 @@
     },
     "laspa:238297": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-23T10:42:59.556Z",
+      "derniere_vue": "2026-10-24T09:59:16.021Z",
       "source": "laspa",
       "nom": "ENDIVE 2"
     },
     "laspa:221477": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-23T10:42:59.556Z",
+      "derniere_vue": "2026-10-24T09:59:16.021Z",
       "source": "laspa",
       "nom": "POIL PILE C"
     },
     "laspa:238134": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-23T10:42:59.556Z",
+      "derniere_vue": "2026-10-24T09:59:16.021Z",
       "source": "laspa",
       "nom": "XENA"
     },
     "laspa:234601": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-23T10:42:59.556Z",
+      "derniere_vue": "2026-10-24T09:59:16.021Z",
       "source": "laspa",
       "nom": "LIZZIE"
     },
     "laspa:223036": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-23T10:42:59.556Z",
+      "derniere_vue": "2026-10-24T09:59:16.021Z",
       "source": "laspa",
       "nom": "MÉO C"
     },
@@ -76,13 +76,13 @@
     },
     "laspa:238294": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-23T10:42:59.556Z",
+      "derniere_vue": "2026-10-24T09:59:16.021Z",
       "source": "laspa",
       "nom": "MAROILLES"
     },
     "laspa:202440": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-23T10:42:59.556Z",
+      "derniere_vue": "2026-10-24T09:59:16.021Z",
       "source": "laspa",
       "nom": "CANNELLE A17342"
     },
@@ -94,7 +94,7 @@
     },
     "laspa:238304": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-23T10:42:59.556Z",
+      "derniere_vue": "2026-10-24T09:59:16.021Z",
       "source": "laspa",
       "nom": "FICELLE"
     },
@@ -112,13 +112,13 @@
     },
     "laspa:238306": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-23T10:42:59.556Z",
+      "derniere_vue": "2026-10-24T09:59:16.021Z",
       "source": "laspa",
       "nom": "LIVARET"
     },
     "laspa:243575": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-23T10:42:59.556Z",
+      "derniere_vue": "2026-10-24T09:59:16.021Z",
       "source": "laspa",
       "nom": "MERLIN PAB29994"
     },
@@ -130,13 +130,13 @@
     },
     "laspa:238314": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-23T10:42:59.556Z",
+      "derniere_vue": "2026-10-24T09:59:16.021Z",
       "source": "laspa",
       "nom": "CARBONADE"
     },
     "laspa:196774": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-23T10:42:59.556Z",
+      "derniere_vue": "2026-10-24T09:59:16.021Z",
       "source": "laspa",
       "nom": "ROUMAN"
     },
@@ -166,13 +166,13 @@
     },
     "laspa:197486": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-23T10:42:59.556Z",
+      "derniere_vue": "2026-10-24T09:59:16.021Z",
       "source": "laspa",
       "nom": "DRACO PAB28422"
     },
     "laspa:222452": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-23T10:42:59.556Z",
+      "derniere_vue": "2026-10-24T09:59:16.021Z",
       "source": "laspa",
       "nom": "PASTMAY"
     },
@@ -196,43 +196,43 @@
     },
     "laspa:238305": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-23T10:42:59.556Z",
+      "derniere_vue": "2026-10-24T09:59:16.021Z",
       "source": "laspa",
       "nom": "FLAMICHE"
     },
     "laspa:238307": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-23T10:42:59.556Z",
+      "derniere_vue": "2026-10-24T09:59:16.021Z",
       "source": "laspa",
       "nom": "CHABICHOU"
     },
     "laspa:223046": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-23T10:42:59.556Z",
+      "derniere_vue": "2026-10-24T09:59:16.021Z",
       "source": "laspa",
       "nom": "LINDT C"
     },
     "laspa:205936": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-23T10:42:59.556Z",
+      "derniere_vue": "2026-10-24T09:59:16.021Z",
       "source": "laspa",
       "nom": "MALIF"
     },
     "laspa:244161": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-23T10:42:59.556Z",
+      "derniere_vue": "2026-10-24T09:59:16.021Z",
       "source": "laspa",
       "nom": "RUSE"
     },
     "laspa:214262": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-23T10:42:59.556Z",
+      "derniere_vue": "2026-10-24T09:59:16.021Z",
       "source": "laspa",
       "nom": "MALICE A17444"
     },
     "laspa:215313": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-23T10:42:59.556Z",
+      "derniere_vue": "2026-10-24T09:59:16.021Z",
       "source": "laspa",
       "nom": "JUNE PAB28815"
     },
@@ -244,19 +244,19 @@
     },
     "laspa:229429": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-23T10:42:59.556Z",
+      "derniere_vue": "2026-10-24T09:59:16.021Z",
       "source": "laspa",
       "nom": "VICTORIA A17432 (réservée)"
     },
     "laspa:213462": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-23T10:42:59.556Z",
+      "derniere_vue": "2026-10-24T09:59:16.021Z",
       "source": "laspa",
       "nom": "ENDIVE"
     },
     "laspa:200722": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-23T10:42:59.556Z",
+      "derniere_vue": "2026-10-24T09:59:16.021Z",
       "source": "laspa",
       "nom": "CHARLOTTE"
     },
@@ -280,7 +280,7 @@
     },
     "laspa:239503": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-23T10:42:59.556Z",
+      "derniere_vue": "2026-10-24T09:59:16.021Z",
       "source": "laspa",
       "nom": "FILAO CHA"
     },
@@ -298,7 +298,7 @@
     },
     "laspa:238133": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-23T10:42:59.556Z",
+      "derniere_vue": "2026-10-24T09:59:16.021Z",
       "source": "laspa",
       "nom": "XINTHIA"
     },
@@ -328,31 +328,31 @@
     },
     "laspa:238296": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-23T10:42:59.556Z",
+      "derniere_vue": "2026-10-24T09:59:16.021Z",
       "source": "laspa",
       "nom": "FRICADELLE"
     },
     "laspa:242946": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-23T10:42:59.556Z",
+      "derniere_vue": "2026-10-24T09:59:16.021Z",
       "source": "laspa",
       "nom": "BLINIS"
     },
     "laspa:218145": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-23T10:42:59.556Z",
+      "derniere_vue": "2026-10-24T09:59:16.021Z",
       "source": "laspa",
       "nom": "PROVOC CHA"
     },
     "laspa:242947": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-23T10:42:59.556Z",
+      "derniere_vue": "2026-10-24T09:59:16.021Z",
       "source": "laspa",
       "nom": "BRIOCHE"
     },
     "laspa:213459": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-23T10:42:59.556Z",
+      "derniere_vue": "2026-10-24T09:59:16.021Z",
       "source": "laspa",
       "nom": "SALAMI"
     },
@@ -370,13 +370,13 @@
     },
     "laspa:227387": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-23T10:42:59.556Z",
+      "derniere_vue": "2026-10-24T09:59:16.021Z",
       "source": "laspa",
       "nom": "SEKANI PAB29072"
     },
     "laspa:211330": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-23T10:42:59.556Z",
+      "derniere_vue": "2026-10-24T09:59:16.021Z",
       "source": "laspa",
       "nom": "TIO"
     },
@@ -388,19 +388,19 @@
     },
     "laspa:235656": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-23T10:42:59.556Z",
+      "derniere_vue": "2026-10-24T09:59:16.021Z",
       "source": "laspa",
       "nom": "ELLARIA PAB29049"
     },
     "laspa:223032": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-23T10:42:59.556Z",
+      "derniere_vue": "2026-10-24T09:59:16.021Z",
       "source": "laspa",
       "nom": "VIDOCQ C"
     },
     "laspa:231017": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-23T10:42:59.556Z",
+      "derniere_vue": "2026-10-24T09:59:16.021Z",
       "source": "laspa",
       "nom": "LEXA CHA"
     },
@@ -412,7 +412,7 @@
     },
     "laspa:244157": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-23T10:42:59.556Z",
+      "derniere_vue": "2026-10-24T09:59:16.021Z",
       "source": "laspa",
       "nom": "TCHOUKRAVETTE"
     },
@@ -430,7 +430,7 @@
     },
     "laspa:222719": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-23T10:42:59.556Z",
+      "derniere_vue": "2026-10-24T09:59:16.021Z",
       "source": "laspa",
       "nom": "LIVIRA"
     },
@@ -448,7 +448,7 @@
     },
     "laspa:222453": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-23T10:42:59.556Z",
+      "derniere_vue": "2026-10-24T09:59:16.021Z",
       "source": "laspa",
       "nom": "MESME"
     },
@@ -472,13 +472,13 @@
     },
     "laspa:196795": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-23T10:42:59.556Z",
+      "derniere_vue": "2026-10-24T09:59:16.021Z",
       "source": "laspa",
       "nom": "MILO"
     },
     "laspa:244272": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-23T10:42:59.556Z",
+      "derniere_vue": "2026-10-24T09:59:16.021Z",
       "source": "laspa",
       "nom": "HILDA A17435"
     },
@@ -490,7 +490,7 @@
     },
     "laspa:195787": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-23T10:42:59.556Z",
+      "derniere_vue": "2026-10-24T09:59:16.021Z",
       "source": "laspa",
       "nom": "PICTORETTE PAB28424"
     },
@@ -532,7 +532,7 @@
     },
     "laspa:239238": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-23T10:42:59.556Z",
+      "derniere_vue": "2026-10-24T09:59:16.021Z",
       "source": "laspa",
       "nom": "FLAMIAOU PAB29259"
     },
@@ -574,7 +574,7 @@
     },
     "laspa:197385": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-23T10:42:59.556Z",
+      "derniere_vue": "2026-10-24T09:59:16.021Z",
       "source": "laspa",
       "nom": "JAMES PAB28531"
     },
@@ -586,37 +586,37 @@
     },
     "laspa:223034": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-23T10:42:59.556Z",
+      "derniere_vue": "2026-10-24T09:59:16.021Z",
       "source": "laspa",
       "nom": "URON C"
     },
     "laspa:235053": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-23T10:42:59.556Z",
+      "derniere_vue": "2026-10-24T09:59:16.021Z",
       "source": "laspa",
       "nom": "POLO"
     },
     "laspa:238298": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-23T10:42:59.556Z",
+      "derniere_vue": "2026-10-24T09:59:16.021Z",
       "source": "laspa",
       "nom": "CHICOREE"
     },
     "laspa:242493": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-23T10:42:59.556Z",
+      "derniere_vue": "2026-10-24T09:59:16.021Z",
       "source": "laspa",
       "nom": "MA PRINCESSE"
     },
     "laspa:226526": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-23T10:42:59.556Z",
+      "derniere_vue": "2026-10-24T09:59:16.021Z",
       "source": "laspa",
       "nom": "BIANCA"
     },
     "laspa:212695": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-23T10:42:59.556Z",
+      "derniere_vue": "2026-10-24T09:59:16.021Z",
       "source": "laspa",
       "nom": "SNOW PAB28816"
     },
@@ -628,7 +628,7 @@
     },
     "laspa:242902": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-23T10:42:59.556Z",
+      "derniere_vue": "2026-10-24T09:59:16.021Z",
       "source": "laspa",
       "nom": "TCHOUPIRATE"
     },
@@ -646,7 +646,7 @@
     },
     "laspa:223031": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-23T10:42:59.556Z",
+      "derniere_vue": "2026-10-24T09:59:16.021Z",
       "source": "laspa",
       "nom": "BASTET C"
     },
@@ -682,7 +682,7 @@
     },
     "laspa:213411": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-23T10:42:59.556Z",
+      "derniere_vue": "2026-10-24T09:59:16.021Z",
       "source": "laspa",
       "nom": "DLOWNIE"
     },
@@ -700,7 +700,7 @@
     },
     "laspa:195003": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-10-23T10:42:59.556Z",
+      "derniere_vue": "2026-10-24T09:59:16.021Z",
       "source": "laspa",
       "nom": "PONGO"
     },
@@ -4156,7 +4156,7 @@
     },
     "laspa:245593": {
       "premiere_vue": "2026-09-28T12:22:37.533Z",
-      "derniere_vue": "2026-10-23T10:42:59.556Z",
+      "derniere_vue": "2026-10-24T09:59:16.021Z",
       "source": "laspa",
       "nom": "HILLEL PAB29171"
     },
@@ -4378,7 +4378,7 @@
     },
     "laspa:246217": {
       "premiere_vue": "2026-09-30T11:35:27.960Z",
-      "derniere_vue": "2026-10-23T10:42:59.556Z",
+      "derniere_vue": "2026-10-24T09:59:16.021Z",
       "source": "laspa",
       "nom": "MOUSSE PAB28900"
     },
@@ -4402,7 +4402,7 @@
     },
     "laspa:246039": {
       "premiere_vue": "2026-09-30T11:35:27.960Z",
-      "derniere_vue": "2026-10-23T10:42:59.556Z",
+      "derniere_vue": "2026-10-24T09:59:16.021Z",
       "source": "laspa",
       "nom": "FLECHNER"
     },
@@ -4588,13 +4588,13 @@
     },
     "laspa:246419": {
       "premiere_vue": "2026-10-01T12:04:13.600Z",
-      "derniere_vue": "2026-10-23T10:42:59.556Z",
+      "derniere_vue": "2026-10-24T09:59:16.021Z",
       "source": "laspa",
       "nom": "DIANA CHA"
     },
     "laspa:246296": {
       "premiere_vue": "2026-10-01T12:04:13.600Z",
-      "derniere_vue": "2026-10-23T10:42:59.556Z",
+      "derniere_vue": "2026-10-24T09:59:16.021Z",
       "source": "laspa",
       "nom": "SUE"
     },
@@ -4618,13 +4618,13 @@
     },
     "laspa:246291": {
       "premiere_vue": "2026-10-01T12:04:13.600Z",
-      "derniere_vue": "2026-10-23T10:42:59.556Z",
+      "derniere_vue": "2026-10-24T09:59:16.021Z",
       "source": "laspa",
       "nom": "BAMBINE"
     },
     "laspa:246293": {
       "premiere_vue": "2026-10-01T12:04:13.600Z",
-      "derniere_vue": "2026-10-23T10:42:59.556Z",
+      "derniere_vue": "2026-10-24T09:59:16.021Z",
       "source": "laspa",
       "nom": "ALONZO"
     },
@@ -4636,7 +4636,7 @@
     },
     "laspa:246313": {
       "premiere_vue": "2026-10-01T12:04:13.600Z",
-      "derniere_vue": "2026-10-23T10:42:59.556Z",
+      "derniere_vue": "2026-10-24T09:59:16.021Z",
       "source": "laspa",
       "nom": "CLEMENTINE"
     },
@@ -4822,7 +4822,7 @@
     },
     "laspa:246686": {
       "premiere_vue": "2026-10-02T11:35:30.975Z",
-      "derniere_vue": "2026-10-23T10:42:59.556Z",
+      "derniere_vue": "2026-10-24T09:59:16.021Z",
       "source": "laspa",
       "nom": "CACAO A17475"
     },
@@ -4990,7 +4990,7 @@
     },
     "laspa:247170": {
       "premiere_vue": "2026-10-03T10:49:13.243Z",
-      "derniere_vue": "2026-10-23T10:42:59.556Z",
+      "derniere_vue": "2026-10-24T09:59:16.021Z",
       "source": "laspa",
       "nom": "GIVRALI PAB30032"
     },
@@ -5242,7 +5242,7 @@
     },
     "laspa:248035": {
       "premiere_vue": "2026-10-04T11:31:21.801Z",
-      "derniere_vue": "2026-10-23T10:42:59.556Z",
+      "derniere_vue": "2026-10-24T09:59:16.021Z",
       "source": "laspa",
       "nom": "GROGU C"
     },
@@ -5386,7 +5386,7 @@
     },
     "laspa:248216": {
       "premiere_vue": "2026-10-05T13:02:39.011Z",
-      "derniere_vue": "2026-10-23T10:42:59.556Z",
+      "derniere_vue": "2026-10-24T09:59:16.021Z",
       "source": "laspa",
       "nom": "Brigitte"
     },
@@ -5404,25 +5404,25 @@
     },
     "laspa:248817": {
       "premiere_vue": "2026-10-07T12:19:14.334Z",
-      "derniere_vue": "2026-10-23T10:42:59.556Z",
+      "derniere_vue": "2026-10-24T09:59:16.021Z",
       "source": "laspa",
       "nom": "OPALINE C"
     },
     "laspa:248808": {
       "premiere_vue": "2026-10-07T12:19:14.334Z",
-      "derniere_vue": "2026-10-23T10:42:59.556Z",
+      "derniere_vue": "2026-10-24T09:59:16.021Z",
       "source": "laspa",
       "nom": "AÉLYS C"
     },
     "laspa:248828": {
       "premiere_vue": "2026-10-07T12:19:14.334Z",
-      "derniere_vue": "2026-10-23T10:42:59.556Z",
+      "derniere_vue": "2026-10-24T09:59:16.021Z",
       "source": "laspa",
       "nom": "PHOEBE C"
     },
     "laspa:248822": {
       "premiere_vue": "2026-10-07T12:19:14.334Z",
-      "derniere_vue": "2026-10-23T10:42:59.556Z",
+      "derniere_vue": "2026-10-24T09:59:16.021Z",
       "source": "laspa",
       "nom": "AÉRIA C"
     },
@@ -5434,7 +5434,7 @@
     },
     "laspa:248824": {
       "premiere_vue": "2026-10-07T12:19:14.334Z",
-      "derniere_vue": "2026-10-23T10:42:59.556Z",
+      "derniere_vue": "2026-10-24T09:59:16.021Z",
       "source": "laspa",
       "nom": "CRISTAL C"
     },
@@ -5470,7 +5470,7 @@
     },
     "laspa:249144": {
       "premiere_vue": "2026-10-08T12:28:52.445Z",
-      "derniere_vue": "2026-10-23T10:42:59.556Z",
+      "derniere_vue": "2026-10-24T09:59:16.021Z",
       "source": "laspa",
       "nom": "ARBALETTE"
     },
@@ -5482,7 +5482,7 @@
     },
     "laspa:249115": {
       "premiere_vue": "2026-10-08T12:28:52.445Z",
-      "derniere_vue": "2026-10-23T10:42:59.556Z",
+      "derniere_vue": "2026-10-24T09:59:16.021Z",
       "source": "laspa",
       "nom": "JUMANJI"
     },
@@ -5584,7 +5584,7 @@
     },
     "laspa:249840": {
       "premiere_vue": "2026-10-10T11:35:36.782Z",
-      "derniere_vue": "2026-10-23T10:42:59.556Z",
+      "derniere_vue": "2026-10-24T09:59:16.021Z",
       "source": "laspa",
       "nom": "AZALEE"
     },
@@ -5602,7 +5602,7 @@
     },
     "laspa:250737": {
       "premiere_vue": "2026-10-13T13:11:17.796Z",
-      "derniere_vue": "2026-10-23T10:42:59.556Z",
+      "derniere_vue": "2026-10-24T09:59:16.021Z",
       "source": "laspa",
       "nom": "SHAYANMEHR PAB30086"
     },
@@ -5614,13 +5614,13 @@
     },
     "laspa:250753": {
       "premiere_vue": "2026-10-13T13:11:17.796Z",
-      "derniere_vue": "2026-10-23T10:42:59.556Z",
+      "derniere_vue": "2026-10-24T09:59:16.021Z",
       "source": "laspa",
       "nom": "CELINA PAB30015"
     },
     "laspa:250762": {
       "premiere_vue": "2026-10-13T13:11:17.796Z",
-      "derniere_vue": "2026-10-23T10:42:59.556Z",
+      "derniere_vue": "2026-10-24T09:59:16.021Z",
       "source": "laspa",
       "nom": "BAMAKO PAB30063"
     },
@@ -5632,13 +5632,13 @@
     },
     "laspa:250733": {
       "premiere_vue": "2026-10-13T13:11:17.796Z",
-      "derniere_vue": "2026-10-23T10:42:59.556Z",
+      "derniere_vue": "2026-10-24T09:59:16.021Z",
       "source": "laspa",
       "nom": "CANELLE PAB30082"
     },
     "laspa:251091": {
       "premiere_vue": "2026-10-14T10:52:05.729Z",
-      "derniere_vue": "2026-10-23T10:42:59.556Z",
+      "derniere_vue": "2026-10-24T09:59:16.021Z",
       "source": "laspa",
       "nom": "BONES"
     },
@@ -5656,7 +5656,7 @@
     },
     "laspa:251035": {
       "premiere_vue": "2026-10-14T10:52:05.729Z",
-      "derniere_vue": "2026-10-23T10:42:59.556Z",
+      "derniere_vue": "2026-10-24T09:59:16.021Z",
       "source": "laspa",
       "nom": "JAY C"
     },
@@ -5668,7 +5668,7 @@
     },
     "laspa:251092": {
       "premiere_vue": "2026-10-14T10:52:05.729Z",
-      "derniere_vue": "2026-10-23T10:42:59.556Z",
+      "derniere_vue": "2026-10-24T09:59:16.021Z",
       "source": "laspa",
       "nom": "BONY"
     },
@@ -5680,7 +5680,7 @@
     },
     "laspa:251250": {
       "premiere_vue": "2026-10-14T10:52:05.729Z",
-      "derniere_vue": "2026-10-23T10:42:59.556Z",
+      "derniere_vue": "2026-10-24T09:59:16.021Z",
       "source": "laspa",
       "nom": "SCÈNE C"
     },
@@ -5692,7 +5692,7 @@
     },
     "laspa:251051": {
       "premiere_vue": "2026-10-14T10:52:05.729Z",
-      "derniere_vue": "2026-10-23T10:42:59.556Z",
+      "derniere_vue": "2026-10-24T09:59:16.021Z",
       "source": "laspa",
       "nom": "MONA C"
     },
@@ -5716,7 +5716,7 @@
     },
     "laspa:251052": {
       "premiere_vue": "2026-10-14T10:52:05.729Z",
-      "derniere_vue": "2026-10-23T10:42:59.556Z",
+      "derniere_vue": "2026-10-24T09:59:16.021Z",
       "source": "laspa",
       "nom": "LISA C"
     },
@@ -5746,13 +5746,13 @@
     },
     "laspa:251514": {
       "premiere_vue": "2026-10-15T10:33:58.049Z",
-      "derniere_vue": "2026-10-23T10:42:59.556Z",
+      "derniere_vue": "2026-10-24T09:59:16.021Z",
       "source": "laspa",
       "nom": "SAIPAN CHA"
     },
     "laspa:251513": {
       "premiere_vue": "2026-10-15T10:33:58.049Z",
-      "derniere_vue": "2026-10-23T10:42:59.556Z",
+      "derniere_vue": "2026-10-24T09:59:16.021Z",
       "source": "laspa",
       "nom": "TOKAY CHA"
     },
@@ -5776,7 +5776,7 @@
     },
     "laspa:251821": {
       "premiere_vue": "2026-10-16T10:20:57.374Z",
-      "derniere_vue": "2026-10-23T10:42:59.556Z",
+      "derniere_vue": "2026-10-24T09:59:16.021Z",
       "source": "laspa",
       "nom": "BAIA CHA"
     },
@@ -5788,7 +5788,7 @@
     },
     "laspa:251820": {
       "premiere_vue": "2026-10-16T10:20:57.374Z",
-      "derniere_vue": "2026-10-23T10:42:59.556Z",
+      "derniere_vue": "2026-10-24T09:59:16.021Z",
       "source": "laspa",
       "nom": "ZANZIBAR CHA"
     },
@@ -5806,7 +5806,7 @@
     },
     "laspa:252163": {
       "premiere_vue": "2026-10-17T09:53:48.823Z",
-      "derniere_vue": "2026-10-23T10:42:59.556Z",
+      "derniere_vue": "2026-10-24T09:59:16.021Z",
       "source": "laspa",
       "nom": "RED CHA"
     },
@@ -5842,7 +5842,7 @@
     },
     "laspa:252045": {
       "premiere_vue": "2026-10-17T09:53:48.823Z",
-      "derniere_vue": "2026-10-23T10:42:59.556Z",
+      "derniere_vue": "2026-10-24T09:59:16.021Z",
       "source": "laspa",
       "nom": "BELLA PAB30059"
     },
@@ -5854,7 +5854,7 @@
     },
     "laspa:252557": {
       "premiere_vue": "2026-10-18T10:06:18.885Z",
-      "derniere_vue": "2026-10-23T10:42:59.556Z",
+      "derniere_vue": "2026-10-24T09:59:16.021Z",
       "source": "laspa",
       "nom": "DIJANV"
     },
@@ -5878,13 +5878,13 @@
     },
     "laspa:252919": {
       "premiere_vue": "2026-10-20T10:39:40.595Z",
-      "derniere_vue": "2026-10-23T10:42:59.556Z",
+      "derniere_vue": "2026-10-24T09:59:16.021Z",
       "source": "laspa",
       "nom": "ATHOS C"
     },
     "laspa:252918": {
       "premiere_vue": "2026-10-20T10:39:40.595Z",
-      "derniere_vue": "2026-10-23T10:42:59.556Z",
+      "derniere_vue": "2026-10-24T09:59:16.021Z",
       "source": "laspa",
       "nom": "ARAMIS C"
     },
@@ -5896,19 +5896,19 @@
     },
     "laspa:253179": {
       "premiere_vue": "2026-10-21T10:50:29.490Z",
-      "derniere_vue": "2026-10-23T10:42:59.556Z",
+      "derniere_vue": "2026-10-24T09:59:16.021Z",
       "source": "laspa",
       "nom": "BLUEY"
     },
     "laspa:253169": {
       "premiere_vue": "2026-10-21T10:50:29.490Z",
-      "derniere_vue": "2026-10-23T10:42:59.556Z",
+      "derniere_vue": "2026-10-24T09:59:16.021Z",
       "source": "laspa",
       "nom": "PUPUYU"
     },
     "laspa:253141": {
       "premiere_vue": "2026-10-21T10:50:29.490Z",
-      "derniere_vue": "2026-10-23T10:42:59.556Z",
+      "derniere_vue": "2026-10-24T09:59:16.021Z",
       "source": "laspa",
       "nom": "DAM"
     },
@@ -5920,85 +5920,85 @@
     },
     "laspa:253199": {
       "premiere_vue": "2026-10-21T10:50:29.490Z",
-      "derniere_vue": "2026-10-23T10:42:59.556Z",
+      "derniere_vue": "2026-10-24T09:59:16.021Z",
       "source": "laspa",
       "nom": "NAHUEL"
     },
     "laspa:253153": {
       "premiere_vue": "2026-10-21T10:50:29.490Z",
-      "derniere_vue": "2026-10-23T10:42:59.556Z",
+      "derniere_vue": "2026-10-24T09:59:16.021Z",
       "source": "laspa",
       "nom": "SENNA"
     },
     "laspa:253193": {
       "premiere_vue": "2026-10-21T10:50:29.490Z",
-      "derniere_vue": "2026-10-23T10:42:59.556Z",
+      "derniere_vue": "2026-10-24T09:59:16.021Z",
       "source": "laspa",
       "nom": "MAIN"
     },
     "laspa:253203": {
       "premiere_vue": "2026-10-21T10:50:29.490Z",
-      "derniere_vue": "2026-10-23T10:42:59.556Z",
+      "derniere_vue": "2026-10-24T09:59:16.021Z",
       "source": "laspa",
       "nom": "NALA"
     },
     "laspa:253145": {
       "premiere_vue": "2026-10-21T10:50:29.490Z",
-      "derniere_vue": "2026-10-23T10:42:59.556Z",
+      "derniere_vue": "2026-10-24T09:59:16.021Z",
       "source": "laspa",
       "nom": "MIAOUSSINI LE MAGNIFIQUE"
     },
     "laspa:253197": {
       "premiere_vue": "2026-10-21T10:50:29.490Z",
-      "derniere_vue": "2026-10-23T10:42:59.556Z",
+      "derniere_vue": "2026-10-24T09:59:16.021Z",
       "source": "laspa",
       "nom": "WOOCKY"
     },
     "laspa:253159": {
       "premiere_vue": "2026-10-21T10:50:29.490Z",
-      "derniere_vue": "2026-10-23T10:42:59.556Z",
+      "derniere_vue": "2026-10-24T09:59:16.021Z",
       "source": "laspa",
       "nom": "TANYA"
     },
     "laspa:253140": {
       "premiere_vue": "2026-10-21T10:50:29.490Z",
-      "derniere_vue": "2026-10-23T10:42:59.556Z",
+      "derniere_vue": "2026-10-24T09:59:16.021Z",
       "source": "laspa",
       "nom": "TINE"
     },
     "laspa:253177": {
       "premiere_vue": "2026-10-21T10:50:29.490Z",
-      "derniere_vue": "2026-10-23T10:42:59.556Z",
+      "derniere_vue": "2026-10-24T09:59:16.021Z",
       "source": "laspa",
       "nom": "BISCOTTE DU BUISSON"
     },
     "laspa:253133": {
       "premiere_vue": "2026-10-21T10:50:29.490Z",
-      "derniere_vue": "2026-10-23T10:42:59.556Z",
+      "derniere_vue": "2026-10-24T09:59:16.021Z",
       "source": "laspa",
       "nom": "ELIAN C"
     },
     "laspa:253514": {
       "premiere_vue": "2026-10-22T10:51:43.126Z",
-      "derniere_vue": "2026-10-23T10:42:59.556Z",
+      "derniere_vue": "2026-10-24T09:59:16.021Z",
       "source": "laspa",
       "nom": "PANACHE DIT WINNIE PAB30150"
     },
     "laspa:253950": {
       "premiere_vue": "2026-10-23T10:42:59.556Z",
-      "derniere_vue": "2026-10-23T10:42:59.556Z",
+      "derniere_vue": "2026-10-24T09:59:16.021Z",
       "source": "laspa",
       "nom": "BRIDGERTON"
     },
     "laspa:254121": {
       "premiere_vue": "2026-10-23T10:42:59.556Z",
-      "derniere_vue": "2026-10-23T10:42:59.556Z",
+      "derniere_vue": "2026-10-24T09:59:16.021Z",
       "source": "laspa",
       "nom": "TWEETY CHA"
     },
     "laspa:254122": {
       "premiere_vue": "2026-10-23T10:42:59.556Z",
-      "derniere_vue": "2026-10-23T10:42:59.556Z",
+      "derniere_vue": "2026-10-24T09:59:16.021Z",
       "source": "laspa",
       "nom": "OZ CHA"
     },
@@ -6010,15 +6010,201 @@
     },
     "laspa:254101": {
       "premiere_vue": "2026-10-23T10:42:59.556Z",
-      "derniere_vue": "2026-10-23T10:42:59.556Z",
+      "derniere_vue": "2026-10-24T09:59:16.021Z",
       "source": "laspa",
       "nom": "KOHKOOD CHA"
     },
     "laspa:254104": {
       "premiere_vue": "2026-10-23T10:42:59.556Z",
-      "derniere_vue": "2026-10-23T10:42:59.556Z",
+      "derniere_vue": "2026-10-24T09:59:16.021Z",
       "source": "laspa",
       "nom": "KOMODO CHA"
+    },
+    "laspa:254307": {
+      "premiere_vue": "2026-10-24T09:59:16.021Z",
+      "derniere_vue": "2026-10-24T09:59:16.021Z",
+      "source": "laspa",
+      "nom": "CHEERIOS C"
+    },
+    "laspa:254415": {
+      "premiere_vue": "2026-10-24T09:59:16.021Z",
+      "derniere_vue": "2026-10-24T09:59:16.021Z",
+      "source": "laspa",
+      "nom": "MOCHI"
+    },
+    "laspa:254494": {
+      "premiere_vue": "2026-10-24T09:59:16.021Z",
+      "derniere_vue": "2026-10-24T09:59:16.021Z",
+      "source": "laspa",
+      "nom": "SERA"
+    },
+    "laspa:254407": {
+      "premiere_vue": "2026-10-24T09:59:16.021Z",
+      "derniere_vue": "2026-10-24T09:59:16.021Z",
+      "source": "laspa",
+      "nom": "FRIPOUILLE"
+    },
+    "laspa:254509": {
+      "premiere_vue": "2026-10-24T09:59:16.021Z",
+      "derniere_vue": "2026-10-24T09:59:16.021Z",
+      "source": "laspa",
+      "nom": "BELIKON"
+    },
+    "laspa:254510": {
+      "premiere_vue": "2026-10-24T09:59:16.021Z",
+      "derniere_vue": "2026-10-24T09:59:16.021Z",
+      "source": "laspa",
+      "nom": "JET CHA"
+    },
+    "laspa:254417": {
+      "premiere_vue": "2026-10-24T09:59:16.021Z",
+      "derniere_vue": "2026-10-24T09:59:16.021Z",
+      "source": "laspa",
+      "nom": "MOLAIRE"
+    },
+    "laspa:254652": {
+      "premiere_vue": "2026-10-24T09:59:16.021Z",
+      "derniere_vue": "2026-10-24T09:59:16.021Z",
+      "source": "laspa",
+      "nom": "MIMIAOU"
+    },
+    "laspa:254359": {
+      "premiere_vue": "2026-10-24T09:59:16.021Z",
+      "derniere_vue": "2026-10-24T09:59:16.021Z",
+      "source": "laspa",
+      "nom": "LINER C"
+    },
+    "laspa:254303": {
+      "premiere_vue": "2026-10-24T09:59:16.021Z",
+      "derniere_vue": "2026-10-24T09:59:16.021Z",
+      "source": "laspa",
+      "nom": "KRISPIES C"
+    },
+    "laspa:254511": {
+      "premiere_vue": "2026-10-24T09:59:16.021Z",
+      "derniere_vue": "2026-10-24T09:59:16.021Z",
+      "source": "laspa",
+      "nom": "PANTHERA CHA"
+    },
+    "laspa:254300": {
+      "premiere_vue": "2026-10-24T09:59:16.021Z",
+      "derniere_vue": "2026-10-24T09:59:16.021Z",
+      "source": "laspa",
+      "nom": "HONEY C"
+    },
+    "laspa:254357": {
+      "premiere_vue": "2026-10-24T09:59:16.021Z",
+      "derniere_vue": "2026-10-24T09:59:16.021Z",
+      "source": "laspa",
+      "nom": "KHOL C"
+    },
+    "laspa:254245": {
+      "premiere_vue": "2026-10-24T09:59:16.021Z",
+      "derniere_vue": "2026-10-24T09:59:16.021Z",
+      "source": "laspa",
+      "nom": "BOSKINETTE"
+    },
+    "laspa:254654": {
+      "premiere_vue": "2026-10-24T09:59:16.021Z",
+      "derniere_vue": "2026-10-24T09:59:16.021Z",
+      "source": "laspa",
+      "nom": "LUCIEN"
+    },
+    "laspa:254655": {
+      "premiere_vue": "2026-10-24T09:59:16.021Z",
+      "derniere_vue": "2026-10-24T09:59:16.021Z",
+      "source": "laspa",
+      "nom": "CHOUPINETTE"
+    },
+    "laspa:254207": {
+      "premiere_vue": "2026-10-24T09:59:16.021Z",
+      "derniere_vue": "2026-10-24T09:59:16.021Z",
+      "source": "laspa",
+      "nom": "CARIBOU PAB30098"
+    },
+    "laspa:254508": {
+      "premiere_vue": "2026-10-24T09:59:16.021Z",
+      "derniere_vue": "2026-10-24T09:59:16.021Z",
+      "source": "laspa",
+      "nom": "ONYX"
+    },
+    "laspa:254505": {
+      "premiere_vue": "2026-10-24T09:59:16.021Z",
+      "derniere_vue": "2026-10-24T09:59:16.021Z",
+      "source": "laspa",
+      "nom": "SAERIS"
+    },
+    "laspa:254405": {
+      "premiere_vue": "2026-10-24T09:59:16.021Z",
+      "derniere_vue": "2026-10-24T09:59:16.021Z",
+      "source": "laspa",
+      "nom": "MUGLER"
+    },
+    "laspa:254236": {
+      "premiere_vue": "2026-10-24T09:59:16.021Z",
+      "derniere_vue": "2026-10-24T09:59:16.021Z",
+      "source": "laspa",
+      "nom": "GISELE"
+    },
+    "laspa:254525": {
+      "premiere_vue": "2026-10-24T09:59:16.021Z",
+      "derniere_vue": "2026-10-24T09:59:16.021Z",
+      "source": "laspa",
+      "nom": "CLOVER CHA"
+    },
+    "laspa:254506": {
+      "premiere_vue": "2026-10-24T09:59:16.021Z",
+      "derniere_vue": "2026-10-24T09:59:16.021Z",
+      "source": "laspa",
+      "nom": "YORON CHA"
+    },
+    "laspa:254324": {
+      "premiere_vue": "2026-10-24T09:59:16.021Z",
+      "derniere_vue": "2026-10-24T09:59:16.021Z",
+      "source": "laspa",
+      "nom": "OCTAVIA"
+    },
+    "laspa:254233": {
+      "premiere_vue": "2026-10-24T09:59:16.021Z",
+      "derniere_vue": "2026-10-24T09:59:16.021Z",
+      "source": "laspa",
+      "nom": "ODETTE"
+    },
+    "laspa:254501": {
+      "premiere_vue": "2026-10-24T09:59:16.021Z",
+      "derniere_vue": "2026-10-24T09:59:16.021Z",
+      "source": "laspa",
+      "nom": "MOUSSA"
+    },
+    "laspa:254507": {
+      "premiere_vue": "2026-10-24T09:59:16.021Z",
+      "derniere_vue": "2026-10-24T09:59:16.021Z",
+      "source": "laspa",
+      "nom": "KINGFISHER"
+    },
+    "laspa:254355": {
+      "premiere_vue": "2026-10-24T09:59:16.021Z",
+      "derniere_vue": "2026-10-24T09:59:16.021Z",
+      "source": "laspa",
+      "nom": "NYX C"
+    },
+    "laspa:254497": {
+      "premiere_vue": "2026-10-24T09:59:16.021Z",
+      "derniere_vue": "2026-10-24T09:59:16.021Z",
+      "source": "laspa",
+      "nom": "CASTEEL"
+    },
+    "laspa:254409": {
+      "premiere_vue": "2026-10-24T09:59:16.021Z",
+      "derniere_vue": "2026-10-24T09:59:16.021Z",
+      "source": "laspa",
+      "nom": "SCOTT"
+    },
+    "laspa:254322": {
+      "premiere_vue": "2026-10-24T09:59:16.021Z",
+      "derniere_vue": "2026-10-24T09:59:16.021Z",
+      "source": "laspa",
+      "nom": "LEBLANC"
     }
   },
   "fiches": {
@@ -18873,6 +19059,253 @@
         "adresse": "RN20 direction Torfou - Sortie Torfou - CD 99 - maison au bord de la, 91730 Chamarande"
       },
       "mise_en_cache": "2026-10-23T10:42:59.556Z"
+    },
+    "laspa:254307": {
+      "date_naissance": "2026-07-26",
+      "description": null,
+      "description_complete": null,
+      "sexe": "male",
+      "race": "Europeen",
+      "lieu": {
+        "latitude": 48.520575,
+        "longitude": 2.718874,
+        "adresse": "Rue des Prés Neufs, 77000 Vaux-Le-Pénil"
+      },
+      "mise_en_cache": "2026-10-24T09:59:16.021Z"
+    },
+    "laspa:254415": {
+      "date_naissance": "2026-08-24",
+      "description": "Mochi a été abandonnée directement au refuge.\nMochi est une chatonne craintive, qui recherche des adoptants doux et patients qui lui laisseront le temps d'évoluer à son rythme.\nLa présence d'un premier chat, vacciné, identifié et stérilisé sera obligatoire pour son bon développement.\nVenez vite la rencontrer !",
+      "description_complete": "Mochi a été abandonnée directement au refuge.\nMochi est une chatonne craintive, qui recherche des adoptants doux et patients qui lui laisseront le temps d'évoluer à son rythme.\nLa présence d'un premier chat, vacciné, identifié et stérilisé sera obligatoire pour son bon développement.\nVenez vite la rencontrer !",
+      "sexe": "femelle",
+      "race": "Europeen",
+      "lieu": {
+        "latitude": 48.944706567958,
+        "longitude": 2.3035848619018,
+        "adresse": "121 Av. Marcel Paul 117 119, 92230 Gennevilliers"
+      },
+      "mise_en_cache": "2026-10-24T09:59:16.021Z"
+    },
+    "laspa:254510": {
+      "date_naissance": "2026-07-06",
+      "description": "jet est chatons très sociables, il pourra vivre en appartement ou en pavillon.\nActuellement en traitement pour la teigne, il devr+ être isolé le temps du traitement. La teigne est contagieuse humains et autres animaux",
+      "description_complete": "jet est chatons très sociables, il pourra vivre en appartement ou en pavillon.\nActuellement en traitement pour la teigne, il devr+ être isolé le temps du traitement. La teigne est contagieuse humains et autres animaux",
+      "sexe": "male",
+      "race": "Europeen",
+      "lieu": {
+        "latitude": 48.533724,
+        "longitude": 2.209265,
+        "adresse": "RN20 direction Torfou - Sortie Torfou - CD 99 - maison au bord de la, 91730 Chamarande"
+      },
+      "mise_en_cache": "2026-10-24T09:59:16.021Z"
+    },
+    "laspa:254359": {
+      "date_naissance": "2026-08-03",
+      "description": null,
+      "description_complete": null,
+      "sexe": "male",
+      "race": "Europeen",
+      "lieu": {
+        "latitude": 48.520575,
+        "longitude": 2.718874,
+        "adresse": "Rue des Prés Neufs, 77000 Vaux-Le-Pénil"
+      },
+      "mise_en_cache": "2026-10-24T09:59:16.021Z"
+    },
+    "laspa:254303": {
+      "date_naissance": "2026-07-26",
+      "description": null,
+      "description_complete": null,
+      "sexe": "femelle",
+      "race": "Europeen",
+      "lieu": {
+        "latitude": 48.520575,
+        "longitude": 2.718874,
+        "adresse": "Rue des Prés Neufs, 77000 Vaux-Le-Pénil"
+      },
+      "mise_en_cache": "2026-10-24T09:59:16.021Z"
+    },
+    "laspa:254511": {
+      "date_naissance": "2026-07-06",
+      "description": "Panthera est un chaton très sociable, elle pourra vivre en appartement ou en pavillon.\nActuellement en traitement pour la teigne, elle devra être isolé le temps du traitement. La teigne est contagieuse humains et autres animaux",
+      "description_complete": "Panthera est un chaton très sociable, elle pourra vivre en appartement ou en pavillon.\nActuellement en traitement pour la teigne, elle devra être isolé le temps du traitement. La teigne est contagieuse humains et autres animaux",
+      "sexe": "femelle",
+      "race": "Europeen",
+      "lieu": {
+        "latitude": 48.533724,
+        "longitude": 2.209265,
+        "adresse": "RN20 direction Torfou - Sortie Torfou - CD 99 - maison au bord de la, 91730 Chamarande"
+      },
+      "mise_en_cache": "2026-10-24T09:59:16.021Z"
+    },
+    "laspa:254300": {
+      "date_naissance": "2026-07-26",
+      "description": null,
+      "description_complete": null,
+      "sexe": "femelle",
+      "race": "Europeen",
+      "lieu": {
+        "latitude": 48.520575,
+        "longitude": 2.718874,
+        "adresse": "Rue des Prés Neufs, 77000 Vaux-Le-Pénil"
+      },
+      "mise_en_cache": "2026-10-24T09:59:16.021Z"
+    },
+    "laspa:254357": {
+      "date_naissance": "2026-08-03",
+      "description": null,
+      "description_complete": null,
+      "sexe": "male",
+      "race": "Europeen",
+      "lieu": {
+        "latitude": 48.520575,
+        "longitude": 2.718874,
+        "adresse": "Rue des Prés Neufs, 77000 Vaux-Le-Pénil"
+      },
+      "mise_en_cache": "2026-10-24T09:59:16.021Z"
+    },
+    "laspa:254245": {
+      "date_naissance": "2026-07-20",
+      "description": "Boskinette revient de famille relais. C'est une minette très mignonne qui recherche une famille sérieuse prête à l'accueillir pour les 15 prochaines années.\nUn chèque de caution sera demandé.\nVenez vite la rencontrer!",
+      "description_complete": "Boskinette revient de famille relais. C'est une minette très mignonne qui recherche une famille sérieuse prête à l'accueillir pour les 15 prochaines années.\nUn chèque de caution sera demandé.\nVenez vite la rencontrer!",
+      "sexe": "femelle",
+      "race": "Europeen",
+      "lieu": {
+        "latitude": 48.944706567958,
+        "longitude": 2.3035848619018,
+        "adresse": "121 Av. Marcel Paul 117 119, 92230 Gennevilliers"
+      },
+      "mise_en_cache": "2026-10-24T09:59:16.021Z"
+    },
+    "laspa:254505": {
+      "date_naissance": "2026-05-01",
+      "description": "Saeris arrive de fourrière animale. Nous ne connaissons donc rien de sa vie précédente.\nSaeris est une chatonne timide, qui une fois sa confiance gagnée se livre a de gros câlins.\nElle devra vivre en appartement sans sortie extérieure et sans jeunes enfants.\nVenez vite la rencontrer!",
+      "description_complete": "Saeris arrive de fourrière animale. Nous ne connaissons donc rien de sa vie précédente.\nSaeris est une chatonne timide, qui une fois sa confiance gagnée se livre a de gros câlins.\nElle devra vivre en appartement sans sortie extérieure et sans jeunes enfants.\nVenez vite la rencontrer!",
+      "sexe": "femelle",
+      "race": "Europeen",
+      "lieu": {
+        "latitude": 48.944706567958,
+        "longitude": 2.3035848619018,
+        "adresse": "121 Av. Marcel Paul 117 119, 92230 Gennevilliers"
+      },
+      "mise_en_cache": "2026-10-24T09:59:16.021Z"
+    },
+    "laspa:254405": {
+      "date_naissance": "2026-07-01",
+      "description": "Mugler arrive de fourrière animale. Nous ne connaissons donc rien de son passé.\nC’est une adorable minette qui aura besoin d’adoptants doux et patients, prêts à lui laisser le temps de prendre ses marques et d’évoluer à son rythme.\nAdopter un chaton est un engagement pour les quinze prochaines années. Il est important de bien réfléchir avant de se lancer dans cette belle aventure.\nUn chèque de ca…",
+      "description_complete": "Mugler arrive de fourrière animale. Nous ne connaissons donc rien de son passé.\nC’est une adorable minette qui aura besoin d’adoptants doux et patients, prêts à lui laisser le temps de prendre ses marques et d’évoluer à son rythme.\nAdopter un chaton est un engagement pour les quinze prochaines années. Il est important de bien réfléchir avant de se lancer dans cette belle aventure.\nUn chèque de caution sera demandé.",
+      "sexe": "male",
+      "race": "Europeen",
+      "lieu": {
+        "latitude": 48.944706567958,
+        "longitude": 2.3035848619018,
+        "adresse": "121 Av. Marcel Paul 117 119, 92230 Gennevilliers"
+      },
+      "mise_en_cache": "2026-10-24T09:59:16.021Z"
+    },
+    "laspa:254236": {
+      "date_naissance": "2026-07-14",
+      "description": "Gisèle revient tout juste de famille relais.\nC'est une petite mère adorable, assez peureuse au début, elle aura besoin d'un temps d'adaptation au foyer. Elle est adorable et accordera sa confiance en douceur si on lui offre un environnement calme, nous éviterons la présence de jeunes enfants. Elle est bavarde par moment et jamais contre une petite pâtée !\nGisèle a un souffle cardiaque, tout vous…",
+      "description_complete": "Gisèle revient tout juste de famille relais.\nC'est une petite mère adorable, assez peureuse au début, elle aura besoin d'un temps d'adaptation au foyer. Elle est adorable et accordera sa confiance en douceur si on lui offre un environnement calme, nous éviterons la présence de jeunes enfants. Elle est bavarde par moment et jamais contre une petite pâtée !\nGisèle a un souffle cardiaque, tout vous sera expliqué au refuge. Frais et soins à prévoir.\nVenez vite rencontrer cette petite merveille.",
+      "sexe": "femelle",
+      "race": "Europeen",
+      "lieu": {
+        "latitude": 48.944706567958,
+        "longitude": 2.3035848619018,
+        "adresse": "121 Av. Marcel Paul 117 119, 92230 Gennevilliers"
+      },
+      "mise_en_cache": "2026-10-24T09:59:16.021Z"
+    },
+    "laspa:254525": {
+      "date_naissance": "2026-08-04",
+      "description": "Sam et Clover sont deux adorables chatons fusionnels, très sociables et câlins, qui cherchent leur famille pour la vie !\nTrès proches des humains, ils s'entendent également très bien avec les chiens.\nIls pourront vivrent en grand appartement ou en maison.\nils arrivent à la fin de leur traitement contre la giardiose. Un petit temps d'isolement temporaire (dans une pièce dédiée et facile à nettoyer…",
+      "description_complete": "Sam et Clover sont deux adorables chatons fusionnels, très sociables et câlins, qui cherchent leur famille pour la vie !\nTrès proches des humains, ils s'entendent également très bien avec les chiens.\nIls pourront vivrent en grand appartement ou en maison.\nils arrivent à la fin de leur traitement contre la giardiose. Un petit temps d'isolement temporaire (dans une pièce dédiée et facile à nettoyer) sera donc nécessaire à leur arrivée le temps de terminer le traitement.",
+      "sexe": "femelle",
+      "race": "Europeen",
+      "lieu": {
+        "latitude": 48.533724,
+        "longitude": 2.209265,
+        "adresse": "RN20 direction Torfou - Sortie Torfou - CD 99 - maison au bord de la, 91730 Chamarande"
+      },
+      "mise_en_cache": "2026-10-24T09:59:16.021Z"
+    },
+    "laspa:254324": {
+      "date_naissance": "2026-06-01",
+      "description": "Octavia arrive de la fourrière animale. Nous ne connaissons donc rien de sa vie précédente.\nOctavia est une gentille minette qui recherche des adoptants doux et patients qui lui laisseront le temps d'évoluer à son rythme.\nVenez vite la rencontrer !",
+      "description_complete": "Octavia arrive de la fourrière animale. Nous ne connaissons donc rien de sa vie précédente.\nOctavia est une gentille minette qui recherche des adoptants doux et patients qui lui laisseront le temps d'évoluer à son rythme.\nVenez vite la rencontrer !",
+      "sexe": "femelle",
+      "race": "Europeen",
+      "lieu": {
+        "latitude": 48.944706567958,
+        "longitude": 2.3035848619018,
+        "adresse": "121 Av. Marcel Paul 117 119, 92230 Gennevilliers"
+      },
+      "mise_en_cache": "2026-10-24T09:59:16.021Z"
+    },
+    "laspa:254501": {
+      "date_naissance": "2026-04-15",
+      "description": "Moussa arrive de la fourrière animale. Nous ne connaissons donc rien de sa vie précédente.\nMoussa est un gentil chaton qui recherche des adoptants doux et patients qui lui laisseront le temps d'évoluer à son rythme.\nMoussa a une gingivite, frais et soins à prévoir.\nVenez vite la rencontrer!",
+      "description_complete": "Moussa arrive de la fourrière animale. Nous ne connaissons donc rien de sa vie précédente.\nMoussa est un gentil chaton qui recherche des adoptants doux et patients qui lui laisseront le temps d'évoluer à son rythme.\nMoussa a une gingivite, frais et soins à prévoir.\nVenez vite la rencontrer!",
+      "sexe": "femelle",
+      "race": "Croisé / Autre, Siamois",
+      "lieu": {
+        "latitude": 48.944706567958,
+        "longitude": 2.3035848619018,
+        "adresse": "121 Av. Marcel Paul 117 119, 92230 Gennevilliers"
+      },
+      "mise_en_cache": "2026-10-24T09:59:16.021Z"
+    },
+    "laspa:254507": {
+      "date_naissance": "2026-05-01",
+      "description": "Kingfisher arrive de fourrière animale. Nous ne connaissons donc rien de sa vie précédente.\nKingfisher est un adorable chaton qui recherche des adoptants doux et patients qui lui laisseront le temps d'évoluer à son rythme.\nVenez vite le rencontrer!",
+      "description_complete": "Kingfisher arrive de fourrière animale. Nous ne connaissons donc rien de sa vie précédente.\nKingfisher est un adorable chaton qui recherche des adoptants doux et patients qui lui laisseront le temps d'évoluer à son rythme.\nVenez vite le rencontrer!",
+      "sexe": "male",
+      "race": "Europeen",
+      "lieu": {
+        "latitude": 48.944706567958,
+        "longitude": 2.3035848619018,
+        "adresse": "121 Av. Marcel Paul 117 119, 92230 Gennevilliers"
+      },
+      "mise_en_cache": "2026-10-24T09:59:16.021Z"
+    },
+    "laspa:254497": {
+      "date_naissance": "2026-07-01",
+      "description": "Casteel arrive de fourrière animale. Nous ne connaissons donc rien de son passé.\nC’est un adorable loulou qui aura besoin d’adoptants doux et patients, prêts à lui laisser le temps de prendre ses marques et d’évoluer à son rythme.\nAdopter un chaton est un engagement pour les quinze prochaines années. Il est important de bien réfléchir avant de se lancer dans cette belle aventure.\nUn chèque de cau…",
+      "description_complete": "Casteel arrive de fourrière animale. Nous ne connaissons donc rien de son passé.\nC’est un adorable loulou qui aura besoin d’adoptants doux et patients, prêts à lui laisser le temps de prendre ses marques et d’évoluer à son rythme.\nAdopter un chaton est un engagement pour les quinze prochaines années. Il est important de bien réfléchir avant de se lancer dans cette belle aventure.\nUn chèque de caution sera demandé.",
+      "sexe": "male",
+      "race": "Europeen",
+      "lieu": {
+        "latitude": 48.944706567958,
+        "longitude": 2.3035848619018,
+        "adresse": "121 Av. Marcel Paul 117 119, 92230 Gennevilliers"
+      },
+      "mise_en_cache": "2026-10-24T09:59:16.021Z"
+    },
+    "laspa:254409": {
+      "date_naissance": "2026-04-01",
+      "description": "Scott a été abandonné directement au refuge.\nScott est un chat craintif, qui recherche des adoptants doux et patients qui lui laisseront le temps d'évoluer à son rythme.\nLa présence d'un premier chat vacciné, identifié et stérilisé sera obligatoire pour son bon développement.\nIl devra vivre en appartement, sans sortie extérieure et sans jeunes enfants.\nVenez vite le rencontrer !",
+      "description_complete": "Scott a été abandonné directement au refuge.\nScott est un chat craintif, qui recherche des adoptants doux et patients qui lui laisseront le temps d'évoluer à son rythme.\nLa présence d'un premier chat vacciné, identifié et stérilisé sera obligatoire pour son bon développement.\nIl devra vivre en appartement, sans sortie extérieure et sans jeunes enfants.\nVenez vite le rencontrer !",
+      "sexe": "male",
+      "race": "Europeen",
+      "lieu": {
+        "latitude": 48.944706567958,
+        "longitude": 2.3035848619018,
+        "adresse": "121 Av. Marcel Paul 117 119, 92230 Gennevilliers"
+      },
+      "mise_en_cache": "2026-10-24T09:59:16.021Z"
+    },
+    "laspa:254322": {
+      "date_naissance": "2026-07-01",
+      "description": "Leblanc a été abandonnée directement au refuge.\nLeblanc est un chaton craintif, qui recherche des adoptants doux et patients qui lui laisseront le temps d'évoluer à son rythme.\nLa présence d'un premier chat, vacciné, identifié et stérilisé sera obligatoire pour son bon développement.\nVenez vite le rencontrer !",
+      "description_complete": "Leblanc a été abandonnée directement au refuge.\nLeblanc est un chaton craintif, qui recherche des adoptants doux et patients qui lui laisseront le temps d'évoluer à son rythme.\nLa présence d'un premier chat, vacciné, identifié et stérilisé sera obligatoire pour son bon développement.\nVenez vite le rencontrer !",
+      "sexe": "male",
+      "race": "Europeen",
+      "lieu": {
+        "latitude": 48.944706567958,
+        "longitude": 2.3035848619018,
+        "adresse": "121 Av. Marcel Paul 117 119, 92230 Gennevilliers"
+      },
+      "mise_en_cache": "2026-10-24T09:59:16.021Z"
     }
   }
 }
