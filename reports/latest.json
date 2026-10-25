@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-24T09:59:16.021Z",
+  "date": "2026-10-25T10:24:03.905Z",
   "zone": {
     "mode": "rayon",
     "label": "50 km autour de Paris 11e Arrondissement",
@@ -34,7 +34,7 @@
       "sexe": "femelle",
       "age_categorie": "junior",
       "age_texte": null,
-      "age_mois": 2.017779306791391,
+      "age_mois": 2.051199294623165,
       "age_source": "naissance",
       "age_conflit": null,
       "date_naissance": "2026-08-24",
@@ -60,106 +60,6 @@
       "nouveau": true
     },
     {
-      "id": "laspa:253145",
-      "source": "laspa",
-      "source_label": "La SPA",
-      "source_id": "253145",
-      "uid": "animal-miaoussini-le-magnifique",
-      "nom": "MIAOUSSINI LE MAGNIFIQUE",
-      "url": "https://www.la-spa.fr/animal/miaoussini-le-magnifique/",
-      "image": "https://www.la-spa.fr/app/app/uploads/animals/253145/miaoussini-le-magnifique-253145-6adb8c7b69f8e.jpg",
-      "espece": "chat",
-      "race": "Europeen",
-      "sexe": "male",
-      "age_categorie": "junior",
-      "age_texte": null,
-      "age_mois": 2.64200928625751,
-      "age_source": "naissance",
-      "age_conflit": null,
-      "date_naissance": "2026-08-05",
-      "date_publication": "2026-10-20",
-      "reserve": false,
-      "sos": false,
-      "fad": false,
-      "lieu": {
-        "nom": "La SPA - Refuge de Gennevilliers – Grammont",
-        "slug": "refuge-spa-de-gennevilliers-grammont",
-        "ville": "Gennevilliers",
-        "code_postal": "92230",
-        "departement": "92",
-        "latitude": 48.944706567958,
-        "longitude": 2.3035848619018,
-        "precision": "exacte",
-        "distance_km": 11.004464438564007,
-        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-gennevilliers-grammont/"
-      },
-      "description": "Biscotte du Buisson a été abandonné directement au refuge avec Miaoussini.\nBiscotte du Buisson est un chaton timide qui recherche des adoptants doux et patients qui lui laisseront le temps d'évoluer à leur rythme.\nIls devront être adopté ensemble. En appartement, sans sortie extérieure et sans jeunes enfants.\nVenez vite les rencontrer !",
-      "fiche_lue": true,
-      "portee": {
-        "id": "portee-1",
-        "taille": 2,
-        "disponibles": 2,
-        "confiance": "forte",
-        "indices": [
-          "même date de naissance",
-          "« BISCOTTE DU BUISSON » cité·e dans la description",
-          "fratrie mentionnée",
-          "cité·e dans la description de « MIAOUSSINI LE MAGNIFIQUE »"
-        ]
-      },
-      "nouveau": true
-    },
-    {
-      "id": "laspa:253177",
-      "source": "laspa",
-      "source_label": "La SPA",
-      "source_id": "253177",
-      "uid": "animal-biscotte-du-buisson",
-      "nom": "BISCOTTE DU BUISSON",
-      "url": "https://www.la-spa.fr/animal/biscotte-du-buisson/",
-      "image": "https://www.la-spa.fr/app/app/uploads/animals/253177/biscotte-du-buisson-253177-6adb8c613e8bb.jpg",
-      "espece": "chat",
-      "race": "Europeen",
-      "sexe": "femelle",
-      "age_categorie": "junior",
-      "age_texte": null,
-      "age_mois": 2.64200928625751,
-      "age_source": "naissance",
-      "age_conflit": null,
-      "date_naissance": "2026-08-05",
-      "date_publication": "2026-10-20",
-      "reserve": false,
-      "sos": false,
-      "fad": false,
-      "lieu": {
-        "nom": "La SPA - Refuge de Gennevilliers – Grammont",
-        "slug": "refuge-spa-de-gennevilliers-grammont",
-        "ville": "Gennevilliers",
-        "code_postal": "92230",
-        "departement": "92",
-        "latitude": 48.944706567958,
-        "longitude": 2.3035848619018,
-        "precision": "exacte",
-        "distance_km": 11.004464438564007,
-        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-gennevilliers-grammont/"
-      },
-      "description": "Biscotte du Buisson a été abandonné directement au refuge avec Miaoussini.\nBiscotte du Buisson est un chaton timide qui recherche des adoptants doux et patients qui lui laisseront le temps d'évoluer à leur rythme.\nIls devront être adopté ensemble. En appartement, sans sortie extérieure et sans jeunes enfants.\nVenez vite les rencontrer !",
-      "fiche_lue": true,
-      "portee": {
-        "id": "portee-1",
-        "taille": 2,
-        "disponibles": 2,
-        "confiance": "forte",
-        "indices": [
-          "même date de naissance",
-          "« BISCOTTE DU BUISSON » cité·e dans la description",
-          "fratrie mentionnée",
-          "cité·e dans la description de « MIAOUSSINI LE MAGNIFIQUE »"
-        ]
-      },
-      "nouveau": true
-    },
-    {
       "id": "laspa:254245",
       "source": "laspa",
       "source_label": "La SPA",
@@ -173,7 +73,7 @@
       "sexe": "femelle",
       "age_categorie": "junior",
       "age_texte": null,
-      "age_mois": 3.1676766373868737,
+      "age_mois": 3.201096625218648,
       "age_source": "naissance",
       "age_conflit": null,
       "date_naissance": "2026-07-20",
@@ -199,53 +99,6 @@
       "nouveau": true
     },
     {
-      "id": "laspa:246313",
-      "source": "laspa",
-      "source_label": "La SPA",
-      "source_id": "246313",
-      "uid": "animal-clementine-2",
-      "nom": "CLEMENTINE",
-      "url": "https://www.la-spa.fr/animal/clementine-2/",
-      "image": "https://www.la-spa.fr/app/app/uploads/animals/246313/clementine-246313-6adb540cbf417.jpg",
-      "espece": "chat",
-      "race": "Europeen",
-      "sexe": "femelle",
-      "age_categorie": "junior",
-      "age_texte": null,
-      "age_mois": 3.3319476846147995,
-      "age_source": "naissance",
-      "age_conflit": null,
-      "date_naissance": "2026-07-15",
-      "date_publication": "2026-09-30",
-      "reserve": false,
-      "sos": false,
-      "fad": false,
-      "lieu": {
-        "nom": "La SPA - Refuge de Gennevilliers – Grammont",
-        "slug": "refuge-spa-de-gennevilliers-grammont",
-        "ville": "Gennevilliers",
-        "code_postal": "92230",
-        "departement": "92",
-        "latitude": 48.944706567958,
-        "longitude": 2.3035848619018,
-        "precision": "exacte",
-        "distance_km": 11.004464438564007,
-        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-gennevilliers-grammont/"
-      },
-      "description": "Clémentine est arrivée suite à un transfert d'une autre association.\nClémentine est une louloute un peu timide qui recherche des adoptants doux et patients qui lui laisseront le temps d'évoluer à leur rythme.\nElle vivre en appartement, sans sortie extérieure et sans jeunes enfants.\nLa présence d'un premier chat, vacciné, identifié et stérilisé sera obligatoire pour son bon développement.\nVenez vi…",
-      "fiche_lue": true,
-      "portee": {
-        "id": "portee-2",
-        "taille": 2,
-        "disponibles": 2,
-        "confiance": "forte",
-        "indices": [
-          "même date de naissance"
-        ]
-      },
-      "nouveau": false
-    },
-    {
       "id": "laspa:254236",
       "source": "laspa",
       "source_label": "La SPA",
@@ -259,7 +112,7 @@
       "sexe": "femelle",
       "age_categorie": "junior",
       "age_texte": null,
-      "age_mois": 3.3648018940603848,
+      "age_mois": 3.3982218818921592,
       "age_source": "naissance",
       "age_conflit": null,
       "date_naissance": "2026-07-14",
@@ -281,15 +134,7 @@
       },
       "description": "Gisèle revient tout juste de famille relais.\nC'est une petite mère adorable, assez peureuse au début, elle aura besoin d'un temps d'adaptation au foyer. Elle est adorable et accordera sa confiance en douceur si on lui offre un environnement calme, nous éviterons la présence de jeunes enfants. Elle est bavarde par moment et jamais contre une petite pâtée !\nGisèle a un souffle cardiaque, tout vous…",
       "fiche_lue": true,
-      "portee": {
-        "id": "portee-2",
-        "taille": 2,
-        "disponibles": 2,
-        "confiance": "forte",
-        "indices": [
-          "même date de naissance"
-        ]
-      },
+      "portee": null,
       "nouveau": true
     },
     {
@@ -306,7 +151,7 @@
       "sexe": "femelle",
       "age_categorie": "junior",
       "age_texte": null,
-      "age_mois": 3.6604897790706517,
+      "age_mois": 3.693909766902426,
       "age_source": "naissance",
       "age_conflit": null,
       "date_naissance": "2026-07-05",
@@ -345,7 +190,7 @@
       "sexe": "femelle",
       "age_categorie": "junior",
       "age_texte": null,
-      "age_mois": 3.7919066168529927,
+      "age_mois": 3.825326604684767,
       "age_source": "naissance",
       "age_conflit": null,
       "date_naissance": "2026-07-01",
@@ -368,9 +213,9 @@
       "description": "Adopter un chaton est un engagement sur de nombreuses années. Cela demande du temps, de la patience, de l’attention et un budget pour assurer sa santé et son bien-être tout au long de sa vie.\nSue est une minette timide qui recherche des adoptants doux et patients qui lui laisseront le temps d'évoluer à son rythme.\nLa présence d'un premier chat vacciné, identifié et stérilisé sera obligatoire pour…",
       "fiche_lue": true,
       "portee": {
-        "id": "portee-3",
-        "taille": 4,
-        "disponibles": 4,
+        "id": "portee-1",
+        "taille": 3,
+        "disponibles": 3,
         "confiance": "forte",
         "indices": [
           "même date de naissance"
@@ -392,7 +237,7 @@
       "sexe": "male",
       "age_categorie": "junior",
       "age_texte": null,
-      "age_mois": 3.7919066168529927,
+      "age_mois": 3.825326604684767,
       "age_source": "naissance",
       "age_conflit": null,
       "date_naissance": "2026-07-01",
@@ -415,9 +260,9 @@
       "description": "Mugler arrive de fourrière animale. Nous ne connaissons donc rien de son passé.\nC’est une adorable minette qui aura besoin d’adoptants doux et patients, prêts à lui laisser le temps de prendre ses marques et d’évoluer à son rythme.\nAdopter un chaton est un engagement pour les quinze prochaines années. Il est important de bien réfléchir avant de se lancer dans cette belle aventure.\nUn chèque de ca…",
       "fiche_lue": true,
       "portee": {
-        "id": "portee-3",
-        "taille": 4,
-        "disponibles": 4,
+        "id": "portee-1",
+        "taille": 3,
+        "disponibles": 3,
         "confiance": "forte",
         "indices": [
           "même date de naissance"
@@ -439,7 +284,7 @@
       "sexe": "male",
       "age_categorie": "junior",
       "age_texte": null,
-      "age_mois": 3.7919066168529927,
+      "age_mois": 3.825326604684767,
       "age_source": "naissance",
       "age_conflit": null,
       "date_naissance": "2026-07-01",
@@ -462,56 +307,9 @@
       "description": "Casteel arrive de fourrière animale. Nous ne connaissons donc rien de son passé.\nC’est un adorable loulou qui aura besoin d’adoptants doux et patients, prêts à lui laisser le temps de prendre ses marques et d’évoluer à son rythme.\nAdopter un chaton est un engagement pour les quinze prochaines années. Il est important de bien réfléchir avant de se lancer dans cette belle aventure.\nUn chèque de cau…",
       "fiche_lue": true,
       "portee": {
-        "id": "portee-3",
-        "taille": 4,
-        "disponibles": 4,
-        "confiance": "forte",
-        "indices": [
-          "même date de naissance"
-        ]
-      },
-      "nouveau": true
-    },
-    {
-      "id": "laspa:254322",
-      "source": "laspa",
-      "source_label": "La SPA",
-      "source_id": "254322",
-      "uid": "animal-leblanc",
-      "nom": "LEBLANC",
-      "url": "https://www.la-spa.fr/animal/leblanc/",
-      "image": "https://www.la-spa.fr/app/app/uploads/animals/254322/leblanc-254322-6adb642c4951b.jpg",
-      "espece": "chat",
-      "race": "Europeen",
-      "sexe": "male",
-      "age_categorie": "junior",
-      "age_texte": null,
-      "age_mois": 3.7919066168529927,
-      "age_source": "naissance",
-      "age_conflit": null,
-      "date_naissance": "2026-07-01",
-      "date_publication": "2026-10-23",
-      "reserve": false,
-      "sos": false,
-      "fad": false,
-      "lieu": {
-        "nom": "La SPA - Refuge de Gennevilliers – Grammont",
-        "slug": "refuge-spa-de-gennevilliers-grammont",
-        "ville": "Gennevilliers",
-        "code_postal": "92230",
-        "departement": "92",
-        "latitude": 48.944706567958,
-        "longitude": 2.3035848619018,
-        "precision": "exacte",
-        "distance_km": 11.004464438564007,
-        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-gennevilliers-grammont/"
-      },
-      "description": "Leblanc a été abandonnée directement au refuge.\nLeblanc est un chaton craintif, qui recherche des adoptants doux et patients qui lui laisseront le temps d'évoluer à son rythme.\nLa présence d'un premier chat, vacciné, identifié et stérilisé sera obligatoire pour son bon développement.\nVenez vite le rencontrer !",
-      "fiche_lue": true,
-      "portee": {
-        "id": "portee-3",
-        "taille": 4,
-        "disponibles": 4,
+        "id": "portee-1",
+        "taille": 3,
+        "disponibles": 3,
         "confiance": "forte",
         "indices": [
           "même date de naissance"
@@ -533,7 +331,7 @@
       "sexe": "male",
       "age_categorie": "junior",
       "age_texte": null,
-      "age_mois": 2.313467191801658,
+      "age_mois": 2.3468871796334323,
       "age_source": "naissance",
       "age_conflit": null,
       "date_naissance": "2026-08-15",
@@ -572,7 +370,7 @@
       "sexe": "femelle",
       "age_categorie": "junior",
       "age_texte": null,
-      "age_mois": 2.6748634957030952,
+      "age_mois": 2.7082834835348697,
       "age_source": "naissance",
       "age_conflit": null,
       "date_naissance": "2026-08-04",
@@ -611,7 +409,7 @@
       "sexe": "male",
       "age_categorie": "junior",
       "age_texte": null,
-      "age_mois": 3.3319476846147995,
+      "age_mois": 3.365367672446574,
       "age_source": "naissance",
       "age_conflit": null,
       "date_naissance": "2026-07-15",
@@ -650,7 +448,7 @@
       "sexe": "male",
       "age_categorie": "junior",
       "age_texte": null,
-      "age_mois": 3.6276355696250664,
+      "age_mois": 3.661055557456841,
       "age_source": "naissance",
       "age_conflit": null,
       "date_naissance": "2026-07-06",
@@ -673,7 +471,7 @@
       "description": "jet est chatons très sociables, il pourra vivre en appartement ou en pavillon.\nActuellement en traitement pour la teigne, il devr+ être isolé le temps du traitement. La teigne est contagieuse humains et autres animaux",
       "fiche_lue": true,
       "portee": {
-        "id": "portee-4",
+        "id": "portee-2",
         "taille": 2,
         "disponibles": 2,
         "confiance": "forte",
@@ -697,7 +495,7 @@
       "sexe": "femelle",
       "age_categorie": "junior",
       "age_texte": null,
-      "age_mois": 3.6276355696250664,
+      "age_mois": 3.661055557456841,
       "age_source": "naissance",
       "age_conflit": null,
       "date_naissance": "2026-07-06",
@@ -720,338 +518,9 @@
       "description": "Panthera est un chaton très sociable, elle pourra vivre en appartement ou en pavillon.\nActuellement en traitement pour la teigne, elle devra être isolé le temps du traitement. La teigne est contagieuse humains et autres animaux",
       "fiche_lue": true,
       "portee": {
-        "id": "portee-4",
+        "id": "portee-2",
         "taille": 2,
         "disponibles": 2,
-        "confiance": "forte",
-        "indices": [
-          "même date de naissance"
-        ]
-      },
-      "nouveau": true
-    },
-    {
-      "id": "laspa:254359",
-      "source": "laspa",
-      "source_label": "La SPA",
-      "source_id": "254359",
-      "uid": "animal-liner-c",
-      "nom": "LINER C",
-      "url": "https://www.la-spa.fr/animal/liner-c/",
-      "image": "https://www.la-spa.fr/app/app/uploads/animals/254359/liner-c-254359-6adb780eba9cc.jpg",
-      "espece": "chat",
-      "race": "Europeen",
-      "sexe": "male",
-      "age_categorie": "junior",
-      "age_texte": null,
-      "age_mois": 2.7077177051486805,
-      "age_source": "naissance",
-      "age_conflit": null,
-      "date_naissance": "2026-08-03",
-      "date_publication": "2026-10-23",
-      "reserve": false,
-      "sos": false,
-      "fad": false,
-      "lieu": {
-        "nom": "La SPA - Refuge de Vaux-Le-Penil",
-        "slug": "refuge-spa-de-vaux-le-penil",
-        "ville": "Vaux-Le-Pénil",
-        "code_postal": "77000",
-        "departement": "77",
-        "latitude": 48.520575,
-        "longitude": 2.718874,
-        "precision": "exacte",
-        "distance_km": 45.142564706391916,
-        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-vaux-le-penil/"
-      },
-      "description": null,
-      "fiche_lue": true,
-      "portee": {
-        "id": "portee-5",
-        "taille": 4,
-        "disponibles": 4,
-        "confiance": "forte",
-        "indices": [
-          "même date de naissance"
-        ]
-      },
-      "nouveau": true
-    },
-    {
-      "id": "laspa:254357",
-      "source": "laspa",
-      "source_label": "La SPA",
-      "source_id": "254357",
-      "uid": "animal-khol-c",
-      "nom": "KHOL C",
-      "url": "https://www.la-spa.fr/animal/khol-c/",
-      "image": "https://www.la-spa.fr/app/app/uploads/animals/254357/khol-c-254357-6adb77a332af3.jpg",
-      "espece": "chat",
-      "race": "Europeen",
-      "sexe": "male",
-      "age_categorie": "junior",
-      "age_texte": null,
-      "age_mois": 2.7077177051486805,
-      "age_source": "naissance",
-      "age_conflit": null,
-      "date_naissance": "2026-08-03",
-      "date_publication": "2026-10-23",
-      "reserve": false,
-      "sos": false,
-      "fad": false,
-      "lieu": {
-        "nom": "La SPA - Refuge de Vaux-Le-Penil",
-        "slug": "refuge-spa-de-vaux-le-penil",
-        "ville": "Vaux-Le-Pénil",
-        "code_postal": "77000",
-        "departement": "77",
-        "latitude": 48.520575,
-        "longitude": 2.718874,
-        "precision": "exacte",
-        "distance_km": 45.142564706391916,
-        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-vaux-le-penil/"
-      },
-      "description": null,
-      "fiche_lue": true,
-      "portee": {
-        "id": "portee-5",
-        "taille": 4,
-        "disponibles": 4,
-        "confiance": "forte",
-        "indices": [
-          "même date de naissance"
-        ]
-      },
-      "nouveau": true
-    },
-    {
-      "id": "laspa:252919",
-      "source": "laspa",
-      "source_label": "La SPA",
-      "source_id": "252919",
-      "uid": "animal-athos-c",
-      "nom": "ATHOS C",
-      "url": "https://www.la-spa.fr/animal/athos-c/",
-      "image": "https://www.la-spa.fr/app/app/uploads/animals/252919/athos-c-252919-6ad6237517926.jpg",
-      "espece": "chat",
-      "race": "Europeen",
-      "sexe": "male",
-      "age_categorie": "junior",
-      "age_texte": null,
-      "age_mois": 2.7077177051486805,
-      "age_source": "naissance",
-      "age_conflit": null,
-      "date_naissance": "2026-08-03",
-      "date_publication": "2026-10-19",
-      "reserve": false,
-      "sos": false,
-      "fad": false,
-      "lieu": {
-        "nom": "La SPA - Refuge de Vaux-Le-Penil",
-        "slug": "refuge-spa-de-vaux-le-penil",
-        "ville": "Vaux-Le-Pénil",
-        "code_postal": "77000",
-        "departement": "77",
-        "latitude": 48.520575,
-        "longitude": 2.718874,
-        "precision": "exacte",
-        "distance_km": 45.142564706391916,
-        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-vaux-le-penil/"
-      },
-      "description": null,
-      "fiche_lue": true,
-      "portee": {
-        "id": "portee-5",
-        "taille": 4,
-        "disponibles": 4,
-        "confiance": "forte",
-        "indices": [
-          "même date de naissance"
-        ]
-      },
-      "nouveau": true
-    },
-    {
-      "id": "laspa:252918",
-      "source": "laspa",
-      "source_label": "La SPA",
-      "source_id": "252918",
-      "uid": "animal-aramis-c",
-      "nom": "ARAMIS C",
-      "url": "https://www.la-spa.fr/animal/aramis-c/",
-      "image": "https://www.la-spa.fr/app/app/uploads/animals/252918/aramis-c-252918-6ad623113b9d8.jpg",
-      "espece": "chat",
-      "race": "Europeen",
-      "sexe": "femelle",
-      "age_categorie": "junior",
-      "age_texte": null,
-      "age_mois": 2.7077177051486805,
-      "age_source": "naissance",
-      "age_conflit": null,
-      "date_naissance": "2026-08-03",
-      "date_publication": "2026-10-19",
-      "reserve": false,
-      "sos": false,
-      "fad": false,
-      "lieu": {
-        "nom": "La SPA - Refuge de Vaux-Le-Penil",
-        "slug": "refuge-spa-de-vaux-le-penil",
-        "ville": "Vaux-Le-Pénil",
-        "code_postal": "77000",
-        "departement": "77",
-        "latitude": 48.520575,
-        "longitude": 2.718874,
-        "precision": "exacte",
-        "distance_km": 45.142564706391916,
-        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-vaux-le-penil/"
-      },
-      "description": null,
-      "fiche_lue": true,
-      "portee": {
-        "id": "portee-5",
-        "taille": 4,
-        "disponibles": 4,
-        "confiance": "forte",
-        "indices": [
-          "même date de naissance"
-        ]
-      },
-      "nouveau": true
-    },
-    {
-      "id": "laspa:254307",
-      "source": "laspa",
-      "source_label": "La SPA",
-      "source_id": "254307",
-      "uid": "animal-cheerios-c",
-      "nom": "CHEERIOS C",
-      "url": "https://www.la-spa.fr/animal/cheerios-c/",
-      "image": "https://www.la-spa.fr/app/app/uploads/animals/254307/cheerios-c-254307-6adb60c2d5af7.jpg",
-      "espece": "chat",
-      "race": "Europeen",
-      "sexe": "male",
-      "age_categorie": "junior",
-      "age_texte": null,
-      "age_mois": 2.970551380713362,
-      "age_source": "naissance",
-      "age_conflit": null,
-      "date_naissance": "2026-07-26",
-      "date_publication": "2026-10-23",
-      "reserve": false,
-      "sos": false,
-      "fad": false,
-      "lieu": {
-        "nom": "La SPA - Refuge de Vaux-Le-Penil",
-        "slug": "refuge-spa-de-vaux-le-penil",
-        "ville": "Vaux-Le-Pénil",
-        "code_postal": "77000",
-        "departement": "77",
-        "latitude": 48.520575,
-        "longitude": 2.718874,
-        "precision": "exacte",
-        "distance_km": 45.142564706391916,
-        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-vaux-le-penil/"
-      },
-      "description": null,
-      "fiche_lue": true,
-      "portee": {
-        "id": "portee-6",
-        "taille": 3,
-        "disponibles": 3,
-        "confiance": "forte",
-        "indices": [
-          "même date de naissance"
-        ]
-      },
-      "nouveau": true
-    },
-    {
-      "id": "laspa:254303",
-      "source": "laspa",
-      "source_label": "La SPA",
-      "source_id": "254303",
-      "uid": "animal-krispies-c",
-      "nom": "KRISPIES C",
-      "url": "https://www.la-spa.fr/animal/krispies-c/",
-      "image": "https://www.la-spa.fr/app/app/uploads/animals/254303/krispies-c-254303-6adb6091de89d.jpg",
-      "espece": "chat",
-      "race": "Europeen",
-      "sexe": "femelle",
-      "age_categorie": "junior",
-      "age_texte": null,
-      "age_mois": 2.970551380713362,
-      "age_source": "naissance",
-      "age_conflit": null,
-      "date_naissance": "2026-07-26",
-      "date_publication": "2026-10-23",
-      "reserve": false,
-      "sos": false,
-      "fad": false,
-      "lieu": {
-        "nom": "La SPA - Refuge de Vaux-Le-Penil",
-        "slug": "refuge-spa-de-vaux-le-penil",
-        "ville": "Vaux-Le-Pénil",
-        "code_postal": "77000",
-        "departement": "77",
-        "latitude": 48.520575,
-        "longitude": 2.718874,
-        "precision": "exacte",
-        "distance_km": 45.142564706391916,
-        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-vaux-le-penil/"
-      },
-      "description": null,
-      "fiche_lue": true,
-      "portee": {
-        "id": "portee-6",
-        "taille": 3,
-        "disponibles": 3,
-        "confiance": "forte",
-        "indices": [
-          "même date de naissance"
-        ]
-      },
-      "nouveau": true
-    },
-    {
-      "id": "laspa:254300",
-      "source": "laspa",
-      "source_label": "La SPA",
-      "source_id": "254300",
-      "uid": "animal-honey-c",
-      "nom": "HONEY C",
-      "url": "https://www.la-spa.fr/animal/honey-c/",
-      "image": "https://www.la-spa.fr/app/app/uploads/animals/254300/honey-c-254300-6adb606b35955.jpg",
-      "espece": "chat",
-      "race": "Europeen",
-      "sexe": "femelle",
-      "age_categorie": "junior",
-      "age_texte": null,
-      "age_mois": 2.970551380713362,
-      "age_source": "naissance",
-      "age_conflit": null,
-      "date_naissance": "2026-07-26",
-      "date_publication": "2026-10-23",
-      "reserve": false,
-      "sos": false,
-      "fad": false,
-      "lieu": {
-        "nom": "La SPA - Refuge de Vaux-Le-Penil",
-        "slug": "refuge-spa-de-vaux-le-penil",
-        "ville": "Vaux-Le-Pénil",
-        "code_postal": "77000",
-        "departement": "77",
-        "latitude": 48.520575,
-        "longitude": 2.718874,
-        "precision": "exacte",
-        "distance_km": 45.142564706391916,
-        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-vaux-le-penil/"
-      },
-      "description": null,
-      "fiche_lue": true,
-      "portee": {
-        "id": "portee-6",
-        "taille": 3,
-        "disponibles": 3,
         "confiance": "forte",
         "indices": [
           "même date de naissance"
@@ -1062,109 +531,6 @@
   ],
   "portees": [
     {
-      "id": "portee-5",
-      "source": "laspa",
-      "source_label": "La SPA",
-      "lieu": {
-        "nom": "La SPA - Refuge de Vaux-Le-Penil",
-        "ville": "Vaux-Le-Pénil",
-        "departement": "77",
-        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-vaux-le-penil/"
-      },
-      "date_naissance": "2026-08-03",
-      "age_mois": 2.7077177051486805,
-      "taille": 4,
-      "annonces": 4,
-      "disponibles": 4,
-      "confiance": "forte",
-      "indices": [
-        "même date de naissance"
-      ],
-      "membres": [
-        "laspa:252918",
-        "laspa:252919",
-        "laspa:254357",
-        "laspa:254359"
-      ],
-      "noms": [
-        "ARAMIS C",
-        "ATHOS C",
-        "KHOL C",
-        "LINER C"
-      ],
-      "sources": [
-        "La SPA"
-      ]
-    },
-    {
-      "id": "portee-3",
-      "source": "laspa",
-      "source_label": "La SPA",
-      "lieu": {
-        "nom": "La SPA - Refuge de Gennevilliers – Grammont",
-        "ville": "Gennevilliers",
-        "departement": "92",
-        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-gennevilliers-grammont/"
-      },
-      "date_naissance": "2026-07-01",
-      "age_mois": 3.7919066168529927,
-      "taille": 4,
-      "annonces": 4,
-      "disponibles": 4,
-      "confiance": "forte",
-      "indices": [
-        "même date de naissance"
-      ],
-      "membres": [
-        "laspa:246296",
-        "laspa:254322",
-        "laspa:254405",
-        "laspa:254497"
-      ],
-      "noms": [
-        "CASTEEL",
-        "LEBLANC",
-        "MUGLER",
-        "SUE"
-      ],
-      "sources": [
-        "La SPA"
-      ]
-    },
-    {
-      "id": "portee-6",
-      "source": "laspa",
-      "source_label": "La SPA",
-      "lieu": {
-        "nom": "La SPA - Refuge de Vaux-Le-Penil",
-        "ville": "Vaux-Le-Pénil",
-        "departement": "77",
-        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-vaux-le-penil/"
-      },
-      "date_naissance": "2026-07-26",
-      "age_mois": 2.970551380713362,
-      "taille": 3,
-      "annonces": 3,
-      "disponibles": 3,
-      "confiance": "forte",
-      "indices": [
-        "même date de naissance"
-      ],
-      "membres": [
-        "laspa:254300",
-        "laspa:254303",
-        "laspa:254307"
-      ],
-      "noms": [
-        "CHEERIOS C",
-        "HONEY C",
-        "KRISPIES C"
-      ],
-      "sources": [
-        "La SPA"
-      ]
-    },
-    {
       "id": "portee-1",
       "source": "laspa",
       "source_label": "La SPA",
@@ -1174,25 +540,24 @@
         "departement": "92",
         "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-gennevilliers-grammont/"
       },
-      "date_naissance": "2026-08-05",
-      "age_mois": 2.64200928625751,
-      "taille": 2,
-      "annonces": 2,
-      "disponibles": 2,
+      "date_naissance": "2026-07-01",
+      "age_mois": 3.825326604684767,
+      "taille": 3,
+      "annonces": 3,
+      "disponibles": 3,
       "confiance": "forte",
       "indices": [
-        "même date de naissance",
-        "« BISCOTTE DU BUISSON » cité·e dans la description",
-        "fratrie mentionnée",
-        "cité·e dans la description de « MIAOUSSINI LE MAGNIFIQUE »"
+        "même date de naissance"
       ],
       "membres": [
-        "laspa:253145",
-        "laspa:253177"
+        "laspa:246296",
+        "laspa:254405",
+        "laspa:254497"
       ],
       "noms": [
-        "BISCOTTE DU BUISSON",
-        "MIAOUSSINI LE MAGNIFIQUE"
+        "CASTEEL",
+        "MUGLER",
+        "SUE"
       ],
       "sources": [
         "La SPA"
@@ -1203,44 +568,13 @@
       "source": "laspa",
       "source_label": "La SPA",
       "lieu": {
-        "nom": "La SPA - Refuge de Gennevilliers – Grammont",
-        "ville": "Gennevilliers",
-        "departement": "92",
-        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-gennevilliers-grammont/"
-      },
-      "date_naissance": "2026-07-14",
-      "age_mois": 3.3319476846147995,
-      "taille": 2,
-      "annonces": 2,
-      "disponibles": 2,
-      "confiance": "forte",
-      "indices": [
-        "même date de naissance"
-      ],
-      "membres": [
-        "laspa:246313",
-        "laspa:254236"
-      ],
-      "noms": [
-        "CLEMENTINE",
-        "GISELE"
-      ],
-      "sources": [
-        "La SPA"
-      ]
-    },
-    {
-      "id": "portee-4",
-      "source": "laspa",
-      "source_label": "La SPA",
-      "lieu": {
         "nom": "La SPA - Refuge de Chamarande",
         "ville": "Chamarande",
         "departement": "91",
         "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-chamarande/"
       },
       "date_naissance": "2026-07-06",
-      "age_mois": 3.6276355696250664,
+      "age_mois": 3.661055557456841,
       "taille": 2,
       "annonces": 2,
       "disponibles": 2,
@@ -1276,7 +610,7 @@
       "sexe": "femelle",
       "age_categorie": "junior",
       "age_texte": null,
-      "age_mois": 2.017779306791391,
+      "age_mois": 2.051199294623165,
       "age_source": "naissance",
       "age_conflit": null,
       "date_naissance": "2026-08-24",
@@ -1315,7 +649,7 @@
       "sexe": "femelle",
       "age_categorie": "junior",
       "age_texte": null,
-      "age_mois": 3.1676766373868737,
+      "age_mois": 3.201096625218648,
       "age_source": "naissance",
       "age_conflit": null,
       "date_naissance": "2026-07-20",
@@ -1354,7 +688,7 @@
       "sexe": "femelle",
       "age_categorie": "junior",
       "age_texte": null,
-      "age_mois": 3.3648018940603848,
+      "age_mois": 3.3982218818921592,
       "age_source": "naissance",
       "age_conflit": null,
       "date_naissance": "2026-07-14",
@@ -1376,15 +710,7 @@
       },
       "description": "Gisèle revient tout juste de famille relais.\nC'est une petite mère adorable, assez peureuse au début, elle aura besoin d'un temps d'adaptation au foyer. Elle est adorable et accordera sa confiance en douceur si on lui offre un environnement calme, nous éviterons la présence de jeunes enfants. Elle est bavarde par moment et jamais contre une petite pâtée !\nGisèle a un souffle cardiaque, tout vous…",
       "fiche_lue": true,
-      "portee": {
-        "id": "portee-2",
-        "taille": 2,
-        "disponibles": 2,
-        "confiance": "forte",
-        "indices": [
-          "même date de naissance"
-        ]
-      },
+      "portee": null,
       "nouveau": true
     },
     {
@@ -1401,7 +727,7 @@
       "sexe": "male",
       "age_categorie": "junior",
       "age_texte": null,
-      "age_mois": 3.7919066168529927,
+      "age_mois": 3.825326604684767,
       "age_source": "naissance",
       "age_conflit": null,
       "date_naissance": "2026-07-01",
@@ -1424,9 +750,9 @@
       "description": "Mugler arrive de fourrière animale. Nous ne connaissons donc rien de son passé.\nC’est une adorable minette qui aura besoin d’adoptants doux et patients, prêts à lui laisser le temps de prendre ses marques et d’évoluer à son rythme.\nAdopter un chaton est un engagement pour les quinze prochaines années. Il est important de bien réfléchir avant de se lancer dans cette belle aventure.\nUn chèque de ca…",
       "fiche_lue": true,
       "portee": {
-        "id": "portee-3",
-        "taille": 4,
-        "disponibles": 4,
+        "id": "portee-1",
+        "taille": 3,
+        "disponibles": 3,
         "confiance": "forte",
         "indices": [
           "même date de naissance"
@@ -1448,7 +774,7 @@
       "sexe": "male",
       "age_categorie": "junior",
       "age_texte": null,
-      "age_mois": 3.7919066168529927,
+      "age_mois": 3.825326604684767,
       "age_source": "naissance",
       "age_conflit": null,
       "date_naissance": "2026-07-01",
@@ -1471,56 +797,9 @@
       "description": "Casteel arrive de fourrière animale. Nous ne connaissons donc rien de son passé.\nC’est un adorable loulou qui aura besoin d’adoptants doux et patients, prêts à lui laisser le temps de prendre ses marques et d’évoluer à son rythme.\nAdopter un chaton est un engagement pour les quinze prochaines années. Il est important de bien réfléchir avant de se lancer dans cette belle aventure.\nUn chèque de cau…",
       "fiche_lue": true,
       "portee": {
-        "id": "portee-3",
-        "taille": 4,
-        "disponibles": 4,
-        "confiance": "forte",
-        "indices": [
-          "même date de naissance"
-        ]
-      },
-      "nouveau": true
-    },
-    {
-      "id": "laspa:254322",
-      "source": "laspa",
-      "source_label": "La SPA",
-      "source_id": "254322",
-      "uid": "animal-leblanc",
-      "nom": "LEBLANC",
-      "url": "https://www.la-spa.fr/animal/leblanc/",
-      "image": "https://www.la-spa.fr/app/app/uploads/animals/254322/leblanc-254322-6adb642c4951b.jpg",
-      "espece": "chat",
-      "race": "Europeen",
-      "sexe": "male",
-      "age_categorie": "junior",
-      "age_texte": null,
-      "age_mois": 3.7919066168529927,
-      "age_source": "naissance",
-      "age_conflit": null,
-      "date_naissance": "2026-07-01",
-      "date_publication": "2026-10-23",
-      "reserve": false,
-      "sos": false,
-      "fad": false,
-      "lieu": {
-        "nom": "La SPA - Refuge de Gennevilliers – Grammont",
-        "slug": "refuge-spa-de-gennevilliers-grammont",
-        "ville": "Gennevilliers",
-        "code_postal": "92230",
-        "departement": "92",
-        "latitude": 48.944706567958,
-        "longitude": 2.3035848619018,
-        "precision": "exacte",
-        "distance_km": 11.004464438564007,
-        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-gennevilliers-grammont/"
-      },
-      "description": "Leblanc a été abandonnée directement au refuge.\nLeblanc est un chaton craintif, qui recherche des adoptants doux et patients qui lui laisseront le temps d'évoluer à son rythme.\nLa présence d'un premier chat, vacciné, identifié et stérilisé sera obligatoire pour son bon développement.\nVenez vite le rencontrer !",
-      "fiche_lue": true,
-      "portee": {
-        "id": "portee-3",
-        "taille": 4,
-        "disponibles": 4,
+        "id": "portee-1",
+        "taille": 3,
+        "disponibles": 3,
         "confiance": "forte",
         "indices": [
           "même date de naissance"
@@ -1542,7 +821,7 @@
       "sexe": "femelle",
       "age_categorie": "junior",
       "age_texte": null,
-      "age_mois": 2.6748634957030952,
+      "age_mois": 2.7082834835348697,
       "age_source": "naissance",
       "age_conflit": null,
       "date_naissance": "2026-08-04",
@@ -1581,7 +860,7 @@
       "sexe": "male",
       "age_categorie": "junior",
       "age_texte": null,
-      "age_mois": 3.6276355696250664,
+      "age_mois": 3.661055557456841,
       "age_source": "naissance",
       "age_conflit": null,
       "date_naissance": "2026-07-06",
@@ -1604,7 +883,7 @@
       "description": "jet est chatons très sociables, il pourra vivre en appartement ou en pavillon.\nActuellement en traitement pour la teigne, il devr+ être isolé le temps du traitement. La teigne est contagieuse humains et autres animaux",
       "fiche_lue": true,
       "portee": {
-        "id": "portee-4",
+        "id": "portee-2",
         "taille": 2,
         "disponibles": 2,
         "confiance": "forte",
@@ -1628,7 +907,7 @@
       "sexe": "femelle",
       "age_categorie": "junior",
       "age_texte": null,
-      "age_mois": 3.6276355696250664,
+      "age_mois": 3.661055557456841,
       "age_source": "naissance",
       "age_conflit": null,
       "date_naissance": "2026-07-06",
@@ -1651,244 +930,9 @@
       "description": "Panthera est un chaton très sociable, elle pourra vivre en appartement ou en pavillon.\nActuellement en traitement pour la teigne, elle devra être isolé le temps du traitement. La teigne est contagieuse humains et autres animaux",
       "fiche_lue": true,
       "portee": {
-        "id": "portee-4",
+        "id": "portee-2",
         "taille": 2,
         "disponibles": 2,
-        "confiance": "forte",
-        "indices": [
-          "même date de naissance"
-        ]
-      },
-      "nouveau": true
-    },
-    {
-      "id": "laspa:254359",
-      "source": "laspa",
-      "source_label": "La SPA",
-      "source_id": "254359",
-      "uid": "animal-liner-c",
-      "nom": "LINER C",
-      "url": "https://www.la-spa.fr/animal/liner-c/",
-      "image": "https://www.la-spa.fr/app/app/uploads/animals/254359/liner-c-254359-6adb780eba9cc.jpg",
-      "espece": "chat",
-      "race": "Europeen",
-      "sexe": "male",
-      "age_categorie": "junior",
-      "age_texte": null,
-      "age_mois": 2.7077177051486805,
-      "age_source": "naissance",
-      "age_conflit": null,
-      "date_naissance": "2026-08-03",
-      "date_publication": "2026-10-23",
-      "reserve": false,
-      "sos": false,
-      "fad": false,
-      "lieu": {
-        "nom": "La SPA - Refuge de Vaux-Le-Penil",
-        "slug": "refuge-spa-de-vaux-le-penil",
-        "ville": "Vaux-Le-Pénil",
-        "code_postal": "77000",
-        "departement": "77",
-        "latitude": 48.520575,
-        "longitude": 2.718874,
-        "precision": "exacte",
-        "distance_km": 45.142564706391916,
-        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-vaux-le-penil/"
-      },
-      "description": null,
-      "fiche_lue": true,
-      "portee": {
-        "id": "portee-5",
-        "taille": 4,
-        "disponibles": 4,
-        "confiance": "forte",
-        "indices": [
-          "même date de naissance"
-        ]
-      },
-      "nouveau": true
-    },
-    {
-      "id": "laspa:254357",
-      "source": "laspa",
-      "source_label": "La SPA",
-      "source_id": "254357",
-      "uid": "animal-khol-c",
-      "nom": "KHOL C",
-      "url": "https://www.la-spa.fr/animal/khol-c/",
-      "image": "https://www.la-spa.fr/app/app/uploads/animals/254357/khol-c-254357-6adb77a332af3.jpg",
-      "espece": "chat",
-      "race": "Europeen",
-      "sexe": "male",
-      "age_categorie": "junior",
-      "age_texte": null,
-      "age_mois": 2.7077177051486805,
-      "age_source": "naissance",
-      "age_conflit": null,
-      "date_naissance": "2026-08-03",
-      "date_publication": "2026-10-23",
-      "reserve": false,
-      "sos": false,
-      "fad": false,
-      "lieu": {
-        "nom": "La SPA - Refuge de Vaux-Le-Penil",
-        "slug": "refuge-spa-de-vaux-le-penil",
-        "ville": "Vaux-Le-Pénil",
-        "code_postal": "77000",
-        "departement": "77",
-        "latitude": 48.520575,
-        "longitude": 2.718874,
-        "precision": "exacte",
-        "distance_km": 45.142564706391916,
-        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-vaux-le-penil/"
-      },
-      "description": null,
-      "fiche_lue": true,
-      "portee": {
-        "id": "portee-5",
-        "taille": 4,
-        "disponibles": 4,
-        "confiance": "forte",
-        "indices": [
-          "même date de naissance"
-        ]
-      },
-      "nouveau": true
-    },
-    {
-      "id": "laspa:254307",
-      "source": "laspa",
-      "source_label": "La SPA",
-      "source_id": "254307",
-      "uid": "animal-cheerios-c",
-      "nom": "CHEERIOS C",
-      "url": "https://www.la-spa.fr/animal/cheerios-c/",
-      "image": "https://www.la-spa.fr/app/app/uploads/animals/254307/cheerios-c-254307-6adb60c2d5af7.jpg",
-      "espece": "chat",
-      "race": "Europeen",
-      "sexe": "male",
-      "age_categorie": "junior",
-      "age_texte": null,
-      "age_mois": 2.970551380713362,
-      "age_source": "naissance",
-      "age_conflit": null,
-      "date_naissance": "2026-07-26",
-      "date_publication": "2026-10-23",
-      "reserve": false,
-      "sos": false,
-      "fad": false,
-      "lieu": {
-        "nom": "La SPA - Refuge de Vaux-Le-Penil",
-        "slug": "refuge-spa-de-vaux-le-penil",
-        "ville": "Vaux-Le-Pénil",
-        "code_postal": "77000",
-        "departement": "77",
-        "latitude": 48.520575,
-        "longitude": 2.718874,
-        "precision": "exacte",
-        "distance_km": 45.142564706391916,
-        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-vaux-le-penil/"
-      },
-      "description": null,
-      "fiche_lue": true,
-      "portee": {
-        "id": "portee-6",
-        "taille": 3,
-        "disponibles": 3,
-        "confiance": "forte",
-        "indices": [
-          "même date de naissance"
-        ]
-      },
-      "nouveau": true
-    },
-    {
-      "id": "laspa:254303",
-      "source": "laspa",
-      "source_label": "La SPA",
-      "source_id": "254303",
-      "uid": "animal-krispies-c",
-      "nom": "KRISPIES C",
-      "url": "https://www.la-spa.fr/animal/krispies-c/",
-      "image": "https://www.la-spa.fr/app/app/uploads/animals/254303/krispies-c-254303-6adb6091de89d.jpg",
-      "espece": "chat",
-      "race": "Europeen",
-      "sexe": "femelle",
-      "age_categorie": "junior",
-      "age_texte": null,
-      "age_mois": 2.970551380713362,
-      "age_source": "naissance",
-      "age_conflit": null,
-      "date_naissance": "2026-07-26",
-      "date_publication": "2026-10-23",
-      "reserve": false,
-      "sos": false,
-      "fad": false,
-      "lieu": {
-        "nom": "La SPA - Refuge de Vaux-Le-Penil",
-        "slug": "refuge-spa-de-vaux-le-penil",
-        "ville": "Vaux-Le-Pénil",
-        "code_postal": "77000",
-        "departement": "77",
-        "latitude": 48.520575,
-        "longitude": 2.718874,
-        "precision": "exacte",
-        "distance_km": 45.142564706391916,
-        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-vaux-le-penil/"
-      },
-      "description": null,
-      "fiche_lue": true,
-      "portee": {
-        "id": "portee-6",
-        "taille": 3,
-        "disponibles": 3,
-        "confiance": "forte",
-        "indices": [
-          "même date de naissance"
-        ]
-      },
-      "nouveau": true
-    },
-    {
-      "id": "laspa:254300",
-      "source": "laspa",
-      "source_label": "La SPA",
-      "source_id": "254300",
-      "uid": "animal-honey-c",
-      "nom": "HONEY C",
-      "url": "https://www.la-spa.fr/animal/honey-c/",
-      "image": "https://www.la-spa.fr/app/app/uploads/animals/254300/honey-c-254300-6adb606b35955.jpg",
-      "espece": "chat",
-      "race": "Europeen",
-      "sexe": "femelle",
-      "age_categorie": "junior",
-      "age_texte": null,
-      "age_mois": 2.970551380713362,
-      "age_source": "naissance",
-      "age_conflit": null,
-      "date_naissance": "2026-07-26",
-      "date_publication": "2026-10-23",
-      "reserve": false,
-      "sos": false,
-      "fad": false,
-      "lieu": {
-        "nom": "La SPA - Refuge de Vaux-Le-Penil",
-        "slug": "refuge-spa-de-vaux-le-penil",
-        "ville": "Vaux-Le-Pénil",
-        "code_postal": "77000",
-        "departement": "77",
-        "latitude": 48.520575,
-        "longitude": 2.718874,
-        "precision": "exacte",
-        "distance_km": 45.142564706391916,
-        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-vaux-le-penil/"
-      },
-      "description": null,
-      "fiche_lue": true,
-      "portee": {
-        "id": "portee-6",
-        "taille": 3,
-        "disponibles": 3,
         "confiance": "forte",
         "indices": [
           "même date de naissance"
@@ -1910,7 +954,7 @@
       "sexe": "femelle",
       "age_categorie": "junior",
       "age_texte": null,
-      "age_mois": 3.6604897790706517,
+      "age_mois": 3.693909766902426,
       "age_source": "naissance",
       "age_conflit": null,
       "date_naissance": "2026-07-05",
@@ -1934,210 +978,16 @@
       "fiche_lue": true,
       "portee": null,
       "nouveau": true
-    },
-    {
-      "id": "laspa:253145",
-      "source": "laspa",
-      "source_label": "La SPA",
-      "source_id": "253145",
-      "uid": "animal-miaoussini-le-magnifique",
-      "nom": "MIAOUSSINI LE MAGNIFIQUE",
-      "url": "https://www.la-spa.fr/animal/miaoussini-le-magnifique/",
-      "image": "https://www.la-spa.fr/app/app/uploads/animals/253145/miaoussini-le-magnifique-253145-6adb8c7b69f8e.jpg",
-      "espece": "chat",
-      "race": "Europeen",
-      "sexe": "male",
-      "age_categorie": "junior",
-      "age_texte": null,
-      "age_mois": 2.64200928625751,
-      "age_source": "naissance",
-      "age_conflit": null,
-      "date_naissance": "2026-08-05",
-      "date_publication": "2026-10-20",
-      "reserve": false,
-      "sos": false,
-      "fad": false,
-      "lieu": {
-        "nom": "La SPA - Refuge de Gennevilliers – Grammont",
-        "slug": "refuge-spa-de-gennevilliers-grammont",
-        "ville": "Gennevilliers",
-        "code_postal": "92230",
-        "departement": "92",
-        "latitude": 48.944706567958,
-        "longitude": 2.3035848619018,
-        "precision": "exacte",
-        "distance_km": 11.004464438564007,
-        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-gennevilliers-grammont/"
-      },
-      "description": "Biscotte du Buisson a été abandonné directement au refuge avec Miaoussini.\nBiscotte du Buisson est un chaton timide qui recherche des adoptants doux et patients qui lui laisseront le temps d'évoluer à leur rythme.\nIls devront être adopté ensemble. En appartement, sans sortie extérieure et sans jeunes enfants.\nVenez vite les rencontrer !",
-      "fiche_lue": true,
-      "portee": {
-        "id": "portee-1",
-        "taille": 2,
-        "disponibles": 2,
-        "confiance": "forte",
-        "indices": [
-          "même date de naissance",
-          "« BISCOTTE DU BUISSON » cité·e dans la description",
-          "fratrie mentionnée",
-          "cité·e dans la description de « MIAOUSSINI LE MAGNIFIQUE »"
-        ]
-      },
-      "nouveau": true
-    },
-    {
-      "id": "laspa:253177",
-      "source": "laspa",
-      "source_label": "La SPA",
-      "source_id": "253177",
-      "uid": "animal-biscotte-du-buisson",
-      "nom": "BISCOTTE DU BUISSON",
-      "url": "https://www.la-spa.fr/animal/biscotte-du-buisson/",
-      "image": "https://www.la-spa.fr/app/app/uploads/animals/253177/biscotte-du-buisson-253177-6adb8c613e8bb.jpg",
-      "espece": "chat",
-      "race": "Europeen",
-      "sexe": "femelle",
-      "age_categorie": "junior",
-      "age_texte": null,
-      "age_mois": 2.64200928625751,
-      "age_source": "naissance",
-      "age_conflit": null,
-      "date_naissance": "2026-08-05",
-      "date_publication": "2026-10-20",
-      "reserve": false,
-      "sos": false,
-      "fad": false,
-      "lieu": {
-        "nom": "La SPA - Refuge de Gennevilliers – Grammont",
-        "slug": "refuge-spa-de-gennevilliers-grammont",
-        "ville": "Gennevilliers",
-        "code_postal": "92230",
-        "departement": "92",
-        "latitude": 48.944706567958,
-        "longitude": 2.3035848619018,
-        "precision": "exacte",
-        "distance_km": 11.004464438564007,
-        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-gennevilliers-grammont/"
-      },
-      "description": "Biscotte du Buisson a été abandonné directement au refuge avec Miaoussini.\nBiscotte du Buisson est un chaton timide qui recherche des adoptants doux et patients qui lui laisseront le temps d'évoluer à leur rythme.\nIls devront être adopté ensemble. En appartement, sans sortie extérieure et sans jeunes enfants.\nVenez vite les rencontrer !",
-      "fiche_lue": true,
-      "portee": {
-        "id": "portee-1",
-        "taille": 2,
-        "disponibles": 2,
-        "confiance": "forte",
-        "indices": [
-          "même date de naissance",
-          "« BISCOTTE DU BUISSON » cité·e dans la description",
-          "fratrie mentionnée",
-          "cité·e dans la description de « MIAOUSSINI LE MAGNIFIQUE »"
-        ]
-      },
-      "nouveau": true
-    },
-    {
-      "id": "laspa:252919",
-      "source": "laspa",
-      "source_label": "La SPA",
-      "source_id": "252919",
-      "uid": "animal-athos-c",
-      "nom": "ATHOS C",
-      "url": "https://www.la-spa.fr/animal/athos-c/",
-      "image": "https://www.la-spa.fr/app/app/uploads/animals/252919/athos-c-252919-6ad6237517926.jpg",
-      "espece": "chat",
-      "race": "Europeen",
-      "sexe": "male",
-      "age_categorie": "junior",
-      "age_texte": null,
-      "age_mois": 2.7077177051486805,
-      "age_source": "naissance",
-      "age_conflit": null,
-      "date_naissance": "2026-08-03",
-      "date_publication": "2026-10-19",
-      "reserve": false,
-      "sos": false,
-      "fad": false,
-      "lieu": {
-        "nom": "La SPA - Refuge de Vaux-Le-Penil",
-        "slug": "refuge-spa-de-vaux-le-penil",
-        "ville": "Vaux-Le-Pénil",
-        "code_postal": "77000",
-        "departement": "77",
-        "latitude": 48.520575,
-        "longitude": 2.718874,
-        "precision": "exacte",
-        "distance_km": 45.142564706391916,
-        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-vaux-le-penil/"
-      },
-      "description": null,
-      "fiche_lue": true,
-      "portee": {
-        "id": "portee-5",
-        "taille": 4,
-        "disponibles": 4,
-        "confiance": "forte",
-        "indices": [
-          "même date de naissance"
-        ]
-      },
-      "nouveau": true
-    },
-    {
-      "id": "laspa:252918",
-      "source": "laspa",
-      "source_label": "La SPA",
-      "source_id": "252918",
-      "uid": "animal-aramis-c",
-      "nom": "ARAMIS C",
-      "url": "https://www.la-spa.fr/animal/aramis-c/",
-      "image": "https://www.la-spa.fr/app/app/uploads/animals/252918/aramis-c-252918-6ad623113b9d8.jpg",
-      "espece": "chat",
-      "race": "Europeen",
-      "sexe": "femelle",
-      "age_categorie": "junior",
-      "age_texte": null,
-      "age_mois": 2.7077177051486805,
-      "age_source": "naissance",
-      "age_conflit": null,
-      "date_naissance": "2026-08-03",
-      "date_publication": "2026-10-19",
-      "reserve": false,
-      "sos": false,
-      "fad": false,
-      "lieu": {
-        "nom": "La SPA - Refuge de Vaux-Le-Penil",
-        "slug": "refuge-spa-de-vaux-le-penil",
-        "ville": "Vaux-Le-Pénil",
-        "code_postal": "77000",
-        "departement": "77",
-        "latitude": 48.520575,
-        "longitude": 2.718874,
-        "precision": "exacte",
-        "distance_km": 45.142564706391916,
-        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-vaux-le-penil/"
-      },
-      "description": null,
-      "fiche_lue": true,
-      "portee": {
-        "id": "portee-5",
-        "taille": 4,
-        "disponibles": 4,
-        "confiance": "forte",
-        "indices": [
-          "même date de naissance"
-        ]
-      },
-      "nouveau": true
     }
   ],
   "stats": {
     "sources": {
       "laspa": {
         "pages": 1,
-        "total_site": 187,
-        "dans_zone": 144,
-        "fiches": 19,
-        "fiches_cache": 52,
+        "total_site": 158,
+        "dans_zone": 125,
+        "fiches": 1,
+        "fiches_cache": 54,
         "erreurs": 0
       },
       "secondechance": {
@@ -2151,10 +1001,10 @@
         "pages_tronquees": 0
       }
     },
-    "requests": 31,
+    "requests": 13,
     "retries": 0,
-    "duree_s": 11.6,
-    "annonces_zone": 144
+    "duree_s": 7.8,
+    "annonces_zone": 125
   },
   "erreurs": []
 }
