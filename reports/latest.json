@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-27T11:16:37.693Z",
+  "date": "2026-10-28T11:50:38.604Z",
   "zone": {
     "mode": "rayon",
     "label": "50 km autour de Paris 11e Arrondissement",
@@ -496,6 +496,100 @@
       "fiche_lue": false,
       "portee": null,
       "nouveau": false
+    },
+    {
+      "id": "laspa:255751",
+      "source": "laspa",
+      "source_label": "La SPA",
+      "source_id": "255751",
+      "uid": "adopter-trouver-mon-animal-ardwin-c",
+      "nom": "ARDWIN C",
+      "url": "https://www.la-spa.fr/adopter/trouver-mon-animal/ardwin-c/",
+      "image": "https://www.la-spa.fr/app/app/uploads/animals/255751/ardwin-c-255751-6ae0b6f1d7d61.jpg",
+      "espece": "chat",
+      "race": "Europeen",
+      "sexe": "male",
+      "age_categorie": "junior",
+      "age_texte": "2 mois",
+      "age_mois": 2,
+      "age_source": "fiche",
+      "age_conflit": null,
+      "date_naissance": null,
+      "date_publication": "2026-10-27",
+      "reserve": false,
+      "sos": false,
+      "fad": false,
+      "lieu": {
+        "nom": "La SPA - Refuge de Vaux-Le-Penil",
+        "slug": "refuge-spa-de-vaux-le-penil",
+        "ville": "Vaux-Le-Pénil",
+        "code_postal": "77000",
+        "departement": "77",
+        "latitude": 48.520575,
+        "longitude": 2.718874,
+        "precision": "exacte",
+        "distance_km": 45.142564706391916,
+        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-vaux-le-penil/"
+      },
+      "description": null,
+      "fiche_lue": false,
+      "portee": {
+        "id": "portee-3",
+        "taille": 2,
+        "disponibles": 2,
+        "confiance": "probable",
+        "indices": [
+          "même âge et même date de mise en ligne"
+        ]
+      },
+      "nouveau": true
+    },
+    {
+      "id": "laspa:255763",
+      "source": "laspa",
+      "source_label": "La SPA",
+      "source_id": "255763",
+      "uid": "adopter-trouver-mon-animal-rio-c",
+      "nom": "RIO C",
+      "url": "https://www.la-spa.fr/adopter/trouver-mon-animal/rio-c/",
+      "image": "https://www.la-spa.fr/app/app/uploads/animals/255763/rio-c-255763-6ae0ba7c999c5.jpg",
+      "espece": "chat",
+      "race": "Europeen",
+      "sexe": "male",
+      "age_categorie": "junior",
+      "age_texte": "2 mois",
+      "age_mois": 2,
+      "age_source": "fiche",
+      "age_conflit": null,
+      "date_naissance": null,
+      "date_publication": "2026-10-27",
+      "reserve": false,
+      "sos": false,
+      "fad": false,
+      "lieu": {
+        "nom": "La SPA - Refuge de Vaux-Le-Penil",
+        "slug": "refuge-spa-de-vaux-le-penil",
+        "ville": "Vaux-Le-Pénil",
+        "code_postal": "77000",
+        "departement": "77",
+        "latitude": 48.520575,
+        "longitude": 2.718874,
+        "precision": "exacte",
+        "distance_km": 45.142564706391916,
+        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-vaux-le-penil/"
+      },
+      "description": null,
+      "fiche_lue": false,
+      "portee": {
+        "id": "portee-3",
+        "taille": 2,
+        "disponibles": 2,
+        "confiance": "probable",
+        "indices": [
+          "même âge et même date de mise en ligne"
+        ]
+      },
+      "nouveau": true
     }
   ],
   "portees": [
@@ -535,6 +629,37 @@
       ]
     },
     {
+      "id": "portee-3",
+      "source": "laspa",
+      "source_label": "La SPA",
+      "lieu": {
+        "nom": "La SPA - Refuge de Vaux-Le-Penil",
+        "ville": "Vaux-Le-Pénil",
+        "departement": "77",
+        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-vaux-le-penil/"
+      },
+      "date_naissance": null,
+      "age_mois": 2,
+      "taille": 2,
+      "annonces": 2,
+      "disponibles": 2,
+      "confiance": "probable",
+      "indices": [
+        "même âge et même date de mise en ligne"
+      ],
+      "membres": [
+        "laspa:255751",
+        "laspa:255763"
+      ],
+      "noms": [
+        "ARDWIN C",
+        "RIO C"
+      ],
+      "sources": [
+        "La SPA"
+      ]
+    },
+    {
       "id": "portee-2",
       "source": "laspa",
       "source_label": "La SPA",
@@ -567,6 +692,100 @@
     }
   ],
   "nouveaux_arrivants": [
+    {
+      "id": "laspa:255751",
+      "source": "laspa",
+      "source_label": "La SPA",
+      "source_id": "255751",
+      "uid": "adopter-trouver-mon-animal-ardwin-c",
+      "nom": "ARDWIN C",
+      "url": "https://www.la-spa.fr/adopter/trouver-mon-animal/ardwin-c/",
+      "image": "https://www.la-spa.fr/app/app/uploads/animals/255751/ardwin-c-255751-6ae0b6f1d7d61.jpg",
+      "espece": "chat",
+      "race": "Europeen",
+      "sexe": "male",
+      "age_categorie": "junior",
+      "age_texte": "2 mois",
+      "age_mois": 2,
+      "age_source": "fiche",
+      "age_conflit": null,
+      "date_naissance": null,
+      "date_publication": "2026-10-27",
+      "reserve": false,
+      "sos": false,
+      "fad": false,
+      "lieu": {
+        "nom": "La SPA - Refuge de Vaux-Le-Penil",
+        "slug": "refuge-spa-de-vaux-le-penil",
+        "ville": "Vaux-Le-Pénil",
+        "code_postal": "77000",
+        "departement": "77",
+        "latitude": 48.520575,
+        "longitude": 2.718874,
+        "precision": "exacte",
+        "distance_km": 45.142564706391916,
+        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-vaux-le-penil/"
+      },
+      "description": null,
+      "fiche_lue": false,
+      "portee": {
+        "id": "portee-3",
+        "taille": 2,
+        "disponibles": 2,
+        "confiance": "probable",
+        "indices": [
+          "même âge et même date de mise en ligne"
+        ]
+      },
+      "nouveau": true
+    },
+    {
+      "id": "laspa:255763",
+      "source": "laspa",
+      "source_label": "La SPA",
+      "source_id": "255763",
+      "uid": "adopter-trouver-mon-animal-rio-c",
+      "nom": "RIO C",
+      "url": "https://www.la-spa.fr/adopter/trouver-mon-animal/rio-c/",
+      "image": "https://www.la-spa.fr/app/app/uploads/animals/255763/rio-c-255763-6ae0ba7c999c5.jpg",
+      "espece": "chat",
+      "race": "Europeen",
+      "sexe": "male",
+      "age_categorie": "junior",
+      "age_texte": "2 mois",
+      "age_mois": 2,
+      "age_source": "fiche",
+      "age_conflit": null,
+      "date_naissance": null,
+      "date_publication": "2026-10-27",
+      "reserve": false,
+      "sos": false,
+      "fad": false,
+      "lieu": {
+        "nom": "La SPA - Refuge de Vaux-Le-Penil",
+        "slug": "refuge-spa-de-vaux-le-penil",
+        "ville": "Vaux-Le-Pénil",
+        "code_postal": "77000",
+        "departement": "77",
+        "latitude": 48.520575,
+        "longitude": 2.718874,
+        "precision": "exacte",
+        "distance_km": 45.142564706391916,
+        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-vaux-le-penil/"
+      },
+      "description": null,
+      "fiche_lue": false,
+      "portee": {
+        "id": "portee-3",
+        "taille": 2,
+        "disponibles": 2,
+        "confiance": "probable",
+        "indices": [
+          "même âge et même date de mise en ligne"
+        ]
+      },
+      "nouveau": true
+    },
     {
       "id": "laspa:254415",
       "source": "laspa",
@@ -932,8 +1151,8 @@
     "sources": {
       "laspa": {
         "pages": 1,
-        "total_site": 145,
-        "dans_zone": 118,
+        "total_site": 155,
+        "dans_zone": 127,
         "fiches": 0,
         "fiches_cache": 0,
         "erreurs": 0
@@ -951,8 +1170,8 @@
     },
     "requests": 12,
     "retries": 0,
-    "duree_s": 7.2,
-    "annonces_zone": 118
+    "duree_s": 11,
+    "annonces_zone": 127
   },
   "erreurs": []
 }
