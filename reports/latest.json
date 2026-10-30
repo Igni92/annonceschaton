@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-29T11:58:10.387Z",
+  "date": "2026-10-30T11:52:33.453Z",
   "zone": {
     "mode": "rayon",
     "label": "50 km autour de Paris 11e Arrondissement",
@@ -96,7 +96,7 @@
       "description": "Bridgerton est une adorable chatonne qui recherche une famille douce et attentionnée pour la vie. Bridgerton est atteinte d’ataxie, un trouble qui affecte sa coordination et son équilibre. Son état nécessite une surveillance attentive afin de suivre l’évolution de ses symptômes, car sa maladie pourrait être dégénérative. Pour son bien-être, Bridgerton devra vivre exclusivement en appartement, san…",
       "fiche_lue": false,
       "portee": null,
-      "nouveau": true
+      "nouveau": false
     },
     {
       "id": "laspa:254245",
@@ -106,7 +106,7 @@
       "uid": "adopter-trouver-mon-animal-boskinette",
       "nom": "BOSKINETTE",
       "url": "https://www.la-spa.fr/adopter/trouver-mon-animal/boskinette/",
-      "image": "https://www.la-spa.fr/app/app/uploads/animals/254245/boskinette-254245-6adf487463d7e.jpg",
+      "image": "https://www.la-spa.fr/app/app/uploads/animals/254245/boskinette-254245-6ae34a8c08d2e.jpg",
       "espece": "chat",
       "race": "Europeen",
       "sexe": "femelle",
@@ -132,7 +132,7 @@
         "distance_km": 11.004464438564007,
         "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-gennevilliers-grammont/"
       },
-      "description": "EN COURS DE TRAITEMENT CONTRE LA TEIGNE\nBoskinette revient de famille relais. C'est une minette très mignonne qui recherche une famille sérieuse prête à l'accueillir pour les 15 prochaines années.\nUn chèque de caution sera demandé.\nVenez vite la rencontrer!",
+      "description": "[EN FAMILLE RELAIS]\nBoskinette est une minette très mignonne qui recherche une famille sérieuse prête à l'accueillir pour les 15 prochaines années.\nBoskinette a actuellement la teigne et est sous traitement, ce dernier sera à poursuivre par les adoptants.\nElle ne pourra pas être placée avec un autre chat ou avec de jeunes enfants afin de limiter les risques de contamination.\nUn chèque de caution…",
       "fiche_lue": false,
       "portee": {
         "id": "portee-1",
@@ -471,8 +471,8 @@
       "race": "Europeen",
       "sexe": "male",
       "age_categorie": "junior",
-      "age_texte": "2 mois",
-      "age_mois": 2,
+      "age_texte": "3 mois",
+      "age_mois": 3,
       "age_source": "fiche",
       "age_conflit": null,
       "date_naissance": null,
@@ -580,8 +580,8 @@
       "race": "Europeen",
       "sexe": "male",
       "age_categorie": "junior",
-      "age_texte": "2 mois",
-      "age_mois": 2,
+      "age_texte": "3 mois",
+      "age_mois": 3,
       "age_source": "fiche",
       "age_conflit": null,
       "date_naissance": null,
@@ -653,7 +653,7 @@
       "uid": "adopter-trouver-mon-animal-boskinette",
       "nom": "BOSKINETTE",
       "url": "https://www.la-spa.fr/adopter/trouver-mon-animal/boskinette/",
-      "image": "https://www.la-spa.fr/app/app/uploads/animals/254245/boskinette-254245-6adf487463d7e.jpg",
+      "image": "https://www.la-spa.fr/app/app/uploads/animals/254245/boskinette-254245-6ae34a8c08d2e.jpg",
       "espece": "chat",
       "race": "Europeen",
       "sexe": "femelle",
@@ -679,7 +679,7 @@
         "distance_km": 11.004464438564007,
         "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-gennevilliers-grammont/"
       },
-      "description": "EN COURS DE TRAITEMENT CONTRE LA TEIGNE\nBoskinette revient de famille relais. C'est une minette très mignonne qui recherche une famille sérieuse prête à l'accueillir pour les 15 prochaines années.\nUn chèque de caution sera demandé.\nVenez vite la rencontrer!",
+      "description": "[EN FAMILLE RELAIS]\nBoskinette est une minette très mignonne qui recherche une famille sérieuse prête à l'accueillir pour les 15 prochaines années.\nBoskinette a actuellement la teigne et est sous traitement, ce dernier sera à poursuivre par les adoptants.\nElle ne pourra pas être placée avec un autre chat ou avec de jeunes enfants afin de limiter les risques de contamination.\nUn chèque de caution…",
       "fiche_lue": false,
       "portee": {
         "id": "portee-1",
@@ -926,53 +926,14 @@
         ]
       },
       "nouveau": true
-    },
-    {
-      "id": "laspa:253950",
-      "source": "laspa",
-      "source_label": "La SPA",
-      "source_id": "253950",
-      "uid": "adopter-trouver-mon-animal-bridgerton",
-      "nom": "BRIDGERTON",
-      "url": "https://www.la-spa.fr/adopter/trouver-mon-animal/bridgerton/",
-      "image": "https://www.la-spa.fr/app/app/uploads/animals/253950/bridgerton-253950-6ada270424d5b.jpg",
-      "espece": "chat",
-      "race": "Europeen",
-      "sexe": "femelle",
-      "age_categorie": "junior",
-      "age_texte": "3 mois",
-      "age_mois": 3,
-      "age_source": "fiche",
-      "age_conflit": null,
-      "date_naissance": null,
-      "date_publication": "2026-10-22",
-      "reserve": false,
-      "sos": false,
-      "fad": false,
-      "lieu": {
-        "nom": "La SPA - Refuge de Gennevilliers – Grammont",
-        "slug": "refuge-spa-de-gennevilliers-grammont",
-        "ville": "Gennevilliers",
-        "code_postal": "92230",
-        "departement": "92",
-        "latitude": 48.944706567958,
-        "longitude": 2.3035848619018,
-        "precision": "exacte",
-        "distance_km": 11.004464438564007,
-        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-gennevilliers-grammont/"
-      },
-      "description": "Bridgerton est une adorable chatonne qui recherche une famille douce et attentionnée pour la vie. Bridgerton est atteinte d’ataxie, un trouble qui affecte sa coordination et son équilibre. Son état nécessite une surveillance attentive afin de suivre l’évolution de ses symptômes, car sa maladie pourrait être dégénérative. Pour son bien-être, Bridgerton devra vivre exclusivement en appartement, san…",
-      "fiche_lue": false,
-      "portee": null,
-      "nouveau": true
     }
   ],
   "stats": {
     "sources": {
       "laspa": {
         "pages": 1,
-        "total_site": 150,
-        "dans_zone": 121,
+        "total_site": 168,
+        "dans_zone": 123,
         "fiches": 0,
         "fiches_cache": 0,
         "erreurs": 0
@@ -990,8 +951,8 @@
     },
     "requests": 12,
     "retries": 0,
-    "duree_s": 8.4,
-    "annonces_zone": 121
+    "duree_s": 9.2,
+    "annonces_zone": 123
   },
   "erreurs": []
 }
