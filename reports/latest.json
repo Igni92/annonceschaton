@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-01T12:20:19.778Z",
+  "date": "2026-11-02T14:14:13.566Z",
   "zone": {
     "mode": "rayon",
     "label": "50 km autour de Paris 11e Arrondissement",
@@ -60,45 +60,6 @@
       "nouveau": false
     },
     {
-      "id": "laspa:257253",
-      "source": "laspa",
-      "source_label": "La SPA",
-      "source_id": "257253",
-      "uid": "adopter-trouver-mon-animal-bambou-cha",
-      "nom": "BAMBOU CHA",
-      "url": "https://www.la-spa.fr/adopter/trouver-mon-animal/bambou-cha/",
-      "image": "https://www.la-spa.fr/app/app/uploads/animals/257253/bambou-cha-257253-6ae726154b2c8.jpg",
-      "espece": "chat",
-      "race": "Europeen",
-      "sexe": "femelle",
-      "age_categorie": "junior",
-      "age_texte": "2 mois",
-      "age_mois": 2,
-      "age_source": "fiche",
-      "age_conflit": null,
-      "date_naissance": null,
-      "date_publication": "2026-11-01",
-      "reserve": false,
-      "sos": false,
-      "fad": false,
-      "lieu": {
-        "nom": "La SPA - Refuge de Chamarande",
-        "slug": "refuge-spa-de-chamarande",
-        "ville": "Chamarande",
-        "code_postal": "91730",
-        "departement": "91",
-        "latitude": 48.533724,
-        "longitude": 2.209265,
-        "precision": "exacte",
-        "distance_km": 38.44465971246643,
-        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-chamarande/"
-      },
-      "description": "Lala et sa fille Bambou cherchent leur famille . Sorties d'un appartement insalubre, elles sont inséparables et ne vivent pas l'une sans l'autre, elles seront donc à adopter obligatoirement ensemble.\nLala, la maman, a besoin de calme, de douceur et d'un temps d'adaptation pour accorder sa confiance et montrer son côté très câlin.\nBambou, sa fille, est une minette sociable, qui adore jouer.\nElles…",
-      "fiche_lue": false,
-      "portee": null,
-      "nouveau": true
-    },
-    {
       "id": "laspa:252163",
       "source": "laspa",
       "source_label": "La SPA",
@@ -133,45 +94,6 @@
         "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-chamarande/"
       },
       "description": "Ben et ses frères Red et Johnny sont arrivés tout petits au refuge. Grâce à leur famille relais, ils ont grandi entourés d'amour et sont désormais prêts à être adoptés !\n?Ces trois adorables chatons présentent des troubles neurologiques appelés ataxie. Cela se traduit par un manque de coordination, ils dandinent, font des petits écarts ou manquent d'équilibre. Mais ils ne se rendent absolument pa…",
-      "fiche_lue": false,
-      "portee": null,
-      "nouveau": false
-    },
-    {
-      "id": "laspa:254510",
-      "source": "laspa",
-      "source_label": "La SPA",
-      "source_id": "254510",
-      "uid": "adopter-trouver-mon-animal-jet-cha",
-      "nom": "JET CHA",
-      "url": "https://www.la-spa.fr/adopter/trouver-mon-animal/jet-cha/",
-      "image": "https://www.la-spa.fr/app/app/uploads/animals/254510/jet-cha-254510-6adbb3f594370.jpg",
-      "espece": "chat",
-      "race": "Europeen",
-      "sexe": "male",
-      "age_categorie": "junior",
-      "age_texte": "3 mois",
-      "age_mois": 3,
-      "age_source": "fiche",
-      "age_conflit": null,
-      "date_naissance": null,
-      "date_publication": "2026-10-23",
-      "reserve": false,
-      "sos": false,
-      "fad": false,
-      "lieu": {
-        "nom": "La SPA - Refuge de Chamarande",
-        "slug": "refuge-spa-de-chamarande",
-        "ville": "Chamarande",
-        "code_postal": "91730",
-        "departement": "91",
-        "latitude": 48.533724,
-        "longitude": 2.209265,
-        "precision": "exacte",
-        "distance_km": 38.44465971246643,
-        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-chamarande/"
-      },
-      "description": "jet est chatons très sociables, il pourra vivre en appartement ou en pavillon.\nActuellement en traitement pour la teigne, il devr+ être isolé le temps du traitement. La teigne est contagieuse humains et autres animaux",
       "fiche_lue": false,
       "portee": null,
       "nouveau": false
@@ -258,45 +180,6 @@
   "portees": [],
   "nouveaux_arrivants": [
     {
-      "id": "laspa:257253",
-      "source": "laspa",
-      "source_label": "La SPA",
-      "source_id": "257253",
-      "uid": "adopter-trouver-mon-animal-bambou-cha",
-      "nom": "BAMBOU CHA",
-      "url": "https://www.la-spa.fr/adopter/trouver-mon-animal/bambou-cha/",
-      "image": "https://www.la-spa.fr/app/app/uploads/animals/257253/bambou-cha-257253-6ae726154b2c8.jpg",
-      "espece": "chat",
-      "race": "Europeen",
-      "sexe": "femelle",
-      "age_categorie": "junior",
-      "age_texte": "2 mois",
-      "age_mois": 2,
-      "age_source": "fiche",
-      "age_conflit": null,
-      "date_naissance": null,
-      "date_publication": "2026-11-01",
-      "reserve": false,
-      "sos": false,
-      "fad": false,
-      "lieu": {
-        "nom": "La SPA - Refuge de Chamarande",
-        "slug": "refuge-spa-de-chamarande",
-        "ville": "Chamarande",
-        "code_postal": "91730",
-        "departement": "91",
-        "latitude": 48.533724,
-        "longitude": 2.209265,
-        "precision": "exacte",
-        "distance_km": 38.44465971246643,
-        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-chamarande/"
-      },
-      "description": "Lala et sa fille Bambou cherchent leur famille . Sorties d'un appartement insalubre, elles sont inséparables et ne vivent pas l'une sans l'autre, elles seront donc à adopter obligatoirement ensemble.\nLala, la maman, a besoin de calme, de douceur et d'un temps d'adaptation pour accorder sa confiance et montrer son côté très câlin.\nBambou, sa fille, est une minette sociable, qui adore jouer.\nElles…",
-      "fiche_lue": false,
-      "portee": null,
-      "nouveau": true
-    },
-    {
       "id": "laspa:255763",
       "source": "laspa",
       "source_label": "La SPA",
@@ -340,8 +223,8 @@
     "sources": {
       "laspa": {
         "pages": 1,
-        "total_site": 130,
-        "dans_zone": 96,
+        "total_site": 124,
+        "dans_zone": 90,
         "fiches": 0,
         "fiches_cache": 0,
         "erreurs": 0
@@ -359,8 +242,8 @@
     },
     "requests": 12,
     "retries": 0,
-    "duree_s": 7.8,
-    "annonces_zone": 96
+    "duree_s": 9.2,
+    "annonces_zone": 90
   },
   "erreurs": []
 }
