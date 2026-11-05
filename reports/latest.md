@@ -1,6 +1,6 @@
-# Annonces chatons — mercredi 4 novembre 2026
+# Annonces chatons — jeudi 5 novembre 2026
 
-## 🐾 Chatons de moins de 4 mois (11)
+## 🐾 Chatons de moins de 4 mois (10)
 
 ### 👨‍👩‍👧‍👦 Portée de 5 chatons · La SPA - Refuge de Chamarande · 2 mois · portée probable
 - 🆕 **[PRESLEY CHA](https://www.la-spa.fr/adopter/trouver-mon-animal/presley-cha/)** — 2 mois · ♂ mâle · Europeen
@@ -19,7 +19,7 @@
   📍 La SPA - Refuge de Chamarande · 38 km
   🗓 mis en ligne le 04/11/2026 · La SPA
 
-### Chatons seuls (6)
+### Chatons seuls (5)
 
 - **[BOSKINETTE](https://www.la-spa.fr/adopter/trouver-mon-animal/boskinette/)** — 3 mois · ♀ femelle · Europeen
   📍 La SPA - Refuge de Gennevilliers – Grammont · 11 km
@@ -33,9 +33,6 @@
 - 🆕 **[STORN CHA](https://www.la-spa.fr/adopter/trouver-mon-animal/storn-cha/)** — 3 mois · ♂ mâle · Europeen
   📍 La SPA - Refuge de Chamarande · 38 km
   🗓 mis en ligne le 02/11/2026 · La SPA
-- **[ZANZIBAR CHA](https://www.la-spa.fr/adopter/trouver-mon-animal/zanzibar-cha/)** — 3 mois · ♂ mâle · Europeen
-  📍 La SPA - Refuge de Chamarande · 38 km
-  🗓 mis en ligne le 15/10/2026 · La SPA
 - **[RIO C](https://www.la-spa.fr/adopter/trouver-mon-animal/rio-c/)** — 3 mois · ♂ mâle · Europeen
   📍 La SPA - Refuge de Vaux-Le-Penil · Vaux-Le-Pénil (77) · 45 km
   🗓 mis en ligne le 27/10/2026 · La SPA

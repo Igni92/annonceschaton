@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-04T13:29:00.116Z",
+  "date": "2026-11-05T13:43:07.894Z",
   "zone": {
     "mode": "rayon",
     "label": "50 km autour de Paris 11e Arrondissement",
@@ -153,7 +153,7 @@
       "uid": "adopter-trouver-mon-animal-zoro-cha",
       "nom": "ZORO CHA",
       "url": "https://www.la-spa.fr/adopter/trouver-mon-animal/zoro-cha/",
-      "image": "https://www.la-spa.fr/app/app/uploads/animals/258088/zoro-cha-258088-6aeb0acf8f6e4.jpg",
+      "image": "https://www.la-spa.fr/app/app/uploads/animals/258088/zoro-cha-258088-6aec87ca9c87e.jpg",
       "espece": "chat",
       "race": "Europeen",
       "sexe": "male",
@@ -200,7 +200,7 @@
       "uid": "adopter-trouver-mon-animal-calvin-cha",
       "nom": "CALVIN CHA",
       "url": "https://www.la-spa.fr/adopter/trouver-mon-animal/calvin-cha/",
-      "image": "https://www.la-spa.fr/app/app/uploads/animals/258084/calvin-cha-258084-6aeb096b20444.jpg",
+      "image": "https://www.la-spa.fr/app/app/uploads/animals/258084/calvin-cha-258084-6aec857f4f97f.jpg",
       "espece": "chat",
       "race": "Europeen",
       "sexe": "male",
@@ -333,7 +333,7 @@
       "uid": "adopter-trouver-mon-animal-lessa-cha",
       "nom": "LESSA CHA",
       "url": "https://www.la-spa.fr/adopter/trouver-mon-animal/lessa-cha/",
-      "image": "https://www.la-spa.fr/app/app/uploads/animals/258085/lessa-cha-258085-6aeb0a3fc011b.jpg",
+      "image": "https://www.la-spa.fr/app/app/uploads/animals/258085/lessa-cha-258085-6aec86a7f1391.jpg",
       "espece": "chat",
       "race": "Europeen",
       "sexe": "femelle",
@@ -410,45 +410,6 @@
       "fiche_lue": false,
       "portee": null,
       "nouveau": true
-    },
-    {
-      "id": "laspa:251820",
-      "source": "laspa",
-      "source_label": "La SPA",
-      "source_id": "251820",
-      "uid": "adopter-trouver-mon-animal-zanzibar-cha",
-      "nom": "ZANZIBAR CHA",
-      "url": "https://www.la-spa.fr/adopter/trouver-mon-animal/zanzibar-cha/",
-      "image": "https://www.la-spa.fr/app/app/uploads/animals/251820/zanzibar-cha-251820-6ad9e17211d22.jpg",
-      "espece": "chat",
-      "race": "Europeen",
-      "sexe": "male",
-      "age_categorie": "junior",
-      "age_texte": "3 mois",
-      "age_mois": 3,
-      "age_source": "fiche",
-      "age_conflit": null,
-      "date_naissance": null,
-      "date_publication": "2026-10-15",
-      "reserve": false,
-      "sos": false,
-      "fad": false,
-      "lieu": {
-        "nom": "La SPA - Refuge de Chamarande",
-        "slug": "refuge-spa-de-chamarande",
-        "ville": "Chamarande",
-        "code_postal": "91730",
-        "departement": "91",
-        "latitude": 48.533724,
-        "longitude": 2.209265,
-        "precision": "exacte",
-        "distance_km": 38.44465971246643,
-        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-chamarande/"
-      },
-      "description": "Zanzibar nous arrive de fourrière animale, c'est un chaton craintif qui aura besoin d'un foyer calme qui lui laissera le temps d'évoluer à son rythme. Il pourra vivre en appartement ou en maison. Un autre chat bien dans ses pattes déjà présent au foyer sera fortement conseillé pour son adoption.",
-      "fiche_lue": false,
-      "portee": null,
-      "nouveau": false
     },
     {
       "id": "laspa:255763",
@@ -585,7 +546,7 @@
       "uid": "adopter-trouver-mon-animal-zoro-cha",
       "nom": "ZORO CHA",
       "url": "https://www.la-spa.fr/adopter/trouver-mon-animal/zoro-cha/",
-      "image": "https://www.la-spa.fr/app/app/uploads/animals/258088/zoro-cha-258088-6aeb0acf8f6e4.jpg",
+      "image": "https://www.la-spa.fr/app/app/uploads/animals/258088/zoro-cha-258088-6aec87ca9c87e.jpg",
       "espece": "chat",
       "race": "Europeen",
       "sexe": "male",
@@ -632,7 +593,7 @@
       "uid": "adopter-trouver-mon-animal-calvin-cha",
       "nom": "CALVIN CHA",
       "url": "https://www.la-spa.fr/adopter/trouver-mon-animal/calvin-cha/",
-      "image": "https://www.la-spa.fr/app/app/uploads/animals/258084/calvin-cha-258084-6aeb096b20444.jpg",
+      "image": "https://www.la-spa.fr/app/app/uploads/animals/258084/calvin-cha-258084-6aec857f4f97f.jpg",
       "espece": "chat",
       "race": "Europeen",
       "sexe": "male",
@@ -726,7 +687,7 @@
       "uid": "adopter-trouver-mon-animal-lessa-cha",
       "nom": "LESSA CHA",
       "url": "https://www.la-spa.fr/adopter/trouver-mon-animal/lessa-cha/",
-      "image": "https://www.la-spa.fr/app/app/uploads/animals/258085/lessa-cha-258085-6aeb0a3fc011b.jpg",
+      "image": "https://www.la-spa.fr/app/app/uploads/animals/258085/lessa-cha-258085-6aec86a7f1391.jpg",
       "espece": "chat",
       "race": "Europeen",
       "sexe": "femelle",
@@ -887,8 +848,8 @@
     "sources": {
       "laspa": {
         "pages": 1,
-        "total_site": 138,
-        "dans_zone": 103,
+        "total_site": 130,
+        "dans_zone": 99,
         "fiches": 0,
         "fiches_cache": 0,
         "erreurs": 0
@@ -906,8 +867,8 @@
     },
     "requests": 12,
     "retries": 0,
-    "duree_s": 9.5,
-    "annonces_zone": 103
+    "duree_s": 7.5,
+    "annonces_zone": 99
   },
   "erreurs": []
 }
