@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-07T12:06:33.933Z",
+  "date": "2026-11-08T12:27:34.000Z",
   "zone": {
     "mode": "rayon",
     "label": "50 km autour de Paris 11e Arrondissement",
@@ -21,63 +21,24 @@
   },
   "chatons": [
     {
-      "id": "laspa:254245",
+      "id": "laspa:259144",
       "source": "laspa",
       "source_label": "La SPA",
-      "source_id": "254245",
-      "uid": "adopter-trouver-mon-animal-boskinette",
-      "nom": "BOSKINETTE",
-      "url": "https://www.la-spa.fr/adopter/trouver-mon-animal/boskinette/",
-      "image": "https://www.la-spa.fr/app/app/uploads/animals/254245/boskinette-254245-6ae34a8c08d2e.jpg",
+      "source_id": "259144",
+      "uid": "adopter-trouver-mon-animal-leon-a17538",
+      "nom": "LEON A17538",
+      "url": "https://www.la-spa.fr/adopter/trouver-mon-animal/leon-a17538/",
+      "image": "https://www.la-spa.fr/app/app/uploads/animals/259144/leon-a17538-259144-6aef4f4206b0d.jpg",
       "espece": "chat",
       "race": "Europeen",
-      "sexe": "femelle",
+      "sexe": "male",
       "age_categorie": "junior",
-      "age_texte": "3 mois",
-      "age_mois": 3,
+      "age_texte": "2 mois",
+      "age_mois": 2,
       "age_source": "fiche",
       "age_conflit": null,
       "date_naissance": null,
-      "date_publication": "2026-10-23",
-      "reserve": false,
-      "sos": false,
-      "fad": false,
-      "lieu": {
-        "nom": "La SPA - Refuge de Gennevilliers – Grammont",
-        "slug": "refuge-spa-de-gennevilliers-grammont",
-        "ville": "Gennevilliers",
-        "code_postal": "92230",
-        "departement": "92",
-        "latitude": 48.944706567958,
-        "longitude": 2.3035848619018,
-        "precision": "exacte",
-        "distance_km": 11.004464438564007,
-        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-gennevilliers-grammont/"
-      },
-      "description": "[EN FAMILLE RELAIS]\nBoskinette est une minette très mignonne qui recherche une famille sérieuse prête à l'accueillir pour les 15 prochaines années.\nBoskinette a actuellement la teigne et est sous traitement, ce dernier sera à poursuivre par les adoptants.\nElle ne pourra pas être placée avec un autre chat ou avec de jeunes enfants afin de limiter les risques de contamination.\nUn chèque de caution…",
-      "fiche_lue": false,
-      "portee": null,
-      "nouveau": false
-    },
-    {
-      "id": "laspa:257843",
-      "source": "laspa",
-      "source_label": "La SPA",
-      "source_id": "257843",
-      "uid": "adopter-trouver-mon-animal-praline-a17670",
-      "nom": "PRALINE A17670",
-      "url": "https://www.la-spa.fr/adopter/trouver-mon-animal/praline-a17670/",
-      "image": "https://www.la-spa.fr/app/app/uploads/animals/257843/praline-a17670-257843-6ae9e072b7304.jpg",
-      "espece": "chat",
-      "race": "Europeen",
-      "sexe": "femelle",
-      "age_categorie": "junior",
-      "age_texte": "3 mois",
-      "age_mois": 3,
-      "age_source": "fiche",
-      "age_conflit": null,
-      "date_naissance": null,
-      "date_publication": "2026-11-03",
+      "date_publication": "2026-11-07",
       "reserve": false,
       "sos": false,
       "fad": false,
@@ -93,9 +54,66 @@
         "distance_km": 32.86079500913231,
         "url": "https://www.la-spa.fr/etablissement/refuge-spa-dorgeval/"
       },
-      "description": "Praline est une adorable petite chatonne qui vient tout juste d'arriver chez nous.\nElle découvre encore son nouvel environnement et va avoir besoin d'un peu de temps pour prendre ses marques et s'habituer à cette nouvelle étape de sa vie.\nNous allons apprendre à la connaître au fil des jours, découvrir son petit caractère et ses habitudes afin de pouvoir vous en dire davantage sur cette jolie dem…",
+      "description": "Tout comme sa soeur Kyra, il n'a pas eu un début de vie facile ayant été trouvé dans un sac fermé dans une poubelle alors qu'il n'était âgé d'à peine environ 2 semaines (il avait encore les yeux fermés). Recueilli et biberonné, il a pu être sauvé. Petit chat adorable, c'est un amour. Il adore les câlins, les caresses et surtout jouer. Très fusionnel avec sa soeur, il la cherche et l'appelle quand…",
       "fiche_lue": false,
-      "portee": null,
+      "portee": {
+        "id": "portee-1",
+        "taille": 2,
+        "disponibles": 2,
+        "confiance": "probable",
+        "indices": [
+          "même âge et même date de mise en ligne",
+          "fratrie mentionnée"
+        ]
+      },
+      "nouveau": true
+    },
+    {
+      "id": "laspa:259142",
+      "source": "laspa",
+      "source_label": "La SPA",
+      "source_id": "259142",
+      "uid": "adopter-trouver-mon-animal-a17539-kyra",
+      "nom": "A17539 KYRA",
+      "url": "https://www.la-spa.fr/adopter/trouver-mon-animal/a17539-kyra/",
+      "image": "https://www.la-spa.fr/app/app/uploads/animals/259142/a17539-kyra-259142-6aef4f128cff3.jpg",
+      "espece": "chat",
+      "race": "Europeen",
+      "sexe": "femelle",
+      "age_categorie": "junior",
+      "age_texte": "2 mois",
+      "age_mois": 2,
+      "age_source": "fiche",
+      "age_conflit": null,
+      "date_naissance": null,
+      "date_publication": "2026-11-07",
+      "reserve": false,
+      "sos": false,
+      "fad": false,
+      "lieu": {
+        "nom": "La SPA - Refuge d'Orgeval",
+        "slug": "refuge-spa-dorgeval",
+        "ville": "Orgeval",
+        "code_postal": "78630",
+        "departement": "78",
+        "latitude": 48.904123,
+        "longitude": 1.937452,
+        "precision": "exacte",
+        "distance_km": 32.86079500913231,
+        "url": "https://www.la-spa.fr/etablissement/refuge-spa-dorgeval/"
+      },
+      "description": "Chaton d'environ 3 mois trouvée dans un sac fermé dans une poubelle avec son frère alors qu'elle n'avait que 2 semaines environ. Elle n'a donc pas eu un début de vie facile. Recueillie et biberonnée, elle a reçu tout l'amour nécessaire pour être sauvée. Petite chatte très câline, elle adore les caresses, en réclame et adore se blottir contre une personne ou son frère pour dormir. C'est un amour.…",
+      "fiche_lue": false,
+      "portee": {
+        "id": "portee-1",
+        "taille": 2,
+        "disponibles": 2,
+        "confiance": "probable",
+        "indices": [
+          "même âge et même date de mise en ligne",
+          "fratrie mentionnée"
+        ]
+      },
       "nouveau": true
     },
     {
@@ -133,45 +151,6 @@
         "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-chamarande/"
       },
       "description": "Lala et sa fille Bambou cherchent leur famille . Sorties d'un appartement insalubre, elles sont inséparables et ne vivent pas l'une sans l'autre, elles seront donc à adopter obligatoirement ensemble.\nLala, la maman, a besoin de calme, de douceur et d'un temps d'adaptation pour accorder sa confiance et montrer son côté très câlin.\nBambou, sa fille, est une minette sociable, qui adore jouer.\nElles…",
-      "fiche_lue": false,
-      "portee": null,
-      "nouveau": true
-    },
-    {
-      "id": "laspa:258710",
-      "source": "laspa",
-      "source_label": "La SPA",
-      "source_id": "258710",
-      "uid": "adopter-trouver-mon-animal-grougal-c",
-      "nom": "GROUGAL C",
-      "url": "https://www.la-spa.fr/adopter/trouver-mon-animal/grougal-c/",
-      "image": "https://www.la-spa.fr/app/app/uploads/animals/258710/grougal-c-258710-6aedd7e63c83d.jpg",
-      "espece": "chat",
-      "race": "Europeen",
-      "sexe": "male",
-      "age_categorie": "junior",
-      "age_texte": "2 mois",
-      "age_mois": 2,
-      "age_source": "fiche",
-      "age_conflit": null,
-      "date_naissance": null,
-      "date_publication": "2026-11-06",
-      "reserve": false,
-      "sos": false,
-      "fad": false,
-      "lieu": {
-        "nom": "La SPA - Refuge de Vaux-Le-Penil",
-        "slug": "refuge-spa-de-vaux-le-penil",
-        "ville": "Vaux-Le-Pénil",
-        "code_postal": "77000",
-        "departement": "77",
-        "latitude": 48.520575,
-        "longitude": 2.718874,
-        "precision": "exacte",
-        "distance_km": 45.142564706391916,
-        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-vaux-le-penil/"
-      },
-      "description": null,
       "fiche_lue": false,
       "portee": null,
       "nouveau": true
@@ -216,17 +195,50 @@
       "nouveau": false
     }
   ],
-  "portees": [],
-  "nouveaux_arrivants": [
+  "portees": [
     {
-      "id": "laspa:258710",
+      "id": "portee-1",
       "source": "laspa",
       "source_label": "La SPA",
-      "source_id": "258710",
-      "uid": "adopter-trouver-mon-animal-grougal-c",
-      "nom": "GROUGAL C",
-      "url": "https://www.la-spa.fr/adopter/trouver-mon-animal/grougal-c/",
-      "image": "https://www.la-spa.fr/app/app/uploads/animals/258710/grougal-c-258710-6aedd7e63c83d.jpg",
+      "lieu": {
+        "nom": "La SPA - Refuge d'Orgeval",
+        "ville": "Orgeval",
+        "departement": "78",
+        "url": "https://www.la-spa.fr/etablissement/refuge-spa-dorgeval/"
+      },
+      "date_naissance": null,
+      "age_mois": 2,
+      "taille": 2,
+      "annonces": 2,
+      "disponibles": 2,
+      "confiance": "probable",
+      "indices": [
+        "même âge et même date de mise en ligne",
+        "fratrie mentionnée"
+      ],
+      "membres": [
+        "laspa:259142",
+        "laspa:259144"
+      ],
+      "noms": [
+        "A17539 KYRA",
+        "LEON A17538"
+      ],
+      "sources": [
+        "La SPA"
+      ]
+    }
+  ],
+  "nouveaux_arrivants": [
+    {
+      "id": "laspa:259144",
+      "source": "laspa",
+      "source_label": "La SPA",
+      "source_id": "259144",
+      "uid": "adopter-trouver-mon-animal-leon-a17538",
+      "nom": "LEON A17538",
+      "url": "https://www.la-spa.fr/adopter/trouver-mon-animal/leon-a17538/",
+      "image": "https://www.la-spa.fr/app/app/uploads/animals/259144/leon-a17538-259144-6aef4f4206b0d.jpg",
       "espece": "chat",
       "race": "Europeen",
       "sexe": "male",
@@ -236,46 +248,7 @@
       "age_source": "fiche",
       "age_conflit": null,
       "date_naissance": null,
-      "date_publication": "2026-11-06",
-      "reserve": false,
-      "sos": false,
-      "fad": false,
-      "lieu": {
-        "nom": "La SPA - Refuge de Vaux-Le-Penil",
-        "slug": "refuge-spa-de-vaux-le-penil",
-        "ville": "Vaux-Le-Pénil",
-        "code_postal": "77000",
-        "departement": "77",
-        "latitude": 48.520575,
-        "longitude": 2.718874,
-        "precision": "exacte",
-        "distance_km": 45.142564706391916,
-        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-vaux-le-penil/"
-      },
-      "description": null,
-      "fiche_lue": false,
-      "portee": null,
-      "nouveau": true
-    },
-    {
-      "id": "laspa:257843",
-      "source": "laspa",
-      "source_label": "La SPA",
-      "source_id": "257843",
-      "uid": "adopter-trouver-mon-animal-praline-a17670",
-      "nom": "PRALINE A17670",
-      "url": "https://www.la-spa.fr/adopter/trouver-mon-animal/praline-a17670/",
-      "image": "https://www.la-spa.fr/app/app/uploads/animals/257843/praline-a17670-257843-6ae9e072b7304.jpg",
-      "espece": "chat",
-      "race": "Europeen",
-      "sexe": "femelle",
-      "age_categorie": "junior",
-      "age_texte": "3 mois",
-      "age_mois": 3,
-      "age_source": "fiche",
-      "age_conflit": null,
-      "date_naissance": null,
-      "date_publication": "2026-11-03",
+      "date_publication": "2026-11-07",
       "reserve": false,
       "sos": false,
       "fad": false,
@@ -291,9 +264,66 @@
         "distance_km": 32.86079500913231,
         "url": "https://www.la-spa.fr/etablissement/refuge-spa-dorgeval/"
       },
-      "description": "Praline est une adorable petite chatonne qui vient tout juste d'arriver chez nous.\nElle découvre encore son nouvel environnement et va avoir besoin d'un peu de temps pour prendre ses marques et s'habituer à cette nouvelle étape de sa vie.\nNous allons apprendre à la connaître au fil des jours, découvrir son petit caractère et ses habitudes afin de pouvoir vous en dire davantage sur cette jolie dem…",
+      "description": "Tout comme sa soeur Kyra, il n'a pas eu un début de vie facile ayant été trouvé dans un sac fermé dans une poubelle alors qu'il n'était âgé d'à peine environ 2 semaines (il avait encore les yeux fermés). Recueilli et biberonné, il a pu être sauvé. Petit chat adorable, c'est un amour. Il adore les câlins, les caresses et surtout jouer. Très fusionnel avec sa soeur, il la cherche et l'appelle quand…",
       "fiche_lue": false,
-      "portee": null,
+      "portee": {
+        "id": "portee-1",
+        "taille": 2,
+        "disponibles": 2,
+        "confiance": "probable",
+        "indices": [
+          "même âge et même date de mise en ligne",
+          "fratrie mentionnée"
+        ]
+      },
+      "nouveau": true
+    },
+    {
+      "id": "laspa:259142",
+      "source": "laspa",
+      "source_label": "La SPA",
+      "source_id": "259142",
+      "uid": "adopter-trouver-mon-animal-a17539-kyra",
+      "nom": "A17539 KYRA",
+      "url": "https://www.la-spa.fr/adopter/trouver-mon-animal/a17539-kyra/",
+      "image": "https://www.la-spa.fr/app/app/uploads/animals/259142/a17539-kyra-259142-6aef4f128cff3.jpg",
+      "espece": "chat",
+      "race": "Europeen",
+      "sexe": "femelle",
+      "age_categorie": "junior",
+      "age_texte": "2 mois",
+      "age_mois": 2,
+      "age_source": "fiche",
+      "age_conflit": null,
+      "date_naissance": null,
+      "date_publication": "2026-11-07",
+      "reserve": false,
+      "sos": false,
+      "fad": false,
+      "lieu": {
+        "nom": "La SPA - Refuge d'Orgeval",
+        "slug": "refuge-spa-dorgeval",
+        "ville": "Orgeval",
+        "code_postal": "78630",
+        "departement": "78",
+        "latitude": 48.904123,
+        "longitude": 1.937452,
+        "precision": "exacte",
+        "distance_km": 32.86079500913231,
+        "url": "https://www.la-spa.fr/etablissement/refuge-spa-dorgeval/"
+      },
+      "description": "Chaton d'environ 3 mois trouvée dans un sac fermé dans une poubelle avec son frère alors qu'elle n'avait que 2 semaines environ. Elle n'a donc pas eu un début de vie facile. Recueillie et biberonnée, elle a reçu tout l'amour nécessaire pour être sauvée. Petite chatte très câline, elle adore les caresses, en réclame et adore se blottir contre une personne ou son frère pour dormir. C'est un amour.…",
+      "fiche_lue": false,
+      "portee": {
+        "id": "portee-1",
+        "taille": 2,
+        "disponibles": 2,
+        "confiance": "probable",
+        "indices": [
+          "même âge et même date de mise en ligne",
+          "fratrie mentionnée"
+        ]
+      },
       "nouveau": true
     },
     {
@@ -340,8 +370,8 @@
     "sources": {
       "laspa": {
         "pages": 1,
-        "total_site": 128,
-        "dans_zone": 99,
+        "total_site": 118,
+        "dans_zone": 90,
         "fiches": 0,
         "fiches_cache": 0,
         "erreurs": 0
@@ -359,8 +389,8 @@
     },
     "requests": 12,
     "retries": 0,
-    "duree_s": 7.8,
-    "annonces_zone": 99
+    "duree_s": 9.9,
+    "annonces_zone": 90
   },
   "erreurs": []
 }
