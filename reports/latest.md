@@ -1,6 +1,6 @@
-# Annonces chatons — dimanche 8 novembre 2026
+# Annonces chatons — lundi 9 novembre 2026
 
-## 🐾 Chatons de moins de 4 mois (4)
+## 🐾 Chatons de moins de 4 mois (3)
 
 ### 👨‍👩‍👧‍👦 Portée de 2 chatons · La SPA - Refuge d'Orgeval · 2 mois · portée probable
 - 🆕 **[A17539 KYRA](https://www.la-spa.fr/adopter/trouver-mon-animal/a17539-kyra/)** — 2 mois · ♀ femelle · Europeen
@@ -10,14 +10,11 @@
   📍 La SPA - Refuge d'Orgeval · 33 km
   🗓 mis en ligne le 07/11/2026 · La SPA
 
-### Chatons seuls (2)
+### Chatons seuls (1)
 
 - 🆕 **[BAMBOU CHA](https://www.la-spa.fr/adopter/trouver-mon-animal/bambou-cha/)** — 2 mois · ♀ femelle · Europeen
   📍 La SPA - Refuge de Chamarande · 38 km
   🗓 mis en ligne le 02/11/2026 · La SPA
-- **[RIO C](https://www.la-spa.fr/adopter/trouver-mon-animal/rio-c/)** — 3 mois · ♂ mâle · Europeen
-  📍 La SPA - Refuge de Vaux-Le-Penil · Vaux-Le-Pénil (77) · 45 km
-  🗓 mis en ligne le 27/10/2026 · La SPA
 
 _🆕 = 3 nouveaux chatons (mis en ligne depuis 7 jours ou jamais vus)._
 

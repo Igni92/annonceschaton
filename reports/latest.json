@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-08T12:27:34.000Z",
+  "date": "2026-11-09T14:42:22.989Z",
   "zone": {
     "mode": "rayon",
     "label": "50 km autour de Paris 11e Arrondissement",
@@ -28,7 +28,7 @@
       "uid": "adopter-trouver-mon-animal-leon-a17538",
       "nom": "LEON A17538",
       "url": "https://www.la-spa.fr/adopter/trouver-mon-animal/leon-a17538/",
-      "image": "https://www.la-spa.fr/app/app/uploads/animals/259144/leon-a17538-259144-6aef4f4206b0d.jpg",
+      "image": "https://www.la-spa.fr/app/app/uploads/animals/259144/leon-a17538-259144-6af06eacdcb9f.jpg",
       "espece": "chat",
       "race": "Europeen",
       "sexe": "male",
@@ -76,7 +76,7 @@
       "uid": "adopter-trouver-mon-animal-a17539-kyra",
       "nom": "A17539 KYRA",
       "url": "https://www.la-spa.fr/adopter/trouver-mon-animal/a17539-kyra/",
-      "image": "https://www.la-spa.fr/app/app/uploads/animals/259142/a17539-kyra-259142-6aef4f128cff3.jpg",
+      "image": "https://www.la-spa.fr/app/app/uploads/animals/259142/a17539-kyra-259142-6af06ed68ebe6.jpg",
       "espece": "chat",
       "race": "Europeen",
       "sexe": "femelle",
@@ -154,45 +154,6 @@
       "fiche_lue": false,
       "portee": null,
       "nouveau": true
-    },
-    {
-      "id": "laspa:255763",
-      "source": "laspa",
-      "source_label": "La SPA",
-      "source_id": "255763",
-      "uid": "adopter-trouver-mon-animal-rio-c",
-      "nom": "RIO C",
-      "url": "https://www.la-spa.fr/adopter/trouver-mon-animal/rio-c/",
-      "image": "https://www.la-spa.fr/app/app/uploads/animals/255763/rio-c-255763-6ae0ba7c999c5.jpg",
-      "espece": "chat",
-      "race": "Europeen",
-      "sexe": "male",
-      "age_categorie": "junior",
-      "age_texte": "3 mois",
-      "age_mois": 3,
-      "age_source": "fiche",
-      "age_conflit": null,
-      "date_naissance": null,
-      "date_publication": "2026-10-27",
-      "reserve": false,
-      "sos": false,
-      "fad": false,
-      "lieu": {
-        "nom": "La SPA - Refuge de Vaux-Le-Penil",
-        "slug": "refuge-spa-de-vaux-le-penil",
-        "ville": "Vaux-Le-Pénil",
-        "code_postal": "77000",
-        "departement": "77",
-        "latitude": 48.520575,
-        "longitude": 2.718874,
-        "precision": "exacte",
-        "distance_km": 45.142564706391916,
-        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-vaux-le-penil/"
-      },
-      "description": null,
-      "fiche_lue": false,
-      "portee": null,
-      "nouveau": false
     }
   ],
   "portees": [
@@ -238,7 +199,7 @@
       "uid": "adopter-trouver-mon-animal-leon-a17538",
       "nom": "LEON A17538",
       "url": "https://www.la-spa.fr/adopter/trouver-mon-animal/leon-a17538/",
-      "image": "https://www.la-spa.fr/app/app/uploads/animals/259144/leon-a17538-259144-6aef4f4206b0d.jpg",
+      "image": "https://www.la-spa.fr/app/app/uploads/animals/259144/leon-a17538-259144-6af06eacdcb9f.jpg",
       "espece": "chat",
       "race": "Europeen",
       "sexe": "male",
@@ -286,7 +247,7 @@
       "uid": "adopter-trouver-mon-animal-a17539-kyra",
       "nom": "A17539 KYRA",
       "url": "https://www.la-spa.fr/adopter/trouver-mon-animal/a17539-kyra/",
-      "image": "https://www.la-spa.fr/app/app/uploads/animals/259142/a17539-kyra-259142-6aef4f128cff3.jpg",
+      "image": "https://www.la-spa.fr/app/app/uploads/animals/259142/a17539-kyra-259142-6af06ed68ebe6.jpg",
       "espece": "chat",
       "race": "Europeen",
       "sexe": "femelle",
@@ -370,8 +331,8 @@
     "sources": {
       "laspa": {
         "pages": 1,
-        "total_site": 118,
-        "dans_zone": 90,
+        "total_site": 119,
+        "dans_zone": 93,
         "fiches": 0,
         "fiches_cache": 0,
         "erreurs": 0
@@ -389,8 +350,8 @@
     },
     "requests": 12,
     "retries": 0,
-    "duree_s": 9.9,
-    "annonces_zone": 90
+    "duree_s": 8,
+    "annonces_zone": 93
   },
   "erreurs": []
 }
