@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-10T13:57:47.231Z",
+  "date": "2026-11-11T13:12:58.583Z",
   "zone": {
     "mode": "rayon",
     "label": "50 km autour de Paris 11e Arrondissement",
@@ -20,6 +20,141 @@
     "inclure_reserves": false
   },
   "chatons": [
+    {
+      "id": "laspa:260155",
+      "source": "laspa",
+      "source_label": "La SPA",
+      "source_id": "260155",
+      "uid": "adopter-trouver-mon-animal-tarzan",
+      "nom": "TARZAN",
+      "url": "https://www.la-spa.fr/adopter/trouver-mon-animal/tarzan/",
+      "image": "https://www.la-spa.fr/app/app/uploads/animals/260155/tarzan-260155-6af330306b803.jpg",
+      "espece": "chat",
+      "race": "Europeen",
+      "sexe": "femelle",
+      "age_categorie": "junior",
+      "age_texte": "2 mois",
+      "age_mois": 2,
+      "age_source": "fiche",
+      "age_conflit": null,
+      "date_naissance": null,
+      "date_publication": "2026-11-10",
+      "reserve": false,
+      "sos": false,
+      "fad": false,
+      "lieu": {
+        "nom": "La SPA - Refuge de Gennevilliers – Grammont",
+        "slug": "refuge-spa-de-gennevilliers-grammont",
+        "ville": "Gennevilliers",
+        "code_postal": "92230",
+        "departement": "92",
+        "latitude": 48.944706567958,
+        "longitude": 2.3035848619018,
+        "precision": "exacte",
+        "distance_km": 11.004464438564007,
+        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-gennevilliers-grammont/"
+      },
+      "description": "Tarzan revient de famille relais pour trouver sa famille pour la vie.\nTarzan est une minette pleine d'energie et une boîte à ronron qui recherche des adoptants doux et patients qui lui laisseront le temps d'évoluer à son rythme.\nTarzan a actuellement un traitement pour ses oreilles et ses yeux, tout vous sera fournit et expliqué au refuge.\nVenez vite la rencontrer !",
+      "fiche_lue": false,
+      "portee": null,
+      "nouveau": true
+    },
+    {
+      "id": "laspa:260148",
+      "source": "laspa",
+      "source_label": "La SPA",
+      "source_id": "260148",
+      "uid": "adopter-trouver-mon-animal-olympe-4",
+      "nom": "OLYMPE",
+      "url": "https://www.la-spa.fr/adopter/trouver-mon-animal/olympe-4/",
+      "image": "https://www.la-spa.fr/app/app/uploads/animals/260148/olympe-260148-6af32f09b7d5d.jpg",
+      "espece": "chat",
+      "race": "Europeen",
+      "sexe": "femelle",
+      "age_categorie": "junior",
+      "age_texte": "3 mois",
+      "age_mois": 3,
+      "age_source": "fiche",
+      "age_conflit": null,
+      "date_naissance": null,
+      "date_publication": "2026-11-10",
+      "reserve": false,
+      "sos": true,
+      "fad": false,
+      "lieu": {
+        "nom": "La SPA - Refuge de Gennevilliers – Grammont",
+        "slug": "refuge-spa-de-gennevilliers-grammont",
+        "ville": "Gennevilliers",
+        "code_postal": "92230",
+        "departement": "92",
+        "latitude": 48.944706567958,
+        "longitude": 2.3035848619018,
+        "precision": "exacte",
+        "distance_km": 11.004464438564007,
+        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-gennevilliers-grammont/"
+      },
+      "description": "Olympe a été abandonné directement au refuge.\nOlympe est une adorable louloutte qui recherche des adoptants doux et patients qui lui laisseront le temps d'évoluer à son rythme.\nOlympe est ataxique et devra vivre en appartement, sans sortie extérieure et sans jeunes enfants.\nOlympe est actuellement en traitement contre la teigne, le traitement sera fournit et tout vous sera expliqué au refuge.\nVen…",
+      "fiche_lue": false,
+      "portee": {
+        "id": "portee-1",
+        "taille": 4,
+        "disponibles": 4,
+        "confiance": "probable",
+        "indices": [
+          "même âge et même date de mise en ligne",
+          "fratrie mentionnée"
+        ]
+      },
+      "nouveau": true
+    },
+    {
+      "id": "laspa:260174",
+      "source": "laspa",
+      "source_label": "La SPA",
+      "source_id": "260174",
+      "uid": "adopter-trouver-mon-animal-captaine-price",
+      "nom": "CAPTAINE PRICE",
+      "url": "https://www.la-spa.fr/adopter/trouver-mon-animal/captaine-price/",
+      "image": "https://www.la-spa.fr/app/app/uploads/animals/260174/captaine-price-260174-6af336aa957e3.jpg",
+      "espece": "chat",
+      "race": "Europeen",
+      "sexe": "femelle",
+      "age_categorie": "junior",
+      "age_texte": "3 mois",
+      "age_mois": 3,
+      "age_source": "fiche",
+      "age_conflit": null,
+      "date_naissance": null,
+      "date_publication": "2026-11-10",
+      "reserve": false,
+      "sos": false,
+      "fad": false,
+      "lieu": {
+        "nom": "La SPA - Refuge de Gennevilliers – Grammont",
+        "slug": "refuge-spa-de-gennevilliers-grammont",
+        "ville": "Gennevilliers",
+        "code_postal": "92230",
+        "departement": "92",
+        "latitude": 48.944706567958,
+        "longitude": 2.3035848619018,
+        "precision": "exacte",
+        "distance_km": 11.004464438564007,
+        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-gennevilliers-grammont/"
+      },
+      "description": "Captaine Price a été abandonné directement au refuge avec sa fratrie.\nCaptaine Price est un gentil loulou qui recherche des adoptants doux et patients qui lui laisseront le temps d'évoluer à son rythme.\nCaptaine Price est actuellement en traitement contre la teigne, le traitement sera fournit et tout vous sera expliqué directement au refuge.\nVenez vite le rencontrer !",
+      "fiche_lue": false,
+      "portee": {
+        "id": "portee-1",
+        "taille": 4,
+        "disponibles": 4,
+        "confiance": "probable",
+        "indices": [
+          "même âge et même date de mise en ligne",
+          "fratrie mentionnée"
+        ]
+      },
+      "nouveau": true
+    },
     {
       "id": "laspa:259779",
       "source": "laspa",
@@ -57,7 +192,7 @@
       "description": "Flash et Bolide reviennent de famille relais.\nFlash et Bolide sont deux chatons craintif qui recherchent des adoptants doux et patient qui leur laisseront le temps d'évoluer à leur rythme.\nLa présence d'un premier chat au foyer sera obligatoire pour leur bon développement.\nIls devront vivre en appartement, sans sortie extérieure et sans jeunes enfants.\nVenez vite les rencontrer !",
       "fiche_lue": false,
       "portee": {
-        "id": "portee-1",
+        "id": "portee-2",
         "taille": 2,
         "disponibles": 2,
         "confiance": "forte",
@@ -67,6 +202,54 @@
           "même âge et même date de mise en ligne",
           "cité·e dans la description de « FLASH »",
           "« FLASH » cité·e dans la description"
+        ]
+      },
+      "nouveau": true
+    },
+    {
+      "id": "laspa:260175",
+      "source": "laspa",
+      "source_label": "La SPA",
+      "source_id": "260175",
+      "uid": "adopter-trouver-mon-animal-zaz",
+      "nom": "ZAZ",
+      "url": "https://www.la-spa.fr/adopter/trouver-mon-animal/zaz/",
+      "image": "https://www.la-spa.fr/app/app/uploads/animals/260175/zaz-260175-6af33705e3268.jpg",
+      "espece": "chat",
+      "race": "Europeen",
+      "sexe": "femelle",
+      "age_categorie": "junior",
+      "age_texte": "3 mois",
+      "age_mois": 3,
+      "age_source": "fiche",
+      "age_conflit": null,
+      "date_naissance": null,
+      "date_publication": "2026-11-10",
+      "reserve": false,
+      "sos": false,
+      "fad": false,
+      "lieu": {
+        "nom": "La SPA - Refuge de Gennevilliers – Grammont",
+        "slug": "refuge-spa-de-gennevilliers-grammont",
+        "ville": "Gennevilliers",
+        "code_postal": "92230",
+        "departement": "92",
+        "latitude": 48.944706567958,
+        "longitude": 2.3035848619018,
+        "precision": "exacte",
+        "distance_km": 11.004464438564007,
+        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-gennevilliers-grammont/"
+      },
+      "description": "Zaz a été abandonné directement au refuge avec sa fratrie.\nZaz est une gentille louloutte qui recherche des adoptants doux et patients qui lui laisseront le temps d'évoluer à son rythme.\nZaz est actuellement en traitement contre la teigne, le traitement sera fournit et tout vous sera expliqué directement au refuge.\nVenez vite la rencontrer !",
+      "fiche_lue": false,
+      "portee": {
+        "id": "portee-1",
+        "taille": 4,
+        "disponibles": 4,
+        "confiance": "probable",
+        "indices": [
+          "même âge et même date de mise en ligne",
+          "fratrie mentionnée"
         ]
       },
       "nouveau": true
@@ -108,7 +291,7 @@
       "description": "Flash et Bolide reviennent de famille relais.\nFlash et Bolide sont deux chatons craintif qui recherchent des adoptants doux et patient qui leur laisseront le temps d'évoluer à leur rythme.\nLa présence d'un premier chat au foyer sera obligatoire pour leur bon développement.\nIls devront vivre en appartement, sans sortie extérieure et sans jeunes enfants.\nVenez vite les rencontrer !",
       "fiche_lue": false,
       "portee": {
-        "id": "portee-1",
+        "id": "portee-2",
         "taille": 2,
         "disponibles": 2,
         "confiance": "forte",
@@ -118,6 +301,54 @@
           "même âge et même date de mise en ligne",
           "cité·e dans la description de « FLASH »",
           "« FLASH » cité·e dans la description"
+        ]
+      },
+      "nouveau": true
+    },
+    {
+      "id": "laspa:260167",
+      "source": "laspa",
+      "source_label": "La SPA",
+      "source_id": "260167",
+      "uid": "adopter-trouver-mon-animal-ghost-5",
+      "nom": "GHOST",
+      "url": "https://www.la-spa.fr/adopter/trouver-mon-animal/ghost-5/",
+      "image": "https://www.la-spa.fr/app/app/uploads/animals/260167/ghost-260167-6af33551c2330.jpg",
+      "espece": "chat",
+      "race": "Europeen",
+      "sexe": "femelle",
+      "age_categorie": "junior",
+      "age_texte": "3 mois",
+      "age_mois": 3,
+      "age_source": "fiche",
+      "age_conflit": null,
+      "date_naissance": null,
+      "date_publication": "2026-11-10",
+      "reserve": false,
+      "sos": false,
+      "fad": false,
+      "lieu": {
+        "nom": "La SPA - Refuge de Gennevilliers – Grammont",
+        "slug": "refuge-spa-de-gennevilliers-grammont",
+        "ville": "Gennevilliers",
+        "code_postal": "92230",
+        "departement": "92",
+        "latitude": 48.944706567958,
+        "longitude": 2.3035848619018,
+        "precision": "exacte",
+        "distance_km": 11.004464438564007,
+        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-gennevilliers-grammont/"
+      },
+      "description": "Ghost a été abandonné directement au refuge avec sa fraterie.\nGhost est un gentil loulou qui recherche des adoptants doux et patients qui lui laisseront le temps d'évoluer à son rythme.\nGhost est actuellement en traitement contre la teigne, le traitement sera fournit et tout vous sera expliqué directement au refuge.\nVenez vite le rencontrer !",
+      "fiche_lue": false,
+      "portee": {
+        "id": "portee-1",
+        "taille": 4,
+        "disponibles": 4,
+        "confiance": "probable",
+        "indices": [
+          "même âge et même date de mise en ligne",
+          "fratrie mentionnée"
         ]
       },
       "nouveau": true
@@ -159,7 +390,7 @@
       "description": "Tout comme sa soeur Kyra, il n'a pas eu un début de vie facile ayant été trouvé dans un sac fermé dans une poubelle alors qu'il n'était âgé d'à peine environ 2 semaines (il avait encore les yeux fermés). Recueilli et biberonné, il a pu être sauvé. Petit chat adorable, c'est un amour. Il adore les câlins, les caresses et surtout jouer. Très fusionnel avec sa soeur, il la cherche et l'appelle quand…",
       "fiche_lue": false,
       "portee": {
-        "id": "portee-2",
+        "id": "portee-3",
         "taille": 2,
         "disponibles": 2,
         "confiance": "probable",
@@ -207,7 +438,7 @@
       "description": "Chaton d'environ 3 mois trouvée dans un sac fermé dans une poubelle avec son frère alors qu'elle n'avait que 2 semaines environ. Elle n'a donc pas eu un début de vie facile. Recueillie et biberonnée, elle a reçu tout l'amour nécessaire pour être sauvée. Petite chatte très câline, elle adore les caresses, en réclame et adore se blottir contre une personne ou son frère pour dormir. C'est un amour.…",
       "fiche_lue": false,
       "portee": {
-        "id": "portee-2",
+        "id": "portee-3",
         "taille": 2,
         "disponibles": 2,
         "confiance": "probable",
@@ -271,6 +502,42 @@
       },
       "date_naissance": null,
       "age_mois": 3,
+      "taille": 4,
+      "annonces": 4,
+      "disponibles": 4,
+      "confiance": "probable",
+      "indices": [
+        "même âge et même date de mise en ligne",
+        "fratrie mentionnée"
+      ],
+      "membres": [
+        "laspa:260148",
+        "laspa:260167",
+        "laspa:260174",
+        "laspa:260175"
+      ],
+      "noms": [
+        "CAPTAINE PRICE",
+        "GHOST",
+        "OLYMPE",
+        "ZAZ"
+      ],
+      "sources": [
+        "La SPA"
+      ]
+    },
+    {
+      "id": "portee-2",
+      "source": "laspa",
+      "source_label": "La SPA",
+      "lieu": {
+        "nom": "La SPA - Refuge de Gennevilliers – Grammont",
+        "ville": "Gennevilliers",
+        "departement": "92",
+        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-gennevilliers-grammont/"
+      },
+      "date_naissance": null,
+      "age_mois": 3,
       "taille": 2,
       "annonces": 2,
       "disponibles": 2,
@@ -295,7 +562,7 @@
       ]
     },
     {
-      "id": "portee-2",
+      "id": "portee-3",
       "source": "laspa",
       "source_label": "La SPA",
       "lieu": {
@@ -328,6 +595,237 @@
     }
   ],
   "nouveaux_arrivants": [
+    {
+      "id": "laspa:260155",
+      "source": "laspa",
+      "source_label": "La SPA",
+      "source_id": "260155",
+      "uid": "adopter-trouver-mon-animal-tarzan",
+      "nom": "TARZAN",
+      "url": "https://www.la-spa.fr/adopter/trouver-mon-animal/tarzan/",
+      "image": "https://www.la-spa.fr/app/app/uploads/animals/260155/tarzan-260155-6af330306b803.jpg",
+      "espece": "chat",
+      "race": "Europeen",
+      "sexe": "femelle",
+      "age_categorie": "junior",
+      "age_texte": "2 mois",
+      "age_mois": 2,
+      "age_source": "fiche",
+      "age_conflit": null,
+      "date_naissance": null,
+      "date_publication": "2026-11-10",
+      "reserve": false,
+      "sos": false,
+      "fad": false,
+      "lieu": {
+        "nom": "La SPA - Refuge de Gennevilliers – Grammont",
+        "slug": "refuge-spa-de-gennevilliers-grammont",
+        "ville": "Gennevilliers",
+        "code_postal": "92230",
+        "departement": "92",
+        "latitude": 48.944706567958,
+        "longitude": 2.3035848619018,
+        "precision": "exacte",
+        "distance_km": 11.004464438564007,
+        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-gennevilliers-grammont/"
+      },
+      "description": "Tarzan revient de famille relais pour trouver sa famille pour la vie.\nTarzan est une minette pleine d'energie et une boîte à ronron qui recherche des adoptants doux et patients qui lui laisseront le temps d'évoluer à son rythme.\nTarzan a actuellement un traitement pour ses oreilles et ses yeux, tout vous sera fournit et expliqué au refuge.\nVenez vite la rencontrer !",
+      "fiche_lue": false,
+      "portee": null,
+      "nouveau": true
+    },
+    {
+      "id": "laspa:260148",
+      "source": "laspa",
+      "source_label": "La SPA",
+      "source_id": "260148",
+      "uid": "adopter-trouver-mon-animal-olympe-4",
+      "nom": "OLYMPE",
+      "url": "https://www.la-spa.fr/adopter/trouver-mon-animal/olympe-4/",
+      "image": "https://www.la-spa.fr/app/app/uploads/animals/260148/olympe-260148-6af32f09b7d5d.jpg",
+      "espece": "chat",
+      "race": "Europeen",
+      "sexe": "femelle",
+      "age_categorie": "junior",
+      "age_texte": "3 mois",
+      "age_mois": 3,
+      "age_source": "fiche",
+      "age_conflit": null,
+      "date_naissance": null,
+      "date_publication": "2026-11-10",
+      "reserve": false,
+      "sos": true,
+      "fad": false,
+      "lieu": {
+        "nom": "La SPA - Refuge de Gennevilliers – Grammont",
+        "slug": "refuge-spa-de-gennevilliers-grammont",
+        "ville": "Gennevilliers",
+        "code_postal": "92230",
+        "departement": "92",
+        "latitude": 48.944706567958,
+        "longitude": 2.3035848619018,
+        "precision": "exacte",
+        "distance_km": 11.004464438564007,
+        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-gennevilliers-grammont/"
+      },
+      "description": "Olympe a été abandonné directement au refuge.\nOlympe est une adorable louloutte qui recherche des adoptants doux et patients qui lui laisseront le temps d'évoluer à son rythme.\nOlympe est ataxique et devra vivre en appartement, sans sortie extérieure et sans jeunes enfants.\nOlympe est actuellement en traitement contre la teigne, le traitement sera fournit et tout vous sera expliqué au refuge.\nVen…",
+      "fiche_lue": false,
+      "portee": {
+        "id": "portee-1",
+        "taille": 4,
+        "disponibles": 4,
+        "confiance": "probable",
+        "indices": [
+          "même âge et même date de mise en ligne",
+          "fratrie mentionnée"
+        ]
+      },
+      "nouveau": true
+    },
+    {
+      "id": "laspa:260174",
+      "source": "laspa",
+      "source_label": "La SPA",
+      "source_id": "260174",
+      "uid": "adopter-trouver-mon-animal-captaine-price",
+      "nom": "CAPTAINE PRICE",
+      "url": "https://www.la-spa.fr/adopter/trouver-mon-animal/captaine-price/",
+      "image": "https://www.la-spa.fr/app/app/uploads/animals/260174/captaine-price-260174-6af336aa957e3.jpg",
+      "espece": "chat",
+      "race": "Europeen",
+      "sexe": "femelle",
+      "age_categorie": "junior",
+      "age_texte": "3 mois",
+      "age_mois": 3,
+      "age_source": "fiche",
+      "age_conflit": null,
+      "date_naissance": null,
+      "date_publication": "2026-11-10",
+      "reserve": false,
+      "sos": false,
+      "fad": false,
+      "lieu": {
+        "nom": "La SPA - Refuge de Gennevilliers – Grammont",
+        "slug": "refuge-spa-de-gennevilliers-grammont",
+        "ville": "Gennevilliers",
+        "code_postal": "92230",
+        "departement": "92",
+        "latitude": 48.944706567958,
+        "longitude": 2.3035848619018,
+        "precision": "exacte",
+        "distance_km": 11.004464438564007,
+        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-gennevilliers-grammont/"
+      },
+      "description": "Captaine Price a été abandonné directement au refuge avec sa fratrie.\nCaptaine Price est un gentil loulou qui recherche des adoptants doux et patients qui lui laisseront le temps d'évoluer à son rythme.\nCaptaine Price est actuellement en traitement contre la teigne, le traitement sera fournit et tout vous sera expliqué directement au refuge.\nVenez vite le rencontrer !",
+      "fiche_lue": false,
+      "portee": {
+        "id": "portee-1",
+        "taille": 4,
+        "disponibles": 4,
+        "confiance": "probable",
+        "indices": [
+          "même âge et même date de mise en ligne",
+          "fratrie mentionnée"
+        ]
+      },
+      "nouveau": true
+    },
+    {
+      "id": "laspa:260175",
+      "source": "laspa",
+      "source_label": "La SPA",
+      "source_id": "260175",
+      "uid": "adopter-trouver-mon-animal-zaz",
+      "nom": "ZAZ",
+      "url": "https://www.la-spa.fr/adopter/trouver-mon-animal/zaz/",
+      "image": "https://www.la-spa.fr/app/app/uploads/animals/260175/zaz-260175-6af33705e3268.jpg",
+      "espece": "chat",
+      "race": "Europeen",
+      "sexe": "femelle",
+      "age_categorie": "junior",
+      "age_texte": "3 mois",
+      "age_mois": 3,
+      "age_source": "fiche",
+      "age_conflit": null,
+      "date_naissance": null,
+      "date_publication": "2026-11-10",
+      "reserve": false,
+      "sos": false,
+      "fad": false,
+      "lieu": {
+        "nom": "La SPA - Refuge de Gennevilliers – Grammont",
+        "slug": "refuge-spa-de-gennevilliers-grammont",
+        "ville": "Gennevilliers",
+        "code_postal": "92230",
+        "departement": "92",
+        "latitude": 48.944706567958,
+        "longitude": 2.3035848619018,
+        "precision": "exacte",
+        "distance_km": 11.004464438564007,
+        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-gennevilliers-grammont/"
+      },
+      "description": "Zaz a été abandonné directement au refuge avec sa fratrie.\nZaz est une gentille louloutte qui recherche des adoptants doux et patients qui lui laisseront le temps d'évoluer à son rythme.\nZaz est actuellement en traitement contre la teigne, le traitement sera fournit et tout vous sera expliqué directement au refuge.\nVenez vite la rencontrer !",
+      "fiche_lue": false,
+      "portee": {
+        "id": "portee-1",
+        "taille": 4,
+        "disponibles": 4,
+        "confiance": "probable",
+        "indices": [
+          "même âge et même date de mise en ligne",
+          "fratrie mentionnée"
+        ]
+      },
+      "nouveau": true
+    },
+    {
+      "id": "laspa:260167",
+      "source": "laspa",
+      "source_label": "La SPA",
+      "source_id": "260167",
+      "uid": "adopter-trouver-mon-animal-ghost-5",
+      "nom": "GHOST",
+      "url": "https://www.la-spa.fr/adopter/trouver-mon-animal/ghost-5/",
+      "image": "https://www.la-spa.fr/app/app/uploads/animals/260167/ghost-260167-6af33551c2330.jpg",
+      "espece": "chat",
+      "race": "Europeen",
+      "sexe": "femelle",
+      "age_categorie": "junior",
+      "age_texte": "3 mois",
+      "age_mois": 3,
+      "age_source": "fiche",
+      "age_conflit": null,
+      "date_naissance": null,
+      "date_publication": "2026-11-10",
+      "reserve": false,
+      "sos": false,
+      "fad": false,
+      "lieu": {
+        "nom": "La SPA - Refuge de Gennevilliers – Grammont",
+        "slug": "refuge-spa-de-gennevilliers-grammont",
+        "ville": "Gennevilliers",
+        "code_postal": "92230",
+        "departement": "92",
+        "latitude": 48.944706567958,
+        "longitude": 2.3035848619018,
+        "precision": "exacte",
+        "distance_km": 11.004464438564007,
+        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-gennevilliers-grammont/"
+      },
+      "description": "Ghost a été abandonné directement au refuge avec sa fraterie.\nGhost est un gentil loulou qui recherche des adoptants doux et patients qui lui laisseront le temps d'évoluer à son rythme.\nGhost est actuellement en traitement contre la teigne, le traitement sera fournit et tout vous sera expliqué directement au refuge.\nVenez vite le rencontrer !",
+      "fiche_lue": false,
+      "portee": {
+        "id": "portee-1",
+        "taille": 4,
+        "disponibles": 4,
+        "confiance": "probable",
+        "indices": [
+          "même âge et même date de mise en ligne",
+          "fratrie mentionnée"
+        ]
+      },
+      "nouveau": true
+    },
     {
       "id": "laspa:259779",
       "source": "laspa",
@@ -365,7 +863,7 @@
       "description": "Flash et Bolide reviennent de famille relais.\nFlash et Bolide sont deux chatons craintif qui recherchent des adoptants doux et patient qui leur laisseront le temps d'évoluer à leur rythme.\nLa présence d'un premier chat au foyer sera obligatoire pour leur bon développement.\nIls devront vivre en appartement, sans sortie extérieure et sans jeunes enfants.\nVenez vite les rencontrer !",
       "fiche_lue": false,
       "portee": {
-        "id": "portee-1",
+        "id": "portee-2",
         "taille": 2,
         "disponibles": 2,
         "confiance": "forte",
@@ -416,7 +914,7 @@
       "description": "Flash et Bolide reviennent de famille relais.\nFlash et Bolide sont deux chatons craintif qui recherchent des adoptants doux et patient qui leur laisseront le temps d'évoluer à leur rythme.\nLa présence d'un premier chat au foyer sera obligatoire pour leur bon développement.\nIls devront vivre en appartement, sans sortie extérieure et sans jeunes enfants.\nVenez vite les rencontrer !",
       "fiche_lue": false,
       "portee": {
-        "id": "portee-1",
+        "id": "portee-2",
         "taille": 2,
         "disponibles": 2,
         "confiance": "forte",
@@ -467,7 +965,7 @@
       "description": "Tout comme sa soeur Kyra, il n'a pas eu un début de vie facile ayant été trouvé dans un sac fermé dans une poubelle alors qu'il n'était âgé d'à peine environ 2 semaines (il avait encore les yeux fermés). Recueilli et biberonné, il a pu être sauvé. Petit chat adorable, c'est un amour. Il adore les câlins, les caresses et surtout jouer. Très fusionnel avec sa soeur, il la cherche et l'appelle quand…",
       "fiche_lue": false,
       "portee": {
-        "id": "portee-2",
+        "id": "portee-3",
         "taille": 2,
         "disponibles": 2,
         "confiance": "probable",
@@ -515,7 +1013,7 @@
       "description": "Chaton d'environ 3 mois trouvée dans un sac fermé dans une poubelle avec son frère alors qu'elle n'avait que 2 semaines environ. Elle n'a donc pas eu un début de vie facile. Recueillie et biberonnée, elle a reçu tout l'amour nécessaire pour être sauvée. Petite chatte très câline, elle adore les caresses, en réclame et adore se blottir contre une personne ou son frère pour dormir. C'est un amour.…",
       "fiche_lue": false,
       "portee": {
-        "id": "portee-2",
+        "id": "portee-3",
         "taille": 2,
         "disponibles": 2,
         "confiance": "probable",
@@ -531,8 +1029,8 @@
     "sources": {
       "laspa": {
         "pages": 1,
-        "total_site": 120,
-        "dans_zone": 94,
+        "total_site": 129,
+        "dans_zone": 103,
         "fiches": 0,
         "fiches_cache": 0,
         "erreurs": 0
@@ -550,8 +1048,8 @@
     },
     "requests": 12,
     "retries": 0,
-    "duree_s": 10,
-    "annonces_zone": 94
+    "duree_s": 8.1,
+    "annonces_zone": 103
   },
   "erreurs": []
 }
