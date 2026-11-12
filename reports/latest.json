@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-11T13:12:58.583Z",
+  "date": "2026-11-12T14:16:43.601Z",
   "zone": {
     "mode": "rayon",
     "label": "50 km autour de Paris 11e Arrondissement",
@@ -306,6 +306,45 @@
       "nouveau": true
     },
     {
+      "id": "laspa:260696",
+      "source": "laspa",
+      "source_label": "La SPA",
+      "source_id": "260696",
+      "uid": "adopter-trouver-mon-animal-kiwi-2",
+      "nom": "KIWI",
+      "url": "https://www.la-spa.fr/adopter/trouver-mon-animal/kiwi-2/",
+      "image": "https://www.la-spa.fr/app/app/uploads/animals/260696/kiwi-260696-6af56abaab1ec.jpg",
+      "espece": "chat",
+      "race": "Europeen",
+      "sexe": "femelle",
+      "age_categorie": "junior",
+      "age_texte": "3 mois",
+      "age_mois": 3,
+      "age_source": "fiche",
+      "age_conflit": null,
+      "date_naissance": null,
+      "date_publication": "2026-11-12",
+      "reserve": false,
+      "sos": false,
+      "fad": false,
+      "lieu": {
+        "nom": "La SPA - Refuge de Gennevilliers – Grammont",
+        "slug": "refuge-spa-de-gennevilliers-grammont",
+        "ville": "Gennevilliers",
+        "code_postal": "92230",
+        "departement": "92",
+        "latitude": 48.944706567958,
+        "longitude": 2.3035848619018,
+        "precision": "exacte",
+        "distance_km": 11.004464438564007,
+        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-gennevilliers-grammont/"
+      },
+      "description": "Kiwi arrive de fourrière animale. Nous ne connaissons donc rien de sa vie précédente.\nKiwi est un adorable chaton qui recherche des adoptants doux et patients qui lui laisseront le temps d'évoluer à son rythme.\nAdopter un chaton est un engagement pour les 15 prochaines années.\nPrévoir un chèque de caution.\nVenez vite le rencontrer!",
+      "fiche_lue": false,
+      "portee": null,
+      "nouveau": true
+    },
+    {
       "id": "laspa:260167",
       "source": "laspa",
       "source_label": "La SPA",
@@ -345,102 +384,6 @@
         "id": "portee-1",
         "taille": 4,
         "disponibles": 4,
-        "confiance": "probable",
-        "indices": [
-          "même âge et même date de mise en ligne",
-          "fratrie mentionnée"
-        ]
-      },
-      "nouveau": true
-    },
-    {
-      "id": "laspa:259144",
-      "source": "laspa",
-      "source_label": "La SPA",
-      "source_id": "259144",
-      "uid": "adopter-trouver-mon-animal-leon-a17538",
-      "nom": "LEON A17538",
-      "url": "https://www.la-spa.fr/adopter/trouver-mon-animal/leon-a17538/",
-      "image": "https://www.la-spa.fr/app/app/uploads/animals/259144/leon-a17538-259144-6af06eacdcb9f.jpg",
-      "espece": "chat",
-      "race": "Europeen",
-      "sexe": "male",
-      "age_categorie": "junior",
-      "age_texte": "3 mois",
-      "age_mois": 3,
-      "age_source": "fiche",
-      "age_conflit": null,
-      "date_naissance": null,
-      "date_publication": "2026-11-07",
-      "reserve": false,
-      "sos": false,
-      "fad": false,
-      "lieu": {
-        "nom": "La SPA - Refuge d'Orgeval",
-        "slug": "refuge-spa-dorgeval",
-        "ville": "Orgeval",
-        "code_postal": "78630",
-        "departement": "78",
-        "latitude": 48.904123,
-        "longitude": 1.937452,
-        "precision": "exacte",
-        "distance_km": 32.86079500913231,
-        "url": "https://www.la-spa.fr/etablissement/refuge-spa-dorgeval/"
-      },
-      "description": "Tout comme sa soeur Kyra, il n'a pas eu un début de vie facile ayant été trouvé dans un sac fermé dans une poubelle alors qu'il n'était âgé d'à peine environ 2 semaines (il avait encore les yeux fermés). Recueilli et biberonné, il a pu être sauvé. Petit chat adorable, c'est un amour. Il adore les câlins, les caresses et surtout jouer. Très fusionnel avec sa soeur, il la cherche et l'appelle quand…",
-      "fiche_lue": false,
-      "portee": {
-        "id": "portee-3",
-        "taille": 2,
-        "disponibles": 2,
-        "confiance": "probable",
-        "indices": [
-          "même âge et même date de mise en ligne",
-          "fratrie mentionnée"
-        ]
-      },
-      "nouveau": true
-    },
-    {
-      "id": "laspa:259142",
-      "source": "laspa",
-      "source_label": "La SPA",
-      "source_id": "259142",
-      "uid": "adopter-trouver-mon-animal-a17539-kyra",
-      "nom": "A17539 KYRA",
-      "url": "https://www.la-spa.fr/adopter/trouver-mon-animal/a17539-kyra/",
-      "image": "https://www.la-spa.fr/app/app/uploads/animals/259142/a17539-kyra-259142-6af06ed68ebe6.jpg",
-      "espece": "chat",
-      "race": "Europeen",
-      "sexe": "femelle",
-      "age_categorie": "junior",
-      "age_texte": "3 mois",
-      "age_mois": 3,
-      "age_source": "fiche",
-      "age_conflit": null,
-      "date_naissance": null,
-      "date_publication": "2026-11-07",
-      "reserve": false,
-      "sos": false,
-      "fad": false,
-      "lieu": {
-        "nom": "La SPA - Refuge d'Orgeval",
-        "slug": "refuge-spa-dorgeval",
-        "ville": "Orgeval",
-        "code_postal": "78630",
-        "departement": "78",
-        "latitude": 48.904123,
-        "longitude": 1.937452,
-        "precision": "exacte",
-        "distance_km": 32.86079500913231,
-        "url": "https://www.la-spa.fr/etablissement/refuge-spa-dorgeval/"
-      },
-      "description": "Chaton d'environ 3 mois trouvée dans un sac fermé dans une poubelle avec son frère alors qu'elle n'avait que 2 semaines environ. Elle n'a donc pas eu un début de vie facile. Recueillie et biberonnée, elle a reçu tout l'amour nécessaire pour être sauvée. Petite chatte très câline, elle adore les caresses, en réclame et adore se blottir contre une personne ou son frère pour dormir. C'est un amour.…",
-      "fiche_lue": false,
-      "portee": {
-        "id": "portee-3",
-        "taille": 2,
-        "disponibles": 2,
         "confiance": "probable",
         "indices": [
           "même âge et même date de mise en ligne",
@@ -560,41 +503,48 @@
       "sources": [
         "La SPA"
       ]
-    },
-    {
-      "id": "portee-3",
-      "source": "laspa",
-      "source_label": "La SPA",
-      "lieu": {
-        "nom": "La SPA - Refuge d'Orgeval",
-        "ville": "Orgeval",
-        "departement": "78",
-        "url": "https://www.la-spa.fr/etablissement/refuge-spa-dorgeval/"
-      },
-      "date_naissance": null,
-      "age_mois": 3,
-      "taille": 2,
-      "annonces": 2,
-      "disponibles": 2,
-      "confiance": "probable",
-      "indices": [
-        "même âge et même date de mise en ligne",
-        "fratrie mentionnée"
-      ],
-      "membres": [
-        "laspa:259142",
-        "laspa:259144"
-      ],
-      "noms": [
-        "A17539 KYRA",
-        "LEON A17538"
-      ],
-      "sources": [
-        "La SPA"
-      ]
     }
   ],
   "nouveaux_arrivants": [
+    {
+      "id": "laspa:260696",
+      "source": "laspa",
+      "source_label": "La SPA",
+      "source_id": "260696",
+      "uid": "adopter-trouver-mon-animal-kiwi-2",
+      "nom": "KIWI",
+      "url": "https://www.la-spa.fr/adopter/trouver-mon-animal/kiwi-2/",
+      "image": "https://www.la-spa.fr/app/app/uploads/animals/260696/kiwi-260696-6af56abaab1ec.jpg",
+      "espece": "chat",
+      "race": "Europeen",
+      "sexe": "femelle",
+      "age_categorie": "junior",
+      "age_texte": "3 mois",
+      "age_mois": 3,
+      "age_source": "fiche",
+      "age_conflit": null,
+      "date_naissance": null,
+      "date_publication": "2026-11-12",
+      "reserve": false,
+      "sos": false,
+      "fad": false,
+      "lieu": {
+        "nom": "La SPA - Refuge de Gennevilliers – Grammont",
+        "slug": "refuge-spa-de-gennevilliers-grammont",
+        "ville": "Gennevilliers",
+        "code_postal": "92230",
+        "departement": "92",
+        "latitude": 48.944706567958,
+        "longitude": 2.3035848619018,
+        "precision": "exacte",
+        "distance_km": 11.004464438564007,
+        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-gennevilliers-grammont/"
+      },
+      "description": "Kiwi arrive de fourrière animale. Nous ne connaissons donc rien de sa vie précédente.\nKiwi est un adorable chaton qui recherche des adoptants doux et patients qui lui laisseront le temps d'évoluer à son rythme.\nAdopter un chaton est un engagement pour les 15 prochaines années.\nPrévoir un chèque de caution.\nVenez vite le rencontrer!",
+      "fiche_lue": false,
+      "portee": null,
+      "nouveau": true
+    },
     {
       "id": "laspa:260155",
       "source": "laspa",
@@ -927,110 +877,14 @@
         ]
       },
       "nouveau": true
-    },
-    {
-      "id": "laspa:259144",
-      "source": "laspa",
-      "source_label": "La SPA",
-      "source_id": "259144",
-      "uid": "adopter-trouver-mon-animal-leon-a17538",
-      "nom": "LEON A17538",
-      "url": "https://www.la-spa.fr/adopter/trouver-mon-animal/leon-a17538/",
-      "image": "https://www.la-spa.fr/app/app/uploads/animals/259144/leon-a17538-259144-6af06eacdcb9f.jpg",
-      "espece": "chat",
-      "race": "Europeen",
-      "sexe": "male",
-      "age_categorie": "junior",
-      "age_texte": "3 mois",
-      "age_mois": 3,
-      "age_source": "fiche",
-      "age_conflit": null,
-      "date_naissance": null,
-      "date_publication": "2026-11-07",
-      "reserve": false,
-      "sos": false,
-      "fad": false,
-      "lieu": {
-        "nom": "La SPA - Refuge d'Orgeval",
-        "slug": "refuge-spa-dorgeval",
-        "ville": "Orgeval",
-        "code_postal": "78630",
-        "departement": "78",
-        "latitude": 48.904123,
-        "longitude": 1.937452,
-        "precision": "exacte",
-        "distance_km": 32.86079500913231,
-        "url": "https://www.la-spa.fr/etablissement/refuge-spa-dorgeval/"
-      },
-      "description": "Tout comme sa soeur Kyra, il n'a pas eu un début de vie facile ayant été trouvé dans un sac fermé dans une poubelle alors qu'il n'était âgé d'à peine environ 2 semaines (il avait encore les yeux fermés). Recueilli et biberonné, il a pu être sauvé. Petit chat adorable, c'est un amour. Il adore les câlins, les caresses et surtout jouer. Très fusionnel avec sa soeur, il la cherche et l'appelle quand…",
-      "fiche_lue": false,
-      "portee": {
-        "id": "portee-3",
-        "taille": 2,
-        "disponibles": 2,
-        "confiance": "probable",
-        "indices": [
-          "même âge et même date de mise en ligne",
-          "fratrie mentionnée"
-        ]
-      },
-      "nouveau": true
-    },
-    {
-      "id": "laspa:259142",
-      "source": "laspa",
-      "source_label": "La SPA",
-      "source_id": "259142",
-      "uid": "adopter-trouver-mon-animal-a17539-kyra",
-      "nom": "A17539 KYRA",
-      "url": "https://www.la-spa.fr/adopter/trouver-mon-animal/a17539-kyra/",
-      "image": "https://www.la-spa.fr/app/app/uploads/animals/259142/a17539-kyra-259142-6af06ed68ebe6.jpg",
-      "espece": "chat",
-      "race": "Europeen",
-      "sexe": "femelle",
-      "age_categorie": "junior",
-      "age_texte": "3 mois",
-      "age_mois": 3,
-      "age_source": "fiche",
-      "age_conflit": null,
-      "date_naissance": null,
-      "date_publication": "2026-11-07",
-      "reserve": false,
-      "sos": false,
-      "fad": false,
-      "lieu": {
-        "nom": "La SPA - Refuge d'Orgeval",
-        "slug": "refuge-spa-dorgeval",
-        "ville": "Orgeval",
-        "code_postal": "78630",
-        "departement": "78",
-        "latitude": 48.904123,
-        "longitude": 1.937452,
-        "precision": "exacte",
-        "distance_km": 32.86079500913231,
-        "url": "https://www.la-spa.fr/etablissement/refuge-spa-dorgeval/"
-      },
-      "description": "Chaton d'environ 3 mois trouvée dans un sac fermé dans une poubelle avec son frère alors qu'elle n'avait que 2 semaines environ. Elle n'a donc pas eu un début de vie facile. Recueillie et biberonnée, elle a reçu tout l'amour nécessaire pour être sauvée. Petite chatte très câline, elle adore les caresses, en réclame et adore se blottir contre une personne ou son frère pour dormir. C'est un amour.…",
-      "fiche_lue": false,
-      "portee": {
-        "id": "portee-3",
-        "taille": 2,
-        "disponibles": 2,
-        "confiance": "probable",
-        "indices": [
-          "même âge et même date de mise en ligne",
-          "fratrie mentionnée"
-        ]
-      },
-      "nouveau": true
     }
   ],
   "stats": {
     "sources": {
       "laspa": {
         "pages": 1,
-        "total_site": 129,
-        "dans_zone": 103,
+        "total_site": 139,
+        "dans_zone": 106,
         "fiches": 0,
         "fiches_cache": 0,
         "erreurs": 0
@@ -1049,7 +903,7 @@
     "requests": 12,
     "retries": 0,
     "duree_s": 8.1,
-    "annonces_zone": 103
+    "annonces_zone": 106
   },
   "erreurs": []
 }
