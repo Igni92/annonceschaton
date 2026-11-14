@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-13T13:38:42.545Z",
+  "date": "2026-11-14T12:43:20.942Z",
   "zone": {
     "mode": "rayon",
     "label": "50 km autour de Paris 11e Arrondissement",
@@ -20,54 +20,6 @@
     "inclure_reserves": false
   },
   "chatons": [
-    {
-      "id": "laspa:260155",
-      "source": "laspa",
-      "source_label": "La SPA",
-      "source_id": "260155",
-      "uid": "adopter-trouver-mon-animal-tarzan",
-      "nom": "TARZAN",
-      "url": "https://www.la-spa.fr/adopter/trouver-mon-animal/tarzan/",
-      "image": "https://www.la-spa.fr/app/app/uploads/animals/260155/tarzan-260155-6af330306b803.jpg",
-      "espece": "chat",
-      "race": "Europeen",
-      "sexe": "femelle",
-      "age_categorie": "junior",
-      "age_texte": "2 mois",
-      "age_mois": 2,
-      "age_source": "fiche",
-      "age_conflit": null,
-      "date_naissance": null,
-      "date_publication": "2026-11-10",
-      "reserve": false,
-      "sos": false,
-      "fad": false,
-      "lieu": {
-        "nom": "La SPA - Refuge de Gennevilliers – Grammont",
-        "slug": "refuge-spa-de-gennevilliers-grammont",
-        "ville": "Gennevilliers",
-        "code_postal": "92230",
-        "departement": "92",
-        "latitude": 48.944706567958,
-        "longitude": 2.3035848619018,
-        "precision": "exacte",
-        "distance_km": 11.004464438564007,
-        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-gennevilliers-grammont/"
-      },
-      "description": "Tarzan revient de famille relais pour trouver sa famille pour la vie.\nTarzan est une minette pleine d'energie et une boîte à ronron qui recherche des adoptants doux et patients qui lui laisseront le temps d'évoluer à son rythme.\nTarzan a actuellement un traitement pour ses oreilles et ses yeux, tout vous sera fournit et expliqué au refuge.\nVenez vite la rencontrer !",
-      "fiche_lue": false,
-      "portee": {
-        "id": "portee-1",
-        "taille": 2,
-        "disponibles": 2,
-        "confiance": "probable",
-        "indices": [
-          "même âge et même date de mise en ligne",
-          "fratrie mentionnée"
-        ]
-      },
-      "nouveau": true
-    },
     {
       "id": "laspa:260160",
       "source": "laspa",
@@ -104,16 +56,7 @@
       },
       "description": "Ferguson est arrivée au refuge avec ses frères et sœurs, à la suite d'un syndrome de Noé.\nFerguson est un petit chat timide qui recherche des adoptants doux et patients, prêts à lui laisser le temps d'évoluer à son rythme.\nAyant été habituée à la présence d'un seul humain, il aura besoin de temps et de douceur avant d'accorder sa confiance à une nouvelle personne.\nFerguson devra vivre en appartem…",
       "fiche_lue": false,
-      "portee": {
-        "id": "portee-1",
-        "taille": 2,
-        "disponibles": 2,
-        "confiance": "probable",
-        "indices": [
-          "même âge et même date de mise en ligne",
-          "fratrie mentionnée"
-        ]
-      },
+      "portee": null,
       "nouveau": true
     },
     {
@@ -153,7 +96,7 @@
       "description": "Olympe a été abandonné directement au refuge.\nOlympe est une adorable louloutte qui recherche des adoptants doux et patients qui lui laisseront le temps d'évoluer à son rythme.\nOlympe est ataxique et devra vivre en appartement, sans sortie extérieure et sans jeunes enfants.\nOlympe est actuellement en traitement contre la teigne, le traitement sera fournit et tout vous sera expliqué au refuge.\nVen…",
       "fiche_lue": false,
       "portee": {
-        "id": "portee-2",
+        "id": "portee-1",
         "taille": 4,
         "disponibles": 4,
         "confiance": "probable",
@@ -201,7 +144,7 @@
       "description": "Captaine Price a été abandonné directement au refuge avec sa fratrie.\nCaptaine Price est un gentil loulou qui recherche des adoptants doux et patients qui lui laisseront le temps d'évoluer à son rythme.\nCaptaine Price est actuellement en traitement contre la teigne, le traitement sera fournit et tout vous sera expliqué directement au refuge.\nVenez vite le rencontrer !",
       "fiche_lue": false,
       "portee": {
-        "id": "portee-2",
+        "id": "portee-1",
         "taille": 4,
         "disponibles": 4,
         "confiance": "probable",
@@ -249,7 +192,7 @@
       "description": "Flash et Bolide reviennent de famille relais.\nFlash et Bolide sont deux chatons craintif qui recherchent des adoptants doux et patient qui leur laisseront le temps d'évoluer à leur rythme.\nLa présence d'un premier chat au foyer sera obligatoire pour leur bon développement.\nIls devront vivre en appartement, sans sortie extérieure et sans jeunes enfants.\nVenez vite les rencontrer !",
       "fiche_lue": false,
       "portee": {
-        "id": "portee-3",
+        "id": "portee-2",
         "taille": 2,
         "disponibles": 2,
         "confiance": "forte",
@@ -300,7 +243,7 @@
       "description": "Zaz a été abandonné directement au refuge avec sa fratrie.\nZaz est une gentille louloutte qui recherche des adoptants doux et patients qui lui laisseront le temps d'évoluer à son rythme.\nZaz est actuellement en traitement contre la teigne, le traitement sera fournit et tout vous sera expliqué directement au refuge.\nVenez vite la rencontrer !",
       "fiche_lue": false,
       "portee": {
-        "id": "portee-2",
+        "id": "portee-1",
         "taille": 4,
         "disponibles": 4,
         "confiance": "probable",
@@ -348,7 +291,7 @@
       "description": "Flash et Bolide reviennent de famille relais.\nFlash et Bolide sont deux chatons craintif qui recherchent des adoptants doux et patient qui leur laisseront le temps d'évoluer à leur rythme.\nLa présence d'un premier chat au foyer sera obligatoire pour leur bon développement.\nIls devront vivre en appartement, sans sortie extérieure et sans jeunes enfants.\nVenez vite les rencontrer !",
       "fiche_lue": false,
       "portee": {
-        "id": "portee-3",
+        "id": "portee-2",
         "taille": 2,
         "disponibles": 2,
         "confiance": "forte",
@@ -438,13 +381,172 @@
       "description": "Ghost a été abandonné directement au refuge avec sa fraterie.\nGhost est un gentil loulou qui recherche des adoptants doux et patients qui lui laisseront le temps d'évoluer à son rythme.\nGhost est actuellement en traitement contre la teigne, le traitement sera fournit et tout vous sera expliqué directement au refuge.\nVenez vite le rencontrer !",
       "fiche_lue": false,
       "portee": {
-        "id": "portee-2",
+        "id": "portee-1",
         "taille": 4,
         "disponibles": 4,
         "confiance": "probable",
         "indices": [
           "même âge et même date de mise en ligne",
           "fratrie mentionnée"
+        ]
+      },
+      "nouveau": true
+    },
+    {
+      "id": "laspa:261412",
+      "source": "laspa",
+      "source_label": "La SPA",
+      "source_id": "261412",
+      "uid": "adopter-trouver-mon-animal-stormy-pab30088",
+      "nom": "STORMY PAB30088",
+      "url": "https://www.la-spa.fr/adopter/trouver-mon-animal/stormy-pab30088/",
+      "image": "https://www.la-spa.fr/app/app/uploads/animals/261412/stormy-pab30088-261412-6af8294487b51.jpg",
+      "espece": "chat",
+      "race": "Europeen",
+      "sexe": "male",
+      "age_categorie": "junior",
+      "age_texte": "2 mois",
+      "age_mois": 2,
+      "age_source": "fiche",
+      "age_conflit": null,
+      "date_naissance": null,
+      "date_publication": "2026-11-14",
+      "reserve": false,
+      "sos": false,
+      "fad": false,
+      "lieu": {
+        "nom": "La SPA - Refuge de Plaisir",
+        "slug": "refuge-spa-de-plaisir",
+        "ville": "Plaisir",
+        "code_postal": "78370",
+        "departement": "78",
+        "latitude": 48.799745,
+        "longitude": 1.931481,
+        "precision": "exacte",
+        "distance_km": 33.64370864577482,
+        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-plaisir/"
+      },
+      "description": "Stormy est un adorable chaton, très cool et très câlin. Comme tous les chats de son âge, il est très joueur, mais il aime avant tout faire des grosses siestes dans des endroits douillets.\nIl pourra vivre en maison ou en appartement.\nStormy peut vivre avec d'autres chat et est ok avec des enfants respectueux.\nIl vit actuellement avec ses sœurs Neige et Nuage. Ils peuvent être adoptés seuls ou à pl…",
+      "fiche_lue": false,
+      "portee": {
+        "id": "portee-3",
+        "taille": 3,
+        "disponibles": 3,
+        "confiance": "forte",
+        "indices": [
+          "« NEIGE » cité·e dans la description",
+          "« NUAGE » cité·e dans la description",
+          "cité·e dans la description de « NUAGE »",
+          "même âge et même date de mise en ligne",
+          "fratrie mentionnée",
+          "cité·e dans la description de « STORMY »",
+          "« STORMY » cité·e dans la description"
+        ]
+      },
+      "nouveau": true
+    },
+    {
+      "id": "laspa:261415",
+      "source": "laspa",
+      "source_label": "La SPA",
+      "source_id": "261415",
+      "uid": "adopter-trouver-mon-animal-neige-pab30090",
+      "nom": "NEIGE PAB30090",
+      "url": "https://www.la-spa.fr/adopter/trouver-mon-animal/neige-pab30090/",
+      "image": "https://www.la-spa.fr/app/app/uploads/animals/261415/neige-pab30090-261415-6af828e2213de.jpg",
+      "espece": "chat",
+      "race": "Europeen",
+      "sexe": "femelle",
+      "age_categorie": "junior",
+      "age_texte": "2 mois",
+      "age_mois": 2,
+      "age_source": "fiche",
+      "age_conflit": null,
+      "date_naissance": null,
+      "date_publication": "2026-11-14",
+      "reserve": false,
+      "sos": false,
+      "fad": false,
+      "lieu": {
+        "nom": "La SPA - Refuge de Plaisir",
+        "slug": "refuge-spa-de-plaisir",
+        "ville": "Plaisir",
+        "code_postal": "78370",
+        "departement": "78",
+        "latitude": 48.799745,
+        "longitude": 1.931481,
+        "precision": "exacte",
+        "distance_km": 33.64370864577482,
+        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-plaisir/"
+      },
+      "description": "Neige est une chatonne de petit gabarit. Elle est très attachante. Mais il ne faut pas s’y tromper, elle est pleine d’énergie et participe sans hésitation aux jeux de mêlées avec ses frère et sœur.\nElle devra vivre en pavillon pour sortir se dépenser quand elle sera plus grande.\nNeige peut vivre avec d'autres chat et est ok avec des enfants respectueux.\nElle vit actuellement avec ses frère et soe…",
+      "fiche_lue": false,
+      "portee": {
+        "id": "portee-3",
+        "taille": 3,
+        "disponibles": 3,
+        "confiance": "forte",
+        "indices": [
+          "« NEIGE » cité·e dans la description",
+          "« NUAGE » cité·e dans la description",
+          "cité·e dans la description de « NUAGE »",
+          "même âge et même date de mise en ligne",
+          "fratrie mentionnée",
+          "cité·e dans la description de « STORMY »",
+          "« STORMY » cité·e dans la description"
+        ]
+      },
+      "nouveau": true
+    },
+    {
+      "id": "laspa:261413",
+      "source": "laspa",
+      "source_label": "La SPA",
+      "source_id": "261413",
+      "uid": "adopter-trouver-mon-animal-nuage-pab30089",
+      "nom": "NUAGE PAB30089",
+      "url": "https://www.la-spa.fr/adopter/trouver-mon-animal/nuage-pab30089/",
+      "image": "https://www.la-spa.fr/app/app/uploads/animals/261413/nuage-pab30089-261413-6af829290bce0.jpg",
+      "espece": "chat",
+      "race": "Europeen",
+      "sexe": "femelle",
+      "age_categorie": "junior",
+      "age_texte": "2 mois",
+      "age_mois": 2,
+      "age_source": "fiche",
+      "age_conflit": null,
+      "date_naissance": null,
+      "date_publication": "2026-11-14",
+      "reserve": false,
+      "sos": false,
+      "fad": false,
+      "lieu": {
+        "nom": "La SPA - Refuge de Plaisir",
+        "slug": "refuge-spa-de-plaisir",
+        "ville": "Plaisir",
+        "code_postal": "78370",
+        "departement": "78",
+        "latitude": 48.799745,
+        "longitude": 1.931481,
+        "precision": "exacte",
+        "distance_km": 33.64370864577482,
+        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-plaisir/"
+      },
+      "description": "Nuage est une petite chatonne pleine d’énergie. Elle joue beaucoup, mais adore aussi les câlins qu’elle vient vous demander avec ses petits miaulements qui font craquer.\nElle devra vivre en pavillon pour sortir se dépenser quand elle sera plus grande.\nNuage peut vivre avec d'autres chat et est ok avec des enfants respectueux.\nElle vit actuellement avec ses frère et soeur Stormy et Neige. Ils peuv…",
+      "fiche_lue": false,
+      "portee": {
+        "id": "portee-3",
+        "taille": 3,
+        "disponibles": 3,
+        "confiance": "forte",
+        "indices": [
+          "« NEIGE » cité·e dans la description",
+          "« NUAGE » cité·e dans la description",
+          "cité·e dans la description de « NUAGE »",
+          "même âge et même date de mise en ligne",
+          "fratrie mentionnée",
+          "cité·e dans la description de « STORMY »",
+          "« STORMY » cité·e dans la description"
         ]
       },
       "nouveau": true
@@ -457,7 +559,7 @@
       "uid": "adopter-trouver-mon-animal-bambou-cha",
       "nom": "BAMBOU CHA",
       "url": "https://www.la-spa.fr/adopter/trouver-mon-animal/bambou-cha/",
-      "image": "https://www.la-spa.fr/app/app/uploads/animals/257624/bambou-cha-257624-6ae8cd226e5e3.jpg",
+      "image": "https://www.la-spa.fr/app/app/uploads/animals/257624/bambou-cha-257624-6af831763508a.jpg",
       "espece": "chat",
       "race": "Europeen",
       "sexe": "femelle",
@@ -491,7 +593,7 @@
   ],
   "portees": [
     {
-      "id": "portee-2",
+      "id": "portee-1",
       "source": "laspa",
       "source_label": "La SPA",
       "lieu": {
@@ -527,39 +629,46 @@
       ]
     },
     {
-      "id": "portee-1",
+      "id": "portee-3",
       "source": "laspa",
       "source_label": "La SPA",
       "lieu": {
-        "nom": "La SPA - Refuge de Gennevilliers – Grammont",
-        "ville": "Gennevilliers",
-        "departement": "92",
-        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-gennevilliers-grammont/"
+        "nom": "La SPA - Refuge de Plaisir",
+        "ville": "Plaisir",
+        "departement": "78",
+        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-plaisir/"
       },
       "date_naissance": null,
       "age_mois": 2,
-      "taille": 2,
-      "annonces": 2,
-      "disponibles": 2,
-      "confiance": "probable",
+      "taille": 3,
+      "annonces": 3,
+      "disponibles": 3,
+      "confiance": "forte",
       "indices": [
+        "« NEIGE » cité·e dans la description",
+        "« NUAGE » cité·e dans la description",
+        "cité·e dans la description de « NUAGE »",
         "même âge et même date de mise en ligne",
-        "fratrie mentionnée"
+        "fratrie mentionnée",
+        "cité·e dans la description de « STORMY »",
+        "« STORMY » cité·e dans la description"
       ],
       "membres": [
-        "laspa:260155",
-        "laspa:260160"
+        "laspa:261412",
+        "laspa:261413",
+        "laspa:261415"
       ],
       "noms": [
-        "FERGUSON",
-        "TARZAN"
+        "NEIGE",
+        "NUAGE",
+        "STORMY"
       ],
       "sources": [
         "La SPA"
       ]
     },
     {
-      "id": "portee-3",
+      "id": "portee-2",
       "source": "laspa",
       "source_label": "La SPA",
       "lieu": {
@@ -596,6 +705,165 @@
   ],
   "nouveaux_arrivants": [
     {
+      "id": "laspa:261412",
+      "source": "laspa",
+      "source_label": "La SPA",
+      "source_id": "261412",
+      "uid": "adopter-trouver-mon-animal-stormy-pab30088",
+      "nom": "STORMY PAB30088",
+      "url": "https://www.la-spa.fr/adopter/trouver-mon-animal/stormy-pab30088/",
+      "image": "https://www.la-spa.fr/app/app/uploads/animals/261412/stormy-pab30088-261412-6af8294487b51.jpg",
+      "espece": "chat",
+      "race": "Europeen",
+      "sexe": "male",
+      "age_categorie": "junior",
+      "age_texte": "2 mois",
+      "age_mois": 2,
+      "age_source": "fiche",
+      "age_conflit": null,
+      "date_naissance": null,
+      "date_publication": "2026-11-14",
+      "reserve": false,
+      "sos": false,
+      "fad": false,
+      "lieu": {
+        "nom": "La SPA - Refuge de Plaisir",
+        "slug": "refuge-spa-de-plaisir",
+        "ville": "Plaisir",
+        "code_postal": "78370",
+        "departement": "78",
+        "latitude": 48.799745,
+        "longitude": 1.931481,
+        "precision": "exacte",
+        "distance_km": 33.64370864577482,
+        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-plaisir/"
+      },
+      "description": "Stormy est un adorable chaton, très cool et très câlin. Comme tous les chats de son âge, il est très joueur, mais il aime avant tout faire des grosses siestes dans des endroits douillets.\nIl pourra vivre en maison ou en appartement.\nStormy peut vivre avec d'autres chat et est ok avec des enfants respectueux.\nIl vit actuellement avec ses sœurs Neige et Nuage. Ils peuvent être adoptés seuls ou à pl…",
+      "fiche_lue": false,
+      "portee": {
+        "id": "portee-3",
+        "taille": 3,
+        "disponibles": 3,
+        "confiance": "forte",
+        "indices": [
+          "« NEIGE » cité·e dans la description",
+          "« NUAGE » cité·e dans la description",
+          "cité·e dans la description de « NUAGE »",
+          "même âge et même date de mise en ligne",
+          "fratrie mentionnée",
+          "cité·e dans la description de « STORMY »",
+          "« STORMY » cité·e dans la description"
+        ]
+      },
+      "nouveau": true
+    },
+    {
+      "id": "laspa:261415",
+      "source": "laspa",
+      "source_label": "La SPA",
+      "source_id": "261415",
+      "uid": "adopter-trouver-mon-animal-neige-pab30090",
+      "nom": "NEIGE PAB30090",
+      "url": "https://www.la-spa.fr/adopter/trouver-mon-animal/neige-pab30090/",
+      "image": "https://www.la-spa.fr/app/app/uploads/animals/261415/neige-pab30090-261415-6af828e2213de.jpg",
+      "espece": "chat",
+      "race": "Europeen",
+      "sexe": "femelle",
+      "age_categorie": "junior",
+      "age_texte": "2 mois",
+      "age_mois": 2,
+      "age_source": "fiche",
+      "age_conflit": null,
+      "date_naissance": null,
+      "date_publication": "2026-11-14",
+      "reserve": false,
+      "sos": false,
+      "fad": false,
+      "lieu": {
+        "nom": "La SPA - Refuge de Plaisir",
+        "slug": "refuge-spa-de-plaisir",
+        "ville": "Plaisir",
+        "code_postal": "78370",
+        "departement": "78",
+        "latitude": 48.799745,
+        "longitude": 1.931481,
+        "precision": "exacte",
+        "distance_km": 33.64370864577482,
+        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-plaisir/"
+      },
+      "description": "Neige est une chatonne de petit gabarit. Elle est très attachante. Mais il ne faut pas s’y tromper, elle est pleine d’énergie et participe sans hésitation aux jeux de mêlées avec ses frère et sœur.\nElle devra vivre en pavillon pour sortir se dépenser quand elle sera plus grande.\nNeige peut vivre avec d'autres chat et est ok avec des enfants respectueux.\nElle vit actuellement avec ses frère et soe…",
+      "fiche_lue": false,
+      "portee": {
+        "id": "portee-3",
+        "taille": 3,
+        "disponibles": 3,
+        "confiance": "forte",
+        "indices": [
+          "« NEIGE » cité·e dans la description",
+          "« NUAGE » cité·e dans la description",
+          "cité·e dans la description de « NUAGE »",
+          "même âge et même date de mise en ligne",
+          "fratrie mentionnée",
+          "cité·e dans la description de « STORMY »",
+          "« STORMY » cité·e dans la description"
+        ]
+      },
+      "nouveau": true
+    },
+    {
+      "id": "laspa:261413",
+      "source": "laspa",
+      "source_label": "La SPA",
+      "source_id": "261413",
+      "uid": "adopter-trouver-mon-animal-nuage-pab30089",
+      "nom": "NUAGE PAB30089",
+      "url": "https://www.la-spa.fr/adopter/trouver-mon-animal/nuage-pab30089/",
+      "image": "https://www.la-spa.fr/app/app/uploads/animals/261413/nuage-pab30089-261413-6af829290bce0.jpg",
+      "espece": "chat",
+      "race": "Europeen",
+      "sexe": "femelle",
+      "age_categorie": "junior",
+      "age_texte": "2 mois",
+      "age_mois": 2,
+      "age_source": "fiche",
+      "age_conflit": null,
+      "date_naissance": null,
+      "date_publication": "2026-11-14",
+      "reserve": false,
+      "sos": false,
+      "fad": false,
+      "lieu": {
+        "nom": "La SPA - Refuge de Plaisir",
+        "slug": "refuge-spa-de-plaisir",
+        "ville": "Plaisir",
+        "code_postal": "78370",
+        "departement": "78",
+        "latitude": 48.799745,
+        "longitude": 1.931481,
+        "precision": "exacte",
+        "distance_km": 33.64370864577482,
+        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-plaisir/"
+      },
+      "description": "Nuage est une petite chatonne pleine d’énergie. Elle joue beaucoup, mais adore aussi les câlins qu’elle vient vous demander avec ses petits miaulements qui font craquer.\nElle devra vivre en pavillon pour sortir se dépenser quand elle sera plus grande.\nNuage peut vivre avec d'autres chat et est ok avec des enfants respectueux.\nElle vit actuellement avec ses frère et soeur Stormy et Neige. Ils peuv…",
+      "fiche_lue": false,
+      "portee": {
+        "id": "portee-3",
+        "taille": 3,
+        "disponibles": 3,
+        "confiance": "forte",
+        "indices": [
+          "« NEIGE » cité·e dans la description",
+          "« NUAGE » cité·e dans la description",
+          "cité·e dans la description de « NUAGE »",
+          "même âge et même date de mise en ligne",
+          "fratrie mentionnée",
+          "cité·e dans la description de « STORMY »",
+          "« STORMY » cité·e dans la description"
+        ]
+      },
+      "nouveau": true
+    },
+    {
       "id": "laspa:260696",
       "source": "laspa",
       "source_label": "La SPA",
@@ -635,54 +903,6 @@
       "nouveau": true
     },
     {
-      "id": "laspa:260155",
-      "source": "laspa",
-      "source_label": "La SPA",
-      "source_id": "260155",
-      "uid": "adopter-trouver-mon-animal-tarzan",
-      "nom": "TARZAN",
-      "url": "https://www.la-spa.fr/adopter/trouver-mon-animal/tarzan/",
-      "image": "https://www.la-spa.fr/app/app/uploads/animals/260155/tarzan-260155-6af330306b803.jpg",
-      "espece": "chat",
-      "race": "Europeen",
-      "sexe": "femelle",
-      "age_categorie": "junior",
-      "age_texte": "2 mois",
-      "age_mois": 2,
-      "age_source": "fiche",
-      "age_conflit": null,
-      "date_naissance": null,
-      "date_publication": "2026-11-10",
-      "reserve": false,
-      "sos": false,
-      "fad": false,
-      "lieu": {
-        "nom": "La SPA - Refuge de Gennevilliers – Grammont",
-        "slug": "refuge-spa-de-gennevilliers-grammont",
-        "ville": "Gennevilliers",
-        "code_postal": "92230",
-        "departement": "92",
-        "latitude": 48.944706567958,
-        "longitude": 2.3035848619018,
-        "precision": "exacte",
-        "distance_km": 11.004464438564007,
-        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-gennevilliers-grammont/"
-      },
-      "description": "Tarzan revient de famille relais pour trouver sa famille pour la vie.\nTarzan est une minette pleine d'energie et une boîte à ronron qui recherche des adoptants doux et patients qui lui laisseront le temps d'évoluer à son rythme.\nTarzan a actuellement un traitement pour ses oreilles et ses yeux, tout vous sera fournit et expliqué au refuge.\nVenez vite la rencontrer !",
-      "fiche_lue": false,
-      "portee": {
-        "id": "portee-1",
-        "taille": 2,
-        "disponibles": 2,
-        "confiance": "probable",
-        "indices": [
-          "même âge et même date de mise en ligne",
-          "fratrie mentionnée"
-        ]
-      },
-      "nouveau": true
-    },
-    {
       "id": "laspa:260160",
       "source": "laspa",
       "source_label": "La SPA",
@@ -718,16 +938,7 @@
       },
       "description": "Ferguson est arrivée au refuge avec ses frères et sœurs, à la suite d'un syndrome de Noé.\nFerguson est un petit chat timide qui recherche des adoptants doux et patients, prêts à lui laisser le temps d'évoluer à son rythme.\nAyant été habituée à la présence d'un seul humain, il aura besoin de temps et de douceur avant d'accorder sa confiance à une nouvelle personne.\nFerguson devra vivre en appartem…",
       "fiche_lue": false,
-      "portee": {
-        "id": "portee-1",
-        "taille": 2,
-        "disponibles": 2,
-        "confiance": "probable",
-        "indices": [
-          "même âge et même date de mise en ligne",
-          "fratrie mentionnée"
-        ]
-      },
+      "portee": null,
       "nouveau": true
     },
     {
@@ -767,7 +978,7 @@
       "description": "Olympe a été abandonné directement au refuge.\nOlympe est une adorable louloutte qui recherche des adoptants doux et patients qui lui laisseront le temps d'évoluer à son rythme.\nOlympe est ataxique et devra vivre en appartement, sans sortie extérieure et sans jeunes enfants.\nOlympe est actuellement en traitement contre la teigne, le traitement sera fournit et tout vous sera expliqué au refuge.\nVen…",
       "fiche_lue": false,
       "portee": {
-        "id": "portee-2",
+        "id": "portee-1",
         "taille": 4,
         "disponibles": 4,
         "confiance": "probable",
@@ -815,7 +1026,7 @@
       "description": "Captaine Price a été abandonné directement au refuge avec sa fratrie.\nCaptaine Price est un gentil loulou qui recherche des adoptants doux et patients qui lui laisseront le temps d'évoluer à son rythme.\nCaptaine Price est actuellement en traitement contre la teigne, le traitement sera fournit et tout vous sera expliqué directement au refuge.\nVenez vite le rencontrer !",
       "fiche_lue": false,
       "portee": {
-        "id": "portee-2",
+        "id": "portee-1",
         "taille": 4,
         "disponibles": 4,
         "confiance": "probable",
@@ -863,7 +1074,7 @@
       "description": "Zaz a été abandonné directement au refuge avec sa fratrie.\nZaz est une gentille louloutte qui recherche des adoptants doux et patients qui lui laisseront le temps d'évoluer à son rythme.\nZaz est actuellement en traitement contre la teigne, le traitement sera fournit et tout vous sera expliqué directement au refuge.\nVenez vite la rencontrer !",
       "fiche_lue": false,
       "portee": {
-        "id": "portee-2",
+        "id": "portee-1",
         "taille": 4,
         "disponibles": 4,
         "confiance": "probable",
@@ -911,7 +1122,7 @@
       "description": "Ghost a été abandonné directement au refuge avec sa fraterie.\nGhost est un gentil loulou qui recherche des adoptants doux et patients qui lui laisseront le temps d'évoluer à son rythme.\nGhost est actuellement en traitement contre la teigne, le traitement sera fournit et tout vous sera expliqué directement au refuge.\nVenez vite le rencontrer !",
       "fiche_lue": false,
       "portee": {
-        "id": "portee-2",
+        "id": "portee-1",
         "taille": 4,
         "disponibles": 4,
         "confiance": "probable",
@@ -959,7 +1170,7 @@
       "description": "Flash et Bolide reviennent de famille relais.\nFlash et Bolide sont deux chatons craintif qui recherchent des adoptants doux et patient qui leur laisseront le temps d'évoluer à leur rythme.\nLa présence d'un premier chat au foyer sera obligatoire pour leur bon développement.\nIls devront vivre en appartement, sans sortie extérieure et sans jeunes enfants.\nVenez vite les rencontrer !",
       "fiche_lue": false,
       "portee": {
-        "id": "portee-3",
+        "id": "portee-2",
         "taille": 2,
         "disponibles": 2,
         "confiance": "forte",
@@ -1010,7 +1221,7 @@
       "description": "Flash et Bolide reviennent de famille relais.\nFlash et Bolide sont deux chatons craintif qui recherchent des adoptants doux et patient qui leur laisseront le temps d'évoluer à leur rythme.\nLa présence d'un premier chat au foyer sera obligatoire pour leur bon développement.\nIls devront vivre en appartement, sans sortie extérieure et sans jeunes enfants.\nVenez vite les rencontrer !",
       "fiche_lue": false,
       "portee": {
-        "id": "portee-3",
+        "id": "portee-2",
         "taille": 2,
         "disponibles": 2,
         "confiance": "forte",
@@ -1029,8 +1240,8 @@
     "sources": {
       "laspa": {
         "pages": 1,
-        "total_site": 154,
-        "dans_zone": 121,
+        "total_site": 148,
+        "dans_zone": 115,
         "fiches": 0,
         "fiches_cache": 0,
         "erreurs": 0
@@ -1048,8 +1259,8 @@
     },
     "requests": 12,
     "retries": 0,
-    "duree_s": 9.6,
-    "annonces_zone": 121
+    "duree_s": 7.7,
+    "annonces_zone": 115
   },
   "erreurs": []
 }
