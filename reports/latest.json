@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-14T12:43:20.942Z",
+  "date": "2026-11-15T13:10:17.051Z",
   "zone": {
     "mode": "rayon",
     "label": "50 km autour de Paris 11e Arrondissement",
@@ -20,45 +20,6 @@
     "inclure_reserves": false
   },
   "chatons": [
-    {
-      "id": "laspa:260160",
-      "source": "laspa",
-      "source_label": "La SPA",
-      "source_id": "260160",
-      "uid": "adopter-trouver-mon-animal-ferguson",
-      "nom": "FERGUSON",
-      "url": "https://www.la-spa.fr/adopter/trouver-mon-animal/ferguson/",
-      "image": "https://www.la-spa.fr/app/app/uploads/animals/260160/ferguson-260160-6af70ec0c4472.jpg",
-      "espece": "chat",
-      "race": "Europeen",
-      "sexe": "femelle",
-      "age_categorie": "junior",
-      "age_texte": "2 mois",
-      "age_mois": 2,
-      "age_source": "fiche",
-      "age_conflit": null,
-      "date_naissance": null,
-      "date_publication": "2026-11-10",
-      "reserve": false,
-      "sos": false,
-      "fad": false,
-      "lieu": {
-        "nom": "La SPA - Refuge de Gennevilliers – Grammont",
-        "slug": "refuge-spa-de-gennevilliers-grammont",
-        "ville": "Gennevilliers",
-        "code_postal": "92230",
-        "departement": "92",
-        "latitude": 48.944706567958,
-        "longitude": 2.3035848619018,
-        "precision": "exacte",
-        "distance_km": 11.004464438564007,
-        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-gennevilliers-grammont/"
-      },
-      "description": "Ferguson est arrivée au refuge avec ses frères et sœurs, à la suite d'un syndrome de Noé.\nFerguson est un petit chat timide qui recherche des adoptants doux et patients, prêts à lui laisser le temps d'évoluer à son rythme.\nAyant été habituée à la présence d'un seul humain, il aura besoin de temps et de douceur avant d'accorder sa confiance à une nouvelle personne.\nFerguson devra vivre en appartem…",
-      "fiche_lue": false,
-      "portee": null,
-      "nouveau": true
-    },
     {
       "id": "laspa:260148",
       "source": "laspa",
@@ -204,6 +165,45 @@
           "« FLASH » cité·e dans la description"
         ]
       },
+      "nouveau": true
+    },
+    {
+      "id": "laspa:261576",
+      "source": "laspa",
+      "source_label": "La SPA",
+      "source_id": "261576",
+      "uid": "adopter-trouver-mon-animal-janis",
+      "nom": "JANIS",
+      "url": "https://www.la-spa.fr/adopter/trouver-mon-animal/janis/",
+      "image": "https://www.la-spa.fr/app/app/uploads/animals/261576/janis-261576-6af892eb8ab30.jpg",
+      "espece": "chat",
+      "race": "Europeen",
+      "sexe": "femelle",
+      "age_categorie": "junior",
+      "age_texte": "3 mois",
+      "age_mois": 3,
+      "age_source": "fiche",
+      "age_conflit": null,
+      "date_naissance": null,
+      "date_publication": "2026-11-14",
+      "reserve": false,
+      "sos": false,
+      "fad": false,
+      "lieu": {
+        "nom": "La SPA - Refuge de Gennevilliers – Grammont",
+        "slug": "refuge-spa-de-gennevilliers-grammont",
+        "ville": "Gennevilliers",
+        "code_postal": "92230",
+        "departement": "92",
+        "latitude": 48.944706567958,
+        "longitude": 2.3035848619018,
+        "precision": "exacte",
+        "distance_km": 11.004464438564007,
+        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-gennevilliers-grammont/"
+      },
+      "description": "JANIS A L'ADOPTION AVEC JAIN\nCe sont deux petites chattes très fusionnel entre elles. Il serait vraiment nécessaire de les faire adopter ensemble car la petite chatte noire Janis est très dépendante de sa sœur Jain, elles sont très méfiante, mais une fois en confiance, ce sont deux petites adorables, chatons qui viendront, d’elles-mêmes demander des câlins et volontiers se poser à côté de vous. E…",
+      "fiche_lue": false,
+      "portee": null,
       "nouveau": true
     },
     {
@@ -705,6 +705,45 @@
   ],
   "nouveaux_arrivants": [
     {
+      "id": "laspa:261576",
+      "source": "laspa",
+      "source_label": "La SPA",
+      "source_id": "261576",
+      "uid": "adopter-trouver-mon-animal-janis",
+      "nom": "JANIS",
+      "url": "https://www.la-spa.fr/adopter/trouver-mon-animal/janis/",
+      "image": "https://www.la-spa.fr/app/app/uploads/animals/261576/janis-261576-6af892eb8ab30.jpg",
+      "espece": "chat",
+      "race": "Europeen",
+      "sexe": "femelle",
+      "age_categorie": "junior",
+      "age_texte": "3 mois",
+      "age_mois": 3,
+      "age_source": "fiche",
+      "age_conflit": null,
+      "date_naissance": null,
+      "date_publication": "2026-11-14",
+      "reserve": false,
+      "sos": false,
+      "fad": false,
+      "lieu": {
+        "nom": "La SPA - Refuge de Gennevilliers – Grammont",
+        "slug": "refuge-spa-de-gennevilliers-grammont",
+        "ville": "Gennevilliers",
+        "code_postal": "92230",
+        "departement": "92",
+        "latitude": 48.944706567958,
+        "longitude": 2.3035848619018,
+        "precision": "exacte",
+        "distance_km": 11.004464438564007,
+        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-gennevilliers-grammont/"
+      },
+      "description": "JANIS A L'ADOPTION AVEC JAIN\nCe sont deux petites chattes très fusionnel entre elles. Il serait vraiment nécessaire de les faire adopter ensemble car la petite chatte noire Janis est très dépendante de sa sœur Jain, elles sont très méfiante, mais une fois en confiance, ce sont deux petites adorables, chatons qui viendront, d’elles-mêmes demander des câlins et volontiers se poser à côté de vous. E…",
+      "fiche_lue": false,
+      "portee": null,
+      "nouveau": true
+    },
+    {
       "id": "laspa:261412",
       "source": "laspa",
       "source_label": "La SPA",
@@ -898,45 +937,6 @@
         "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-gennevilliers-grammont/"
       },
       "description": "Kiwi arrive de fourrière animale. Nous ne connaissons donc rien de sa vie précédente.\nKiwi est un adorable chaton qui recherche des adoptants doux et patients qui lui laisseront le temps d'évoluer à son rythme.\nAdopter un chaton est un engagement pour les 15 prochaines années.\nPrévoir un chèque de caution.\nVenez vite le rencontrer!",
-      "fiche_lue": false,
-      "portee": null,
-      "nouveau": true
-    },
-    {
-      "id": "laspa:260160",
-      "source": "laspa",
-      "source_label": "La SPA",
-      "source_id": "260160",
-      "uid": "adopter-trouver-mon-animal-ferguson",
-      "nom": "FERGUSON",
-      "url": "https://www.la-spa.fr/adopter/trouver-mon-animal/ferguson/",
-      "image": "https://www.la-spa.fr/app/app/uploads/animals/260160/ferguson-260160-6af70ec0c4472.jpg",
-      "espece": "chat",
-      "race": "Europeen",
-      "sexe": "femelle",
-      "age_categorie": "junior",
-      "age_texte": "2 mois",
-      "age_mois": 2,
-      "age_source": "fiche",
-      "age_conflit": null,
-      "date_naissance": null,
-      "date_publication": "2026-11-10",
-      "reserve": false,
-      "sos": false,
-      "fad": false,
-      "lieu": {
-        "nom": "La SPA - Refuge de Gennevilliers – Grammont",
-        "slug": "refuge-spa-de-gennevilliers-grammont",
-        "ville": "Gennevilliers",
-        "code_postal": "92230",
-        "departement": "92",
-        "latitude": 48.944706567958,
-        "longitude": 2.3035848619018,
-        "precision": "exacte",
-        "distance_km": 11.004464438564007,
-        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-gennevilliers-grammont/"
-      },
-      "description": "Ferguson est arrivée au refuge avec ses frères et sœurs, à la suite d'un syndrome de Noé.\nFerguson est un petit chat timide qui recherche des adoptants doux et patients, prêts à lui laisser le temps d'évoluer à son rythme.\nAyant été habituée à la présence d'un seul humain, il aura besoin de temps et de douceur avant d'accorder sa confiance à une nouvelle personne.\nFerguson devra vivre en appartem…",
       "fiche_lue": false,
       "portee": null,
       "nouveau": true
@@ -1240,8 +1240,8 @@
     "sources": {
       "laspa": {
         "pages": 1,
-        "total_site": 148,
-        "dans_zone": 115,
+        "total_site": 145,
+        "dans_zone": 106,
         "fiches": 0,
         "fiches_cache": 0,
         "erreurs": 0
@@ -1259,8 +1259,8 @@
     },
     "requests": 12,
     "retries": 0,
-    "duree_s": 7.7,
-    "annonces_zone": 115
+    "duree_s": 7.3,
+    "annonces_zone": 106
   },
   "erreurs": []
 }

@@ -1,4 +1,4 @@
-# Annonces chatons — samedi 14 novembre 2026
+# Annonces chatons — dimanche 15 novembre 2026
 
 ## 🐾 Chatons de moins de 4 mois (12)
 
@@ -37,9 +37,9 @@
 
 ### Chatons seuls (3)
 
-- 🆕 **[FERGUSON](https://www.la-spa.fr/adopter/trouver-mon-animal/ferguson/)** — 2 mois · ♀ femelle · Europeen
+- 🆕 **[JANIS](https://www.la-spa.fr/adopter/trouver-mon-animal/janis/)** — 3 mois · ♀ femelle · Europeen
   📍 La SPA - Refuge de Gennevilliers – Grammont · 11 km
-  🗓 mis en ligne le 10/11/2026 · La SPA
+  🗓 mis en ligne le 14/11/2026 · La SPA
 - 🆕 **[KIWI](https://www.la-spa.fr/adopter/trouver-mon-animal/kiwi-2/)** — 3 mois · ♀ femelle · Europeen
   📍 La SPA - Refuge de Gennevilliers – Grammont · 11 km
   🗓 mis en ligne le 12/11/2026 · La SPA
