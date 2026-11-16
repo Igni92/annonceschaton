@@ -1,6 +1,6 @@
-# Annonces chatons — dimanche 15 novembre 2026
+# Annonces chatons — lundi 16 novembre 2026
 
-## 🐾 Chatons de moins de 4 mois (12)
+## 🐾 Chatons de moins de 4 mois (10)
 
 ### 👨‍👩‍👧‍👦 Portée de 4 chatons · La SPA - Refuge de Gennevilliers – Grammont · 3 mois · portée probable
 - 🆕 **[OLYMPE](https://www.la-spa.fr/adopter/trouver-mon-animal/olympe-4/)** — 3 mois · ♀ femelle · Europeen
@@ -16,17 +16,6 @@
   📍 La SPA - Refuge de Gennevilliers – Grammont · 11 km
   🗓 mis en ligne le 10/11/2026 · La SPA
 
-### 👨‍👩‍👧‍👦 Portée de 3 chatons · La SPA - Refuge de Plaisir · 2 mois
-- 🆕 **[STORMY PAB30088](https://www.la-spa.fr/adopter/trouver-mon-animal/stormy-pab30088/)** — 2 mois · ♂ mâle · Europeen
-  📍 La SPA - Refuge de Plaisir · 34 km
-  🗓 mis en ligne le 14/11/2026 · La SPA
-- 🆕 **[NUAGE PAB30089](https://www.la-spa.fr/adopter/trouver-mon-animal/nuage-pab30089/)** — 2 mois · ♀ femelle · Europeen
-  📍 La SPA - Refuge de Plaisir · 34 km
-  🗓 mis en ligne le 14/11/2026 · La SPA
-- 🆕 **[NEIGE PAB30090](https://www.la-spa.fr/adopter/trouver-mon-animal/neige-pab30090/)** — 2 mois · ♀ femelle · Europeen
-  📍 La SPA - Refuge de Plaisir · 34 km
-  🗓 mis en ligne le 14/11/2026 · La SPA
-
 ### 👨‍👩‍👧‍👦 Portée de 2 chatons · La SPA - Refuge de Gennevilliers – Grammont · 3 mois
 - 🆕 **[FLASH](https://www.la-spa.fr/adopter/trouver-mon-animal/flash-4/)** — 3 mois · ♂ mâle · Europeen
   📍 La SPA - Refuge de Gennevilliers – Grammont · 11 km
@@ -35,7 +24,7 @@
   📍 La SPA - Refuge de Gennevilliers – Grammont · 11 km
   🗓 mis en ligne le 09/11/2026 · La SPA
 
-### Chatons seuls (3)
+### Chatons seuls (4)
 
 - 🆕 **[JANIS](https://www.la-spa.fr/adopter/trouver-mon-animal/janis/)** — 3 mois · ♀ femelle · Europeen
   📍 La SPA - Refuge de Gennevilliers – Grammont · 11 km
@@ -43,11 +32,14 @@
 - 🆕 **[KIWI](https://www.la-spa.fr/adopter/trouver-mon-animal/kiwi-2/)** — 3 mois · ♀ femelle · Europeen
   📍 La SPA - Refuge de Gennevilliers – Grammont · 11 km
   🗓 mis en ligne le 12/11/2026 · La SPA
+- 🆕 **[NEIGE PAB30090](https://www.la-spa.fr/adopter/trouver-mon-animal/neige-pab30090/)** — 2 mois · ♀ femelle · Europeen
+  📍 La SPA - Refuge de Plaisir · 34 km
+  🗓 mis en ligne le 14/11/2026 · La SPA
 - **[BAMBOU CHA](https://www.la-spa.fr/adopter/trouver-mon-animal/bambou-cha/)** — 2 mois · ♀ femelle · Europeen
   📍 La SPA - Refuge de Chamarande · 38 km
   🗓 mis en ligne le 02/11/2026 · La SPA
 
-_🆕 = 11 nouveaux chatons (mis en ligne depuis 7 jours ou jamais vus)._
+_🆕 = 9 nouveaux chatons (mis en ligne depuis 7 jours ou jamais vus)._
 
 ---
 _Zone : 50 km autour de Paris 11e Arrondissement · Sources : La SPA + Seconde Chance · 12 requêtes HTTP_
