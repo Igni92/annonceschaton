@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-16T14:18:55.924Z",
+  "date": "2026-11-17T15:11:04.168Z",
   "zone": {
     "mode": "rayon",
     "label": "50 km autour de Paris 11e Arrondissement",
@@ -165,7 +165,7 @@
           "« FLASH » cité·e dans la description"
         ]
       },
-      "nouveau": true
+      "nouveau": false
     },
     {
       "id": "laspa:261576",
@@ -303,7 +303,7 @@
           "« FLASH » cité·e dans la description"
         ]
       },
-      "nouveau": true
+      "nouveau": false
     },
     {
       "id": "laspa:260696",
@@ -469,6 +469,100 @@
       "fiche_lue": false,
       "portee": null,
       "nouveau": false
+    },
+    {
+      "id": "laspa:262129",
+      "source": "laspa",
+      "source_label": "La SPA",
+      "source_id": "262129",
+      "uid": "adopter-trouver-mon-animal-martine-cha",
+      "nom": "MARTINE CHA",
+      "url": "https://www.la-spa.fr/adopter/trouver-mon-animal/martine-cha/",
+      "image": "https://www.la-spa.fr/app/app/uploads/animals/262129/martine-cha-262129-6afb4c034328e.jpg",
+      "espece": "chat",
+      "race": "Europeen",
+      "sexe": "femelle",
+      "age_categorie": "junior",
+      "age_texte": "3 mois",
+      "age_mois": 3,
+      "age_source": "fiche",
+      "age_conflit": null,
+      "date_naissance": null,
+      "date_publication": "2026-11-16",
+      "reserve": false,
+      "sos": false,
+      "fad": false,
+      "lieu": {
+        "nom": "La SPA - Refuge de Chamarande",
+        "slug": "refuge-spa-de-chamarande",
+        "ville": "Chamarande",
+        "code_postal": "91730",
+        "departement": "91",
+        "latitude": 48.533724,
+        "longitude": 2.209265,
+        "precision": "exacte",
+        "distance_km": 38.44465971246643,
+        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-chamarande/"
+      },
+      "description": "Astone et Martine sont arrivés récemment au refuge. Tous les deux très sociables et avenants, ils pourront partager leur foyer avec des enfants respectueux.\nIls devront vivre en appartement ou en pavillon sans accès à l'extérieur, car Astone présente une légère ataxie (trouble neurologique). Cela ne l’empêche pas de se déplacer normalement, ni de courir ou de grimper.\nIls sont très fusionnels et…",
+      "fiche_lue": false,
+      "portee": {
+        "id": "portee-3",
+        "taille": 2,
+        "disponibles": 2,
+        "confiance": "probable",
+        "indices": [
+          "même âge et même date de mise en ligne"
+        ]
+      },
+      "nouveau": true
+    },
+    {
+      "id": "laspa:262128",
+      "source": "laspa",
+      "source_label": "La SPA",
+      "source_id": "262128",
+      "uid": "adopter-trouver-mon-animal-astone-cha",
+      "nom": "ASTONE CHA",
+      "url": "https://www.la-spa.fr/adopter/trouver-mon-animal/astone-cha/",
+      "image": "https://www.la-spa.fr/app/app/uploads/animals/262128/astone-cha-262128-6afb4bc9bd373.jpg",
+      "espece": "chat",
+      "race": "Europeen",
+      "sexe": "male",
+      "age_categorie": "junior",
+      "age_texte": "3 mois",
+      "age_mois": 3,
+      "age_source": "fiche",
+      "age_conflit": null,
+      "date_naissance": null,
+      "date_publication": "2026-11-16",
+      "reserve": false,
+      "sos": true,
+      "fad": false,
+      "lieu": {
+        "nom": "La SPA - Refuge de Chamarande",
+        "slug": "refuge-spa-de-chamarande",
+        "ville": "Chamarande",
+        "code_postal": "91730",
+        "departement": "91",
+        "latitude": 48.533724,
+        "longitude": 2.209265,
+        "precision": "exacte",
+        "distance_km": 38.44465971246643,
+        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-chamarande/"
+      },
+      "description": "Astone et Martine sont arrivés récemment au refuge. Tous les deux très sociables et avenants, ils pourront partager leur foyer avec des enfants respectueux.\nIls devront vivre en appartement ou en pavillon sans accès à l'extérieur, car Astone présente une légère ataxie (trouble neurologique). Cela ne l’empêche pas de se déplacer normalement, ni de courir ou de grimper.\nIls sont très fusionnels et…",
+      "fiche_lue": false,
+      "portee": {
+        "id": "portee-3",
+        "taille": 2,
+        "disponibles": 2,
+        "confiance": "probable",
+        "indices": [
+          "même âge et même date de mise en ligne"
+        ]
+      },
+      "nouveau": true
     }
   ],
   "portees": [
@@ -542,9 +636,134 @@
       "sources": [
         "La SPA"
       ]
+    },
+    {
+      "id": "portee-3",
+      "source": "laspa",
+      "source_label": "La SPA",
+      "lieu": {
+        "nom": "La SPA - Refuge de Chamarande",
+        "ville": "Chamarande",
+        "departement": "91",
+        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-chamarande/"
+      },
+      "date_naissance": null,
+      "age_mois": 3,
+      "taille": 2,
+      "annonces": 2,
+      "disponibles": 2,
+      "confiance": "probable",
+      "indices": [
+        "même âge et même date de mise en ligne"
+      ],
+      "membres": [
+        "laspa:262128",
+        "laspa:262129"
+      ],
+      "noms": [
+        "ASTONE CHA",
+        "MARTINE CHA"
+      ],
+      "sources": [
+        "La SPA"
+      ]
     }
   ],
   "nouveaux_arrivants": [
+    {
+      "id": "laspa:262129",
+      "source": "laspa",
+      "source_label": "La SPA",
+      "source_id": "262129",
+      "uid": "adopter-trouver-mon-animal-martine-cha",
+      "nom": "MARTINE CHA",
+      "url": "https://www.la-spa.fr/adopter/trouver-mon-animal/martine-cha/",
+      "image": "https://www.la-spa.fr/app/app/uploads/animals/262129/martine-cha-262129-6afb4c034328e.jpg",
+      "espece": "chat",
+      "race": "Europeen",
+      "sexe": "femelle",
+      "age_categorie": "junior",
+      "age_texte": "3 mois",
+      "age_mois": 3,
+      "age_source": "fiche",
+      "age_conflit": null,
+      "date_naissance": null,
+      "date_publication": "2026-11-16",
+      "reserve": false,
+      "sos": false,
+      "fad": false,
+      "lieu": {
+        "nom": "La SPA - Refuge de Chamarande",
+        "slug": "refuge-spa-de-chamarande",
+        "ville": "Chamarande",
+        "code_postal": "91730",
+        "departement": "91",
+        "latitude": 48.533724,
+        "longitude": 2.209265,
+        "precision": "exacte",
+        "distance_km": 38.44465971246643,
+        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-chamarande/"
+      },
+      "description": "Astone et Martine sont arrivés récemment au refuge. Tous les deux très sociables et avenants, ils pourront partager leur foyer avec des enfants respectueux.\nIls devront vivre en appartement ou en pavillon sans accès à l'extérieur, car Astone présente une légère ataxie (trouble neurologique). Cela ne l’empêche pas de se déplacer normalement, ni de courir ou de grimper.\nIls sont très fusionnels et…",
+      "fiche_lue": false,
+      "portee": {
+        "id": "portee-3",
+        "taille": 2,
+        "disponibles": 2,
+        "confiance": "probable",
+        "indices": [
+          "même âge et même date de mise en ligne"
+        ]
+      },
+      "nouveau": true
+    },
+    {
+      "id": "laspa:262128",
+      "source": "laspa",
+      "source_label": "La SPA",
+      "source_id": "262128",
+      "uid": "adopter-trouver-mon-animal-astone-cha",
+      "nom": "ASTONE CHA",
+      "url": "https://www.la-spa.fr/adopter/trouver-mon-animal/astone-cha/",
+      "image": "https://www.la-spa.fr/app/app/uploads/animals/262128/astone-cha-262128-6afb4bc9bd373.jpg",
+      "espece": "chat",
+      "race": "Europeen",
+      "sexe": "male",
+      "age_categorie": "junior",
+      "age_texte": "3 mois",
+      "age_mois": 3,
+      "age_source": "fiche",
+      "age_conflit": null,
+      "date_naissance": null,
+      "date_publication": "2026-11-16",
+      "reserve": false,
+      "sos": true,
+      "fad": false,
+      "lieu": {
+        "nom": "La SPA - Refuge de Chamarande",
+        "slug": "refuge-spa-de-chamarande",
+        "ville": "Chamarande",
+        "code_postal": "91730",
+        "departement": "91",
+        "latitude": 48.533724,
+        "longitude": 2.209265,
+        "precision": "exacte",
+        "distance_km": 38.44465971246643,
+        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-chamarande/"
+      },
+      "description": "Astone et Martine sont arrivés récemment au refuge. Tous les deux très sociables et avenants, ils pourront partager leur foyer avec des enfants respectueux.\nIls devront vivre en appartement ou en pavillon sans accès à l'extérieur, car Astone présente une légère ataxie (trouble neurologique). Cela ne l’empêche pas de se déplacer normalement, ni de courir ou de grimper.\nIls sont très fusionnels et…",
+      "fiche_lue": false,
+      "portee": {
+        "id": "portee-3",
+        "taille": 2,
+        "disponibles": 2,
+        "confiance": "probable",
+        "indices": [
+          "même âge et même date de mise en ligne"
+        ]
+      },
+      "nouveau": true
+    },
     {
       "id": "laspa:261576",
       "source": "laspa",
@@ -853,116 +1072,14 @@
         ]
       },
       "nouveau": true
-    },
-    {
-      "id": "laspa:259779",
-      "source": "laspa",
-      "source_label": "La SPA",
-      "source_id": "259779",
-      "uid": "adopter-trouver-mon-animal-flash-4",
-      "nom": "FLASH",
-      "url": "https://www.la-spa.fr/adopter/trouver-mon-animal/flash-4/",
-      "image": "https://www.la-spa.fr/app/app/uploads/animals/259779/flash-259779-6af1f94a3a534.jpg",
-      "espece": "chat",
-      "race": "Europeen",
-      "sexe": "male",
-      "age_categorie": "junior",
-      "age_texte": "3 mois",
-      "age_mois": 3,
-      "age_source": "fiche",
-      "age_conflit": null,
-      "date_naissance": null,
-      "date_publication": "2026-11-09",
-      "reserve": false,
-      "sos": false,
-      "fad": false,
-      "lieu": {
-        "nom": "La SPA - Refuge de Gennevilliers – Grammont",
-        "slug": "refuge-spa-de-gennevilliers-grammont",
-        "ville": "Gennevilliers",
-        "code_postal": "92230",
-        "departement": "92",
-        "latitude": 48.944706567958,
-        "longitude": 2.3035848619018,
-        "precision": "exacte",
-        "distance_km": 11.004464438564007,
-        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-gennevilliers-grammont/"
-      },
-      "description": "Flash et Bolide reviennent de famille relais.\nFlash et Bolide sont deux chatons craintif qui recherchent des adoptants doux et patient qui leur laisseront le temps d'évoluer à leur rythme.\nLa présence d'un premier chat au foyer sera obligatoire pour leur bon développement.\nIls devront vivre en appartement, sans sortie extérieure et sans jeunes enfants.\nVenez vite les rencontrer !",
-      "fiche_lue": false,
-      "portee": {
-        "id": "portee-2",
-        "taille": 2,
-        "disponibles": 2,
-        "confiance": "forte",
-        "indices": [
-          "« BOLIDE » cité·e dans la description",
-          "cité·e dans la description de « BOLIDE »",
-          "même âge et même date de mise en ligne",
-          "cité·e dans la description de « FLASH »",
-          "« FLASH » cité·e dans la description"
-        ]
-      },
-      "nouveau": true
-    },
-    {
-      "id": "laspa:259780",
-      "source": "laspa",
-      "source_label": "La SPA",
-      "source_id": "259780",
-      "uid": "adopter-trouver-mon-animal-bolide",
-      "nom": "BOLIDE",
-      "url": "https://www.la-spa.fr/adopter/trouver-mon-animal/bolide/",
-      "image": "https://www.la-spa.fr/app/app/uploads/animals/259780/bolide-259780-6af1f967ef015.jpg",
-      "espece": "chat",
-      "race": "Europeen",
-      "sexe": "male",
-      "age_categorie": "junior",
-      "age_texte": "3 mois",
-      "age_mois": 3,
-      "age_source": "fiche",
-      "age_conflit": null,
-      "date_naissance": null,
-      "date_publication": "2026-11-09",
-      "reserve": false,
-      "sos": false,
-      "fad": false,
-      "lieu": {
-        "nom": "La SPA - Refuge de Gennevilliers – Grammont",
-        "slug": "refuge-spa-de-gennevilliers-grammont",
-        "ville": "Gennevilliers",
-        "code_postal": "92230",
-        "departement": "92",
-        "latitude": 48.944706567958,
-        "longitude": 2.3035848619018,
-        "precision": "exacte",
-        "distance_km": 11.004464438564007,
-        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-gennevilliers-grammont/"
-      },
-      "description": "Flash et Bolide reviennent de famille relais.\nFlash et Bolide sont deux chatons craintif qui recherchent des adoptants doux et patient qui leur laisseront le temps d'évoluer à leur rythme.\nLa présence d'un premier chat au foyer sera obligatoire pour leur bon développement.\nIls devront vivre en appartement, sans sortie extérieure et sans jeunes enfants.\nVenez vite les rencontrer !",
-      "fiche_lue": false,
-      "portee": {
-        "id": "portee-2",
-        "taille": 2,
-        "disponibles": 2,
-        "confiance": "forte",
-        "indices": [
-          "« BOLIDE » cité·e dans la description",
-          "cité·e dans la description de « BOLIDE »",
-          "même âge et même date de mise en ligne",
-          "cité·e dans la description de « FLASH »",
-          "« FLASH » cité·e dans la description"
-        ]
-      },
-      "nouveau": true
     }
   ],
   "stats": {
     "sources": {
       "laspa": {
         "pages": 1,
-        "total_site": 132,
-        "dans_zone": 92,
+        "total_site": 134,
+        "dans_zone": 94,
         "fiches": 0,
         "fiches_cache": 0,
         "erreurs": 0
@@ -980,8 +1097,8 @@
     },
     "requests": 12,
     "retries": 0,
-    "duree_s": 10,
-    "annonces_zone": 92
+    "duree_s": 7.5,
+    "annonces_zone": 94
   },
   "erreurs": []
 }

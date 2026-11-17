@@ -1,6 +1,6 @@
-# Annonces chatons — lundi 16 novembre 2026
+# Annonces chatons — mardi 17 novembre 2026
 
-## 🐾 Chatons de moins de 4 mois (10)
+## 🐾 Chatons de moins de 4 mois (12)
 
 ### 👨‍👩‍👧‍👦 Portée de 4 chatons · La SPA - Refuge de Gennevilliers – Grammont · 3 mois · portée probable
 - 🆕 **[OLYMPE](https://www.la-spa.fr/adopter/trouver-mon-animal/olympe-4/)** — 3 mois · ♀ femelle · Europeen
@@ -17,12 +17,20 @@
   🗓 mis en ligne le 10/11/2026 · La SPA
 
 ### 👨‍👩‍👧‍👦 Portée de 2 chatons · La SPA - Refuge de Gennevilliers – Grammont · 3 mois
-- 🆕 **[FLASH](https://www.la-spa.fr/adopter/trouver-mon-animal/flash-4/)** — 3 mois · ♂ mâle · Europeen
+- **[FLASH](https://www.la-spa.fr/adopter/trouver-mon-animal/flash-4/)** — 3 mois · ♂ mâle · Europeen
   📍 La SPA - Refuge de Gennevilliers – Grammont · 11 km
   🗓 mis en ligne le 09/11/2026 · La SPA
-- 🆕 **[BOLIDE](https://www.la-spa.fr/adopter/trouver-mon-animal/bolide/)** — 3 mois · ♂ mâle · Europeen
+- **[BOLIDE](https://www.la-spa.fr/adopter/trouver-mon-animal/bolide/)** — 3 mois · ♂ mâle · Europeen
   📍 La SPA - Refuge de Gennevilliers – Grammont · 11 km
   🗓 mis en ligne le 09/11/2026 · La SPA
+
+### 👨‍👩‍👧‍👦 Portée de 2 chatons · La SPA - Refuge de Chamarande · 3 mois · portée probable
+- 🆕 **[ASTONE CHA](https://www.la-spa.fr/adopter/trouver-mon-animal/astone-cha/)** — 3 mois · ♂ mâle · Europeen
+  📍 La SPA - Refuge de Chamarande · 38 km
+  🗓 mis en ligne le 16/11/2026 · La SPA
+- 🆕 **[MARTINE CHA](https://www.la-spa.fr/adopter/trouver-mon-animal/martine-cha/)** — 3 mois · ♀ femelle · Europeen
+  📍 La SPA - Refuge de Chamarande · 38 km
+  🗓 mis en ligne le 16/11/2026 · La SPA
 
 ### Chatons seuls (4)
 
