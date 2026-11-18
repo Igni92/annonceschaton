@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-17T15:11:04.168Z",
+  "date": "2026-11-18T14:48:39.291Z",
   "zone": {
     "mode": "rayon",
     "label": "50 km autour de Paris 11e Arrondissement",
@@ -66,7 +66,7 @@
           "fratrie mentionnée"
         ]
       },
-      "nouveau": true
+      "nouveau": false
     },
     {
       "id": "laspa:260174",
@@ -112,57 +112,6 @@
         "indices": [
           "même âge et même date de mise en ligne",
           "fratrie mentionnée"
-        ]
-      },
-      "nouveau": true
-    },
-    {
-      "id": "laspa:259779",
-      "source": "laspa",
-      "source_label": "La SPA",
-      "source_id": "259779",
-      "uid": "adopter-trouver-mon-animal-flash-4",
-      "nom": "FLASH",
-      "url": "https://www.la-spa.fr/adopter/trouver-mon-animal/flash-4/",
-      "image": "https://www.la-spa.fr/app/app/uploads/animals/259779/flash-259779-6af1f94a3a534.jpg",
-      "espece": "chat",
-      "race": "Europeen",
-      "sexe": "male",
-      "age_categorie": "junior",
-      "age_texte": "3 mois",
-      "age_mois": 3,
-      "age_source": "fiche",
-      "age_conflit": null,
-      "date_naissance": null,
-      "date_publication": "2026-11-09",
-      "reserve": false,
-      "sos": false,
-      "fad": false,
-      "lieu": {
-        "nom": "La SPA - Refuge de Gennevilliers – Grammont",
-        "slug": "refuge-spa-de-gennevilliers-grammont",
-        "ville": "Gennevilliers",
-        "code_postal": "92230",
-        "departement": "92",
-        "latitude": 48.944706567958,
-        "longitude": 2.3035848619018,
-        "precision": "exacte",
-        "distance_km": 11.004464438564007,
-        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-gennevilliers-grammont/"
-      },
-      "description": "Flash et Bolide reviennent de famille relais.\nFlash et Bolide sont deux chatons craintif qui recherchent des adoptants doux et patient qui leur laisseront le temps d'évoluer à leur rythme.\nLa présence d'un premier chat au foyer sera obligatoire pour leur bon développement.\nIls devront vivre en appartement, sans sortie extérieure et sans jeunes enfants.\nVenez vite les rencontrer !",
-      "fiche_lue": false,
-      "portee": {
-        "id": "portee-2",
-        "taille": 2,
-        "disponibles": 2,
-        "confiance": "forte",
-        "indices": [
-          "« BOLIDE » cité·e dans la description",
-          "cité·e dans la description de « BOLIDE »",
-          "même âge et même date de mise en ligne",
-          "cité·e dans la description de « FLASH »",
-          "« FLASH » cité·e dans la description"
         ]
       },
       "nouveau": false
@@ -252,57 +201,6 @@
           "fratrie mentionnée"
         ]
       },
-      "nouveau": true
-    },
-    {
-      "id": "laspa:259780",
-      "source": "laspa",
-      "source_label": "La SPA",
-      "source_id": "259780",
-      "uid": "adopter-trouver-mon-animal-bolide",
-      "nom": "BOLIDE",
-      "url": "https://www.la-spa.fr/adopter/trouver-mon-animal/bolide/",
-      "image": "https://www.la-spa.fr/app/app/uploads/animals/259780/bolide-259780-6af1f967ef015.jpg",
-      "espece": "chat",
-      "race": "Europeen",
-      "sexe": "male",
-      "age_categorie": "junior",
-      "age_texte": "3 mois",
-      "age_mois": 3,
-      "age_source": "fiche",
-      "age_conflit": null,
-      "date_naissance": null,
-      "date_publication": "2026-11-09",
-      "reserve": false,
-      "sos": false,
-      "fad": false,
-      "lieu": {
-        "nom": "La SPA - Refuge de Gennevilliers – Grammont",
-        "slug": "refuge-spa-de-gennevilliers-grammont",
-        "ville": "Gennevilliers",
-        "code_postal": "92230",
-        "departement": "92",
-        "latitude": 48.944706567958,
-        "longitude": 2.3035848619018,
-        "precision": "exacte",
-        "distance_km": 11.004464438564007,
-        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-gennevilliers-grammont/"
-      },
-      "description": "Flash et Bolide reviennent de famille relais.\nFlash et Bolide sont deux chatons craintif qui recherchent des adoptants doux et patient qui leur laisseront le temps d'évoluer à leur rythme.\nLa présence d'un premier chat au foyer sera obligatoire pour leur bon développement.\nIls devront vivre en appartement, sans sortie extérieure et sans jeunes enfants.\nVenez vite les rencontrer !",
-      "fiche_lue": false,
-      "portee": {
-        "id": "portee-2",
-        "taille": 2,
-        "disponibles": 2,
-        "confiance": "forte",
-        "indices": [
-          "« BOLIDE » cité·e dans la description",
-          "cité·e dans la description de « BOLIDE »",
-          "même âge et même date de mise en ligne",
-          "cité·e dans la description de « FLASH »",
-          "« FLASH » cité·e dans la description"
-        ]
-      },
       "nouveau": false
     },
     {
@@ -390,7 +288,7 @@
           "fratrie mentionnée"
         ]
       },
-      "nouveau": true
+      "nouveau": false
     },
     {
       "id": "laspa:261415",
@@ -507,7 +405,7 @@
       "description": "Astone et Martine sont arrivés récemment au refuge. Tous les deux très sociables et avenants, ils pourront partager leur foyer avec des enfants respectueux.\nIls devront vivre en appartement ou en pavillon sans accès à l'extérieur, car Astone présente une légère ataxie (trouble neurologique). Cela ne l’empêche pas de se déplacer normalement, ni de courir ou de grimper.\nIls sont très fusionnels et…",
       "fiche_lue": false,
       "portee": {
-        "id": "portee-3",
+        "id": "portee-2",
         "taille": 2,
         "disponibles": 2,
         "confiance": "probable",
@@ -554,7 +452,7 @@
       "description": "Astone et Martine sont arrivés récemment au refuge. Tous les deux très sociables et avenants, ils pourront partager leur foyer avec des enfants respectueux.\nIls devront vivre en appartement ou en pavillon sans accès à l'extérieur, car Astone présente une légère ataxie (trouble neurologique). Cela ne l’empêche pas de se déplacer normalement, ni de courir ou de grimper.\nIls sont très fusionnels et…",
       "fiche_lue": false,
       "portee": {
-        "id": "portee-3",
+        "id": "portee-2",
         "taille": 2,
         "disponibles": 2,
         "confiance": "probable",
@@ -604,41 +502,6 @@
     },
     {
       "id": "portee-2",
-      "source": "laspa",
-      "source_label": "La SPA",
-      "lieu": {
-        "nom": "La SPA - Refuge de Gennevilliers – Grammont",
-        "ville": "Gennevilliers",
-        "departement": "92",
-        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-gennevilliers-grammont/"
-      },
-      "date_naissance": null,
-      "age_mois": 3,
-      "taille": 2,
-      "annonces": 2,
-      "disponibles": 2,
-      "confiance": "forte",
-      "indices": [
-        "« BOLIDE » cité·e dans la description",
-        "cité·e dans la description de « BOLIDE »",
-        "même âge et même date de mise en ligne",
-        "cité·e dans la description de « FLASH »",
-        "« FLASH » cité·e dans la description"
-      ],
-      "membres": [
-        "laspa:259779",
-        "laspa:259780"
-      ],
-      "noms": [
-        "BOLIDE",
-        "FLASH"
-      ],
-      "sources": [
-        "La SPA"
-      ]
-    },
-    {
-      "id": "portee-3",
       "source": "laspa",
       "source_label": "La SPA",
       "lieu": {
@@ -707,7 +570,7 @@
       "description": "Astone et Martine sont arrivés récemment au refuge. Tous les deux très sociables et avenants, ils pourront partager leur foyer avec des enfants respectueux.\nIls devront vivre en appartement ou en pavillon sans accès à l'extérieur, car Astone présente une légère ataxie (trouble neurologique). Cela ne l’empêche pas de se déplacer normalement, ni de courir ou de grimper.\nIls sont très fusionnels et…",
       "fiche_lue": false,
       "portee": {
-        "id": "portee-3",
+        "id": "portee-2",
         "taille": 2,
         "disponibles": 2,
         "confiance": "probable",
@@ -754,7 +617,7 @@
       "description": "Astone et Martine sont arrivés récemment au refuge. Tous les deux très sociables et avenants, ils pourront partager leur foyer avec des enfants respectueux.\nIls devront vivre en appartement ou en pavillon sans accès à l'extérieur, car Astone présente une légère ataxie (trouble neurologique). Cela ne l’empêche pas de se déplacer normalement, ni de courir ou de grimper.\nIls sont très fusionnels et…",
       "fiche_lue": false,
       "portee": {
-        "id": "portee-3",
+        "id": "portee-2",
         "taille": 2,
         "disponibles": 2,
         "confiance": "probable",
@@ -880,206 +743,14 @@
       "fiche_lue": false,
       "portee": null,
       "nouveau": true
-    },
-    {
-      "id": "laspa:260148",
-      "source": "laspa",
-      "source_label": "La SPA",
-      "source_id": "260148",
-      "uid": "adopter-trouver-mon-animal-olympe-4",
-      "nom": "OLYMPE",
-      "url": "https://www.la-spa.fr/adopter/trouver-mon-animal/olympe-4/",
-      "image": "https://www.la-spa.fr/app/app/uploads/animals/260148/olympe-260148-6af32f09b7d5d.jpg",
-      "espece": "chat",
-      "race": "Europeen",
-      "sexe": "femelle",
-      "age_categorie": "junior",
-      "age_texte": "3 mois",
-      "age_mois": 3,
-      "age_source": "fiche",
-      "age_conflit": null,
-      "date_naissance": null,
-      "date_publication": "2026-11-10",
-      "reserve": false,
-      "sos": true,
-      "fad": false,
-      "lieu": {
-        "nom": "La SPA - Refuge de Gennevilliers – Grammont",
-        "slug": "refuge-spa-de-gennevilliers-grammont",
-        "ville": "Gennevilliers",
-        "code_postal": "92230",
-        "departement": "92",
-        "latitude": 48.944706567958,
-        "longitude": 2.3035848619018,
-        "precision": "exacte",
-        "distance_km": 11.004464438564007,
-        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-gennevilliers-grammont/"
-      },
-      "description": "Olympe a été abandonné directement au refuge.\nOlympe est une adorable louloutte qui recherche des adoptants doux et patients qui lui laisseront le temps d'évoluer à son rythme.\nOlympe est ataxique et devra vivre en appartement, sans sortie extérieure et sans jeunes enfants.\nOlympe est actuellement en traitement contre la teigne, le traitement sera fournit et tout vous sera expliqué au refuge.\nVen…",
-      "fiche_lue": false,
-      "portee": {
-        "id": "portee-1",
-        "taille": 4,
-        "disponibles": 4,
-        "confiance": "probable",
-        "indices": [
-          "même âge et même date de mise en ligne",
-          "fratrie mentionnée"
-        ]
-      },
-      "nouveau": true
-    },
-    {
-      "id": "laspa:260174",
-      "source": "laspa",
-      "source_label": "La SPA",
-      "source_id": "260174",
-      "uid": "adopter-trouver-mon-animal-captaine-price",
-      "nom": "CAPTAINE PRICE",
-      "url": "https://www.la-spa.fr/adopter/trouver-mon-animal/captaine-price/",
-      "image": "https://www.la-spa.fr/app/app/uploads/animals/260174/captaine-price-260174-6af336aa957e3.jpg",
-      "espece": "chat",
-      "race": "Europeen",
-      "sexe": "femelle",
-      "age_categorie": "junior",
-      "age_texte": "3 mois",
-      "age_mois": 3,
-      "age_source": "fiche",
-      "age_conflit": null,
-      "date_naissance": null,
-      "date_publication": "2026-11-10",
-      "reserve": false,
-      "sos": false,
-      "fad": false,
-      "lieu": {
-        "nom": "La SPA - Refuge de Gennevilliers – Grammont",
-        "slug": "refuge-spa-de-gennevilliers-grammont",
-        "ville": "Gennevilliers",
-        "code_postal": "92230",
-        "departement": "92",
-        "latitude": 48.944706567958,
-        "longitude": 2.3035848619018,
-        "precision": "exacte",
-        "distance_km": 11.004464438564007,
-        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-gennevilliers-grammont/"
-      },
-      "description": "Captaine Price a été abandonné directement au refuge avec sa fratrie.\nCaptaine Price est un gentil loulou qui recherche des adoptants doux et patients qui lui laisseront le temps d'évoluer à son rythme.\nCaptaine Price est actuellement en traitement contre la teigne, le traitement sera fournit et tout vous sera expliqué directement au refuge.\nVenez vite le rencontrer !",
-      "fiche_lue": false,
-      "portee": {
-        "id": "portee-1",
-        "taille": 4,
-        "disponibles": 4,
-        "confiance": "probable",
-        "indices": [
-          "même âge et même date de mise en ligne",
-          "fratrie mentionnée"
-        ]
-      },
-      "nouveau": true
-    },
-    {
-      "id": "laspa:260175",
-      "source": "laspa",
-      "source_label": "La SPA",
-      "source_id": "260175",
-      "uid": "adopter-trouver-mon-animal-zaz",
-      "nom": "ZAZ",
-      "url": "https://www.la-spa.fr/adopter/trouver-mon-animal/zaz/",
-      "image": "https://www.la-spa.fr/app/app/uploads/animals/260175/zaz-260175-6af33705e3268.jpg",
-      "espece": "chat",
-      "race": "Europeen",
-      "sexe": "femelle",
-      "age_categorie": "junior",
-      "age_texte": "3 mois",
-      "age_mois": 3,
-      "age_source": "fiche",
-      "age_conflit": null,
-      "date_naissance": null,
-      "date_publication": "2026-11-10",
-      "reserve": false,
-      "sos": false,
-      "fad": false,
-      "lieu": {
-        "nom": "La SPA - Refuge de Gennevilliers – Grammont",
-        "slug": "refuge-spa-de-gennevilliers-grammont",
-        "ville": "Gennevilliers",
-        "code_postal": "92230",
-        "departement": "92",
-        "latitude": 48.944706567958,
-        "longitude": 2.3035848619018,
-        "precision": "exacte",
-        "distance_km": 11.004464438564007,
-        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-gennevilliers-grammont/"
-      },
-      "description": "Zaz a été abandonné directement au refuge avec sa fratrie.\nZaz est une gentille louloutte qui recherche des adoptants doux et patients qui lui laisseront le temps d'évoluer à son rythme.\nZaz est actuellement en traitement contre la teigne, le traitement sera fournit et tout vous sera expliqué directement au refuge.\nVenez vite la rencontrer !",
-      "fiche_lue": false,
-      "portee": {
-        "id": "portee-1",
-        "taille": 4,
-        "disponibles": 4,
-        "confiance": "probable",
-        "indices": [
-          "même âge et même date de mise en ligne",
-          "fratrie mentionnée"
-        ]
-      },
-      "nouveau": true
-    },
-    {
-      "id": "laspa:260167",
-      "source": "laspa",
-      "source_label": "La SPA",
-      "source_id": "260167",
-      "uid": "adopter-trouver-mon-animal-ghost-5",
-      "nom": "GHOST",
-      "url": "https://www.la-spa.fr/adopter/trouver-mon-animal/ghost-5/",
-      "image": "https://www.la-spa.fr/app/app/uploads/animals/260167/ghost-260167-6af33551c2330.jpg",
-      "espece": "chat",
-      "race": "Europeen",
-      "sexe": "femelle",
-      "age_categorie": "junior",
-      "age_texte": "3 mois",
-      "age_mois": 3,
-      "age_source": "fiche",
-      "age_conflit": null,
-      "date_naissance": null,
-      "date_publication": "2026-11-10",
-      "reserve": false,
-      "sos": false,
-      "fad": false,
-      "lieu": {
-        "nom": "La SPA - Refuge de Gennevilliers – Grammont",
-        "slug": "refuge-spa-de-gennevilliers-grammont",
-        "ville": "Gennevilliers",
-        "code_postal": "92230",
-        "departement": "92",
-        "latitude": 48.944706567958,
-        "longitude": 2.3035848619018,
-        "precision": "exacte",
-        "distance_km": 11.004464438564007,
-        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-gennevilliers-grammont/"
-      },
-      "description": "Ghost a été abandonné directement au refuge avec sa fraterie.\nGhost est un gentil loulou qui recherche des adoptants doux et patients qui lui laisseront le temps d'évoluer à son rythme.\nGhost est actuellement en traitement contre la teigne, le traitement sera fournit et tout vous sera expliqué directement au refuge.\nVenez vite le rencontrer !",
-      "fiche_lue": false,
-      "portee": {
-        "id": "portee-1",
-        "taille": 4,
-        "disponibles": 4,
-        "confiance": "probable",
-        "indices": [
-          "même âge et même date de mise en ligne",
-          "fratrie mentionnée"
-        ]
-      },
-      "nouveau": true
     }
   ],
   "stats": {
     "sources": {
       "laspa": {
         "pages": 1,
-        "total_site": 134,
-        "dans_zone": 94,
+        "total_site": 135,
+        "dans_zone": 93,
         "fiches": 0,
         "fiches_cache": 0,
         "erreurs": 0
@@ -1097,8 +768,8 @@
     },
     "requests": 12,
     "retries": 0,
-    "duree_s": 7.5,
-    "annonces_zone": 94
+    "duree_s": 10.9,
+    "annonces_zone": 93
   },
   "erreurs": []
 }
