@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-18T14:48:39.291Z",
+  "date": "2026-11-19T14:55:13.267Z",
   "zone": {
     "mode": "rayon",
     "label": "50 km autour de Paris 11e Arrondissement",
@@ -76,7 +76,7 @@
       "uid": "adopter-trouver-mon-animal-captaine-price",
       "nom": "CAPTAINE PRICE",
       "url": "https://www.la-spa.fr/adopter/trouver-mon-animal/captaine-price/",
-      "image": "https://www.la-spa.fr/app/app/uploads/animals/260174/captaine-price-260174-6af336aa957e3.jpg",
+      "image": "https://www.la-spa.fr/app/app/uploads/animals/260174/captaine-price-260174-6afee116705ca.jpg",
       "espece": "chat",
       "race": "Europeen",
       "sexe": "femelle",
@@ -163,7 +163,7 @@
       "uid": "adopter-trouver-mon-animal-zaz",
       "nom": "ZAZ",
       "url": "https://www.la-spa.fr/adopter/trouver-mon-animal/zaz/",
-      "image": "https://www.la-spa.fr/app/app/uploads/animals/260175/zaz-260175-6af33705e3268.jpg",
+      "image": "https://www.la-spa.fr/app/app/uploads/animals/260175/zaz-260175-6afee0fa7bef3.jpg",
       "espece": "chat",
       "race": "Europeen",
       "sexe": "femelle",
@@ -250,7 +250,7 @@
       "uid": "adopter-trouver-mon-animal-ghost-5",
       "nom": "GHOST",
       "url": "https://www.la-spa.fr/adopter/trouver-mon-animal/ghost-5/",
-      "image": "https://www.la-spa.fr/app/app/uploads/animals/260167/ghost-260167-6af33551c2330.jpg",
+      "image": "https://www.la-spa.fr/app/app/uploads/animals/260167/ghost-260167-6afee0dcc14c5.jpg",
       "espece": "chat",
       "race": "Europeen",
       "sexe": "femelle",
@@ -291,45 +291,6 @@
       "nouveau": false
     },
     {
-      "id": "laspa:261415",
-      "source": "laspa",
-      "source_label": "La SPA",
-      "source_id": "261415",
-      "uid": "adopter-trouver-mon-animal-neige-pab30090",
-      "nom": "NEIGE PAB30090",
-      "url": "https://www.la-spa.fr/adopter/trouver-mon-animal/neige-pab30090/",
-      "image": "https://www.la-spa.fr/app/app/uploads/animals/261415/neige-pab30090-261415-6af828e2213de.jpg",
-      "espece": "chat",
-      "race": "Europeen",
-      "sexe": "femelle",
-      "age_categorie": "junior",
-      "age_texte": "2 mois",
-      "age_mois": 2,
-      "age_source": "fiche",
-      "age_conflit": null,
-      "date_naissance": null,
-      "date_publication": "2026-11-14",
-      "reserve": false,
-      "sos": false,
-      "fad": false,
-      "lieu": {
-        "nom": "La SPA - Refuge de Plaisir",
-        "slug": "refuge-spa-de-plaisir",
-        "ville": "Plaisir",
-        "code_postal": "78370",
-        "departement": "78",
-        "latitude": 48.799745,
-        "longitude": 1.931481,
-        "precision": "exacte",
-        "distance_km": 33.64370864577482,
-        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-plaisir/"
-      },
-      "description": "Neige est une chatonne de petit gabarit. Elle est très attachante. Mais il ne faut pas s’y tromper, elle est pleine d’énergie et participe sans hésitation aux jeux de mêlées avec ses frère et sœur.\nElle devra vivre en pavillon pour sortir se dépenser quand elle sera plus grande.\nNeige peut vivre avec d'autres chat et est ok avec des enfants respectueux.\nElle vit actuellement avec ses frère et soe…",
-      "fiche_lue": false,
-      "portee": null,
-      "nouveau": true
-    },
-    {
       "id": "laspa:257624",
       "source": "laspa",
       "source_label": "La SPA",
@@ -367,100 +328,6 @@
       "fiche_lue": false,
       "portee": null,
       "nouveau": false
-    },
-    {
-      "id": "laspa:262129",
-      "source": "laspa",
-      "source_label": "La SPA",
-      "source_id": "262129",
-      "uid": "adopter-trouver-mon-animal-martine-cha",
-      "nom": "MARTINE CHA",
-      "url": "https://www.la-spa.fr/adopter/trouver-mon-animal/martine-cha/",
-      "image": "https://www.la-spa.fr/app/app/uploads/animals/262129/martine-cha-262129-6afb4c034328e.jpg",
-      "espece": "chat",
-      "race": "Europeen",
-      "sexe": "femelle",
-      "age_categorie": "junior",
-      "age_texte": "3 mois",
-      "age_mois": 3,
-      "age_source": "fiche",
-      "age_conflit": null,
-      "date_naissance": null,
-      "date_publication": "2026-11-16",
-      "reserve": false,
-      "sos": false,
-      "fad": false,
-      "lieu": {
-        "nom": "La SPA - Refuge de Chamarande",
-        "slug": "refuge-spa-de-chamarande",
-        "ville": "Chamarande",
-        "code_postal": "91730",
-        "departement": "91",
-        "latitude": 48.533724,
-        "longitude": 2.209265,
-        "precision": "exacte",
-        "distance_km": 38.44465971246643,
-        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-chamarande/"
-      },
-      "description": "Astone et Martine sont arrivés récemment au refuge. Tous les deux très sociables et avenants, ils pourront partager leur foyer avec des enfants respectueux.\nIls devront vivre en appartement ou en pavillon sans accès à l'extérieur, car Astone présente une légère ataxie (trouble neurologique). Cela ne l’empêche pas de se déplacer normalement, ni de courir ou de grimper.\nIls sont très fusionnels et…",
-      "fiche_lue": false,
-      "portee": {
-        "id": "portee-2",
-        "taille": 2,
-        "disponibles": 2,
-        "confiance": "probable",
-        "indices": [
-          "même âge et même date de mise en ligne"
-        ]
-      },
-      "nouveau": true
-    },
-    {
-      "id": "laspa:262128",
-      "source": "laspa",
-      "source_label": "La SPA",
-      "source_id": "262128",
-      "uid": "adopter-trouver-mon-animal-astone-cha",
-      "nom": "ASTONE CHA",
-      "url": "https://www.la-spa.fr/adopter/trouver-mon-animal/astone-cha/",
-      "image": "https://www.la-spa.fr/app/app/uploads/animals/262128/astone-cha-262128-6afb4bc9bd373.jpg",
-      "espece": "chat",
-      "race": "Europeen",
-      "sexe": "male",
-      "age_categorie": "junior",
-      "age_texte": "3 mois",
-      "age_mois": 3,
-      "age_source": "fiche",
-      "age_conflit": null,
-      "date_naissance": null,
-      "date_publication": "2026-11-16",
-      "reserve": false,
-      "sos": true,
-      "fad": false,
-      "lieu": {
-        "nom": "La SPA - Refuge de Chamarande",
-        "slug": "refuge-spa-de-chamarande",
-        "ville": "Chamarande",
-        "code_postal": "91730",
-        "departement": "91",
-        "latitude": 48.533724,
-        "longitude": 2.209265,
-        "precision": "exacte",
-        "distance_km": 38.44465971246643,
-        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-chamarande/"
-      },
-      "description": "Astone et Martine sont arrivés récemment au refuge. Tous les deux très sociables et avenants, ils pourront partager leur foyer avec des enfants respectueux.\nIls devront vivre en appartement ou en pavillon sans accès à l'extérieur, car Astone présente une légère ataxie (trouble neurologique). Cela ne l’empêche pas de se déplacer normalement, ni de courir ou de grimper.\nIls sont très fusionnels et…",
-      "fiche_lue": false,
-      "portee": {
-        "id": "portee-2",
-        "taille": 2,
-        "disponibles": 2,
-        "confiance": "probable",
-        "indices": [
-          "même âge et même date de mise en ligne"
-        ]
-      },
-      "nouveau": true
     }
   ],
   "portees": [
@@ -499,134 +366,9 @@
       "sources": [
         "La SPA"
       ]
-    },
-    {
-      "id": "portee-2",
-      "source": "laspa",
-      "source_label": "La SPA",
-      "lieu": {
-        "nom": "La SPA - Refuge de Chamarande",
-        "ville": "Chamarande",
-        "departement": "91",
-        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-chamarande/"
-      },
-      "date_naissance": null,
-      "age_mois": 3,
-      "taille": 2,
-      "annonces": 2,
-      "disponibles": 2,
-      "confiance": "probable",
-      "indices": [
-        "même âge et même date de mise en ligne"
-      ],
-      "membres": [
-        "laspa:262128",
-        "laspa:262129"
-      ],
-      "noms": [
-        "ASTONE CHA",
-        "MARTINE CHA"
-      ],
-      "sources": [
-        "La SPA"
-      ]
     }
   ],
   "nouveaux_arrivants": [
-    {
-      "id": "laspa:262129",
-      "source": "laspa",
-      "source_label": "La SPA",
-      "source_id": "262129",
-      "uid": "adopter-trouver-mon-animal-martine-cha",
-      "nom": "MARTINE CHA",
-      "url": "https://www.la-spa.fr/adopter/trouver-mon-animal/martine-cha/",
-      "image": "https://www.la-spa.fr/app/app/uploads/animals/262129/martine-cha-262129-6afb4c034328e.jpg",
-      "espece": "chat",
-      "race": "Europeen",
-      "sexe": "femelle",
-      "age_categorie": "junior",
-      "age_texte": "3 mois",
-      "age_mois": 3,
-      "age_source": "fiche",
-      "age_conflit": null,
-      "date_naissance": null,
-      "date_publication": "2026-11-16",
-      "reserve": false,
-      "sos": false,
-      "fad": false,
-      "lieu": {
-        "nom": "La SPA - Refuge de Chamarande",
-        "slug": "refuge-spa-de-chamarande",
-        "ville": "Chamarande",
-        "code_postal": "91730",
-        "departement": "91",
-        "latitude": 48.533724,
-        "longitude": 2.209265,
-        "precision": "exacte",
-        "distance_km": 38.44465971246643,
-        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-chamarande/"
-      },
-      "description": "Astone et Martine sont arrivés récemment au refuge. Tous les deux très sociables et avenants, ils pourront partager leur foyer avec des enfants respectueux.\nIls devront vivre en appartement ou en pavillon sans accès à l'extérieur, car Astone présente une légère ataxie (trouble neurologique). Cela ne l’empêche pas de se déplacer normalement, ni de courir ou de grimper.\nIls sont très fusionnels et…",
-      "fiche_lue": false,
-      "portee": {
-        "id": "portee-2",
-        "taille": 2,
-        "disponibles": 2,
-        "confiance": "probable",
-        "indices": [
-          "même âge et même date de mise en ligne"
-        ]
-      },
-      "nouveau": true
-    },
-    {
-      "id": "laspa:262128",
-      "source": "laspa",
-      "source_label": "La SPA",
-      "source_id": "262128",
-      "uid": "adopter-trouver-mon-animal-astone-cha",
-      "nom": "ASTONE CHA",
-      "url": "https://www.la-spa.fr/adopter/trouver-mon-animal/astone-cha/",
-      "image": "https://www.la-spa.fr/app/app/uploads/animals/262128/astone-cha-262128-6afb4bc9bd373.jpg",
-      "espece": "chat",
-      "race": "Europeen",
-      "sexe": "male",
-      "age_categorie": "junior",
-      "age_texte": "3 mois",
-      "age_mois": 3,
-      "age_source": "fiche",
-      "age_conflit": null,
-      "date_naissance": null,
-      "date_publication": "2026-11-16",
-      "reserve": false,
-      "sos": true,
-      "fad": false,
-      "lieu": {
-        "nom": "La SPA - Refuge de Chamarande",
-        "slug": "refuge-spa-de-chamarande",
-        "ville": "Chamarande",
-        "code_postal": "91730",
-        "departement": "91",
-        "latitude": 48.533724,
-        "longitude": 2.209265,
-        "precision": "exacte",
-        "distance_km": 38.44465971246643,
-        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-chamarande/"
-      },
-      "description": "Astone et Martine sont arrivés récemment au refuge. Tous les deux très sociables et avenants, ils pourront partager leur foyer avec des enfants respectueux.\nIls devront vivre en appartement ou en pavillon sans accès à l'extérieur, car Astone présente une légère ataxie (trouble neurologique). Cela ne l’empêche pas de se déplacer normalement, ni de courir ou de grimper.\nIls sont très fusionnels et…",
-      "fiche_lue": false,
-      "portee": {
-        "id": "portee-2",
-        "taille": 2,
-        "disponibles": 2,
-        "confiance": "probable",
-        "indices": [
-          "même âge et même date de mise en ligne"
-        ]
-      },
-      "nouveau": true
-    },
     {
       "id": "laspa:261576",
       "source": "laspa",
@@ -662,45 +404,6 @@
         "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-gennevilliers-grammont/"
       },
       "description": "JANIS A L'ADOPTION AVEC JAIN\nCe sont deux petites chattes très fusionnel entre elles. Il serait vraiment nécessaire de les faire adopter ensemble car la petite chatte noire Janis est très dépendante de sa sœur Jain, elles sont très méfiante, mais une fois en confiance, ce sont deux petites adorables, chatons qui viendront, d’elles-mêmes demander des câlins et volontiers se poser à côté de vous. E…",
-      "fiche_lue": false,
-      "portee": null,
-      "nouveau": true
-    },
-    {
-      "id": "laspa:261415",
-      "source": "laspa",
-      "source_label": "La SPA",
-      "source_id": "261415",
-      "uid": "adopter-trouver-mon-animal-neige-pab30090",
-      "nom": "NEIGE PAB30090",
-      "url": "https://www.la-spa.fr/adopter/trouver-mon-animal/neige-pab30090/",
-      "image": "https://www.la-spa.fr/app/app/uploads/animals/261415/neige-pab30090-261415-6af828e2213de.jpg",
-      "espece": "chat",
-      "race": "Europeen",
-      "sexe": "femelle",
-      "age_categorie": "junior",
-      "age_texte": "2 mois",
-      "age_mois": 2,
-      "age_source": "fiche",
-      "age_conflit": null,
-      "date_naissance": null,
-      "date_publication": "2026-11-14",
-      "reserve": false,
-      "sos": false,
-      "fad": false,
-      "lieu": {
-        "nom": "La SPA - Refuge de Plaisir",
-        "slug": "refuge-spa-de-plaisir",
-        "ville": "Plaisir",
-        "code_postal": "78370",
-        "departement": "78",
-        "latitude": 48.799745,
-        "longitude": 1.931481,
-        "precision": "exacte",
-        "distance_km": 33.64370864577482,
-        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-plaisir/"
-      },
-      "description": "Neige est une chatonne de petit gabarit. Elle est très attachante. Mais il ne faut pas s’y tromper, elle est pleine d’énergie et participe sans hésitation aux jeux de mêlées avec ses frère et sœur.\nElle devra vivre en pavillon pour sortir se dépenser quand elle sera plus grande.\nNeige peut vivre avec d'autres chat et est ok avec des enfants respectueux.\nElle vit actuellement avec ses frère et soe…",
       "fiche_lue": false,
       "portee": null,
       "nouveau": true
@@ -749,8 +452,8 @@
     "sources": {
       "laspa": {
         "pages": 1,
-        "total_site": 135,
-        "dans_zone": 93,
+        "total_site": 138,
+        "dans_zone": 94,
         "fiches": 0,
         "fiches_cache": 0,
         "erreurs": 0
@@ -768,8 +471,8 @@
     },
     "requests": 12,
     "retries": 0,
-    "duree_s": 10.9,
-    "annonces_zone": 93
+    "duree_s": 8.2,
+    "annonces_zone": 94
   },
   "erreurs": []
 }
