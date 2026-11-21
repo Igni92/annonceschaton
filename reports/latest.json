@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-20T14:36:38.483Z",
+  "date": "2026-11-21T13:54:15.324Z",
   "zone": {
     "mode": "rayon",
     "label": "50 km autour de Paris 11e Arrondissement",
@@ -28,10 +28,10 @@
       "uid": "adopter-trouver-mon-animal-captaine-price",
       "nom": "CAPTAINE PRICE",
       "url": "https://www.la-spa.fr/adopter/trouver-mon-animal/captaine-price/",
-      "image": "https://www.la-spa.fr/app/app/uploads/animals/260174/captaine-price-260174-6afee116705ca.jpg",
+      "image": "https://www.la-spa.fr/app/app/uploads/animals/260174/captaine-price-260174-6b0180ec77d8f.jpg",
       "espece": "chat",
       "race": "Europeen",
-      "sexe": "femelle",
+      "sexe": "male",
       "age_categorie": "junior",
       "age_texte": "3 mois",
       "age_mois": 3,
@@ -58,8 +58,8 @@
       "fiche_lue": false,
       "portee": {
         "id": "portee-1",
-        "taille": 3,
-        "disponibles": 3,
+        "taille": 4,
+        "disponibles": 4,
         "confiance": "probable",
         "indices": [
           "même âge et même date de mise en ligne",
@@ -108,14 +108,14 @@
       "nouveau": true
     },
     {
-      "id": "laspa:263077",
+      "id": "laspa:260173",
       "source": "laspa",
       "source_label": "La SPA",
-      "source_id": "263077",
-      "uid": "adopter-trouver-mon-animal-lautrec",
-      "nom": "LAUTREC",
-      "url": "https://www.la-spa.fr/adopter/trouver-mon-animal/lautrec/",
-      "image": "https://www.la-spa.fr/app/app/uploads/animals/263077/lautrec-263077-6aff242d91cd1.jpg",
+      "source_id": "260173",
+      "uid": "adopter-trouver-mon-animal-makarov",
+      "nom": "MAKAROV",
+      "url": "https://www.la-spa.fr/adopter/trouver-mon-animal/makarov/",
+      "image": "https://www.la-spa.fr/app/app/uploads/animals/260173/makarov-260173-6b0180acce487.jpg",
       "espece": "chat",
       "race": "Europeen",
       "sexe": "femelle",
@@ -125,7 +125,7 @@
       "age_source": "fiche",
       "age_conflit": null,
       "date_naissance": null,
-      "date_publication": "2026-11-19",
+      "date_publication": "2026-11-10",
       "reserve": false,
       "sos": false,
       "fad": false,
@@ -141,9 +141,18 @@
         "distance_km": 11.004464438564007,
         "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-gennevilliers-grammont/"
       },
-      "description": "Lautrec a été abandonné directement au refuge.\nLautrec est un gentil loulou qui recherche des adoptants doux et patients qui lui laisseront le temps d'évoluer à son rythme.\nLautrec est actuellement en traitement contre la teigne, le traitement sera fournit et tout vous sera expliqué directement au refuge.\nVenez vite le rencontrer !",
+      "description": "Makarov a été abandonné directement au refuge avec sa fratrie.\nMakarov est une gentille louloutte qui recherche des adoptants doux et patients qui lui laisseront le temps d'évoluer à son rythme.\nMakarov est actuellement en traitement contre la teigne, le traitement sera fournit et tout vous sera expliqué directement au refuge.\nVenez vite la rencontrer !",
       "fiche_lue": false,
-      "portee": null,
+      "portee": {
+        "id": "portee-1",
+        "taille": 4,
+        "disponibles": 4,
+        "confiance": "probable",
+        "indices": [
+          "même âge et même date de mise en ligne",
+          "fratrie mentionnée"
+        ]
+      },
       "nouveau": true
     },
     {
@@ -154,10 +163,10 @@
       "uid": "adopter-trouver-mon-animal-zaz",
       "nom": "ZAZ",
       "url": "https://www.la-spa.fr/adopter/trouver-mon-animal/zaz/",
-      "image": "https://www.la-spa.fr/app/app/uploads/animals/260175/zaz-260175-6afee0fa7bef3.jpg",
+      "image": "https://www.la-spa.fr/app/app/uploads/animals/260175/zaz-260175-6b01803f4d3e6.jpg",
       "espece": "chat",
       "race": "Europeen",
-      "sexe": "femelle",
+      "sexe": "male",
       "age_categorie": "junior",
       "age_texte": "3 mois",
       "age_mois": 3,
@@ -184,8 +193,8 @@
       "fiche_lue": false,
       "portee": {
         "id": "portee-1",
-        "taille": 3,
-        "disponibles": 3,
+        "taille": 4,
+        "disponibles": 4,
         "confiance": "probable",
         "indices": [
           "même âge et même date de mise en ligne",
@@ -241,10 +250,10 @@
       "uid": "adopter-trouver-mon-animal-ghost-5",
       "nom": "GHOST",
       "url": "https://www.la-spa.fr/adopter/trouver-mon-animal/ghost-5/",
-      "image": "https://www.la-spa.fr/app/app/uploads/animals/260167/ghost-260167-6afee0dcc14c5.jpg",
+      "image": "https://www.la-spa.fr/app/app/uploads/animals/260167/ghost-260167-6b018072b0f22.jpg",
       "espece": "chat",
       "race": "Europeen",
-      "sexe": "femelle",
+      "sexe": "male",
       "age_categorie": "junior",
       "age_texte": "3 mois",
       "age_mois": 3,
@@ -271,8 +280,8 @@
       "fiche_lue": false,
       "portee": {
         "id": "portee-1",
-        "taille": 3,
-        "disponibles": 3,
+        "taille": 4,
+        "disponibles": 4,
         "confiance": "probable",
         "indices": [
           "même âge et même date de mise en ligne",
@@ -280,139 +289,6 @@
         ]
       },
       "nouveau": false
-    },
-    {
-      "id": "laspa:257624",
-      "source": "laspa",
-      "source_label": "La SPA",
-      "source_id": "257624",
-      "uid": "adopter-trouver-mon-animal-bambou-cha",
-      "nom": "BAMBOU CHA",
-      "url": "https://www.la-spa.fr/adopter/trouver-mon-animal/bambou-cha/",
-      "image": "https://www.la-spa.fr/app/app/uploads/animals/257624/bambou-cha-257624-6af831763508a.jpg",
-      "espece": "chat",
-      "race": "Europeen",
-      "sexe": "femelle",
-      "age_categorie": "junior",
-      "age_texte": "2 mois",
-      "age_mois": 2,
-      "age_source": "fiche",
-      "age_conflit": null,
-      "date_naissance": null,
-      "date_publication": "2026-11-02",
-      "reserve": false,
-      "sos": false,
-      "fad": false,
-      "lieu": {
-        "nom": "La SPA - Refuge de Chamarande",
-        "slug": "refuge-spa-de-chamarande",
-        "ville": "Chamarande",
-        "code_postal": "91730",
-        "departement": "91",
-        "latitude": 48.533724,
-        "longitude": 2.209265,
-        "precision": "exacte",
-        "distance_km": 38.44465971246643,
-        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-chamarande/"
-      },
-      "description": "Lala et sa fille Bambou cherchent leur famille . Sorties d'un appartement insalubre, elles sont inséparables et ne vivent pas l'une sans l'autre, elles seront donc à adopter obligatoirement ensemble.\nLala, la maman, a besoin de calme, de douceur et d'un temps d'adaptation pour accorder sa confiance et montrer son côté très câlin.\nBambou, sa fille, est une minette sociable, qui adore jouer.\nElles…",
-      "fiche_lue": false,
-      "portee": null,
-      "nouveau": false
-    },
-    {
-      "id": "laspa:263083",
-      "source": "laspa",
-      "source_label": "La SPA",
-      "source_id": "263083",
-      "uid": "adopter-trouver-mon-animal-roulemapoule-cha",
-      "nom": "ROULEMAPOULE CHA",
-      "url": "https://www.la-spa.fr/adopter/trouver-mon-animal/roulemapoule-cha/",
-      "image": "https://www.la-spa.fr/app/app/uploads/animals/263083/roulemapoule-cha-263083-6aff2bed37765.jpg",
-      "espece": "chat",
-      "race": "Europeen",
-      "sexe": "femelle",
-      "age_categorie": "junior",
-      "age_texte": "3 mois",
-      "age_mois": 3,
-      "age_source": "fiche",
-      "age_conflit": null,
-      "date_naissance": null,
-      "date_publication": "2026-11-19",
-      "reserve": false,
-      "sos": false,
-      "fad": false,
-      "lieu": {
-        "nom": "La SPA - Refuge de Chamarande",
-        "slug": "refuge-spa-de-chamarande",
-        "ville": "Chamarande",
-        "code_postal": "91730",
-        "departement": "91",
-        "latitude": 48.533724,
-        "longitude": 2.209265,
-        "precision": "exacte",
-        "distance_km": 38.44465971246643,
-        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-chamarande/"
-      },
-      "description": "Roulemapoule vient tout juste d'arriver au refuge, elle semble plutôt avenante et sociable.\nAyant eu l'habitude d'un accès à l'extérieur elle devra vivre en maison ou en appartement avec un accès à l'extérieur.",
-      "fiche_lue": false,
-      "portee": {
-        "id": "portee-2",
-        "taille": 4,
-        "disponibles": 4,
-        "confiance": "probable",
-        "indices": [
-          "même âge et même date de mise en ligne"
-        ]
-      },
-      "nouveau": true
-    },
-    {
-      "id": "laspa:263084",
-      "source": "laspa",
-      "source_label": "La SPA",
-      "source_id": "263084",
-      "uid": "adopter-trouver-mon-animal-rouletaboule-cha",
-      "nom": "ROULETABOULE CHA",
-      "url": "https://www.la-spa.fr/adopter/trouver-mon-animal/rouletaboule-cha/",
-      "image": "https://www.la-spa.fr/app/app/uploads/animals/263084/rouletaboule-cha-263084-6aff2c761dd1c.jpg",
-      "espece": "chat",
-      "race": "Europeen",
-      "sexe": "femelle",
-      "age_categorie": "junior",
-      "age_texte": "3 mois",
-      "age_mois": 3,
-      "age_source": "fiche",
-      "age_conflit": null,
-      "date_naissance": null,
-      "date_publication": "2026-11-19",
-      "reserve": false,
-      "sos": false,
-      "fad": false,
-      "lieu": {
-        "nom": "La SPA - Refuge de Chamarande",
-        "slug": "refuge-spa-de-chamarande",
-        "ville": "Chamarande",
-        "code_postal": "91730",
-        "departement": "91",
-        "latitude": 48.533724,
-        "longitude": 2.209265,
-        "precision": "exacte",
-        "distance_km": 38.44465971246643,
-        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-chamarande/"
-      },
-      "description": "Rouletaboule vient tout juste d'arriver au refuge, elle semble plutôt avenante et sociable.\nAyant eu l'habitude d'un accès à l'extérieur elle devra vivre en maison ou en appartement avec un accès à l'extérieur.",
-      "fiche_lue": false,
-      "portee": {
-        "id": "portee-2",
-        "taille": 4,
-        "disponibles": 4,
-        "confiance": "probable",
-        "indices": [
-          "même âge et même date de mise en ligne"
-        ]
-      },
-      "nouveau": true
     },
     {
       "id": "laspa:263089",
@@ -450,26 +326,18 @@
       },
       "description": "Roucoucool vient tout juste d'arriver au refuge, il semble plutôt avenant et sociable.\nAyant eu l'habitude d'un accès à l'extérieur il devra vivre en maison ou en appartement avec un accès à l'extérieur.",
       "fiche_lue": false,
-      "portee": {
-        "id": "portee-2",
-        "taille": 4,
-        "disponibles": 4,
-        "confiance": "probable",
-        "indices": [
-          "même âge et même date de mise en ligne"
-        ]
-      },
+      "portee": null,
       "nouveau": true
     },
     {
-      "id": "laspa:263085",
+      "id": "laspa:257624",
       "source": "laspa",
       "source_label": "La SPA",
-      "source_id": "263085",
-      "uid": "adopter-trouver-mon-animal-rouletaboulette-cha",
-      "nom": "ROULETABOULETTE CHA",
-      "url": "https://www.la-spa.fr/adopter/trouver-mon-animal/rouletaboulette-cha/",
-      "image": "https://www.la-spa.fr/app/app/uploads/animals/263085/rouletaboulette-cha-263085-6aff2d65674b9.jpg",
+      "source_id": "257624",
+      "uid": "adopter-trouver-mon-animal-bambou-cha",
+      "nom": "BAMBOU CHA",
+      "url": "https://www.la-spa.fr/adopter/trouver-mon-animal/bambou-cha/",
+      "image": "https://www.la-spa.fr/app/app/uploads/animals/257624/bambou-cha-257624-6af831763508a.jpg",
       "espece": "chat",
       "race": "Europeen",
       "sexe": "femelle",
@@ -479,7 +347,7 @@
       "age_source": "fiche",
       "age_conflit": null,
       "date_naissance": null,
-      "date_publication": "2026-11-19",
+      "date_publication": "2026-11-02",
       "reserve": false,
       "sos": false,
       "fad": false,
@@ -495,31 +363,23 @@
         "distance_km": 38.44465971246643,
         "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-chamarande/"
       },
-      "description": "Rouletaboulette vient tout juste d'arriver au refuge, elle semble plutôt avenante et sociable.\nAyant eu l'habitude d'un accès à l'extérieur elle devra vivre en maison ou en appartement avec un accès à l'extérieur.",
+      "description": "Lala et sa fille Bambou cherchent leur famille . Sorties d'un appartement insalubre, elles sont inséparables et ne vivent pas l'une sans l'autre, elles seront donc à adopter obligatoirement ensemble.\nLala, la maman, a besoin de calme, de douceur et d'un temps d'adaptation pour accorder sa confiance et montrer son côté très câlin.\nBambou, sa fille, est une minette sociable, qui adore jouer.\nElles…",
       "fiche_lue": false,
-      "portee": {
-        "id": "portee-2",
-        "taille": 4,
-        "disponibles": 4,
-        "confiance": "probable",
-        "indices": [
-          "même âge et même date de mise en ligne"
-        ]
-      },
-      "nouveau": true
+      "portee": null,
+      "nouveau": false
     },
     {
-      "id": "laspa:263402",
+      "id": "laspa:263426",
       "source": "laspa",
       "source_label": "La SPA",
-      "source_id": "263402",
-      "uid": "adopter-trouver-mon-animal-bastet-c-2",
-      "nom": "BASTET C",
-      "url": "https://www.la-spa.fr/adopter/trouver-mon-animal/bastet-c-2/",
-      "image": "https://www.la-spa.fr/app/app/uploads/animals/263402/bastet-c-263402-6b005aeb85928.jpg",
+      "source_id": "263426",
+      "uid": "adopter-trouver-mon-animal-horus-c",
+      "nom": "HORUS C",
+      "url": "https://www.la-spa.fr/adopter/trouver-mon-animal/horus-c/",
+      "image": "https://www.la-spa.fr/app/app/uploads/animals/263426/horus-c-263426-6b00628e2b0ae.jpg",
       "espece": "chat",
       "race": "Europeen",
-      "sexe": "femelle",
+      "sexe": "male",
       "age_categorie": "junior",
       "age_texte": "3 mois",
       "age_mois": 3,
@@ -550,41 +410,6 @@
   ],
   "portees": [
     {
-      "id": "portee-2",
-      "source": "laspa",
-      "source_label": "La SPA",
-      "lieu": {
-        "nom": "La SPA - Refuge de Chamarande",
-        "ville": "Chamarande",
-        "departement": "91",
-        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-chamarande/"
-      },
-      "date_naissance": null,
-      "age_mois": 3,
-      "taille": 4,
-      "annonces": 4,
-      "disponibles": 4,
-      "confiance": "probable",
-      "indices": [
-        "même âge et même date de mise en ligne"
-      ],
-      "membres": [
-        "laspa:263083",
-        "laspa:263084",
-        "laspa:263085",
-        "laspa:263089"
-      ],
-      "noms": [
-        "ROUCOUCOOL CHA",
-        "ROULEMAPOULE CHA",
-        "ROULETABOULE CHA",
-        "ROULETABOULETTE CHA"
-      ],
-      "sources": [
-        "La SPA"
-      ]
-    },
-    {
       "id": "portee-1",
       "source": "laspa",
       "source_label": "La SPA",
@@ -596,9 +421,9 @@
       },
       "date_naissance": null,
       "age_mois": 3,
-      "taille": 3,
-      "annonces": 3,
-      "disponibles": 3,
+      "taille": 4,
+      "annonces": 4,
+      "disponibles": 4,
       "confiance": "probable",
       "indices": [
         "même âge et même date de mise en ligne",
@@ -606,12 +431,14 @@
       ],
       "membres": [
         "laspa:260167",
+        "laspa:260173",
         "laspa:260174",
         "laspa:260175"
       ],
       "noms": [
         "CAPTAINE PRICE",
         "GHOST",
+        "MAKAROV",
         "ZAZ"
       ],
       "sources": [
@@ -621,17 +448,17 @@
   ],
   "nouveaux_arrivants": [
     {
-      "id": "laspa:263402",
+      "id": "laspa:263426",
       "source": "laspa",
       "source_label": "La SPA",
-      "source_id": "263402",
-      "uid": "adopter-trouver-mon-animal-bastet-c-2",
-      "nom": "BASTET C",
-      "url": "https://www.la-spa.fr/adopter/trouver-mon-animal/bastet-c-2/",
-      "image": "https://www.la-spa.fr/app/app/uploads/animals/263402/bastet-c-263402-6b005aeb85928.jpg",
+      "source_id": "263426",
+      "uid": "adopter-trouver-mon-animal-horus-c",
+      "nom": "HORUS C",
+      "url": "https://www.la-spa.fr/adopter/trouver-mon-animal/horus-c/",
+      "image": "https://www.la-spa.fr/app/app/uploads/animals/263426/horus-c-263426-6b00628e2b0ae.jpg",
       "espece": "chat",
       "race": "Europeen",
-      "sexe": "femelle",
+      "sexe": "male",
       "age_categorie": "junior",
       "age_texte": "3 mois",
       "age_mois": 3,
@@ -657,139 +484,6 @@
       "description": null,
       "fiche_lue": false,
       "portee": null,
-      "nouveau": true
-    },
-    {
-      "id": "laspa:263077",
-      "source": "laspa",
-      "source_label": "La SPA",
-      "source_id": "263077",
-      "uid": "adopter-trouver-mon-animal-lautrec",
-      "nom": "LAUTREC",
-      "url": "https://www.la-spa.fr/adopter/trouver-mon-animal/lautrec/",
-      "image": "https://www.la-spa.fr/app/app/uploads/animals/263077/lautrec-263077-6aff242d91cd1.jpg",
-      "espece": "chat",
-      "race": "Europeen",
-      "sexe": "femelle",
-      "age_categorie": "junior",
-      "age_texte": "3 mois",
-      "age_mois": 3,
-      "age_source": "fiche",
-      "age_conflit": null,
-      "date_naissance": null,
-      "date_publication": "2026-11-19",
-      "reserve": false,
-      "sos": false,
-      "fad": false,
-      "lieu": {
-        "nom": "La SPA - Refuge de Gennevilliers – Grammont",
-        "slug": "refuge-spa-de-gennevilliers-grammont",
-        "ville": "Gennevilliers",
-        "code_postal": "92230",
-        "departement": "92",
-        "latitude": 48.944706567958,
-        "longitude": 2.3035848619018,
-        "precision": "exacte",
-        "distance_km": 11.004464438564007,
-        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-gennevilliers-grammont/"
-      },
-      "description": "Lautrec a été abandonné directement au refuge.\nLautrec est un gentil loulou qui recherche des adoptants doux et patients qui lui laisseront le temps d'évoluer à son rythme.\nLautrec est actuellement en traitement contre la teigne, le traitement sera fournit et tout vous sera expliqué directement au refuge.\nVenez vite le rencontrer !",
-      "fiche_lue": false,
-      "portee": null,
-      "nouveau": true
-    },
-    {
-      "id": "laspa:263083",
-      "source": "laspa",
-      "source_label": "La SPA",
-      "source_id": "263083",
-      "uid": "adopter-trouver-mon-animal-roulemapoule-cha",
-      "nom": "ROULEMAPOULE CHA",
-      "url": "https://www.la-spa.fr/adopter/trouver-mon-animal/roulemapoule-cha/",
-      "image": "https://www.la-spa.fr/app/app/uploads/animals/263083/roulemapoule-cha-263083-6aff2bed37765.jpg",
-      "espece": "chat",
-      "race": "Europeen",
-      "sexe": "femelle",
-      "age_categorie": "junior",
-      "age_texte": "3 mois",
-      "age_mois": 3,
-      "age_source": "fiche",
-      "age_conflit": null,
-      "date_naissance": null,
-      "date_publication": "2026-11-19",
-      "reserve": false,
-      "sos": false,
-      "fad": false,
-      "lieu": {
-        "nom": "La SPA - Refuge de Chamarande",
-        "slug": "refuge-spa-de-chamarande",
-        "ville": "Chamarande",
-        "code_postal": "91730",
-        "departement": "91",
-        "latitude": 48.533724,
-        "longitude": 2.209265,
-        "precision": "exacte",
-        "distance_km": 38.44465971246643,
-        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-chamarande/"
-      },
-      "description": "Roulemapoule vient tout juste d'arriver au refuge, elle semble plutôt avenante et sociable.\nAyant eu l'habitude d'un accès à l'extérieur elle devra vivre en maison ou en appartement avec un accès à l'extérieur.",
-      "fiche_lue": false,
-      "portee": {
-        "id": "portee-2",
-        "taille": 4,
-        "disponibles": 4,
-        "confiance": "probable",
-        "indices": [
-          "même âge et même date de mise en ligne"
-        ]
-      },
-      "nouveau": true
-    },
-    {
-      "id": "laspa:263084",
-      "source": "laspa",
-      "source_label": "La SPA",
-      "source_id": "263084",
-      "uid": "adopter-trouver-mon-animal-rouletaboule-cha",
-      "nom": "ROULETABOULE CHA",
-      "url": "https://www.la-spa.fr/adopter/trouver-mon-animal/rouletaboule-cha/",
-      "image": "https://www.la-spa.fr/app/app/uploads/animals/263084/rouletaboule-cha-263084-6aff2c761dd1c.jpg",
-      "espece": "chat",
-      "race": "Europeen",
-      "sexe": "femelle",
-      "age_categorie": "junior",
-      "age_texte": "3 mois",
-      "age_mois": 3,
-      "age_source": "fiche",
-      "age_conflit": null,
-      "date_naissance": null,
-      "date_publication": "2026-11-19",
-      "reserve": false,
-      "sos": false,
-      "fad": false,
-      "lieu": {
-        "nom": "La SPA - Refuge de Chamarande",
-        "slug": "refuge-spa-de-chamarande",
-        "ville": "Chamarande",
-        "code_postal": "91730",
-        "departement": "91",
-        "latitude": 48.533724,
-        "longitude": 2.209265,
-        "precision": "exacte",
-        "distance_km": 38.44465971246643,
-        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-chamarande/"
-      },
-      "description": "Rouletaboule vient tout juste d'arriver au refuge, elle semble plutôt avenante et sociable.\nAyant eu l'habitude d'un accès à l'extérieur elle devra vivre en maison ou en appartement avec un accès à l'extérieur.",
-      "fiche_lue": false,
-      "portee": {
-        "id": "portee-2",
-        "taille": 4,
-        "disponibles": 4,
-        "confiance": "probable",
-        "indices": [
-          "même âge et même date de mise en ligne"
-        ]
-      },
       "nouveau": true
     },
     {
@@ -828,62 +522,7 @@
       },
       "description": "Roucoucool vient tout juste d'arriver au refuge, il semble plutôt avenant et sociable.\nAyant eu l'habitude d'un accès à l'extérieur il devra vivre en maison ou en appartement avec un accès à l'extérieur.",
       "fiche_lue": false,
-      "portee": {
-        "id": "portee-2",
-        "taille": 4,
-        "disponibles": 4,
-        "confiance": "probable",
-        "indices": [
-          "même âge et même date de mise en ligne"
-        ]
-      },
-      "nouveau": true
-    },
-    {
-      "id": "laspa:263085",
-      "source": "laspa",
-      "source_label": "La SPA",
-      "source_id": "263085",
-      "uid": "adopter-trouver-mon-animal-rouletaboulette-cha",
-      "nom": "ROULETABOULETTE CHA",
-      "url": "https://www.la-spa.fr/adopter/trouver-mon-animal/rouletaboulette-cha/",
-      "image": "https://www.la-spa.fr/app/app/uploads/animals/263085/rouletaboulette-cha-263085-6aff2d65674b9.jpg",
-      "espece": "chat",
-      "race": "Europeen",
-      "sexe": "femelle",
-      "age_categorie": "junior",
-      "age_texte": "3 mois",
-      "age_mois": 3,
-      "age_source": "fiche",
-      "age_conflit": null,
-      "date_naissance": null,
-      "date_publication": "2026-11-19",
-      "reserve": false,
-      "sos": false,
-      "fad": false,
-      "lieu": {
-        "nom": "La SPA - Refuge de Chamarande",
-        "slug": "refuge-spa-de-chamarande",
-        "ville": "Chamarande",
-        "code_postal": "91730",
-        "departement": "91",
-        "latitude": 48.533724,
-        "longitude": 2.209265,
-        "precision": "exacte",
-        "distance_km": 38.44465971246643,
-        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-chamarande/"
-      },
-      "description": "Rouletaboulette vient tout juste d'arriver au refuge, elle semble plutôt avenante et sociable.\nAyant eu l'habitude d'un accès à l'extérieur elle devra vivre en maison ou en appartement avec un accès à l'extérieur.",
-      "fiche_lue": false,
-      "portee": {
-        "id": "portee-2",
-        "taille": 4,
-        "disponibles": 4,
-        "confiance": "probable",
-        "indices": [
-          "même âge et même date de mise en ligne"
-        ]
-      },
+      "portee": null,
       "nouveau": true
     },
     {
@@ -924,14 +563,62 @@
       "fiche_lue": false,
       "portee": null,
       "nouveau": true
+    },
+    {
+      "id": "laspa:260173",
+      "source": "laspa",
+      "source_label": "La SPA",
+      "source_id": "260173",
+      "uid": "adopter-trouver-mon-animal-makarov",
+      "nom": "MAKAROV",
+      "url": "https://www.la-spa.fr/adopter/trouver-mon-animal/makarov/",
+      "image": "https://www.la-spa.fr/app/app/uploads/animals/260173/makarov-260173-6b0180acce487.jpg",
+      "espece": "chat",
+      "race": "Europeen",
+      "sexe": "femelle",
+      "age_categorie": "junior",
+      "age_texte": "3 mois",
+      "age_mois": 3,
+      "age_source": "fiche",
+      "age_conflit": null,
+      "date_naissance": null,
+      "date_publication": "2026-11-10",
+      "reserve": false,
+      "sos": false,
+      "fad": false,
+      "lieu": {
+        "nom": "La SPA - Refuge de Gennevilliers – Grammont",
+        "slug": "refuge-spa-de-gennevilliers-grammont",
+        "ville": "Gennevilliers",
+        "code_postal": "92230",
+        "departement": "92",
+        "latitude": 48.944706567958,
+        "longitude": 2.3035848619018,
+        "precision": "exacte",
+        "distance_km": 11.004464438564007,
+        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-gennevilliers-grammont/"
+      },
+      "description": "Makarov a été abandonné directement au refuge avec sa fratrie.\nMakarov est une gentille louloutte qui recherche des adoptants doux et patients qui lui laisseront le temps d'évoluer à son rythme.\nMakarov est actuellement en traitement contre la teigne, le traitement sera fournit et tout vous sera expliqué directement au refuge.\nVenez vite la rencontrer !",
+      "fiche_lue": false,
+      "portee": {
+        "id": "portee-1",
+        "taille": 4,
+        "disponibles": 4,
+        "confiance": "probable",
+        "indices": [
+          "même âge et même date de mise en ligne",
+          "fratrie mentionnée"
+        ]
+      },
+      "nouveau": true
     }
   ],
   "stats": {
     "sources": {
       "laspa": {
         "pages": 1,
-        "total_site": 148,
-        "dans_zone": 103,
+        "total_site": 144,
+        "dans_zone": 99,
         "fiches": 0,
         "fiches_cache": 0,
         "erreurs": 0
@@ -950,7 +637,7 @@
     "requests": 12,
     "retries": 0,
     "duree_s": 7.7,
-    "annonces_zone": 103
+    "annonces_zone": 99
   },
   "erreurs": []
 }
