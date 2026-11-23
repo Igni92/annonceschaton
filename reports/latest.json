@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-22T13:46:54.690Z",
+  "date": "2026-11-23T16:51:31.340Z",
   "zone": {
     "mode": "rayon",
     "label": "50 km autour de Paris 11e Arrondissement",
@@ -20,6 +20,45 @@
     "inclure_reserves": false
   },
   "chatons": [
+    {
+      "id": "laspa:264416",
+      "source": "laspa",
+      "source_label": "La SPA",
+      "source_id": "264416",
+      "uid": "adopter-trouver-mon-animal-garrigue",
+      "nom": "GARRIGUE",
+      "url": "https://www.la-spa.fr/adopter/trouver-mon-animal/garrigue/",
+      "image": "https://www.la-spa.fr/app/app/uploads/animals/264416/garrigue-264416-6b045f3458e74.jpg",
+      "espece": "chat",
+      "race": "Europeen",
+      "sexe": "male",
+      "age_categorie": "junior",
+      "age_texte": "2 mois",
+      "age_mois": 2,
+      "age_source": "fiche",
+      "age_conflit": null,
+      "date_naissance": null,
+      "date_publication": "2026-11-23",
+      "reserve": false,
+      "sos": false,
+      "fad": false,
+      "lieu": {
+        "nom": "La SPA - Refuge de Gennevilliers – Grammont",
+        "slug": "refuge-spa-de-gennevilliers-grammont",
+        "ville": "Gennevilliers",
+        "code_postal": "92230",
+        "departement": "92",
+        "latitude": 48.944706567958,
+        "longitude": 2.3035848619018,
+        "precision": "exacte",
+        "distance_km": 11.004464438564007,
+        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-gennevilliers-grammont/"
+      },
+      "description": "Garrigue est arrivée au refuge avec ses frères et sœurs, à la suite d'un syndrome de Noé.\nGarrigue est un petit chat timide qui recherche des adoptants doux et patients, prêts à lui laisser le temps d'évoluer à son rythme.\nAyant été habituée à la présence d'un seul humain, il aura besoin de temps et de douceur avant d'accorder sa confiance à une nouvelle personne.\nGarrigue devra vivre en appartem…",
+      "fiche_lue": false,
+      "portee": null,
+      "nouveau": true
+    },
     {
       "id": "laspa:260174",
       "source": "laspa",
@@ -58,101 +97,14 @@
       "fiche_lue": false,
       "portee": {
         "id": "portee-1",
-        "taille": 3,
-        "disponibles": 3,
+        "taille": 2,
+        "disponibles": 2,
         "confiance": "probable",
         "indices": [
           "même âge et même date de mise en ligne",
           "fratrie mentionnée"
         ]
       },
-      "nouveau": false
-    },
-    {
-      "id": "laspa:260175",
-      "source": "laspa",
-      "source_label": "La SPA",
-      "source_id": "260175",
-      "uid": "adopter-trouver-mon-animal-zaz",
-      "nom": "ZAZ",
-      "url": "https://www.la-spa.fr/adopter/trouver-mon-animal/zaz/",
-      "image": "https://www.la-spa.fr/app/app/uploads/animals/260175/zaz-260175-6b01803f4d3e6.jpg",
-      "espece": "chat",
-      "race": "Europeen",
-      "sexe": "male",
-      "age_categorie": "junior",
-      "age_texte": "3 mois",
-      "age_mois": 3,
-      "age_source": "fiche",
-      "age_conflit": null,
-      "date_naissance": null,
-      "date_publication": "2026-11-10",
-      "reserve": false,
-      "sos": false,
-      "fad": false,
-      "lieu": {
-        "nom": "La SPA - Refuge de Gennevilliers – Grammont",
-        "slug": "refuge-spa-de-gennevilliers-grammont",
-        "ville": "Gennevilliers",
-        "code_postal": "92230",
-        "departement": "92",
-        "latitude": 48.944706567958,
-        "longitude": 2.3035848619018,
-        "precision": "exacte",
-        "distance_km": 11.004464438564007,
-        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-gennevilliers-grammont/"
-      },
-      "description": "Zaz a été abandonné directement au refuge avec sa fratrie.\nZaz est une gentille louloutte qui recherche des adoptants doux et patients qui lui laisseront le temps d'évoluer à son rythme.\nZaz est actuellement en traitement contre la teigne, le traitement sera fournit et tout vous sera expliqué directement au refuge.\nVenez vite la rencontrer !",
-      "fiche_lue": false,
-      "portee": {
-        "id": "portee-1",
-        "taille": 3,
-        "disponibles": 3,
-        "confiance": "probable",
-        "indices": [
-          "même âge et même date de mise en ligne",
-          "fratrie mentionnée"
-        ]
-      },
-      "nouveau": false
-    },
-    {
-      "id": "laspa:260696",
-      "source": "laspa",
-      "source_label": "La SPA",
-      "source_id": "260696",
-      "uid": "adopter-trouver-mon-animal-kiwi-2",
-      "nom": "KIWI",
-      "url": "https://www.la-spa.fr/adopter/trouver-mon-animal/kiwi-2/",
-      "image": "https://www.la-spa.fr/app/app/uploads/animals/260696/kiwi-260696-6af56abaab1ec.jpg",
-      "espece": "chat",
-      "race": "Europeen",
-      "sexe": "femelle",
-      "age_categorie": "junior",
-      "age_texte": "3 mois",
-      "age_mois": 3,
-      "age_source": "fiche",
-      "age_conflit": null,
-      "date_naissance": null,
-      "date_publication": "2026-11-12",
-      "reserve": false,
-      "sos": false,
-      "fad": false,
-      "lieu": {
-        "nom": "La SPA - Refuge de Gennevilliers – Grammont",
-        "slug": "refuge-spa-de-gennevilliers-grammont",
-        "ville": "Gennevilliers",
-        "code_postal": "92230",
-        "departement": "92",
-        "latitude": 48.944706567958,
-        "longitude": 2.3035848619018,
-        "precision": "exacte",
-        "distance_km": 11.004464438564007,
-        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-gennevilliers-grammont/"
-      },
-      "description": "Kiwi arrive de fourrière animale. Nous ne connaissons donc rien de sa vie précédente.\nKiwi est un adorable chaton qui recherche des adoptants doux et patients qui lui laisseront le temps d'évoluer à son rythme.\nAdopter un chaton est un engagement pour les 15 prochaines années.\nPrévoir un chèque de caution.\nVenez vite le rencontrer!",
-      "fiche_lue": false,
-      "portee": null,
       "nouveau": false
     },
     {
@@ -193,8 +145,8 @@
       "fiche_lue": false,
       "portee": {
         "id": "portee-1",
-        "taille": 3,
-        "disponibles": 3,
+        "taille": 2,
+        "disponibles": 2,
         "confiance": "probable",
         "indices": [
           "même âge et même date de mise en ligne",
@@ -282,24 +234,24 @@
       "nouveau": false
     },
     {
-      "id": "laspa:264057",
+      "id": "laspa:264371",
       "source": "laspa",
       "source_label": "La SPA",
-      "source_id": "264057",
-      "uid": "adopter-trouver-mon-animal-marie-c",
-      "nom": "MARIE C",
-      "url": "https://www.la-spa.fr/adopter/trouver-mon-animal/marie-c/",
-      "image": "https://www.la-spa.fr/app/app/uploads/animals/264057/marie-c-264057-6b02f206e2722.jpg",
+      "source_id": "264371",
+      "uid": "adopter-trouver-mon-animal-tokyo-c",
+      "nom": "TOKYO C",
+      "url": "https://www.la-spa.fr/adopter/trouver-mon-animal/tokyo-c/",
+      "image": "https://www.la-spa.fr/app/app/uploads/animals/264371/tokyo-c-264371-6b045019d275d.jpg",
       "espece": "chat",
       "race": "Europeen",
-      "sexe": "femelle",
+      "sexe": "male",
       "age_categorie": "junior",
-      "age_texte": "3 mois",
-      "age_mois": 3,
+      "age_texte": "2 mois",
+      "age_mois": 2,
       "age_source": "fiche",
       "age_conflit": null,
       "date_naissance": null,
-      "date_publication": "2026-11-22",
+      "date_publication": "2026-11-23",
       "reserve": false,
       "sos": false,
       "fad": false,
@@ -317,11 +269,146 @@
       },
       "description": null,
       "fiche_lue": false,
-      "portee": null,
+      "portee": {
+        "id": "portee-2",
+        "taille": 3,
+        "disponibles": 3,
+        "confiance": "probable",
+        "indices": [
+          "même âge et même date de mise en ligne"
+        ]
+      },
+      "nouveau": true
+    },
+    {
+      "id": "laspa:264372",
+      "source": "laspa",
+      "source_label": "La SPA",
+      "source_id": "264372",
+      "uid": "adopter-trouver-mon-animal-blanca-c",
+      "nom": "BLANCA C",
+      "url": "https://www.la-spa.fr/adopter/trouver-mon-animal/blanca-c/",
+      "image": "https://www.la-spa.fr/app/app/uploads/animals/264372/blanca-c-264372-6b045033b5468.jpg",
+      "espece": "chat",
+      "race": "Europeen",
+      "sexe": "femelle",
+      "age_categorie": "junior",
+      "age_texte": "2 mois",
+      "age_mois": 2,
+      "age_source": "fiche",
+      "age_conflit": null,
+      "date_naissance": null,
+      "date_publication": "2026-11-23",
+      "reserve": false,
+      "sos": false,
+      "fad": false,
+      "lieu": {
+        "nom": "La SPA - Refuge de Vaux-Le-Penil",
+        "slug": "refuge-spa-de-vaux-le-penil",
+        "ville": "Vaux-Le-Pénil",
+        "code_postal": "77000",
+        "departement": "77",
+        "latitude": 48.520575,
+        "longitude": 2.718874,
+        "precision": "exacte",
+        "distance_km": 45.142564706391916,
+        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-vaux-le-penil/"
+      },
+      "description": null,
+      "fiche_lue": false,
+      "portee": {
+        "id": "portee-2",
+        "taille": 3,
+        "disponibles": 3,
+        "confiance": "probable",
+        "indices": [
+          "même âge et même date de mise en ligne"
+        ]
+      },
+      "nouveau": true
+    },
+    {
+      "id": "laspa:264370",
+      "source": "laspa",
+      "source_label": "La SPA",
+      "source_id": "264370",
+      "uid": "adopter-trouver-mon-animal-natal-c",
+      "nom": "NATAL C",
+      "url": "https://www.la-spa.fr/adopter/trouver-mon-animal/natal-c/",
+      "image": "https://www.la-spa.fr/app/app/uploads/animals/264370/natal-c-264370-6b044fd49eb02.jpg",
+      "espece": "chat",
+      "race": "Europeen",
+      "sexe": "male",
+      "age_categorie": "junior",
+      "age_texte": "2 mois",
+      "age_mois": 2,
+      "age_source": "fiche",
+      "age_conflit": null,
+      "date_naissance": null,
+      "date_publication": "2026-11-23",
+      "reserve": false,
+      "sos": false,
+      "fad": false,
+      "lieu": {
+        "nom": "La SPA - Refuge de Vaux-Le-Penil",
+        "slug": "refuge-spa-de-vaux-le-penil",
+        "ville": "Vaux-Le-Pénil",
+        "code_postal": "77000",
+        "departement": "77",
+        "latitude": 48.520575,
+        "longitude": 2.718874,
+        "precision": "exacte",
+        "distance_km": 45.142564706391916,
+        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-vaux-le-penil/"
+      },
+      "description": null,
+      "fiche_lue": false,
+      "portee": {
+        "id": "portee-2",
+        "taille": 3,
+        "disponibles": 3,
+        "confiance": "probable",
+        "indices": [
+          "même âge et même date de mise en ligne"
+        ]
+      },
       "nouveau": true
     }
   ],
   "portees": [
+    {
+      "id": "portee-2",
+      "source": "laspa",
+      "source_label": "La SPA",
+      "lieu": {
+        "nom": "La SPA - Refuge de Vaux-Le-Penil",
+        "ville": "Vaux-Le-Pénil",
+        "departement": "77",
+        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-vaux-le-penil/"
+      },
+      "date_naissance": null,
+      "age_mois": 2,
+      "taille": 3,
+      "annonces": 3,
+      "disponibles": 3,
+      "confiance": "probable",
+      "indices": [
+        "même âge et même date de mise en ligne"
+      ],
+      "membres": [
+        "laspa:264370",
+        "laspa:264371",
+        "laspa:264372"
+      ],
+      "noms": [
+        "BLANCA C",
+        "NATAL C",
+        "TOKYO C"
+      ],
+      "sources": [
+        "La SPA"
+      ]
+    },
     {
       "id": "portee-1",
       "source": "laspa",
@@ -334,9 +421,9 @@
       },
       "date_naissance": null,
       "age_mois": 3,
-      "taille": 3,
-      "annonces": 3,
-      "disponibles": 3,
+      "taille": 2,
+      "annonces": 2,
+      "disponibles": 2,
       "confiance": "probable",
       "indices": [
         "même âge et même date de mise en ligne",
@@ -344,13 +431,11 @@
       ],
       "membres": [
         "laspa:260167",
-        "laspa:260174",
-        "laspa:260175"
+        "laspa:260174"
       ],
       "noms": [
         "CAPTAINE PRICE",
-        "GHOST",
-        "ZAZ"
+        "GHOST"
       ],
       "sources": [
         "La SPA"
@@ -359,24 +444,63 @@
   ],
   "nouveaux_arrivants": [
     {
-      "id": "laspa:264057",
+      "id": "laspa:264416",
       "source": "laspa",
       "source_label": "La SPA",
-      "source_id": "264057",
-      "uid": "adopter-trouver-mon-animal-marie-c",
-      "nom": "MARIE C",
-      "url": "https://www.la-spa.fr/adopter/trouver-mon-animal/marie-c/",
-      "image": "https://www.la-spa.fr/app/app/uploads/animals/264057/marie-c-264057-6b02f206e2722.jpg",
+      "source_id": "264416",
+      "uid": "adopter-trouver-mon-animal-garrigue",
+      "nom": "GARRIGUE",
+      "url": "https://www.la-spa.fr/adopter/trouver-mon-animal/garrigue/",
+      "image": "https://www.la-spa.fr/app/app/uploads/animals/264416/garrigue-264416-6b045f3458e74.jpg",
       "espece": "chat",
       "race": "Europeen",
-      "sexe": "femelle",
+      "sexe": "male",
       "age_categorie": "junior",
-      "age_texte": "3 mois",
-      "age_mois": 3,
+      "age_texte": "2 mois",
+      "age_mois": 2,
       "age_source": "fiche",
       "age_conflit": null,
       "date_naissance": null,
-      "date_publication": "2026-11-22",
+      "date_publication": "2026-11-23",
+      "reserve": false,
+      "sos": false,
+      "fad": false,
+      "lieu": {
+        "nom": "La SPA - Refuge de Gennevilliers – Grammont",
+        "slug": "refuge-spa-de-gennevilliers-grammont",
+        "ville": "Gennevilliers",
+        "code_postal": "92230",
+        "departement": "92",
+        "latitude": 48.944706567958,
+        "longitude": 2.3035848619018,
+        "precision": "exacte",
+        "distance_km": 11.004464438564007,
+        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-gennevilliers-grammont/"
+      },
+      "description": "Garrigue est arrivée au refuge avec ses frères et sœurs, à la suite d'un syndrome de Noé.\nGarrigue est un petit chat timide qui recherche des adoptants doux et patients, prêts à lui laisser le temps d'évoluer à son rythme.\nAyant été habituée à la présence d'un seul humain, il aura besoin de temps et de douceur avant d'accorder sa confiance à une nouvelle personne.\nGarrigue devra vivre en appartem…",
+      "fiche_lue": false,
+      "portee": null,
+      "nouveau": true
+    },
+    {
+      "id": "laspa:264371",
+      "source": "laspa",
+      "source_label": "La SPA",
+      "source_id": "264371",
+      "uid": "adopter-trouver-mon-animal-tokyo-c",
+      "nom": "TOKYO C",
+      "url": "https://www.la-spa.fr/adopter/trouver-mon-animal/tokyo-c/",
+      "image": "https://www.la-spa.fr/app/app/uploads/animals/264371/tokyo-c-264371-6b045019d275d.jpg",
+      "espece": "chat",
+      "race": "Europeen",
+      "sexe": "male",
+      "age_categorie": "junior",
+      "age_texte": "2 mois",
+      "age_mois": 2,
+      "age_source": "fiche",
+      "age_conflit": null,
+      "date_naissance": null,
+      "date_publication": "2026-11-23",
       "reserve": false,
       "sos": false,
       "fad": false,
@@ -394,7 +518,109 @@
       },
       "description": null,
       "fiche_lue": false,
-      "portee": null,
+      "portee": {
+        "id": "portee-2",
+        "taille": 3,
+        "disponibles": 3,
+        "confiance": "probable",
+        "indices": [
+          "même âge et même date de mise en ligne"
+        ]
+      },
+      "nouveau": true
+    },
+    {
+      "id": "laspa:264372",
+      "source": "laspa",
+      "source_label": "La SPA",
+      "source_id": "264372",
+      "uid": "adopter-trouver-mon-animal-blanca-c",
+      "nom": "BLANCA C",
+      "url": "https://www.la-spa.fr/adopter/trouver-mon-animal/blanca-c/",
+      "image": "https://www.la-spa.fr/app/app/uploads/animals/264372/blanca-c-264372-6b045033b5468.jpg",
+      "espece": "chat",
+      "race": "Europeen",
+      "sexe": "femelle",
+      "age_categorie": "junior",
+      "age_texte": "2 mois",
+      "age_mois": 2,
+      "age_source": "fiche",
+      "age_conflit": null,
+      "date_naissance": null,
+      "date_publication": "2026-11-23",
+      "reserve": false,
+      "sos": false,
+      "fad": false,
+      "lieu": {
+        "nom": "La SPA - Refuge de Vaux-Le-Penil",
+        "slug": "refuge-spa-de-vaux-le-penil",
+        "ville": "Vaux-Le-Pénil",
+        "code_postal": "77000",
+        "departement": "77",
+        "latitude": 48.520575,
+        "longitude": 2.718874,
+        "precision": "exacte",
+        "distance_km": 45.142564706391916,
+        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-vaux-le-penil/"
+      },
+      "description": null,
+      "fiche_lue": false,
+      "portee": {
+        "id": "portee-2",
+        "taille": 3,
+        "disponibles": 3,
+        "confiance": "probable",
+        "indices": [
+          "même âge et même date de mise en ligne"
+        ]
+      },
+      "nouveau": true
+    },
+    {
+      "id": "laspa:264370",
+      "source": "laspa",
+      "source_label": "La SPA",
+      "source_id": "264370",
+      "uid": "adopter-trouver-mon-animal-natal-c",
+      "nom": "NATAL C",
+      "url": "https://www.la-spa.fr/adopter/trouver-mon-animal/natal-c/",
+      "image": "https://www.la-spa.fr/app/app/uploads/animals/264370/natal-c-264370-6b044fd49eb02.jpg",
+      "espece": "chat",
+      "race": "Europeen",
+      "sexe": "male",
+      "age_categorie": "junior",
+      "age_texte": "2 mois",
+      "age_mois": 2,
+      "age_source": "fiche",
+      "age_conflit": null,
+      "date_naissance": null,
+      "date_publication": "2026-11-23",
+      "reserve": false,
+      "sos": false,
+      "fad": false,
+      "lieu": {
+        "nom": "La SPA - Refuge de Vaux-Le-Penil",
+        "slug": "refuge-spa-de-vaux-le-penil",
+        "ville": "Vaux-Le-Pénil",
+        "code_postal": "77000",
+        "departement": "77",
+        "latitude": 48.520575,
+        "longitude": 2.718874,
+        "precision": "exacte",
+        "distance_km": 45.142564706391916,
+        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-vaux-le-penil/"
+      },
+      "description": null,
+      "fiche_lue": false,
+      "portee": {
+        "id": "portee-2",
+        "taille": 3,
+        "disponibles": 3,
+        "confiance": "probable",
+        "indices": [
+          "même âge et même date de mise en ligne"
+        ]
+      },
       "nouveau": true
     },
     {
@@ -441,8 +667,8 @@
     "sources": {
       "laspa": {
         "pages": 1,
-        "total_site": 125,
-        "dans_zone": 83,
+        "total_site": 121,
+        "dans_zone": 81,
         "fiches": 0,
         "fiches_cache": 0,
         "erreurs": 0
@@ -460,8 +686,8 @@
     },
     "requests": 12,
     "retries": 0,
-    "duree_s": 8.8,
-    "annonces_zone": 83
+    "duree_s": 11.1,
+    "annonces_zone": 81
   },
   "erreurs": []
 }
