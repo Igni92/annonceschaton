@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-23T16:51:31.340Z",
+  "date": "2026-11-24T16:42:58.878Z",
   "zone": {
     "mode": "rayon",
     "label": "50 km autour de Paris 11e Arrondissement",
@@ -667,8 +667,8 @@
     "sources": {
       "laspa": {
         "pages": 1,
-        "total_site": 121,
-        "dans_zone": 81,
+        "total_site": 135,
+        "dans_zone": 95,
         "fiches": 0,
         "fiches_cache": 0,
         "erreurs": 0
@@ -686,8 +686,8 @@
     },
     "requests": 12,
     "retries": 0,
-    "duree_s": 11.1,
-    "annonces_zone": 81
+    "duree_s": 6.7,
+    "annonces_zone": 95
   },
   "erreurs": []
 }

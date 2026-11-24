@@ -1,4 +1,4 @@
-# Annonces chatons — lundi 23 novembre 2026
+# Annonces chatons — mardi 24 novembre 2026
 
 ## 🐾 Chatons de moins de 4 mois (8)
 
