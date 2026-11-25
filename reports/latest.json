@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-24T16:42:58.878Z",
+  "date": "2026-11-25T16:28:21.647Z",
   "zone": {
     "mode": "rayon",
     "label": "50 km autour de Paris 11e Arrondissement",
@@ -232,183 +232,9 @@
       "fiche_lue": false,
       "portee": null,
       "nouveau": false
-    },
-    {
-      "id": "laspa:264371",
-      "source": "laspa",
-      "source_label": "La SPA",
-      "source_id": "264371",
-      "uid": "adopter-trouver-mon-animal-tokyo-c",
-      "nom": "TOKYO C",
-      "url": "https://www.la-spa.fr/adopter/trouver-mon-animal/tokyo-c/",
-      "image": "https://www.la-spa.fr/app/app/uploads/animals/264371/tokyo-c-264371-6b045019d275d.jpg",
-      "espece": "chat",
-      "race": "Europeen",
-      "sexe": "male",
-      "age_categorie": "junior",
-      "age_texte": "2 mois",
-      "age_mois": 2,
-      "age_source": "fiche",
-      "age_conflit": null,
-      "date_naissance": null,
-      "date_publication": "2026-11-23",
-      "reserve": false,
-      "sos": false,
-      "fad": false,
-      "lieu": {
-        "nom": "La SPA - Refuge de Vaux-Le-Penil",
-        "slug": "refuge-spa-de-vaux-le-penil",
-        "ville": "Vaux-Le-Pénil",
-        "code_postal": "77000",
-        "departement": "77",
-        "latitude": 48.520575,
-        "longitude": 2.718874,
-        "precision": "exacte",
-        "distance_km": 45.142564706391916,
-        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-vaux-le-penil/"
-      },
-      "description": null,
-      "fiche_lue": false,
-      "portee": {
-        "id": "portee-2",
-        "taille": 3,
-        "disponibles": 3,
-        "confiance": "probable",
-        "indices": [
-          "même âge et même date de mise en ligne"
-        ]
-      },
-      "nouveau": true
-    },
-    {
-      "id": "laspa:264372",
-      "source": "laspa",
-      "source_label": "La SPA",
-      "source_id": "264372",
-      "uid": "adopter-trouver-mon-animal-blanca-c",
-      "nom": "BLANCA C",
-      "url": "https://www.la-spa.fr/adopter/trouver-mon-animal/blanca-c/",
-      "image": "https://www.la-spa.fr/app/app/uploads/animals/264372/blanca-c-264372-6b045033b5468.jpg",
-      "espece": "chat",
-      "race": "Europeen",
-      "sexe": "femelle",
-      "age_categorie": "junior",
-      "age_texte": "2 mois",
-      "age_mois": 2,
-      "age_source": "fiche",
-      "age_conflit": null,
-      "date_naissance": null,
-      "date_publication": "2026-11-23",
-      "reserve": false,
-      "sos": false,
-      "fad": false,
-      "lieu": {
-        "nom": "La SPA - Refuge de Vaux-Le-Penil",
-        "slug": "refuge-spa-de-vaux-le-penil",
-        "ville": "Vaux-Le-Pénil",
-        "code_postal": "77000",
-        "departement": "77",
-        "latitude": 48.520575,
-        "longitude": 2.718874,
-        "precision": "exacte",
-        "distance_km": 45.142564706391916,
-        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-vaux-le-penil/"
-      },
-      "description": null,
-      "fiche_lue": false,
-      "portee": {
-        "id": "portee-2",
-        "taille": 3,
-        "disponibles": 3,
-        "confiance": "probable",
-        "indices": [
-          "même âge et même date de mise en ligne"
-        ]
-      },
-      "nouveau": true
-    },
-    {
-      "id": "laspa:264370",
-      "source": "laspa",
-      "source_label": "La SPA",
-      "source_id": "264370",
-      "uid": "adopter-trouver-mon-animal-natal-c",
-      "nom": "NATAL C",
-      "url": "https://www.la-spa.fr/adopter/trouver-mon-animal/natal-c/",
-      "image": "https://www.la-spa.fr/app/app/uploads/animals/264370/natal-c-264370-6b044fd49eb02.jpg",
-      "espece": "chat",
-      "race": "Europeen",
-      "sexe": "male",
-      "age_categorie": "junior",
-      "age_texte": "2 mois",
-      "age_mois": 2,
-      "age_source": "fiche",
-      "age_conflit": null,
-      "date_naissance": null,
-      "date_publication": "2026-11-23",
-      "reserve": false,
-      "sos": false,
-      "fad": false,
-      "lieu": {
-        "nom": "La SPA - Refuge de Vaux-Le-Penil",
-        "slug": "refuge-spa-de-vaux-le-penil",
-        "ville": "Vaux-Le-Pénil",
-        "code_postal": "77000",
-        "departement": "77",
-        "latitude": 48.520575,
-        "longitude": 2.718874,
-        "precision": "exacte",
-        "distance_km": 45.142564706391916,
-        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-vaux-le-penil/"
-      },
-      "description": null,
-      "fiche_lue": false,
-      "portee": {
-        "id": "portee-2",
-        "taille": 3,
-        "disponibles": 3,
-        "confiance": "probable",
-        "indices": [
-          "même âge et même date de mise en ligne"
-        ]
-      },
-      "nouveau": true
     }
   ],
   "portees": [
-    {
-      "id": "portee-2",
-      "source": "laspa",
-      "source_label": "La SPA",
-      "lieu": {
-        "nom": "La SPA - Refuge de Vaux-Le-Penil",
-        "ville": "Vaux-Le-Pénil",
-        "departement": "77",
-        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-vaux-le-penil/"
-      },
-      "date_naissance": null,
-      "age_mois": 2,
-      "taille": 3,
-      "annonces": 3,
-      "disponibles": 3,
-      "confiance": "probable",
-      "indices": [
-        "même âge et même date de mise en ligne"
-      ],
-      "membres": [
-        "laspa:264370",
-        "laspa:264371",
-        "laspa:264372"
-      ],
-      "noms": [
-        "BLANCA C",
-        "NATAL C",
-        "TOKYO C"
-      ],
-      "sources": [
-        "La SPA"
-      ]
-    },
     {
       "id": "portee-1",
       "source": "laspa",
@@ -483,147 +309,6 @@
       "nouveau": true
     },
     {
-      "id": "laspa:264371",
-      "source": "laspa",
-      "source_label": "La SPA",
-      "source_id": "264371",
-      "uid": "adopter-trouver-mon-animal-tokyo-c",
-      "nom": "TOKYO C",
-      "url": "https://www.la-spa.fr/adopter/trouver-mon-animal/tokyo-c/",
-      "image": "https://www.la-spa.fr/app/app/uploads/animals/264371/tokyo-c-264371-6b045019d275d.jpg",
-      "espece": "chat",
-      "race": "Europeen",
-      "sexe": "male",
-      "age_categorie": "junior",
-      "age_texte": "2 mois",
-      "age_mois": 2,
-      "age_source": "fiche",
-      "age_conflit": null,
-      "date_naissance": null,
-      "date_publication": "2026-11-23",
-      "reserve": false,
-      "sos": false,
-      "fad": false,
-      "lieu": {
-        "nom": "La SPA - Refuge de Vaux-Le-Penil",
-        "slug": "refuge-spa-de-vaux-le-penil",
-        "ville": "Vaux-Le-Pénil",
-        "code_postal": "77000",
-        "departement": "77",
-        "latitude": 48.520575,
-        "longitude": 2.718874,
-        "precision": "exacte",
-        "distance_km": 45.142564706391916,
-        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-vaux-le-penil/"
-      },
-      "description": null,
-      "fiche_lue": false,
-      "portee": {
-        "id": "portee-2",
-        "taille": 3,
-        "disponibles": 3,
-        "confiance": "probable",
-        "indices": [
-          "même âge et même date de mise en ligne"
-        ]
-      },
-      "nouveau": true
-    },
-    {
-      "id": "laspa:264372",
-      "source": "laspa",
-      "source_label": "La SPA",
-      "source_id": "264372",
-      "uid": "adopter-trouver-mon-animal-blanca-c",
-      "nom": "BLANCA C",
-      "url": "https://www.la-spa.fr/adopter/trouver-mon-animal/blanca-c/",
-      "image": "https://www.la-spa.fr/app/app/uploads/animals/264372/blanca-c-264372-6b045033b5468.jpg",
-      "espece": "chat",
-      "race": "Europeen",
-      "sexe": "femelle",
-      "age_categorie": "junior",
-      "age_texte": "2 mois",
-      "age_mois": 2,
-      "age_source": "fiche",
-      "age_conflit": null,
-      "date_naissance": null,
-      "date_publication": "2026-11-23",
-      "reserve": false,
-      "sos": false,
-      "fad": false,
-      "lieu": {
-        "nom": "La SPA - Refuge de Vaux-Le-Penil",
-        "slug": "refuge-spa-de-vaux-le-penil",
-        "ville": "Vaux-Le-Pénil",
-        "code_postal": "77000",
-        "departement": "77",
-        "latitude": 48.520575,
-        "longitude": 2.718874,
-        "precision": "exacte",
-        "distance_km": 45.142564706391916,
-        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-vaux-le-penil/"
-      },
-      "description": null,
-      "fiche_lue": false,
-      "portee": {
-        "id": "portee-2",
-        "taille": 3,
-        "disponibles": 3,
-        "confiance": "probable",
-        "indices": [
-          "même âge et même date de mise en ligne"
-        ]
-      },
-      "nouveau": true
-    },
-    {
-      "id": "laspa:264370",
-      "source": "laspa",
-      "source_label": "La SPA",
-      "source_id": "264370",
-      "uid": "adopter-trouver-mon-animal-natal-c",
-      "nom": "NATAL C",
-      "url": "https://www.la-spa.fr/adopter/trouver-mon-animal/natal-c/",
-      "image": "https://www.la-spa.fr/app/app/uploads/animals/264370/natal-c-264370-6b044fd49eb02.jpg",
-      "espece": "chat",
-      "race": "Europeen",
-      "sexe": "male",
-      "age_categorie": "junior",
-      "age_texte": "2 mois",
-      "age_mois": 2,
-      "age_source": "fiche",
-      "age_conflit": null,
-      "date_naissance": null,
-      "date_publication": "2026-11-23",
-      "reserve": false,
-      "sos": false,
-      "fad": false,
-      "lieu": {
-        "nom": "La SPA - Refuge de Vaux-Le-Penil",
-        "slug": "refuge-spa-de-vaux-le-penil",
-        "ville": "Vaux-Le-Pénil",
-        "code_postal": "77000",
-        "departement": "77",
-        "latitude": 48.520575,
-        "longitude": 2.718874,
-        "precision": "exacte",
-        "distance_km": 45.142564706391916,
-        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-vaux-le-penil/"
-      },
-      "description": null,
-      "fiche_lue": false,
-      "portee": {
-        "id": "portee-2",
-        "taille": 3,
-        "disponibles": 3,
-        "confiance": "probable",
-        "indices": [
-          "même âge et même date de mise en ligne"
-        ]
-      },
-      "nouveau": true
-    },
-    {
       "id": "laspa:263892",
       "source": "laspa",
       "source_label": "La SPA",
@@ -667,8 +352,8 @@
     "sources": {
       "laspa": {
         "pages": 1,
-        "total_site": 135,
-        "dans_zone": 95,
+        "total_site": 127,
+        "dans_zone": 88,
         "fiches": 0,
         "fiches_cache": 0,
         "erreurs": 0
@@ -686,8 +371,8 @@
     },
     "requests": 12,
     "retries": 0,
-    "duree_s": 6.7,
-    "annonces_zone": 95
+    "duree_s": 7.1,
+    "annonces_zone": 88
   },
   "erreurs": []
 }
