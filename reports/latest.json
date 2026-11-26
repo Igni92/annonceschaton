@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-25T16:28:21.647Z",
+  "date": "2026-11-26T16:01:30.927Z",
   "zone": {
     "mode": "rayon",
     "label": "50 km autour de Paris 11e Arrondissement",
@@ -20,45 +20,6 @@
     "inclure_reserves": false
   },
   "chatons": [
-    {
-      "id": "laspa:264416",
-      "source": "laspa",
-      "source_label": "La SPA",
-      "source_id": "264416",
-      "uid": "adopter-trouver-mon-animal-garrigue",
-      "nom": "GARRIGUE",
-      "url": "https://www.la-spa.fr/adopter/trouver-mon-animal/garrigue/",
-      "image": "https://www.la-spa.fr/app/app/uploads/animals/264416/garrigue-264416-6b045f3458e74.jpg",
-      "espece": "chat",
-      "race": "Europeen",
-      "sexe": "male",
-      "age_categorie": "junior",
-      "age_texte": "2 mois",
-      "age_mois": 2,
-      "age_source": "fiche",
-      "age_conflit": null,
-      "date_naissance": null,
-      "date_publication": "2026-11-23",
-      "reserve": false,
-      "sos": false,
-      "fad": false,
-      "lieu": {
-        "nom": "La SPA - Refuge de Gennevilliers – Grammont",
-        "slug": "refuge-spa-de-gennevilliers-grammont",
-        "ville": "Gennevilliers",
-        "code_postal": "92230",
-        "departement": "92",
-        "latitude": 48.944706567958,
-        "longitude": 2.3035848619018,
-        "precision": "exacte",
-        "distance_km": 11.004464438564007,
-        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-gennevilliers-grammont/"
-      },
-      "description": "Garrigue est arrivée au refuge avec ses frères et sœurs, à la suite d'un syndrome de Noé.\nGarrigue est un petit chat timide qui recherche des adoptants doux et patients, prêts à lui laisser le temps d'évoluer à son rythme.\nAyant été habituée à la présence d'un seul humain, il aura besoin de temps et de douceur avant d'accorder sa confiance à une nouvelle personne.\nGarrigue devra vivre en appartem…",
-      "fiche_lue": false,
-      "portee": null,
-      "nouveau": true
-    },
     {
       "id": "laspa:260174",
       "source": "laspa",
@@ -156,6 +117,102 @@
       "nouveau": false
     },
     {
+      "id": "laspa:265097",
+      "source": "laspa",
+      "source_label": "La SPA",
+      "source_id": "265097",
+      "uid": "adopter-trouver-mon-animal-jingga-cha",
+      "nom": "JINGGA CHA",
+      "url": "https://www.la-spa.fr/adopter/trouver-mon-animal/jingga-cha/",
+      "image": "https://www.la-spa.fr/app/app/uploads/animals/265097/jingga-cha-265097-6b0725d94bccd.jpg",
+      "espece": "chat",
+      "race": "Europeen",
+      "sexe": "femelle",
+      "age_categorie": "junior",
+      "age_texte": "2 mois",
+      "age_mois": 2,
+      "age_source": "fiche",
+      "age_conflit": null,
+      "date_naissance": null,
+      "date_publication": "2026-11-25",
+      "reserve": false,
+      "sos": false,
+      "fad": false,
+      "lieu": {
+        "nom": "La SPA - Refuge de Chamarande",
+        "slug": "refuge-spa-de-chamarande",
+        "ville": "Chamarande",
+        "code_postal": "91730",
+        "departement": "91",
+        "latitude": 48.533724,
+        "longitude": 2.209265,
+        "precision": "exacte",
+        "distance_km": 38.44465971246643,
+        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-chamarande/"
+      },
+      "description": "Kirina et Jingga sont timides mais prennent vite confiance. Elles pourront vivre en appartement ou en maison. Nous ne connaissons pas leur entente avec les chiens. Elles devront êtres adoptés ensemble.\nkirina (la blanche) présente un souffle cardiaque de 1à2/6 un contrôle sera fait lors de son rappel de vaccin",
+      "fiche_lue": false,
+      "portee": {
+        "id": "portee-2",
+        "taille": 2,
+        "disponibles": 2,
+        "confiance": "probable",
+        "indices": [
+          "même âge et même date de mise en ligne",
+          "fratrie mentionnée"
+        ]
+      },
+      "nouveau": true
+    },
+    {
+      "id": "laspa:265098",
+      "source": "laspa",
+      "source_label": "La SPA",
+      "source_id": "265098",
+      "uid": "adopter-trouver-mon-animal-kirina-cha",
+      "nom": "KIRINA CHA",
+      "url": "https://www.la-spa.fr/adopter/trouver-mon-animal/kirina-cha/",
+      "image": "https://www.la-spa.fr/app/app/uploads/animals/265098/kirina-cha-265098-6b07261af0e54.jpg",
+      "espece": "chat",
+      "race": "Europeen",
+      "sexe": "femelle",
+      "age_categorie": "junior",
+      "age_texte": "2 mois",
+      "age_mois": 2,
+      "age_source": "fiche",
+      "age_conflit": null,
+      "date_naissance": null,
+      "date_publication": "2026-11-25",
+      "reserve": false,
+      "sos": false,
+      "fad": false,
+      "lieu": {
+        "nom": "La SPA - Refuge de Chamarande",
+        "slug": "refuge-spa-de-chamarande",
+        "ville": "Chamarande",
+        "code_postal": "91730",
+        "departement": "91",
+        "latitude": 48.533724,
+        "longitude": 2.209265,
+        "precision": "exacte",
+        "distance_km": 38.44465971246643,
+        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-chamarande/"
+      },
+      "description": "Kirina et Jingga sont timides mais prennent vite confiance. Elles pourront vivre en appartement ou en maison. Nous ne connaissons pas leur entente avec les chiens. Elles devront êtres adoptés ensemble.\nkirina (la blanche) présente un souffle cardiaque de 1à2/6 un contrôle sera fait lors de son rappel de vaccin",
+      "fiche_lue": false,
+      "portee": {
+        "id": "portee-2",
+        "taille": 2,
+        "disponibles": 2,
+        "confiance": "probable",
+        "indices": [
+          "même âge et même date de mise en ligne",
+          "fratrie mentionnée"
+        ]
+      },
+      "nouveau": true
+    },
+    {
       "id": "laspa:263892",
       "source": "laspa",
       "source_label": "La SPA",
@@ -236,6 +293,38 @@
   ],
   "portees": [
     {
+      "id": "portee-2",
+      "source": "laspa",
+      "source_label": "La SPA",
+      "lieu": {
+        "nom": "La SPA - Refuge de Chamarande",
+        "ville": "Chamarande",
+        "departement": "91",
+        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-chamarande/"
+      },
+      "date_naissance": null,
+      "age_mois": 2,
+      "taille": 2,
+      "annonces": 2,
+      "disponibles": 2,
+      "confiance": "probable",
+      "indices": [
+        "même âge et même date de mise en ligne",
+        "fratrie mentionnée"
+      ],
+      "membres": [
+        "laspa:265097",
+        "laspa:265098"
+      ],
+      "noms": [
+        "JINGGA CHA",
+        "KIRINA CHA"
+      ],
+      "sources": [
+        "La SPA"
+      ]
+    },
+    {
       "id": "portee-1",
       "source": "laspa",
       "source_label": "La SPA",
@@ -270,42 +359,99 @@
   ],
   "nouveaux_arrivants": [
     {
-      "id": "laspa:264416",
+      "id": "laspa:265097",
       "source": "laspa",
       "source_label": "La SPA",
-      "source_id": "264416",
-      "uid": "adopter-trouver-mon-animal-garrigue",
-      "nom": "GARRIGUE",
-      "url": "https://www.la-spa.fr/adopter/trouver-mon-animal/garrigue/",
-      "image": "https://www.la-spa.fr/app/app/uploads/animals/264416/garrigue-264416-6b045f3458e74.jpg",
+      "source_id": "265097",
+      "uid": "adopter-trouver-mon-animal-jingga-cha",
+      "nom": "JINGGA CHA",
+      "url": "https://www.la-spa.fr/adopter/trouver-mon-animal/jingga-cha/",
+      "image": "https://www.la-spa.fr/app/app/uploads/animals/265097/jingga-cha-265097-6b0725d94bccd.jpg",
       "espece": "chat",
       "race": "Europeen",
-      "sexe": "male",
+      "sexe": "femelle",
       "age_categorie": "junior",
       "age_texte": "2 mois",
       "age_mois": 2,
       "age_source": "fiche",
       "age_conflit": null,
       "date_naissance": null,
-      "date_publication": "2026-11-23",
+      "date_publication": "2026-11-25",
       "reserve": false,
       "sos": false,
       "fad": false,
       "lieu": {
-        "nom": "La SPA - Refuge de Gennevilliers – Grammont",
-        "slug": "refuge-spa-de-gennevilliers-grammont",
-        "ville": "Gennevilliers",
-        "code_postal": "92230",
-        "departement": "92",
-        "latitude": 48.944706567958,
-        "longitude": 2.3035848619018,
+        "nom": "La SPA - Refuge de Chamarande",
+        "slug": "refuge-spa-de-chamarande",
+        "ville": "Chamarande",
+        "code_postal": "91730",
+        "departement": "91",
+        "latitude": 48.533724,
+        "longitude": 2.209265,
         "precision": "exacte",
-        "distance_km": 11.004464438564007,
-        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-gennevilliers-grammont/"
+        "distance_km": 38.44465971246643,
+        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-chamarande/"
       },
-      "description": "Garrigue est arrivée au refuge avec ses frères et sœurs, à la suite d'un syndrome de Noé.\nGarrigue est un petit chat timide qui recherche des adoptants doux et patients, prêts à lui laisser le temps d'évoluer à son rythme.\nAyant été habituée à la présence d'un seul humain, il aura besoin de temps et de douceur avant d'accorder sa confiance à une nouvelle personne.\nGarrigue devra vivre en appartem…",
+      "description": "Kirina et Jingga sont timides mais prennent vite confiance. Elles pourront vivre en appartement ou en maison. Nous ne connaissons pas leur entente avec les chiens. Elles devront êtres adoptés ensemble.\nkirina (la blanche) présente un souffle cardiaque de 1à2/6 un contrôle sera fait lors de son rappel de vaccin",
       "fiche_lue": false,
-      "portee": null,
+      "portee": {
+        "id": "portee-2",
+        "taille": 2,
+        "disponibles": 2,
+        "confiance": "probable",
+        "indices": [
+          "même âge et même date de mise en ligne",
+          "fratrie mentionnée"
+        ]
+      },
+      "nouveau": true
+    },
+    {
+      "id": "laspa:265098",
+      "source": "laspa",
+      "source_label": "La SPA",
+      "source_id": "265098",
+      "uid": "adopter-trouver-mon-animal-kirina-cha",
+      "nom": "KIRINA CHA",
+      "url": "https://www.la-spa.fr/adopter/trouver-mon-animal/kirina-cha/",
+      "image": "https://www.la-spa.fr/app/app/uploads/animals/265098/kirina-cha-265098-6b07261af0e54.jpg",
+      "espece": "chat",
+      "race": "Europeen",
+      "sexe": "femelle",
+      "age_categorie": "junior",
+      "age_texte": "2 mois",
+      "age_mois": 2,
+      "age_source": "fiche",
+      "age_conflit": null,
+      "date_naissance": null,
+      "date_publication": "2026-11-25",
+      "reserve": false,
+      "sos": false,
+      "fad": false,
+      "lieu": {
+        "nom": "La SPA - Refuge de Chamarande",
+        "slug": "refuge-spa-de-chamarande",
+        "ville": "Chamarande",
+        "code_postal": "91730",
+        "departement": "91",
+        "latitude": 48.533724,
+        "longitude": 2.209265,
+        "precision": "exacte",
+        "distance_km": 38.44465971246643,
+        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-chamarande/"
+      },
+      "description": "Kirina et Jingga sont timides mais prennent vite confiance. Elles pourront vivre en appartement ou en maison. Nous ne connaissons pas leur entente avec les chiens. Elles devront êtres adoptés ensemble.\nkirina (la blanche) présente un souffle cardiaque de 1à2/6 un contrôle sera fait lors de son rappel de vaccin",
+      "fiche_lue": false,
+      "portee": {
+        "id": "portee-2",
+        "taille": 2,
+        "disponibles": 2,
+        "confiance": "probable",
+        "indices": [
+          "même âge et même date de mise en ligne",
+          "fratrie mentionnée"
+        ]
+      },
       "nouveau": true
     },
     {
@@ -352,8 +498,8 @@
     "sources": {
       "laspa": {
         "pages": 1,
-        "total_site": 127,
-        "dans_zone": 88,
+        "total_site": 137,
+        "dans_zone": 100,
         "fiches": 0,
         "fiches_cache": 0,
         "erreurs": 0
@@ -372,7 +518,7 @@
     "requests": 12,
     "retries": 0,
     "duree_s": 7.1,
-    "annonces_zone": 88
+    "annonces_zone": 100
   },
   "erreurs": []
 }
