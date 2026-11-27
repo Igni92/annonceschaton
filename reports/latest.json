@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-26T16:01:30.927Z",
+  "date": "2026-11-27T15:50:32.583Z",
   "zone": {
     "mode": "rayon",
     "label": "50 km autour de Paris 11e Arrondissement",
@@ -117,6 +117,45 @@
       "nouveau": false
     },
     {
+      "id": "laspa:265708",
+      "source": "laspa",
+      "source_label": "La SPA",
+      "source_id": "265708",
+      "uid": "adopter-trouver-mon-animal-cornicello-pab30228",
+      "nom": "CORNICELLO PAB30228",
+      "url": "https://www.la-spa.fr/adopter/trouver-mon-animal/cornicello-pab30228/",
+      "image": "https://www.la-spa.fr/app/app/uploads/animals/265708/cornicello-pab30228-265708-6b09a4fc06056.jpg",
+      "espece": "chat",
+      "race": "Europeen",
+      "sexe": "male",
+      "age_categorie": "junior",
+      "age_texte": "3 mois",
+      "age_mois": 3,
+      "age_source": "fiche",
+      "age_conflit": null,
+      "date_naissance": null,
+      "date_publication": "2026-11-27",
+      "reserve": false,
+      "sos": true,
+      "fad": false,
+      "lieu": {
+        "nom": "La SPA - Refuge de Plaisir",
+        "slug": "refuge-spa-de-plaisir",
+        "ville": "Plaisir",
+        "code_postal": "78370",
+        "departement": "78",
+        "latitude": 48.799745,
+        "longitude": 1.931481,
+        "precision": "exacte",
+        "distance_km": 33.64370864577482,
+        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-plaisir/"
+      },
+      "description": "Cornicello est un pauvre petit chat atteint de quelques troubles neurologique qui le font trembler/avoir du mal a rester debout sur ces pattes.\nEn général ça ne progresse pas et ça ne fait que s'améliorer au fil des temps en ce musclant.\nCornicello est un peu timide au début mais une fois avec ceux qu'il aime, c'est un moteur à ronron incapable de s'arrêter.\nIl pourra vivre en appartement avec ou…",
+      "fiche_lue": false,
+      "portee": null,
+      "nouveau": true
+    },
+    {
       "id": "laspa:265097",
       "source": "laspa",
       "source_label": "La SPA",
@@ -213,6 +252,53 @@
       "nouveau": true
     },
     {
+      "id": "laspa:265450",
+      "source": "laspa",
+      "source_label": "La SPA",
+      "source_id": "265450",
+      "uid": "adopter-trouver-mon-animal-bissap-cha",
+      "nom": "BISSAP CHA",
+      "url": "https://www.la-spa.fr/adopter/trouver-mon-animal/bissap-cha/",
+      "image": "https://www.la-spa.fr/app/app/uploads/animals/265450/bissap-cha-265450-6b08a15f01cbd.jpg",
+      "espece": "chat",
+      "race": "Europeen",
+      "sexe": "femelle",
+      "age_categorie": "junior",
+      "age_texte": "3 mois",
+      "age_mois": 3,
+      "age_source": "fiche",
+      "age_conflit": null,
+      "date_naissance": null,
+      "date_publication": "2026-11-26",
+      "reserve": false,
+      "sos": false,
+      "fad": false,
+      "lieu": {
+        "nom": "La SPA - Refuge de Chamarande",
+        "slug": "refuge-spa-de-chamarande",
+        "ville": "Chamarande",
+        "code_postal": "91730",
+        "departement": "91",
+        "latitude": 48.533724,
+        "longitude": 2.209265,
+        "precision": "exacte",
+        "distance_km": 38.44465971246643,
+        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-chamarande/"
+      },
+      "description": "Bissap nous arrive de Martinique, nous la connaissons encore peu mais elle semble plutôt sociable et avenante.\nLes animaux qui arrivent des DOM-TOM peuvent parfois être porteurs de la teigne, un isolement sera nécessaire les premiers temps.",
+      "fiche_lue": false,
+      "portee": {
+        "id": "portee-3",
+        "taille": 3,
+        "disponibles": 3,
+        "confiance": "probable",
+        "indices": [
+          "même âge et même date de mise en ligne"
+        ]
+      },
+      "nouveau": true
+    },
+    {
       "id": "laspa:263892",
       "source": "laspa",
       "source_label": "La SPA",
@@ -249,6 +335,53 @@
       "description": "Pomme nous revient de famille relais, c'est un chaton extrêmement craintif qui ne se laisse pas du tout toucher.\nElle aura besoin d'un foyer calme qui lui laissera le temps d'évoluer à son rythme.\nPomme pourra vivre en appartement ou en maison. Un premier chat bien à l'aise déjà présent au foyer sera préférable pour faciliter sa sociabilisation.",
       "fiche_lue": false,
       "portee": null,
+      "nouveau": true
+    },
+    {
+      "id": "laspa:265448",
+      "source": "laspa",
+      "source_label": "La SPA",
+      "source_id": "265448",
+      "uid": "adopter-trouver-mon-animal-quenette-cha",
+      "nom": "QUENETTE CHA",
+      "url": "https://www.la-spa.fr/adopter/trouver-mon-animal/quenette-cha/",
+      "image": "https://www.la-spa.fr/app/app/uploads/animals/265448/quenette-cha-265448-6b08a0e5bb9d9.jpg",
+      "espece": "chat",
+      "race": "Europeen",
+      "sexe": "femelle",
+      "age_categorie": "junior",
+      "age_texte": "3 mois",
+      "age_mois": 3,
+      "age_source": "fiche",
+      "age_conflit": null,
+      "date_naissance": null,
+      "date_publication": "2026-11-26",
+      "reserve": false,
+      "sos": false,
+      "fad": false,
+      "lieu": {
+        "nom": "La SPA - Refuge de Chamarande",
+        "slug": "refuge-spa-de-chamarande",
+        "ville": "Chamarande",
+        "code_postal": "91730",
+        "departement": "91",
+        "latitude": 48.533724,
+        "longitude": 2.209265,
+        "precision": "exacte",
+        "distance_km": 38.44465971246643,
+        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-chamarande/"
+      },
+      "description": "Quénette nous arrive de Martinique, nous la connaissons encore peu mais elle semble plutôt sociable et avenante.\nLes animaux qui arrivent des DOM-TOM peuvent parfois être porteurs de la teigne, un isolement sera nécessaire les premiers temps.",
+      "fiche_lue": false,
+      "portee": {
+        "id": "portee-3",
+        "taille": 3,
+        "disponibles": 3,
+        "confiance": "probable",
+        "indices": [
+          "même âge et même date de mise en ligne"
+        ]
+      },
       "nouveau": true
     },
     {
@@ -289,9 +422,89 @@
       "fiche_lue": false,
       "portee": null,
       "nouveau": false
+    },
+    {
+      "id": "laspa:265449",
+      "source": "laspa",
+      "source_label": "La SPA",
+      "source_id": "265449",
+      "uid": "adopter-trouver-mon-animal-chadek-cha",
+      "nom": "CHADEK CHA",
+      "url": "https://www.la-spa.fr/adopter/trouver-mon-animal/chadek-cha/",
+      "image": "https://www.la-spa.fr/app/app/uploads/animals/265449/chadek-cha-265449-6b08a12483a76.jpg",
+      "espece": "chat",
+      "race": "Europeen",
+      "sexe": "femelle",
+      "age_categorie": "junior",
+      "age_texte": "3 mois",
+      "age_mois": 3,
+      "age_source": "fiche",
+      "age_conflit": null,
+      "date_naissance": null,
+      "date_publication": "2026-11-26",
+      "reserve": false,
+      "sos": false,
+      "fad": false,
+      "lieu": {
+        "nom": "La SPA - Refuge de Chamarande",
+        "slug": "refuge-spa-de-chamarande",
+        "ville": "Chamarande",
+        "code_postal": "91730",
+        "departement": "91",
+        "latitude": 48.533724,
+        "longitude": 2.209265,
+        "precision": "exacte",
+        "distance_km": 38.44465971246643,
+        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-chamarande/"
+      },
+      "description": "Chadek nous arrive de Martinique, nous la connaissons encore peu mais elle semble plutôt sociable et avenante.\nLes animaux qui arrivent des DOM-TOM peuvent parfois être porteurs de la teigne, un isolement sera nécessaire les premiers temps.",
+      "fiche_lue": false,
+      "portee": {
+        "id": "portee-3",
+        "taille": 3,
+        "disponibles": 3,
+        "confiance": "probable",
+        "indices": [
+          "même âge et même date de mise en ligne"
+        ]
+      },
+      "nouveau": true
     }
   ],
   "portees": [
+    {
+      "id": "portee-3",
+      "source": "laspa",
+      "source_label": "La SPA",
+      "lieu": {
+        "nom": "La SPA - Refuge de Chamarande",
+        "ville": "Chamarande",
+        "departement": "91",
+        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-chamarande/"
+      },
+      "date_naissance": null,
+      "age_mois": 3,
+      "taille": 3,
+      "annonces": 3,
+      "disponibles": 3,
+      "confiance": "probable",
+      "indices": [
+        "même âge et même date de mise en ligne"
+      ],
+      "membres": [
+        "laspa:265448",
+        "laspa:265449",
+        "laspa:265450"
+      ],
+      "noms": [
+        "BISSAP CHA",
+        "CHADEK CHA",
+        "QUENETTE CHA"
+      ],
+      "sources": [
+        "La SPA"
+      ]
+    },
     {
       "id": "portee-2",
       "source": "laspa",
@@ -358,6 +571,186 @@
     }
   ],
   "nouveaux_arrivants": [
+    {
+      "id": "laspa:265708",
+      "source": "laspa",
+      "source_label": "La SPA",
+      "source_id": "265708",
+      "uid": "adopter-trouver-mon-animal-cornicello-pab30228",
+      "nom": "CORNICELLO PAB30228",
+      "url": "https://www.la-spa.fr/adopter/trouver-mon-animal/cornicello-pab30228/",
+      "image": "https://www.la-spa.fr/app/app/uploads/animals/265708/cornicello-pab30228-265708-6b09a4fc06056.jpg",
+      "espece": "chat",
+      "race": "Europeen",
+      "sexe": "male",
+      "age_categorie": "junior",
+      "age_texte": "3 mois",
+      "age_mois": 3,
+      "age_source": "fiche",
+      "age_conflit": null,
+      "date_naissance": null,
+      "date_publication": "2026-11-27",
+      "reserve": false,
+      "sos": true,
+      "fad": false,
+      "lieu": {
+        "nom": "La SPA - Refuge de Plaisir",
+        "slug": "refuge-spa-de-plaisir",
+        "ville": "Plaisir",
+        "code_postal": "78370",
+        "departement": "78",
+        "latitude": 48.799745,
+        "longitude": 1.931481,
+        "precision": "exacte",
+        "distance_km": 33.64370864577482,
+        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-plaisir/"
+      },
+      "description": "Cornicello est un pauvre petit chat atteint de quelques troubles neurologique qui le font trembler/avoir du mal a rester debout sur ces pattes.\nEn général ça ne progresse pas et ça ne fait que s'améliorer au fil des temps en ce musclant.\nCornicello est un peu timide au début mais une fois avec ceux qu'il aime, c'est un moteur à ronron incapable de s'arrêter.\nIl pourra vivre en appartement avec ou…",
+      "fiche_lue": false,
+      "portee": null,
+      "nouveau": true
+    },
+    {
+      "id": "laspa:265450",
+      "source": "laspa",
+      "source_label": "La SPA",
+      "source_id": "265450",
+      "uid": "adopter-trouver-mon-animal-bissap-cha",
+      "nom": "BISSAP CHA",
+      "url": "https://www.la-spa.fr/adopter/trouver-mon-animal/bissap-cha/",
+      "image": "https://www.la-spa.fr/app/app/uploads/animals/265450/bissap-cha-265450-6b08a15f01cbd.jpg",
+      "espece": "chat",
+      "race": "Europeen",
+      "sexe": "femelle",
+      "age_categorie": "junior",
+      "age_texte": "3 mois",
+      "age_mois": 3,
+      "age_source": "fiche",
+      "age_conflit": null,
+      "date_naissance": null,
+      "date_publication": "2026-11-26",
+      "reserve": false,
+      "sos": false,
+      "fad": false,
+      "lieu": {
+        "nom": "La SPA - Refuge de Chamarande",
+        "slug": "refuge-spa-de-chamarande",
+        "ville": "Chamarande",
+        "code_postal": "91730",
+        "departement": "91",
+        "latitude": 48.533724,
+        "longitude": 2.209265,
+        "precision": "exacte",
+        "distance_km": 38.44465971246643,
+        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-chamarande/"
+      },
+      "description": "Bissap nous arrive de Martinique, nous la connaissons encore peu mais elle semble plutôt sociable et avenante.\nLes animaux qui arrivent des DOM-TOM peuvent parfois être porteurs de la teigne, un isolement sera nécessaire les premiers temps.",
+      "fiche_lue": false,
+      "portee": {
+        "id": "portee-3",
+        "taille": 3,
+        "disponibles": 3,
+        "confiance": "probable",
+        "indices": [
+          "même âge et même date de mise en ligne"
+        ]
+      },
+      "nouveau": true
+    },
+    {
+      "id": "laspa:265448",
+      "source": "laspa",
+      "source_label": "La SPA",
+      "source_id": "265448",
+      "uid": "adopter-trouver-mon-animal-quenette-cha",
+      "nom": "QUENETTE CHA",
+      "url": "https://www.la-spa.fr/adopter/trouver-mon-animal/quenette-cha/",
+      "image": "https://www.la-spa.fr/app/app/uploads/animals/265448/quenette-cha-265448-6b08a0e5bb9d9.jpg",
+      "espece": "chat",
+      "race": "Europeen",
+      "sexe": "femelle",
+      "age_categorie": "junior",
+      "age_texte": "3 mois",
+      "age_mois": 3,
+      "age_source": "fiche",
+      "age_conflit": null,
+      "date_naissance": null,
+      "date_publication": "2026-11-26",
+      "reserve": false,
+      "sos": false,
+      "fad": false,
+      "lieu": {
+        "nom": "La SPA - Refuge de Chamarande",
+        "slug": "refuge-spa-de-chamarande",
+        "ville": "Chamarande",
+        "code_postal": "91730",
+        "departement": "91",
+        "latitude": 48.533724,
+        "longitude": 2.209265,
+        "precision": "exacte",
+        "distance_km": 38.44465971246643,
+        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-chamarande/"
+      },
+      "description": "Quénette nous arrive de Martinique, nous la connaissons encore peu mais elle semble plutôt sociable et avenante.\nLes animaux qui arrivent des DOM-TOM peuvent parfois être porteurs de la teigne, un isolement sera nécessaire les premiers temps.",
+      "fiche_lue": false,
+      "portee": {
+        "id": "portee-3",
+        "taille": 3,
+        "disponibles": 3,
+        "confiance": "probable",
+        "indices": [
+          "même âge et même date de mise en ligne"
+        ]
+      },
+      "nouveau": true
+    },
+    {
+      "id": "laspa:265449",
+      "source": "laspa",
+      "source_label": "La SPA",
+      "source_id": "265449",
+      "uid": "adopter-trouver-mon-animal-chadek-cha",
+      "nom": "CHADEK CHA",
+      "url": "https://www.la-spa.fr/adopter/trouver-mon-animal/chadek-cha/",
+      "image": "https://www.la-spa.fr/app/app/uploads/animals/265449/chadek-cha-265449-6b08a12483a76.jpg",
+      "espece": "chat",
+      "race": "Europeen",
+      "sexe": "femelle",
+      "age_categorie": "junior",
+      "age_texte": "3 mois",
+      "age_mois": 3,
+      "age_source": "fiche",
+      "age_conflit": null,
+      "date_naissance": null,
+      "date_publication": "2026-11-26",
+      "reserve": false,
+      "sos": false,
+      "fad": false,
+      "lieu": {
+        "nom": "La SPA - Refuge de Chamarande",
+        "slug": "refuge-spa-de-chamarande",
+        "ville": "Chamarande",
+        "code_postal": "91730",
+        "departement": "91",
+        "latitude": 48.533724,
+        "longitude": 2.209265,
+        "precision": "exacte",
+        "distance_km": 38.44465971246643,
+        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-chamarande/"
+      },
+      "description": "Chadek nous arrive de Martinique, nous la connaissons encore peu mais elle semble plutôt sociable et avenante.\nLes animaux qui arrivent des DOM-TOM peuvent parfois être porteurs de la teigne, un isolement sera nécessaire les premiers temps.",
+      "fiche_lue": false,
+      "portee": {
+        "id": "portee-3",
+        "taille": 3,
+        "disponibles": 3,
+        "confiance": "probable",
+        "indices": [
+          "même âge et même date de mise en ligne"
+        ]
+      },
+      "nouveau": true
+    },
     {
       "id": "laspa:265097",
       "source": "laspa",
@@ -498,8 +891,8 @@
     "sources": {
       "laspa": {
         "pages": 1,
-        "total_site": 137,
-        "dans_zone": 100,
+        "total_site": 158,
+        "dans_zone": 109,
         "fiches": 0,
         "fiches_cache": 0,
         "erreurs": 0
@@ -517,8 +910,8 @@
     },
     "requests": 12,
     "retries": 0,
-    "duree_s": 7.1,
-    "annonces_zone": 100
+    "duree_s": 9.3,
+    "annonces_zone": 109
   },
   "erreurs": []
 }
