@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-27T15:50:32.583Z",
+  "date": "2026-11-28T14:45:12.127Z",
   "zone": {
     "mode": "rayon",
     "label": "50 km autour de Paris 11e Arrondissement",
@@ -21,100 +21,43 @@
   },
   "chatons": [
     {
-      "id": "laspa:260174",
+      "id": "laspa:265905",
       "source": "laspa",
       "source_label": "La SPA",
-      "source_id": "260174",
-      "uid": "adopter-trouver-mon-animal-captaine-price",
-      "nom": "CAPTAINE PRICE",
-      "url": "https://www.la-spa.fr/adopter/trouver-mon-animal/captaine-price/",
-      "image": "https://www.la-spa.fr/app/app/uploads/animals/260174/captaine-price-260174-6b0180ec77d8f.jpg",
+      "source_id": "265905",
+      "uid": "adopter-trouver-mon-animal-maggie-pab29209",
+      "nom": "MAGGIE PAB29209",
+      "url": "https://www.la-spa.fr/adopter/trouver-mon-animal/maggie-pab29209/",
+      "image": "https://www.la-spa.fr/app/app/uploads/animals/265905/maggie-pab29209-265905-6b0aa0942a713.jpg",
       "espece": "chat",
       "race": "Europeen",
-      "sexe": "male",
+      "sexe": "femelle",
       "age_categorie": "junior",
-      "age_texte": "3 mois",
-      "age_mois": 3,
+      "age_texte": "2 mois",
+      "age_mois": 2,
       "age_source": "fiche",
       "age_conflit": null,
       "date_naissance": null,
-      "date_publication": "2026-11-10",
+      "date_publication": "2026-11-28",
       "reserve": false,
       "sos": false,
       "fad": false,
       "lieu": {
-        "nom": "La SPA - Refuge de Gennevilliers – Grammont",
-        "slug": "refuge-spa-de-gennevilliers-grammont",
-        "ville": "Gennevilliers",
-        "code_postal": "92230",
-        "departement": "92",
-        "latitude": 48.944706567958,
-        "longitude": 2.3035848619018,
+        "nom": "La SPA - Refuge de Plaisir",
+        "slug": "refuge-spa-de-plaisir",
+        "ville": "Plaisir",
+        "code_postal": "78370",
+        "departement": "78",
+        "latitude": 48.799745,
+        "longitude": 1.931481,
         "precision": "exacte",
-        "distance_km": 11.004464438564007,
-        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-gennevilliers-grammont/"
+        "distance_km": 33.64370864577482,
+        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-plaisir/"
       },
-      "description": "Captaine Price a été abandonné directement au refuge avec sa fratrie.\nCaptaine Price est un gentil loulou qui recherche des adoptants doux et patients qui lui laisseront le temps d'évoluer à son rythme.\nCaptaine Price est actuellement en traitement contre la teigne, le traitement sera fournit et tout vous sera expliqué directement au refuge.\nVenez vite le rencontrer !",
+      "description": "Maggie est une adorable chatonne, pleine de douceur et de joie de vivre, qui attend maintenant de rencontrer sa famille pour la vie !\nTrès proche de l'humain, Maggie adore la compagnie, les caresses et les moments de tendresse. Curieuse et joueuse, elle aime également s'amuser et découvrir tout ce qui l'entoure.\nDe petit gabarit, cette petite puce est parfaitement propre, mange très bien et a tou…",
       "fiche_lue": false,
-      "portee": {
-        "id": "portee-1",
-        "taille": 2,
-        "disponibles": 2,
-        "confiance": "probable",
-        "indices": [
-          "même âge et même date de mise en ligne",
-          "fratrie mentionnée"
-        ]
-      },
-      "nouveau": false
-    },
-    {
-      "id": "laspa:260167",
-      "source": "laspa",
-      "source_label": "La SPA",
-      "source_id": "260167",
-      "uid": "adopter-trouver-mon-animal-ghost-5",
-      "nom": "GHOST",
-      "url": "https://www.la-spa.fr/adopter/trouver-mon-animal/ghost-5/",
-      "image": "https://www.la-spa.fr/app/app/uploads/animals/260167/ghost-260167-6b018072b0f22.jpg",
-      "espece": "chat",
-      "race": "Europeen",
-      "sexe": "male",
-      "age_categorie": "junior",
-      "age_texte": "3 mois",
-      "age_mois": 3,
-      "age_source": "fiche",
-      "age_conflit": null,
-      "date_naissance": null,
-      "date_publication": "2026-11-10",
-      "reserve": false,
-      "sos": false,
-      "fad": false,
-      "lieu": {
-        "nom": "La SPA - Refuge de Gennevilliers – Grammont",
-        "slug": "refuge-spa-de-gennevilliers-grammont",
-        "ville": "Gennevilliers",
-        "code_postal": "92230",
-        "departement": "92",
-        "latitude": 48.944706567958,
-        "longitude": 2.3035848619018,
-        "precision": "exacte",
-        "distance_km": 11.004464438564007,
-        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-gennevilliers-grammont/"
-      },
-      "description": "Ghost a été abandonné directement au refuge avec sa fraterie.\nGhost est un gentil loulou qui recherche des adoptants doux et patients qui lui laisseront le temps d'évoluer à son rythme.\nGhost est actuellement en traitement contre la teigne, le traitement sera fournit et tout vous sera expliqué directement au refuge.\nVenez vite le rencontrer !",
-      "fiche_lue": false,
-      "portee": {
-        "id": "portee-1",
-        "taille": 2,
-        "disponibles": 2,
-        "confiance": "probable",
-        "indices": [
-          "même âge et même date de mise en ligne",
-          "fratrie mentionnée"
-        ]
-      },
-      "nouveau": false
+      "portee": null,
+      "nouveau": true
     },
     {
       "id": "laspa:265708",
@@ -192,7 +135,7 @@
       "description": "Kirina et Jingga sont timides mais prennent vite confiance. Elles pourront vivre en appartement ou en maison. Nous ne connaissons pas leur entente avec les chiens. Elles devront êtres adoptés ensemble.\nkirina (la blanche) présente un souffle cardiaque de 1à2/6 un contrôle sera fait lors de son rappel de vaccin",
       "fiche_lue": false,
       "portee": {
-        "id": "portee-2",
+        "id": "portee-1",
         "taille": 2,
         "disponibles": 2,
         "confiance": "probable",
@@ -240,7 +183,7 @@
       "description": "Kirina et Jingga sont timides mais prennent vite confiance. Elles pourront vivre en appartement ou en maison. Nous ne connaissons pas leur entente avec les chiens. Elles devront êtres adoptés ensemble.\nkirina (la blanche) présente un souffle cardiaque de 1à2/6 un contrôle sera fait lors de son rappel de vaccin",
       "fiche_lue": false,
       "portee": {
-        "id": "portee-2",
+        "id": "portee-1",
         "taille": 2,
         "disponibles": 2,
         "confiance": "probable",
@@ -288,7 +231,7 @@
       "description": "Bissap nous arrive de Martinique, nous la connaissons encore peu mais elle semble plutôt sociable et avenante.\nLes animaux qui arrivent des DOM-TOM peuvent parfois être porteurs de la teigne, un isolement sera nécessaire les premiers temps.",
       "fiche_lue": false,
       "portee": {
-        "id": "portee-3",
+        "id": "portee-2",
         "taille": 3,
         "disponibles": 3,
         "confiance": "probable",
@@ -374,7 +317,7 @@
       "description": "Quénette nous arrive de Martinique, nous la connaissons encore peu mais elle semble plutôt sociable et avenante.\nLes animaux qui arrivent des DOM-TOM peuvent parfois être porteurs de la teigne, un isolement sera nécessaire les premiers temps.",
       "fiche_lue": false,
       "portee": {
-        "id": "portee-3",
+        "id": "portee-2",
         "taille": 3,
         "disponibles": 3,
         "confiance": "probable",
@@ -460,9 +403,103 @@
       "description": "Chadek nous arrive de Martinique, nous la connaissons encore peu mais elle semble plutôt sociable et avenante.\nLes animaux qui arrivent des DOM-TOM peuvent parfois être porteurs de la teigne, un isolement sera nécessaire les premiers temps.",
       "fiche_lue": false,
       "portee": {
-        "id": "portee-3",
+        "id": "portee-2",
         "taille": 3,
         "disponibles": 3,
+        "confiance": "probable",
+        "indices": [
+          "même âge et même date de mise en ligne"
+        ]
+      },
+      "nouveau": true
+    },
+    {
+      "id": "laspa:266002",
+      "source": "laspa",
+      "source_label": "La SPA",
+      "source_id": "266002",
+      "uid": "adopter-trouver-mon-animal-tauriel-c",
+      "nom": "TAURIEL C",
+      "url": "https://www.la-spa.fr/adopter/trouver-mon-animal/tauriel-c/",
+      "image": "https://www.la-spa.fr/app/app/uploads/animals/266002/tauriel-c-266002-6b0adcefcbe3b.jpg",
+      "espece": "chat",
+      "race": "Europeen",
+      "sexe": "femelle",
+      "age_categorie": "junior",
+      "age_texte": "3 mois",
+      "age_mois": 3,
+      "age_source": "fiche",
+      "age_conflit": null,
+      "date_naissance": null,
+      "date_publication": "2026-11-28",
+      "reserve": false,
+      "sos": false,
+      "fad": false,
+      "lieu": {
+        "nom": "La SPA - Refuge de Vaux-Le-Penil",
+        "slug": "refuge-spa-de-vaux-le-penil",
+        "ville": "Vaux-Le-Pénil",
+        "code_postal": "77000",
+        "departement": "77",
+        "latitude": 48.520575,
+        "longitude": 2.718874,
+        "precision": "exacte",
+        "distance_km": 45.142564706391916,
+        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-vaux-le-penil/"
+      },
+      "description": null,
+      "fiche_lue": false,
+      "portee": {
+        "id": "portee-3",
+        "taille": 2,
+        "disponibles": 2,
+        "confiance": "probable",
+        "indices": [
+          "même âge et même date de mise en ligne"
+        ]
+      },
+      "nouveau": true
+    },
+    {
+      "id": "laspa:265997",
+      "source": "laspa",
+      "source_label": "La SPA",
+      "source_id": "265997",
+      "uid": "adopter-trouver-mon-animal-arwen-c",
+      "nom": "ARWEN C",
+      "url": "https://www.la-spa.fr/adopter/trouver-mon-animal/arwen-c/",
+      "image": "https://www.la-spa.fr/app/app/uploads/animals/265997/arwen-c-265997-6b0adb6707cdb.jpg",
+      "espece": "chat",
+      "race": "Europeen",
+      "sexe": "femelle",
+      "age_categorie": "junior",
+      "age_texte": "3 mois",
+      "age_mois": 3,
+      "age_source": "fiche",
+      "age_conflit": null,
+      "date_naissance": null,
+      "date_publication": "2026-11-28",
+      "reserve": false,
+      "sos": false,
+      "fad": false,
+      "lieu": {
+        "nom": "La SPA - Refuge de Vaux-Le-Penil",
+        "slug": "refuge-spa-de-vaux-le-penil",
+        "ville": "Vaux-Le-Pénil",
+        "code_postal": "77000",
+        "departement": "77",
+        "latitude": 48.520575,
+        "longitude": 2.718874,
+        "precision": "exacte",
+        "distance_km": 45.142564706391916,
+        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-vaux-le-penil/"
+      },
+      "description": null,
+      "fiche_lue": false,
+      "portee": {
+        "id": "portee-3",
+        "taille": 2,
+        "disponibles": 2,
         "confiance": "probable",
         "indices": [
           "même âge et même date de mise en ligne"
@@ -473,7 +510,7 @@
   ],
   "portees": [
     {
-      "id": "portee-3",
+      "id": "portee-2",
       "source": "laspa",
       "source_label": "La SPA",
       "lieu": {
@@ -506,7 +543,7 @@
       ]
     },
     {
-      "id": "portee-2",
+      "id": "portee-1",
       "source": "laspa",
       "source_label": "La SPA",
       "lieu": {
@@ -538,14 +575,14 @@
       ]
     },
     {
-      "id": "portee-1",
+      "id": "portee-3",
       "source": "laspa",
       "source_label": "La SPA",
       "lieu": {
-        "nom": "La SPA - Refuge de Gennevilliers – Grammont",
-        "ville": "Gennevilliers",
-        "departement": "92",
-        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-gennevilliers-grammont/"
+        "nom": "La SPA - Refuge de Vaux-Le-Penil",
+        "ville": "Vaux-Le-Pénil",
+        "departement": "77",
+        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-vaux-le-penil/"
       },
       "date_naissance": null,
       "age_mois": 3,
@@ -554,16 +591,15 @@
       "disponibles": 2,
       "confiance": "probable",
       "indices": [
-        "même âge et même date de mise en ligne",
-        "fratrie mentionnée"
+        "même âge et même date de mise en ligne"
       ],
       "membres": [
-        "laspa:260167",
-        "laspa:260174"
+        "laspa:265997",
+        "laspa:266002"
       ],
       "noms": [
-        "CAPTAINE PRICE",
-        "GHOST"
+        "ARWEN C",
+        "TAURIEL C"
       ],
       "sources": [
         "La SPA"
@@ -571,6 +607,139 @@
     }
   ],
   "nouveaux_arrivants": [
+    {
+      "id": "laspa:265905",
+      "source": "laspa",
+      "source_label": "La SPA",
+      "source_id": "265905",
+      "uid": "adopter-trouver-mon-animal-maggie-pab29209",
+      "nom": "MAGGIE PAB29209",
+      "url": "https://www.la-spa.fr/adopter/trouver-mon-animal/maggie-pab29209/",
+      "image": "https://www.la-spa.fr/app/app/uploads/animals/265905/maggie-pab29209-265905-6b0aa0942a713.jpg",
+      "espece": "chat",
+      "race": "Europeen",
+      "sexe": "femelle",
+      "age_categorie": "junior",
+      "age_texte": "2 mois",
+      "age_mois": 2,
+      "age_source": "fiche",
+      "age_conflit": null,
+      "date_naissance": null,
+      "date_publication": "2026-11-28",
+      "reserve": false,
+      "sos": false,
+      "fad": false,
+      "lieu": {
+        "nom": "La SPA - Refuge de Plaisir",
+        "slug": "refuge-spa-de-plaisir",
+        "ville": "Plaisir",
+        "code_postal": "78370",
+        "departement": "78",
+        "latitude": 48.799745,
+        "longitude": 1.931481,
+        "precision": "exacte",
+        "distance_km": 33.64370864577482,
+        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-plaisir/"
+      },
+      "description": "Maggie est une adorable chatonne, pleine de douceur et de joie de vivre, qui attend maintenant de rencontrer sa famille pour la vie !\nTrès proche de l'humain, Maggie adore la compagnie, les caresses et les moments de tendresse. Curieuse et joueuse, elle aime également s'amuser et découvrir tout ce qui l'entoure.\nDe petit gabarit, cette petite puce est parfaitement propre, mange très bien et a tou…",
+      "fiche_lue": false,
+      "portee": null,
+      "nouveau": true
+    },
+    {
+      "id": "laspa:266002",
+      "source": "laspa",
+      "source_label": "La SPA",
+      "source_id": "266002",
+      "uid": "adopter-trouver-mon-animal-tauriel-c",
+      "nom": "TAURIEL C",
+      "url": "https://www.la-spa.fr/adopter/trouver-mon-animal/tauriel-c/",
+      "image": "https://www.la-spa.fr/app/app/uploads/animals/266002/tauriel-c-266002-6b0adcefcbe3b.jpg",
+      "espece": "chat",
+      "race": "Europeen",
+      "sexe": "femelle",
+      "age_categorie": "junior",
+      "age_texte": "3 mois",
+      "age_mois": 3,
+      "age_source": "fiche",
+      "age_conflit": null,
+      "date_naissance": null,
+      "date_publication": "2026-11-28",
+      "reserve": false,
+      "sos": false,
+      "fad": false,
+      "lieu": {
+        "nom": "La SPA - Refuge de Vaux-Le-Penil",
+        "slug": "refuge-spa-de-vaux-le-penil",
+        "ville": "Vaux-Le-Pénil",
+        "code_postal": "77000",
+        "departement": "77",
+        "latitude": 48.520575,
+        "longitude": 2.718874,
+        "precision": "exacte",
+        "distance_km": 45.142564706391916,
+        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-vaux-le-penil/"
+      },
+      "description": null,
+      "fiche_lue": false,
+      "portee": {
+        "id": "portee-3",
+        "taille": 2,
+        "disponibles": 2,
+        "confiance": "probable",
+        "indices": [
+          "même âge et même date de mise en ligne"
+        ]
+      },
+      "nouveau": true
+    },
+    {
+      "id": "laspa:265997",
+      "source": "laspa",
+      "source_label": "La SPA",
+      "source_id": "265997",
+      "uid": "adopter-trouver-mon-animal-arwen-c",
+      "nom": "ARWEN C",
+      "url": "https://www.la-spa.fr/adopter/trouver-mon-animal/arwen-c/",
+      "image": "https://www.la-spa.fr/app/app/uploads/animals/265997/arwen-c-265997-6b0adb6707cdb.jpg",
+      "espece": "chat",
+      "race": "Europeen",
+      "sexe": "femelle",
+      "age_categorie": "junior",
+      "age_texte": "3 mois",
+      "age_mois": 3,
+      "age_source": "fiche",
+      "age_conflit": null,
+      "date_naissance": null,
+      "date_publication": "2026-11-28",
+      "reserve": false,
+      "sos": false,
+      "fad": false,
+      "lieu": {
+        "nom": "La SPA - Refuge de Vaux-Le-Penil",
+        "slug": "refuge-spa-de-vaux-le-penil",
+        "ville": "Vaux-Le-Pénil",
+        "code_postal": "77000",
+        "departement": "77",
+        "latitude": 48.520575,
+        "longitude": 2.718874,
+        "precision": "exacte",
+        "distance_km": 45.142564706391916,
+        "url": "https://www.la-spa.fr/etablissement/refuge-spa-de-vaux-le-penil/"
+      },
+      "description": null,
+      "fiche_lue": false,
+      "portee": {
+        "id": "portee-3",
+        "taille": 2,
+        "disponibles": 2,
+        "confiance": "probable",
+        "indices": [
+          "même âge et même date de mise en ligne"
+        ]
+      },
+      "nouveau": true
+    },
     {
       "id": "laspa:265708",
       "source": "laspa",
@@ -647,7 +816,7 @@
       "description": "Bissap nous arrive de Martinique, nous la connaissons encore peu mais elle semble plutôt sociable et avenante.\nLes animaux qui arrivent des DOM-TOM peuvent parfois être porteurs de la teigne, un isolement sera nécessaire les premiers temps.",
       "fiche_lue": false,
       "portee": {
-        "id": "portee-3",
+        "id": "portee-2",
         "taille": 3,
         "disponibles": 3,
         "confiance": "probable",
@@ -694,7 +863,7 @@
       "description": "Quénette nous arrive de Martinique, nous la connaissons encore peu mais elle semble plutôt sociable et avenante.\nLes animaux qui arrivent des DOM-TOM peuvent parfois être porteurs de la teigne, un isolement sera nécessaire les premiers temps.",
       "fiche_lue": false,
       "portee": {
-        "id": "portee-3",
+        "id": "portee-2",
         "taille": 3,
         "disponibles": 3,
         "confiance": "probable",
@@ -741,7 +910,7 @@
       "description": "Chadek nous arrive de Martinique, nous la connaissons encore peu mais elle semble plutôt sociable et avenante.\nLes animaux qui arrivent des DOM-TOM peuvent parfois être porteurs de la teigne, un isolement sera nécessaire les premiers temps.",
       "fiche_lue": false,
       "portee": {
-        "id": "portee-3",
+        "id": "portee-2",
         "taille": 3,
         "disponibles": 3,
         "confiance": "probable",
@@ -788,7 +957,7 @@
       "description": "Kirina et Jingga sont timides mais prennent vite confiance. Elles pourront vivre en appartement ou en maison. Nous ne connaissons pas leur entente avec les chiens. Elles devront êtres adoptés ensemble.\nkirina (la blanche) présente un souffle cardiaque de 1à2/6 un contrôle sera fait lors de son rappel de vaccin",
       "fiche_lue": false,
       "portee": {
-        "id": "portee-2",
+        "id": "portee-1",
         "taille": 2,
         "disponibles": 2,
         "confiance": "probable",
@@ -836,7 +1005,7 @@
       "description": "Kirina et Jingga sont timides mais prennent vite confiance. Elles pourront vivre en appartement ou en maison. Nous ne connaissons pas leur entente avec les chiens. Elles devront êtres adoptés ensemble.\nkirina (la blanche) présente un souffle cardiaque de 1à2/6 un contrôle sera fait lors de son rappel de vaccin",
       "fiche_lue": false,
       "portee": {
-        "id": "portee-2",
+        "id": "portee-1",
         "taille": 2,
         "disponibles": 2,
         "confiance": "probable",
@@ -891,8 +1060,8 @@
     "sources": {
       "laspa": {
         "pages": 1,
-        "total_site": 158,
-        "dans_zone": 109,
+        "total_site": 146,
+        "dans_zone": 98,
         "fiches": 0,
         "fiches_cache": 0,
         "erreurs": 0
@@ -910,8 +1079,8 @@
     },
     "requests": 12,
     "retries": 0,
-    "duree_s": 9.3,
-    "annonces_zone": 109
+    "duree_s": 10.3,
+    "annonces_zone": 98
   },
   "erreurs": []
 }

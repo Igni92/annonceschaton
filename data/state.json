@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "derniere_execution": "2026-11-27T15:50:32.583Z",
+  "derniere_execution": "2026-11-28T14:45:12.127Z",
   "vus": {
     "laspa:239651": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
@@ -22,7 +22,7 @@
     },
     "laspa:223043": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-11-27T15:50:32.583Z",
+      "derniere_vue": "2026-11-28T14:45:12.127Z",
       "source": "laspa",
       "nom": "LIMBA C"
     },
@@ -40,7 +40,7 @@
     },
     "laspa:221477": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-11-27T15:50:32.583Z",
+      "derniere_vue": "2026-11-28T14:45:12.127Z",
       "source": "laspa",
       "nom": "POIL PILE C"
     },
@@ -82,7 +82,7 @@
     },
     "laspa:202440": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-11-27T15:50:32.583Z",
+      "derniere_vue": "2026-11-28T14:45:12.127Z",
       "source": "laspa",
       "nom": "CANNELLE A17342"
     },
@@ -94,7 +94,7 @@
     },
     "laspa:238304": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-11-27T15:50:32.583Z",
+      "derniere_vue": "2026-11-28T14:45:12.127Z",
       "source": "laspa",
       "nom": "FICELLE"
     },
@@ -118,7 +118,7 @@
     },
     "laspa:243575": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-11-27T15:50:32.583Z",
+      "derniere_vue": "2026-11-28T14:45:12.127Z",
       "source": "laspa",
       "nom": "MERLIN PAB29994"
     },
@@ -130,7 +130,7 @@
     },
     "laspa:238314": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-11-27T15:50:32.583Z",
+      "derniere_vue": "2026-11-28T14:45:12.127Z",
       "source": "laspa",
       "nom": "CARBONADE"
     },
@@ -166,7 +166,7 @@
     },
     "laspa:197486": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-11-27T15:50:32.583Z",
+      "derniere_vue": "2026-11-28T14:45:12.127Z",
       "source": "laspa",
       "nom": "DRACO PAB28422"
     },
@@ -208,19 +208,19 @@
     },
     "laspa:223046": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-11-27T15:50:32.583Z",
+      "derniere_vue": "2026-11-28T14:45:12.127Z",
       "source": "laspa",
       "nom": "LINDT C"
     },
     "laspa:205936": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-11-27T15:50:32.583Z",
+      "derniere_vue": "2026-11-28T14:45:12.127Z",
       "source": "laspa",
       "nom": "MALIF"
     },
     "laspa:244161": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-11-27T15:50:32.583Z",
+      "derniere_vue": "2026-11-28T14:45:12.127Z",
       "source": "laspa",
       "nom": "RUSE"
     },
@@ -244,7 +244,7 @@
     },
     "laspa:229429": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-11-27T15:50:32.583Z",
+      "derniere_vue": "2026-11-28T14:45:12.127Z",
       "source": "laspa",
       "nom": "VICTORIA A17432 (réservée)"
     },
@@ -298,7 +298,7 @@
     },
     "laspa:238133": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-11-27T15:50:32.583Z",
+      "derniere_vue": "2026-11-28T14:45:12.127Z",
       "source": "laspa",
       "nom": "XINTHIA"
     },
@@ -334,7 +334,7 @@
     },
     "laspa:242946": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-11-27T15:50:32.583Z",
+      "derniere_vue": "2026-11-28T14:45:12.127Z",
       "source": "laspa",
       "nom": "BLINIS"
     },
@@ -352,7 +352,7 @@
     },
     "laspa:213459": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-11-27T15:50:32.583Z",
+      "derniere_vue": "2026-11-28T14:45:12.127Z",
       "source": "laspa",
       "nom": "SALAMI"
     },
@@ -388,19 +388,19 @@
     },
     "laspa:235656": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-11-27T15:50:32.583Z",
+      "derniere_vue": "2026-11-28T14:45:12.127Z",
       "source": "laspa",
       "nom": "ELLARIA PAB29049"
     },
     "laspa:223032": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-11-27T15:50:32.583Z",
+      "derniere_vue": "2026-11-28T14:45:12.127Z",
       "source": "laspa",
       "nom": "VIDOCQ C"
     },
     "laspa:231017": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-11-27T15:50:32.583Z",
+      "derniere_vue": "2026-11-28T14:45:12.127Z",
       "source": "laspa",
       "nom": "LEXA CHA"
     },
@@ -412,7 +412,7 @@
     },
     "laspa:244157": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-11-27T15:50:32.583Z",
+      "derniere_vue": "2026-11-28T14:45:12.127Z",
       "source": "laspa",
       "nom": "TCHOUKRAVETTE"
     },
@@ -478,7 +478,7 @@
     },
     "laspa:244272": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-11-27T15:50:32.583Z",
+      "derniere_vue": "2026-11-28T14:45:12.127Z",
       "source": "laspa",
       "nom": "HILDA A17435"
     },
@@ -490,7 +490,7 @@
     },
     "laspa:195787": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-11-27T15:50:32.583Z",
+      "derniere_vue": "2026-11-28T14:45:12.127Z",
       "source": "laspa",
       "nom": "PICTORETTE PAB28424"
     },
@@ -532,7 +532,7 @@
     },
     "laspa:239238": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-11-27T15:50:32.583Z",
+      "derniere_vue": "2026-11-28T14:45:12.127Z",
       "source": "laspa",
       "nom": "FLAMIAOU PAB29259"
     },
@@ -574,7 +574,7 @@
     },
     "laspa:197385": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-11-27T15:50:32.583Z",
+      "derniere_vue": "2026-11-28T14:45:12.127Z",
       "source": "laspa",
       "nom": "JAMES PAB28531"
     },
@@ -586,13 +586,13 @@
     },
     "laspa:223034": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-11-27T15:50:32.583Z",
+      "derniere_vue": "2026-11-28T14:45:12.127Z",
       "source": "laspa",
       "nom": "URON C"
     },
     "laspa:235053": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-11-27T15:50:32.583Z",
+      "derniere_vue": "2026-11-28T14:45:12.127Z",
       "source": "laspa",
       "nom": "POLO"
     },
@@ -610,13 +610,13 @@
     },
     "laspa:226526": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-11-27T15:50:32.583Z",
+      "derniere_vue": "2026-11-28T14:45:12.127Z",
       "source": "laspa",
       "nom": "BIANCA"
     },
     "laspa:212695": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-11-27T15:50:32.583Z",
+      "derniere_vue": "2026-11-28T14:45:12.127Z",
       "source": "laspa",
       "nom": "SNOW PAB28816"
     },
@@ -628,7 +628,7 @@
     },
     "laspa:242902": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-11-27T15:50:32.583Z",
+      "derniere_vue": "2026-11-28T14:45:12.127Z",
       "source": "laspa",
       "nom": "TCHOUPIRATE"
     },
@@ -646,7 +646,7 @@
     },
     "laspa:223031": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-11-27T15:50:32.583Z",
+      "derniere_vue": "2026-11-28T14:45:12.127Z",
       "source": "laspa",
       "nom": "BASTET C"
     },
@@ -682,7 +682,7 @@
     },
     "laspa:213411": {
       "premiere_vue": "2026-09-25T10:50:04.448Z",
-      "derniere_vue": "2026-11-27T15:50:32.583Z",
+      "derniere_vue": "2026-11-28T14:45:12.127Z",
       "source": "laspa",
       "nom": "DLOWNIE"
     },
@@ -4156,7 +4156,7 @@
     },
     "laspa:245593": {
       "premiere_vue": "2026-09-28T12:22:37.533Z",
-      "derniere_vue": "2026-11-27T15:50:32.583Z",
+      "derniere_vue": "2026-11-28T14:45:12.127Z",
       "source": "laspa",
       "nom": "HILLEL PAB29171"
     },
@@ -4990,7 +4990,7 @@
     },
     "laspa:247170": {
       "premiere_vue": "2026-10-03T10:49:13.243Z",
-      "derniere_vue": "2026-11-27T15:50:32.583Z",
+      "derniere_vue": "2026-11-28T14:45:12.127Z",
       "source": "laspa",
       "nom": "GIVRALI PAB30032"
     },
@@ -5614,7 +5614,7 @@
     },
     "laspa:250753": {
       "premiere_vue": "2026-10-13T13:11:17.796Z",
-      "derniere_vue": "2026-11-27T15:50:32.583Z",
+      "derniere_vue": "2026-11-28T14:45:12.127Z",
       "source": "laspa",
       "nom": "CELINA PAB30015"
     },
@@ -5776,7 +5776,7 @@
     },
     "laspa:251821": {
       "premiere_vue": "2026-10-16T10:20:57.374Z",
-      "derniere_vue": "2026-11-27T15:50:32.583Z",
+      "derniere_vue": "2026-11-28T14:45:12.127Z",
       "source": "laspa",
       "nom": "BAIA CHA"
     },
@@ -5908,7 +5908,7 @@
     },
     "laspa:253141": {
       "premiere_vue": "2026-10-21T10:50:29.490Z",
-      "derniere_vue": "2026-11-27T15:50:32.583Z",
+      "derniere_vue": "2026-11-28T14:45:12.127Z",
       "source": "laspa",
       "nom": "DAM"
     },
@@ -5956,7 +5956,7 @@
     },
     "laspa:253159": {
       "premiere_vue": "2026-10-21T10:50:29.490Z",
-      "derniere_vue": "2026-11-27T15:50:32.583Z",
+      "derniere_vue": "2026-11-28T14:45:12.127Z",
       "source": "laspa",
       "nom": "TANYA"
     },
@@ -5980,7 +5980,7 @@
     },
     "laspa:253514": {
       "premiere_vue": "2026-10-22T10:51:43.126Z",
-      "derniere_vue": "2026-11-27T15:50:32.583Z",
+      "derniere_vue": "2026-11-28T14:45:12.127Z",
       "source": "laspa",
       "nom": "PANACHE DIT WINNIE PAB30150"
     },
@@ -6124,7 +6124,7 @@
     },
     "laspa:254508": {
       "premiere_vue": "2026-10-24T09:59:16.021Z",
-      "derniere_vue": "2026-11-27T15:50:32.583Z",
+      "derniere_vue": "2026-11-28T14:45:12.127Z",
       "source": "laspa",
       "nom": "ONYX"
     },
@@ -6298,7 +6298,7 @@
     },
     "laspa:255749": {
       "premiere_vue": "2026-10-28T11:50:38.604Z",
-      "derniere_vue": "2026-11-27T15:50:32.583Z",
+      "derniere_vue": "2026-11-28T14:45:12.127Z",
       "source": "laspa",
       "nom": "TACOS C"
     },
@@ -6316,13 +6316,13 @@
     },
     "laspa:255747": {
       "premiere_vue": "2026-10-28T11:50:38.604Z",
-      "derniere_vue": "2026-11-27T15:50:32.583Z",
+      "derniere_vue": "2026-11-28T14:45:12.127Z",
       "source": "laspa",
       "nom": "NIKITA C"
     },
     "laspa:256000": {
       "premiere_vue": "2026-10-28T11:50:38.604Z",
-      "derniere_vue": "2026-11-27T15:50:32.583Z",
+      "derniere_vue": "2026-11-28T14:45:12.127Z",
       "source": "laspa",
       "nom": "LYS PAB29999"
     },
@@ -6334,7 +6334,7 @@
     },
     "laspa:255746": {
       "premiere_vue": "2026-10-28T11:50:38.604Z",
-      "derniere_vue": "2026-11-27T15:50:32.583Z",
+      "derniere_vue": "2026-11-28T14:45:12.127Z",
       "source": "laspa",
       "nom": "BISCUIT C"
     },
@@ -6346,7 +6346,7 @@
     },
     "laspa:256250": {
       "premiere_vue": "2026-10-29T11:58:10.387Z",
-      "derniere_vue": "2026-11-27T15:50:32.583Z",
+      "derniere_vue": "2026-11-28T14:45:12.127Z",
       "source": "laspa",
       "nom": "YLONA C"
     },
@@ -6406,7 +6406,7 @@
     },
     "laspa:257623": {
       "premiere_vue": "2026-11-03T13:16:38.836Z",
-      "derniere_vue": "2026-11-27T15:50:32.583Z",
+      "derniere_vue": "2026-11-28T14:45:12.127Z",
       "source": "laspa",
       "nom": "LALA CHA"
     },
@@ -6424,7 +6424,7 @@
     },
     "laspa:257624": {
       "premiere_vue": "2026-11-03T13:16:38.836Z",
-      "derniere_vue": "2026-11-27T15:50:32.583Z",
+      "derniere_vue": "2026-11-28T14:45:12.127Z",
       "source": "laspa",
       "nom": "BAMBOU CHA"
     },
@@ -6544,7 +6544,7 @@
     },
     "laspa:203948": {
       "premiere_vue": "2026-11-07T12:06:33.933Z",
-      "derniere_vue": "2026-11-27T15:50:32.583Z",
+      "derniere_vue": "2026-11-28T14:45:12.127Z",
       "source": "laspa",
       "nom": "ASHCROFT"
     },
@@ -6586,7 +6586,7 @@
     },
     "laspa:259544": {
       "premiere_vue": "2026-11-09T14:42:22.989Z",
-      "derniere_vue": "2026-11-27T15:50:32.583Z",
+      "derniere_vue": "2026-11-28T14:45:12.127Z",
       "source": "laspa",
       "nom": "CHICHI A17658"
     },
@@ -6604,7 +6604,7 @@
     },
     "laspa:259731": {
       "premiere_vue": "2026-11-09T14:42:22.989Z",
-      "derniere_vue": "2026-11-27T15:50:32.583Z",
+      "derniere_vue": "2026-11-28T14:45:12.127Z",
       "source": "laspa",
       "nom": "GEORGIE PAB30085"
     },
@@ -6676,7 +6676,7 @@
     },
     "laspa:260369": {
       "premiere_vue": "2026-11-11T13:12:58.583Z",
-      "derniere_vue": "2026-11-27T15:50:32.583Z",
+      "derniere_vue": "2026-11-28T14:45:12.127Z",
       "source": "laspa",
       "nom": "RUBEN"
     },
@@ -6706,7 +6706,7 @@
     },
     "laspa:260370": {
       "premiere_vue": "2026-11-11T13:12:58.583Z",
-      "derniere_vue": "2026-11-27T15:50:32.583Z",
+      "derniere_vue": "2026-11-28T14:45:12.127Z",
       "source": "laspa",
       "nom": "FRANCES"
     },
@@ -6748,7 +6748,7 @@
     },
     "laspa:260485": {
       "premiere_vue": "2026-11-12T14:16:43.601Z",
-      "derniere_vue": "2026-11-27T15:50:32.583Z",
+      "derniere_vue": "2026-11-28T14:45:12.127Z",
       "source": "laspa",
       "nom": "JULIETTA PAB30120"
     },
@@ -6760,7 +6760,7 @@
     },
     "laspa:260461": {
       "premiere_vue": "2026-11-12T14:16:43.601Z",
-      "derniere_vue": "2026-11-27T15:50:32.583Z",
+      "derniere_vue": "2026-11-28T14:45:12.127Z",
       "source": "laspa",
       "nom": "Zula PAB30165"
     },
@@ -6820,7 +6820,7 @@
     },
     "laspa:260967": {
       "premiere_vue": "2026-11-13T13:38:42.545Z",
-      "derniere_vue": "2026-11-27T15:50:32.583Z",
+      "derniere_vue": "2026-11-28T14:45:12.127Z",
       "source": "laspa",
       "nom": "DINDONA CHA"
     },
@@ -6862,7 +6862,7 @@
     },
     "laspa:260955": {
       "premiere_vue": "2026-11-13T13:38:42.545Z",
-      "derniere_vue": "2026-11-27T15:50:32.583Z",
+      "derniere_vue": "2026-11-28T14:45:12.127Z",
       "source": "laspa",
       "nom": "COCOTTE CHA"
     },
@@ -6928,7 +6928,7 @@
     },
     "laspa:262124": {
       "premiere_vue": "2026-11-17T15:11:04.168Z",
-      "derniere_vue": "2026-11-27T15:50:32.583Z",
+      "derniere_vue": "2026-11-28T14:45:12.127Z",
       "source": "laspa",
       "nom": "FLIPPER"
     },
@@ -6952,13 +6952,13 @@
     },
     "laspa:262609": {
       "premiere_vue": "2026-11-18T14:48:39.291Z",
-      "derniere_vue": "2026-11-27T15:50:32.583Z",
+      "derniere_vue": "2026-11-28T14:45:12.127Z",
       "source": "laspa",
       "nom": "FINN C"
     },
     "laspa:262756": {
       "premiere_vue": "2026-11-19T14:55:13.267Z",
-      "derniere_vue": "2026-11-27T15:50:32.583Z",
+      "derniere_vue": "2026-11-28T14:45:12.127Z",
       "source": "laspa",
       "nom": "TROUVILLE"
     },
@@ -6970,13 +6970,13 @@
     },
     "laspa:262952": {
       "premiere_vue": "2026-11-19T14:55:13.267Z",
-      "derniere_vue": "2026-11-27T15:50:32.583Z",
+      "derniere_vue": "2026-11-28T14:45:12.127Z",
       "source": "laspa",
       "nom": "CHATENAY CHA"
     },
     "laspa:262757": {
       "premiere_vue": "2026-11-19T14:55:13.267Z",
-      "derniere_vue": "2026-11-27T15:50:32.583Z",
+      "derniere_vue": "2026-11-28T14:45:12.127Z",
       "source": "laspa",
       "nom": "LUCKY"
     },
@@ -6988,7 +6988,7 @@
     },
     "laspa:262951": {
       "premiere_vue": "2026-11-19T14:55:13.267Z",
-      "derniere_vue": "2026-11-27T15:50:32.583Z",
+      "derniere_vue": "2026-11-28T14:45:12.127Z",
       "source": "laspa",
       "nom": "MALABRY CHA"
     },
@@ -7000,7 +7000,7 @@
     },
     "laspa:263052": {
       "premiere_vue": "2026-11-20T14:36:38.483Z",
-      "derniere_vue": "2026-11-27T15:50:32.583Z",
+      "derniere_vue": "2026-11-28T14:45:12.127Z",
       "source": "laspa",
       "nom": "MUGUET PAB30221"
     },
@@ -7024,7 +7024,7 @@
     },
     "laspa:263082": {
       "premiere_vue": "2026-11-20T14:36:38.483Z",
-      "derniere_vue": "2026-11-27T15:50:32.583Z",
+      "derniere_vue": "2026-11-28T14:45:12.127Z",
       "source": "laspa",
       "nom": "TOULOUSE 2"
     },
@@ -7114,7 +7114,7 @@
     },
     "laspa:263892": {
       "premiere_vue": "2026-11-22T13:46:54.690Z",
-      "derniere_vue": "2026-11-27T15:50:32.583Z",
+      "derniere_vue": "2026-11-28T14:45:12.127Z",
       "source": "laspa",
       "nom": "POMME CHA"
     },
@@ -7126,7 +7126,7 @@
     },
     "laspa:264048": {
       "premiere_vue": "2026-11-22T13:46:54.690Z",
-      "derniere_vue": "2026-11-27T15:50:32.583Z",
+      "derniere_vue": "2026-11-28T14:45:12.127Z",
       "source": "laspa",
       "nom": "BLEAUTHE A17698"
     },
@@ -7180,7 +7180,7 @@
     },
     "laspa:264661": {
       "premiere_vue": "2026-11-24T16:42:58.878Z",
-      "derniere_vue": "2026-11-27T15:50:32.583Z",
+      "derniere_vue": "2026-11-28T14:45:12.127Z",
       "source": "laspa",
       "nom": "TATARU C"
     },
@@ -7192,13 +7192,13 @@
     },
     "laspa:264786": {
       "premiere_vue": "2026-11-24T16:42:58.878Z",
-      "derniere_vue": "2026-11-27T15:50:32.583Z",
+      "derniere_vue": "2026-11-28T14:45:12.127Z",
       "source": "laspa",
       "nom": "MILKA"
     },
     "laspa:264665": {
       "premiere_vue": "2026-11-24T16:42:58.878Z",
-      "derniere_vue": "2026-11-27T15:50:32.583Z",
+      "derniere_vue": "2026-11-28T14:45:12.127Z",
       "source": "laspa",
       "nom": "LIVIA C"
     },
@@ -7210,19 +7210,19 @@
     },
     "laspa:264789": {
       "premiere_vue": "2026-11-24T16:42:58.878Z",
-      "derniere_vue": "2026-11-27T15:50:32.583Z",
+      "derniere_vue": "2026-11-28T14:45:12.127Z",
       "source": "laspa",
       "nom": "MANOUCHKA"
     },
     "laspa:264787": {
       "premiere_vue": "2026-11-24T16:42:58.878Z",
-      "derniere_vue": "2026-11-27T15:50:32.583Z",
+      "derniere_vue": "2026-11-28T14:45:12.127Z",
       "source": "laspa",
       "nom": "CHARLIE"
     },
     "laspa:264788": {
       "premiere_vue": "2026-11-24T16:42:58.878Z",
-      "derniere_vue": "2026-11-27T15:50:32.583Z",
+      "derniere_vue": "2026-11-28T14:45:12.127Z",
       "source": "laspa",
       "nom": "TITOUNE"
     },
@@ -7234,13 +7234,13 @@
     },
     "laspa:264659": {
       "premiere_vue": "2026-11-24T16:42:58.878Z",
-      "derniere_vue": "2026-11-27T15:50:32.583Z",
+      "derniere_vue": "2026-11-28T14:45:12.127Z",
       "source": "laspa",
       "nom": "GAIUS C"
     },
     "laspa:264668": {
       "premiere_vue": "2026-11-24T16:42:58.878Z",
-      "derniere_vue": "2026-11-27T15:50:32.583Z",
+      "derniere_vue": "2026-11-28T14:45:12.127Z",
       "source": "laspa",
       "nom": "ZENOS C"
     },
@@ -7252,19 +7252,19 @@
     },
     "laspa:265094": {
       "premiere_vue": "2026-11-26T16:01:30.927Z",
-      "derniere_vue": "2026-11-27T15:50:32.583Z",
+      "derniere_vue": "2026-11-28T14:45:12.127Z",
       "source": "laspa",
       "nom": "CHOUCHOUTTE CHA"
     },
     "laspa:265293": {
       "premiere_vue": "2026-11-26T16:01:30.927Z",
-      "derniere_vue": "2026-11-27T15:50:32.583Z",
+      "derniere_vue": "2026-11-28T14:45:12.127Z",
       "source": "laspa",
       "nom": "PLUME A17718"
     },
     "laspa:265097": {
       "premiere_vue": "2026-11-26T16:01:30.927Z",
-      "derniere_vue": "2026-11-27T15:50:32.583Z",
+      "derniere_vue": "2026-11-28T14:45:12.127Z",
       "source": "laspa",
       "nom": "JINGGA CHA"
     },
@@ -7282,7 +7282,7 @@
     },
     "laspa:265098": {
       "premiere_vue": "2026-11-26T16:01:30.927Z",
-      "derniere_vue": "2026-11-27T15:50:32.583Z",
+      "derniere_vue": "2026-11-28T14:45:12.127Z",
       "source": "laspa",
       "nom": "KIRINA CHA"
     },
@@ -7294,61 +7294,61 @@
     },
     "laspa:265096": {
       "premiere_vue": "2026-11-26T16:01:30.927Z",
-      "derniere_vue": "2026-11-27T15:50:32.583Z",
+      "derniere_vue": "2026-11-28T14:45:12.127Z",
       "source": "laspa",
       "nom": "CHARLINE CHA"
     },
     "laspa:265302": {
       "premiere_vue": "2026-11-26T16:01:30.927Z",
-      "derniere_vue": "2026-11-27T15:50:32.583Z",
+      "derniere_vue": "2026-11-28T14:45:12.127Z",
       "source": "laspa",
       "nom": "MARQUISE DE LA SIESTE"
     },
     "laspa:265093": {
       "premiere_vue": "2026-11-26T16:01:30.927Z",
-      "derniere_vue": "2026-11-27T15:50:32.583Z",
+      "derniere_vue": "2026-11-28T14:45:12.127Z",
       "source": "laspa",
       "nom": "LOULOUTTE CHA"
     },
     "laspa:265089": {
       "premiere_vue": "2026-11-26T16:01:30.927Z",
-      "derniere_vue": "2026-11-27T15:50:32.583Z",
+      "derniere_vue": "2026-11-28T14:45:12.127Z",
       "source": "laspa",
       "nom": "SKY CHA"
     },
     "laspa:265272": {
       "premiere_vue": "2026-11-26T16:01:30.927Z",
-      "derniere_vue": "2026-11-27T15:50:32.583Z",
+      "derniere_vue": "2026-11-28T14:45:12.127Z",
       "source": "laspa",
       "nom": "LUTIN HAB17732"
     },
     "laspa:265270": {
       "premiere_vue": "2026-11-26T16:01:30.927Z",
-      "derniere_vue": "2026-11-27T15:50:32.583Z",
+      "derniere_vue": "2026-11-28T14:45:12.127Z",
       "source": "laspa",
       "nom": "CURLY HAB17803"
     },
     "laspa:265303": {
       "premiere_vue": "2026-11-26T16:01:30.927Z",
-      "derniere_vue": "2026-11-27T15:50:32.583Z",
+      "derniere_vue": "2026-11-28T14:45:12.127Z",
       "source": "laspa",
       "nom": "ATHENA A17633"
     },
     "laspa:265090": {
       "premiere_vue": "2026-11-26T16:01:30.927Z",
-      "derniere_vue": "2026-11-27T15:50:32.583Z",
+      "derniere_vue": "2026-11-28T14:45:12.127Z",
       "source": "laspa",
       "nom": "STORN CHA"
     },
     "laspa:265447": {
       "premiere_vue": "2026-11-27T15:50:32.583Z",
-      "derniere_vue": "2026-11-27T15:50:32.583Z",
+      "derniere_vue": "2026-11-28T14:45:12.127Z",
       "source": "laspa",
       "nom": "SHIVA CHA"
     },
     "laspa:265450": {
       "premiere_vue": "2026-11-27T15:50:32.583Z",
-      "derniere_vue": "2026-11-27T15:50:32.583Z",
+      "derniere_vue": "2026-11-28T14:45:12.127Z",
       "source": "laspa",
       "nom": "BISSAP CHA"
     },
@@ -7360,19 +7360,19 @@
     },
     "laspa:265445": {
       "premiere_vue": "2026-11-27T15:50:32.583Z",
-      "derniere_vue": "2026-11-27T15:50:32.583Z",
+      "derniere_vue": "2026-11-28T14:45:12.127Z",
       "source": "laspa",
       "nom": "MIAOUKAT CHA"
     },
     "laspa:265446": {
       "premiere_vue": "2026-11-27T15:50:32.583Z",
-      "derniere_vue": "2026-11-27T15:50:32.583Z",
+      "derniere_vue": "2026-11-28T14:45:12.127Z",
       "source": "laspa",
       "nom": "GIA CHA"
     },
     "laspa:265701": {
       "premiere_vue": "2026-11-27T15:50:32.583Z",
-      "derniere_vue": "2026-11-27T15:50:32.583Z",
+      "derniere_vue": "2026-11-28T14:45:12.127Z",
       "source": "laspa",
       "nom": "CORNALINE PAB30230"
     },
@@ -7384,27 +7384,63 @@
     },
     "laspa:265699": {
       "premiere_vue": "2026-11-27T15:50:32.583Z",
-      "derniere_vue": "2026-11-27T15:50:32.583Z",
+      "derniere_vue": "2026-11-28T14:45:12.127Z",
       "source": "laspa",
       "nom": "AMBRE PAB30231"
     },
     "laspa:265448": {
       "premiere_vue": "2026-11-27T15:50:32.583Z",
-      "derniere_vue": "2026-11-27T15:50:32.583Z",
+      "derniere_vue": "2026-11-28T14:45:12.127Z",
       "source": "laspa",
       "nom": "QUENETTE CHA"
     },
     "laspa:265708": {
       "premiere_vue": "2026-11-27T15:50:32.583Z",
-      "derniere_vue": "2026-11-27T15:50:32.583Z",
+      "derniere_vue": "2026-11-28T14:45:12.127Z",
       "source": "laspa",
       "nom": "CORNICELLO PAB30228"
     },
     "laspa:265449": {
       "premiere_vue": "2026-11-27T15:50:32.583Z",
-      "derniere_vue": "2026-11-27T15:50:32.583Z",
+      "derniere_vue": "2026-11-28T14:45:12.127Z",
       "source": "laspa",
       "nom": "CHADEK CHA"
+    },
+    "laspa:265737": {
+      "premiere_vue": "2026-11-28T14:45:12.127Z",
+      "derniere_vue": "2026-11-28T14:45:12.127Z",
+      "source": "laspa",
+      "nom": "COOKIE PAB30255"
+    },
+    "laspa:265952": {
+      "premiere_vue": "2026-11-28T14:45:12.127Z",
+      "derniere_vue": "2026-11-28T14:45:12.127Z",
+      "source": "laspa",
+      "nom": "SOFIA"
+    },
+    "laspa:265905": {
+      "premiere_vue": "2026-11-28T14:45:12.127Z",
+      "derniere_vue": "2026-11-28T14:45:12.127Z",
+      "source": "laspa",
+      "nom": "MAGGIE PAB29209"
+    },
+    "laspa:266002": {
+      "premiere_vue": "2026-11-28T14:45:12.127Z",
+      "derniere_vue": "2026-11-28T14:45:12.127Z",
+      "source": "laspa",
+      "nom": "TAURIEL C"
+    },
+    "laspa:265954": {
+      "premiere_vue": "2026-11-28T14:45:12.127Z",
+      "derniere_vue": "2026-11-28T14:45:12.127Z",
+      "source": "laspa",
+      "nom": "TALLIN"
+    },
+    "laspa:265997": {
+      "premiere_vue": "2026-11-28T14:45:12.127Z",
+      "derniere_vue": "2026-11-28T14:45:12.127Z",
+      "source": "laspa",
+      "nom": "ARWEN C"
     }
   },
   "fiches": {
